@@ -3,19 +3,17 @@ import os
 
 import shutil
 
-
+total = 0
 active = 0
 abandoned = 0
 spam = 0
 rmdirs = 0
 
-def remove_empty_dirs(path):
-  for root, dirnames, filenames in os.walk('blockchains/ethereum/assets', topdown=False):
-      for dirname in dirnames:
-          Path(path + dirname).rmdir()
+blockchain = "ethereum"
 
-for path in Path('blockchains/ethereum/assets/').rglob('info.json'): 
+for path in Path('blockchains/' + blockchain + '/assets/').rglob('info.json'): 
   with open(path, 'r') as info:
+   total += 1
    if '"status": "active"' in info.read():
      active += 1
    elif '"status": "abandoned"' in info.read():
@@ -27,11 +25,13 @@ for path in os.listdir('blockchains/ethereum/assets'):
     if os.listdir('blockchains/ethereum/assets/' + path) == []:
       os.rmdir('blockchains/ethereum/assets/' + path)
       rmdirs+=1
-
-print("active tokens found: " + str(active))
-print("abandoned tokens found: " + str(abandoned))
-print("spam tokens found: " + str(spam))
-print("token directories removed: " + str(rmdirs))
+print('--------------------------')
+print(blockchain.upper() + ":     " + str(total))
+print('--------------------------')
+print("active:       " + str(active))
+print("abandoned:    " + str(abandoned))
+print("spam:         " + str(spam))
+print("dirs removed: " + str(rmdirs))
 
 
     
