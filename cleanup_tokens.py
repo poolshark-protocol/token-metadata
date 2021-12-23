@@ -5,6 +5,7 @@ import shutil
 
 
 i = 0
+j = 0
 
 def remove_empty_dirs(path):
   for root, dirnames, filenames in os.walk('blockchains/ethereum/assets', topdown=False):
@@ -13,19 +14,19 @@ def remove_empty_dirs(path):
 
 for path in Path('blockchains/ethereum/assets/').rglob('info.json'): 
   with open(path, 'r') as info:
-   if "abandoned" in info.read():
+   if '"status": "spam"' in info.read():
      i+=1
      print(i)
      print(path.parent)
-     # for file in path.parent.iterdir():
-     #  file.unlink()
-     shutil.rmtree(path.parent)
+     for file in path.parent.iterdir():
+      file.unlink()
+     # shutil.rmtree(path.parent)
      # print(str(path.parent) + " removed.")
      # path.parent.rmdir()
 
 for path in os.listdir('blockchains/ethereum/assets'):
-    print(i)
-    i+=1
+    j+=1
+    print(j)
 
     if os.listdir('blockchains/ethereum/assets/' + path) == []:
       os.rmdir('blockchains/ethereum/assets/' + path)
