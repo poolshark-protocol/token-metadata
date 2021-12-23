@@ -14,9 +14,24 @@ def remove_empty_dirs(path):
 
 for path in Path('blockchains/ethereum/assets/').rglob('info.json'): 
   with open(path, 'r') as info:
-   if '"status": "spam"' in info.read():
-     i+=1
-     print(i)
+   if '"status": "active"' in info.read():
+     # i+=1
+     # print(i)
+     print(path)
+     print(info.read())
+     # print(path.parent)
+     # for file in path.parent.iterdir():
+     #  file.unlink()
+     # shutil.rmtree(path.parent)
+     # print(str(path.parent) + " removed.")
+     # path.parent.rmdir()
+
+
+for path in Path('blockchains/ethereum/assets/').rglob('info.json'): 
+  with open(path, 'r') as info:
+   if '"status": "abandoned"' in info.read():
+     # i+=1
+     # print(i)
      print(path.parent)
      for file in path.parent.iterdir():
       file.unlink()
@@ -25,8 +40,8 @@ for path in Path('blockchains/ethereum/assets/').rglob('info.json'):
      # path.parent.rmdir()
 
 for path in os.listdir('blockchains/ethereum/assets'):
-    j+=1
-    print(j)
+    # j+=1
+    # print(j)
 
     if os.listdir('blockchains/ethereum/assets/' + path) == []:
       os.rmdir('blockchains/ethereum/assets/' + path)
