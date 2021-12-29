@@ -1,1 +1,59 @@
-[{"name":"Chainlink","symbol":"LINK","id":"0x01be23585060835e02b77ef475b0cc51aa1e0709"},{"name":"USD Coin","symbol":"USDC","id":"0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b"},{"name":"Wrapped Ether","symbol":"WETH","id":"0xc778417e063141139fce010982780140aa0cd5ab"},{"name":"DAI Stablecoin","symbol":"DAI","id":"0xc7ad46e0b8a400bb3c915120d284aafba8fc4735"},{"name":"Maker","symbol":"MKR","id":"0xf9ba5210f91d0474bd1e1dcdaec4c58e359aad85"}]
+{
+  "name": "Rinkeby",
+  "logoURI": "//TODO: put ETH logo here",
+  "timestamp": "2021-11-09T22:30:24.689Z",
+  "listed_tokens": [
+    {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "id": "0x01be23585060835e02b77ef475b0cc51aa1e0709"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "id": "0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "id": "0xc778417e063141139fce010982780140aa0cd5ab"
+    },
+    {
+      "name": "DAI Stablecoin",
+      "symbol": "DAI",
+      "id": "0xc7ad46e0b8a400bb3c915120d284aafba8fc4735"
+    },
+    {
+      "name": "Maker",
+      "symbol": "MKR",
+      "id": "0xf9ba5210f91d0474bd1e1dcdaec4c58e359aad85"
+    }
+  ],
+  "search_tokens": [
+    {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "id": "0x01be23585060835e02b77ef475b0cc51aa1e0709"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "id": "0x4dbcdf9b62e891a7cec5a2568c3f4faf9e8abe2b"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "id": "0xc778417e063141139fce010982780140aa0cd5ab"
+    },
+    {
+      "name": "DAI Stablecoin",
+      "symbol": "DAI",
+      "id": "0xc7ad46e0b8a400bb3c915120d284aafba8fc4735"
+    },
+    {
+      "name": "Maker",
+      "symbol": "MKR",
+      "id": "0xf9ba5210f91d0474bd1e1dcdaec4c58e359aad85"
+    }
+  ]
+}
