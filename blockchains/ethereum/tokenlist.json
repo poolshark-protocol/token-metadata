@@ -30,7 +30,7 @@
         }
     ],
     "search_tokens": [
-        [
+        
             {
               "name": "TrueUSD",
               "symbol": "TUSD",
@@ -11216,7 +11216,7 @@
               "symbol": "FSW",
               "id": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB"
             }
-          ]
+          
     ],
     "version": {
         "major": 14,
