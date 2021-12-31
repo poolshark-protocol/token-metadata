@@ -1,6 +1,6 @@
 {
     "name": "Ethereum",
-    "logoURI": "//TODO: put ETH logo here",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/logo.png",
     "timestamp": "2021-11-09T22:30:24.689Z",
     "listed_tokens": [
         {
