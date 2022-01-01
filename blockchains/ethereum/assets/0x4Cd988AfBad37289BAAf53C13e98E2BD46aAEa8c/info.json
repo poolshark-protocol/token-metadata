@@ -1,0 +1,10 @@
+{
+    "name": "Key",
+    "symbol": "KEY",
+    "id": "0x4Cd988AfBad37289BAAf53C13e98E2BD46aAEa8c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/key",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 39586,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Cd988AfBad37289BAAf53C13e98E2BD46aAEa8c/logo.png"
+}

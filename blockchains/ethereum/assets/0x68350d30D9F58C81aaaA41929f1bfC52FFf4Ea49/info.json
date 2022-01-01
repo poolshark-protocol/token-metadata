@@ -1,0 +1,10 @@
+{
+    "name": "Rapidz",
+    "symbol": "RPZX",
+    "id": "0x68350d30D9F58C81aaaA41929f1bfC52FFf4Ea49",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rapidz",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 20.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68350d30D9F58C81aaaA41929f1bfC52FFf4Ea49/logo.png"
+}

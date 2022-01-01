@@ -1,0 +1,10 @@
+{
+    "name": "dForce Token",
+    "symbol": "DF",
+    "id": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dforce-token",
+    "market_cap_rank": 706,
+    "24_hr_volume_usd": 1623955,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0/logo.png"
+}

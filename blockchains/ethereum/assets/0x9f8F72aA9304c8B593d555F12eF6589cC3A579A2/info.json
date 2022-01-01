@@ -1,0 +1,10 @@
+{
+    "name": "Maker",
+    "symbol": "MKR",
+    "id": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/maker",
+    "market_cap_rank": 73,
+    "24_hr_volume_usd": 59250939,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+}
