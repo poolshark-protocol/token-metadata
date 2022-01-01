@@ -1,11 +1,10 @@
 {
     "name": "DEFI GOLD",
     "symbol": "DFGL",
-    "type": "ERC20",
+    "id": "0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
     "decimals": 18,
-    "description": "The project aims to connect multiple Defi projects in a single app.",
-    "website": "https://defigold.finance/",
-    "explorer": "https://etherscan.io/token/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
-    "status": "active",
-    "id": "0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD"
+    "coingecko_url": "https://www.coingecko.com/en/coins/defi-gold",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD/logo.png"
 }

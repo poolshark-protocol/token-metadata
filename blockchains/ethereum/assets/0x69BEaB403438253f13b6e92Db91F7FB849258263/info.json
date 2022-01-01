@@ -1,11 +1,10 @@
 {
     "name": "NeuroToken",
     "symbol": "NTK",
-    "type": "ERC20",
+    "id": "0x69BEaB403438253f13b6e92Db91F7FB849258263",
     "decimals": 18,
-    "description": "Through our expertise in deep learning and with our development platform, we drive breakthrough AI products from concept to market.",
-    "website": "https://neuromation.io",
-    "explorer": "https://etherscan.io/token/0x69BEaB403438253f13b6e92Db91F7FB849258263",
-    "status": "active",
-    "id": "0x69BEaB403438253f13b6e92Db91F7FB849258263"
+    "coingecko_url": "https://www.coingecko.com/en/coins/neurotoken",
+    "market_cap_rank": 1944,
+    "24_hr_volume_usd": 9.5,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69BEaB403438253f13b6e92Db91F7FB849258263/logo.png"
 }

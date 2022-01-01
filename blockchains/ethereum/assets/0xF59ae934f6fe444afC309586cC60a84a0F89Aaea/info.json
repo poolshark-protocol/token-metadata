@@ -1,12 +1,10 @@
 {
-    "name": "Polkadex ERC-20 Token",
-    "website": "https://polkadex.trade",
-    "description": "Utility token for Polkadex decentralized exchange",
-    "explorer": "https://etherscan.io/token/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
-    "research": "https://docs.polkadex.trade",
-    "type": "ERC20",
+    "name": "Polkadex",
     "symbol": "PDEX",
+    "id": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
     "decimals": 18,
-    "status": "active",
-    "id": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea"
+    "coingecko_url": "https://www.coingecko.com/en/coins/polkadex",
+    "market_cap_rank": 805,
+    "24_hr_volume_usd": 570557,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea/logo.png"
 }

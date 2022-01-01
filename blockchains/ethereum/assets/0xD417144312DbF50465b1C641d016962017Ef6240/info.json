@@ -1,21 +1,10 @@
 {
-    "name": "Covalent",
-    "website": "https://www.covalenthq.com/",
-    "description": "Covalent provides a unified API bringing visibility to billions of blockchain data points.",
-    "explorer": "https://etherscan.io/token/0xd417144312dbf50465b1c641d016962017ef6240",
-    "type": "ERC20",
+    "name": "Covalent Query Token",
     "symbol": "CQT",
-    "decimals": 18,
-    "status": "active",
     "id": "0xD417144312DbF50465b1C641d016962017Ef6240",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/covalenthq"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.covalenthq.com/static/documents/Covalent%20Whitepaper%20Apr%202021%20v1%20Branded.pdf"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/covalent",
+    "market_cap_rank": 559,
+    "24_hr_volume_usd": 2526440,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD417144312DbF50465b1C641d016962017Ef6240/logo.png"
 }

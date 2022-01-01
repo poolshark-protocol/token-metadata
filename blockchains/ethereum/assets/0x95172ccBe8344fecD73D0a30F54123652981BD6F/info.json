@@ -1,11 +1,11 @@
 {
     "name": "Meridian Network",
     "symbol": "LOCK",
-    "type": "ERC20",
+    "id": "0x95172ccBe8344fecD73D0a30F54123652981BD6F",
     "decimals": 18,
-    "description": "Enabling DeFi through community governance.",
-    "website": "https://meridian-network.co",
-    "explorer": "https://etherscan.io/token/0x95172ccBe8344fecD73D0a30F54123652981BD6F",
-    "status": "active",
-    "id": "0x95172ccBe8344fecD73D0a30F54123652981BD6F"
+    "coingecko_url": "https://www.coingecko.com/en/coins/meridian-network",
+    "market_cap_rank": 2942,
+    "24_hr_volume_usd": 31923,
+    "public_notice": "MRDN Tokens have been swapped to LOCK https://medium.com/meridian-network/launch-week-overview-update-59f80f159c27",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95172ccBe8344fecD73D0a30F54123652981BD6F/logo.png"
 }

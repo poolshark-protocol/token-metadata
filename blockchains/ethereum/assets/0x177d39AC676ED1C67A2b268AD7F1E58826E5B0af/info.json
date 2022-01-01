@@ -1,11 +1,11 @@
 {
-    "name": "Blox",
+    "name": "CoinDash Token",
     "symbol": "CDT",
-    "type": "ERC20",
+    "id": "0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af",
     "decimals": 18,
-    "description": "Blox is an open-source, fully non-custodial staking platform for Ethereum 2.0. Their goal at Blox is to simplify staking while ensuring Ethereum stays fair and decentralized.",
-    "website": "http://bloxstaking.com",
-    "explorer": "https://etherscan.io/token/0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af",
-    "status": "active",
-    "id": "0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af"
+    "coingecko_url": "https://www.coingecko.com/en/coins/blox",
+    "market_cap_rank": 820,
+    "24_hr_volume_usd": 203516,
+    "public_notice": "<a href=\"https://www.coingecko.com/en/coins/blox\">Blox (CDT)</a> has rebranded to <a href=\"https://www.coingecko.com/en/coins/ssv-network\">SSV Network</a>. For more information, visit https://medium.com/bloxstaking/ssv-token-upgrade-is-here-d8292bba72e9",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af/logo.png"
 }

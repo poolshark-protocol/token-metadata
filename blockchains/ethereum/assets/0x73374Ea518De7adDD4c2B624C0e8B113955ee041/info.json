@@ -1,11 +1,10 @@
 {
-    "name": "JGNDeFi",
-    "website": "https://jgndefi.com/",
-    "description": "The World’s First Unstoppable DeFi Communication Network.",
-    "explorer": "https://etherscan.io/token/0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
-    "type": "ERC20",
+    "name": "Juggernaut DeFi",
     "symbol": "JGN",
+    "id": "0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
     "decimals": 18,
-    "status": "active",
-    "id": "0x73374Ea518De7adDD4c2B624C0e8B113955ee041"
+    "coingecko_url": "https://www.coingecko.com/en/coins/juggernaut",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 660090,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x73374Ea518De7adDD4c2B624C0e8B113955ee041/logo.png"
 }

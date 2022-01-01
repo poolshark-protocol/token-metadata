@@ -1,11 +1,10 @@
 {
     "name": "Skull",
     "symbol": "SKULL",
-    "type": "ERC20",
+    "id": "0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35",
     "decimals": 4,
-    "description": "SKULL is the social money of the digital artist Skeenee.",
-    "website": "https://app.tryroll.com/rewards/SKULL",
-    "explorer": "https://etherscan.io/token/0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35",
-    "status": "active",
-    "id": "0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35"
+    "coingecko_url": "https://www.coingecko.com/en/coins/skull",
+    "market_cap_rank": 2040,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBcc66ed2aB491e9aE7Bf8386541Fb17421Fa9d35/logo.png"
 }

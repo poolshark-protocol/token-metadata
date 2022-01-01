@@ -1,11 +1,10 @@
 {
     "name": "Stox",
     "symbol": "STX",
-    "type": "ERC20",
+    "id": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.stox.com/en",
-    "explorer": "https://etherscan.io/token/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
-    "status": "active",
-    "id": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45"
+    "coingecko_url": "https://www.coingecko.com/en/coins/stox",
+    "market_cap_rank": 2717,
+    "24_hr_volume_usd": 557.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45/logo.png"
 }

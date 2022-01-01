@@ -1,11 +1,11 @@
 {
     "name": "Cherry",
     "symbol": "CHERRY",
-    "type": "ERC20",
+    "id": "0x4eCB692B0fEDeCD7B486b4c99044392784877E8C",
     "decimals": 4,
-    "description": "$CHERRY is the store of the value and the currency of the community. Allows use of tokenized membership, removing the need for monthly payments through credit cards and banks.",
-    "website": "http://cherryhotwife.com/tour/",
-    "explorer": "https://etherscan.io/token/0x4eCB692B0fEDeCD7B486b4c99044392784877E8C",
-    "status": "active",
-    "id": "0x4eCB692B0fEDeCD7B486b4c99044392784877E8C"
+    "coingecko_url": "https://www.coingecko.com/en/coins/cherry",
+    "market_cap_rank": 2560,
+    "24_hr_volume_usd": 10412.64,
+    "public_notice": "There has been a hack on Roll, the issuer platform used by Cherry token, resulting in a large price drop. Do be careful purchasing this token - https://tryroll.com/security-incident/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4eCB692B0fEDeCD7B486b4c99044392784877E8C/logo.png"
 }

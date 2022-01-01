@@ -1,11 +1,10 @@
 {
     "name": "Bitex Global XBX Coin",
     "symbol": "XBX",
-    "type": "ERC20",
+    "id": "0x57C09A8de0b0F471F8567609777aDdFfb5c46a08",
     "decimals": 18,
-    "description": "EZBitex is the currency exchange and banking infrastructure with a decentralized, distributed and immutable ledger.",
-    "website": "https://bitex.global/",
-    "explorer": "https://etherscan.io/token/0x57C09A8de0b0F471F8567609777aDdFfb5c46a08",
-    "status": "active",
-    "id": "0x57C09A8de0b0F471F8567609777aDdFfb5c46a08"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitex-global",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x57C09A8de0b0F471F8567609777aDdFfb5c46a08/logo.png"
 }

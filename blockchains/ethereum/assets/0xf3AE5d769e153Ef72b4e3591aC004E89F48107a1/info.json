@@ -1,11 +1,10 @@
 {
     "name": "Deeper Network",
-    "website": "https://deeper.network",
-    "description": "The Decentralized Internet Infrastructure for Web3.0: A more secure, private and fairer internet for everyone",
-    "explorer": "https://etherscan.io/token/0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
-    "type": "ERC20",
     "symbol": "DPR",
+    "id": "0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
     "decimals": 18,
-    "status": "active",
-    "id": "0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1"
+    "coingecko_url": "https://www.coingecko.com/en/coins/deeper-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1677375,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1/logo.png"
 }

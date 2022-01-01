@@ -1,11 +1,10 @@
 {
     "name": "BidiPass",
     "symbol": "BDP",
-    "type": "ERC20",
+    "id": "0x593114f03A0A575aece9ED675e52Ed68D2172B8c",
     "decimals": 18,
-    "description": "BidiPass Network is comprised of an EVM blockchain and digital asset bridge. Our team leverages our existing infrastructure to build products that improve usability and trust of decentralized applications.",
-    "website": "https://bidipass.org/",
-    "explorer": "https://etherscan.io/token/0x593114f03A0A575aece9ED675e52Ed68D2172B8c",
-    "status": "active",
-    "id": "0x593114f03A0A575aece9ED675e52Ed68D2172B8c"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bidipass",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00221211,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x593114f03A0A575aece9ED675e52Ed68D2172B8c/logo.png"
 }

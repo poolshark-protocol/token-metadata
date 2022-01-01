@@ -1,11 +1,10 @@
 {
-    "name": "Float BANK",
-    "website": "https://floatprotocol.com/",
-    "description": "Governance token for Float Protocol.",
-    "explorer": "https://etherscan.io/token/0x24a6a37576377f63f194caa5f518a60f45b42921",
-    "type": "ERC20",
+    "name": "Float Bank",
     "symbol": "BANK",
+    "id": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
     "decimals": 18,
-    "status": "active",
-    "id": "0x24A6A37576377F63f194Caa5F518a60f45b42921"
+    "coingecko_url": "https://www.coingecko.com/en/coins/float-protocol",
+    "market_cap_rank": 1272,
+    "24_hr_volume_usd": 179884,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x24A6A37576377F63f194Caa5F518a60f45b42921/logo.png"
 }

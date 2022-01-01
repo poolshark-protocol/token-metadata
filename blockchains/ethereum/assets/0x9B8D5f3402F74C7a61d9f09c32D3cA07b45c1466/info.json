@@ -1,11 +1,10 @@
 {
     "name": "GimmerToken",
     "symbol": "GMR",
-    "type": "ERC20",
+    "id": "0x9B8D5f3402F74C7a61d9f09c32D3cA07b45c1466",
     "decimals": 18,
-    "description": "Gimmer offers easy-to-use advanced algorithmic trading bots that require no programming skills, no previous trading experience and no in-depth knowledge of cryptocurrencies.",
-    "website": "https://gimmer.net/",
-    "explorer": "https://etherscan.io/token/0x9B8D5f3402F74C7a61d9f09c32D3cA07b45c1466",
-    "status": "active",
-    "id": "0x9B8D5f3402F74C7a61d9f09c32D3cA07b45c1466"
+    "coingecko_url": "https://www.coingecko.com/en/coins/gimmer",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9B8D5f3402F74C7a61d9f09c32D3cA07b45c1466/logo.png"
 }

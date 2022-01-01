@@ -1,11 +1,11 @@
 {
     "name": "CRYPTOBUCKS",
     "symbol": "CBUCKS",
-    "type": "ERC20",
+    "id": "0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e",
     "decimals": 2,
-    "description": "Cryptobucks enables its users to do peer to peer exchange on all the local currencies and other cryptocurrencies. It empowers peer to peer trading and copy trade.",
-    "website": "https://www.cryptobuckslimited.com/",
-    "explorer": "https://etherscan.io/token/0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e",
-    "status": "active",
-    "id": "0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e"
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptobucks",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00011027,
+    "public_notice": "Contract address has changed from 0xa98f029bb4e74c12fb07bbc25854e5a04f7acf4c to 0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0d2BB9D68dD4451A09ec94C05E20Bd395022bd8e/logo.png"
 }

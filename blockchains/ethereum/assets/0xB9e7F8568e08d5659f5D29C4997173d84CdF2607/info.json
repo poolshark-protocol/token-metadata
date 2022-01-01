@@ -1,11 +1,10 @@
 {
     "name": "Swarm City Token",
     "symbol": "SWT",
-    "type": "ERC20",
+    "id": "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607",
     "decimals": 18,
-    "description": "Swarm City allows people to communicate and transact in a decentralized way. Like other blockchain platforms, Swarm City has no middleman or trusted, centralized platform. It’s a P2P environment based on the Ethereum blockchain. One of the key features of Swarm City is the use of the Swarm City Token, or SWT.",
-    "website": "https://swarm.city/",
-    "explorer": "https://etherscan.io/token/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607",
-    "status": "active",
-    "id": "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607"
+    "coingecko_url": "https://www.coingecko.com/en/coins/swarm-city",
+    "market_cap_rank": 2750,
+    "24_hr_volume_usd": 545.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB9e7F8568e08d5659f5D29C4997173d84CdF2607/logo.png"
 }

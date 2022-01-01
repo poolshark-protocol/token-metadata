@@ -1,11 +1,10 @@
 {
     "name": "Harrison First",
     "symbol": "FIRST",
-    "type": "ERC20",
+    "id": "0x9903A4Cd589DA8e434f264deAFc406836418578E",
     "decimals": 4,
-    "description": "$FIRST is a community of creators and innovators founded by music artist Harrison First. $FIRST is powered by unique NFTs and $FIRST AUDIO. $FIRST AUDIO is a way for digital artists and nft creators to tap into the audio nft space by having fully produced music by Harrison First in their next collection. All instrumentals are produced by Harrison First, and you are only required to hold 1,000 $FIRST to have access.",
-    "website": "https://app.tryroll.com/token/FIRST",
-    "explorer": "https://etherscan.io/token/0x9903A4Cd589DA8e434f264deAFc406836418578E",
-    "status": "active",
-    "id": "0x9903A4Cd589DA8e434f264deAFc406836418578E"
+    "coingecko_url": "https://www.coingecko.com/en/coins/harrison-first",
+    "market_cap_rank": 3278,
+    "24_hr_volume_usd": 139.33,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9903A4Cd589DA8e434f264deAFc406836418578E/logo.png"
 }

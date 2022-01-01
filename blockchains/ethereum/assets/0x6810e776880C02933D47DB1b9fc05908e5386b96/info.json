@@ -1,40 +1,10 @@
 {
-    "name": "Gnosis",
-    "website": "https://gnosis.io",
-    "description": "Gnosis is a decentralized prediction market built on the Ethereum protocol.",
-    "explorer": "https://etherscan.io/token/0x6810e776880C02933D47DB1b9fc05908e5386b96",
-    "type": "ERC20",
+    "name": "Gnosis Token",
     "symbol": "GNO",
-    "decimals": 18,
-    "status": "active",
     "id": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
-    "tags": [
-        "defi"
-    ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/gnosis"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/gnosisPM"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/gnosisPM/"
-        },
-        {
-            "name": "blog",
-            "url": "https://blog.gnosis.io/"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/Gnosis.pm/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/gnosis/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gnosis",
+    "market_cap_rank": 115,
+    "24_hr_volume_usd": 11462744,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
 }

@@ -1,11 +1,10 @@
 {
-    "name": "Aave LINK",
+    "name": "Aave interest bearing LINK",
     "symbol": "aLINK",
-    "type": "ERC20",
+    "id": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
     "decimals": 18,
-    "description": "Aave LINK is an interest bearing token pegged 1:1 to the underlying LINK deposited in Aave. aLINK accrue interest in real time in your wallet.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
-    "status": "active",
-    "id": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-link",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0/logo.png"
 }

@@ -1,11 +1,11 @@
 {
     "name": "BoringDAO",
-    "website": "https://www.boringdao.com/",
-    "description": "BoringDAO is a decentralized asset bridge that uses tunnel mechanism to move tokens cross different chains.",
-    "explorer": "https://etherscan.io/token/0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
-    "type": "ERC20",
     "symbol": "BOR",
-    "decimals": 18,
     "id": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
-    "status": "active"
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/boringdao-[old]",
+    "market_cap_rank": 630,
+    "24_hr_volume_usd": 81128,
+    "public_notice": "BoringDAO(BOR) has undergone a 1:10000 Token Split to $BORING. Read more <a href=\"https://docs.boringdao.com/tutorials/how-to-split-1-bor-into-10-000-boring\">in this article</a> . New token can be found here https://www.coingecko.com/en/coins/boringdao",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9/logo.png"
 }

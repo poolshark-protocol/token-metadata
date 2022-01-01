@@ -1,15 +1,10 @@
 {
-    "name": "Kyber Network",
-    "website": "https://kyber.network",
-    "description": "Kyber Network’s on-chain liquidity protocol allows decentralized token swaps to be integrated into any application, enabling value exchange to be performed seamlessly between all parties in the ecosystem.",
-    "explorer": "https://etherscan.io/token/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
-    "type": "ERC20",
+    "name": "Kyber Network Crystal v2",
     "symbol": "KNC",
-    "decimals": 18,
-    "status": "active",
     "id": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
-    "tags": [
-        "defi",
-        "governance"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kyber-network-crystal",
+    "market_cap_rank": 407,
+    "24_hr_volume_usd": 2718784,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202/logo.png"
 }

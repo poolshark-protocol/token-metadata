@@ -1,11 +1,11 @@
 {
-    "name": "Covesting Token",
-    "website": "https://covesting.io",
-    "description": "COV is a utility token designed to be used by members within the Covesting ecosystem.",
-    "explorer": "https://etherscan.io/token/0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
-    "type": "ERC20",
+    "name": "Covesting",
     "symbol": "COV",
+    "id": "0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
     "decimals": 18,
-    "status": "active",
-    "id": "0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7"
+    "coingecko_url": "https://www.coingecko.com/en/coins/covesting",
+    "market_cap_rank": 1123,
+    "24_hr_volume_usd": 261107,
+    "public_notice": "Smart contract address has changed from 0xe2fb6529ef566a080e6d23de0bd351311087d567 to 0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7/logo.png"
 }

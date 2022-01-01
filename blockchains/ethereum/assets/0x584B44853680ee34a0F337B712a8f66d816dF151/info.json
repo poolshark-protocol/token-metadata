@@ -1,11 +1,10 @@
 {
     "name": "AI Doctor",
     "symbol": "AIDOC",
-    "type": "ERC20",
+    "id": "0x584B44853680ee34a0F337B712a8f66d816dF151",
     "decimals": 18,
-    "description": "-",
-    "website": "http://www.aidoc.me",
-    "explorer": "https://etherscan.io/token/0x584B44853680ee34a0F337B712a8f66d816dF151",
-    "status": "active",
-    "id": "0x584B44853680ee34a0F337B712a8f66d816dF151"
+    "coingecko_url": "https://www.coingecko.com/en/coins/ai-doctor",
+    "market_cap_rank": 3279,
+    "24_hr_volume_usd": 7375.68,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x584B44853680ee34a0F337B712a8f66d816dF151/logo.png"
 }

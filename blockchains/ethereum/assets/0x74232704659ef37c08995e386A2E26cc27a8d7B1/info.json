@@ -1,11 +1,10 @@
 {
-    "name": "Strike Finance",
+    "name": "Strike Token",
     "symbol": "STRK",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "Strike Finance Governance Token",
-    "explorer": "https://etherscan.io/token/0x74232704659ef37c08995e386A2E26cc27a8d7B1",
-    "status": "active",
     "id": "0x74232704659ef37c08995e386A2E26cc27a8d7B1",
-    "website": "https://strike.org"
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/strike",
+    "market_cap_rank": 431,
+    "24_hr_volume_usd": 8502256,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x74232704659ef37c08995e386A2E26cc27a8d7B1/logo.png"
 }

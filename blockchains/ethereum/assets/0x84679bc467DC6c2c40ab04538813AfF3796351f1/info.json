@@ -1,17 +1,10 @@
 {
     "name": "CHONK",
-    "website": "https://chonker.finance/",
-    "description": "Inspired by $MEME. Fish with fat chonkers and get rewarded with NFT cards. DEFI + NFT + FAT CATS.",
-    "explorer": "https://etherscan.io/token/0x84679bc467DC6c2c40ab04538813AfF3796351f1",
-    "type": "ERC20",
     "symbol": "CHONK",
-    "decimals": 18,
-    "status": "active",
     "id": "0x84679bc467DC6c2c40ab04538813AfF3796351f1",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ChonkerFinance"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chonk",
+    "market_cap_rank": 2375,
+    "24_hr_volume_usd": 6540.55,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x84679bc467DC6c2c40ab04538813AfF3796351f1/logo.png"
 }

@@ -1,32 +1,10 @@
 {
-    "name": "mQQQ Token",
-    "website": "https://mirror.finance",
-    "description": "Wrapped Mirror QQQ Token.",
-    "explorer": "https://etherscan.io/token/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
-    "type": "ERC20",
+    "name": "Wrapped Mirror QQQ Token",
     "symbol": "mQQQ",
-    "decimals": 18,
-    "status": "active",
     "id": "0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
-    "tags": [
-        "wrapped"
-    ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MirrorProtocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mirror_protocol"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/MirrorProtocol"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@mirror-protocol"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-invesco-qqq-trust",
+    "market_cap_rank": 1011,
+    "24_hr_volume_usd": 57301,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15/logo.png"
 }

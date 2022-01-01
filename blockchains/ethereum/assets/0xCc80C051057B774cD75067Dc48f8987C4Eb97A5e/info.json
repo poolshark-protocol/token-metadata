@@ -1,11 +1,10 @@
 {
-    "name": "Nectar",
-    "website": "https://nectar.community",
-    "description": "Nectar serves as the native utility and governance token of decentralised exchange DeversiFi.",
-    "explorer": "https://etherscan.io/token/0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
-    "type": "ERC20",
+    "name": "Ethfinex Nectar Token",
     "symbol": "NEC",
+    "id": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e",
     "decimals": 18,
-    "status": "active",
-    "id": "0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e"
+    "coingecko_url": "https://www.coingecko.com/en/coins/nectar-token",
+    "market_cap_rank": 1079,
+    "24_hr_volume_usd": 259.12,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCc80C051057B774cD75067Dc48f8987C4Eb97A5e/logo.png"
 }

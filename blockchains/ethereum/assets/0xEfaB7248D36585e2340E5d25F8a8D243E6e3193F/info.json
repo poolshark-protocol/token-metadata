@@ -1,11 +1,10 @@
 {
-    "name": "Dacxi Coin",
+    "name": "DACXI",
     "symbol": "DACXI",
-    "type": "ERC20",
+    "id": "0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F",
     "decimals": 18,
-    "description": "Trade, learn, and build crypto wealth with Dacxi.",
-    "website": "https://dacxi.com/",
-    "explorer": "https://etherscan.io/token/0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F",
-    "status": "active",
-    "id": "0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F"
+    "coingecko_url": "https://www.coingecko.com/en/coins/dacxi",
+    "market_cap_rank": 811,
+    "24_hr_volume_usd": 357857,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F/logo.png"
 }

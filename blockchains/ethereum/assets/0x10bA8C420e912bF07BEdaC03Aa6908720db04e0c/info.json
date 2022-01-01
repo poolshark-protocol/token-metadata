@@ -1,11 +1,10 @@
 {
     "name": "Raise",
     "symbol": "RAISE",
-    "type": "ERC20",
+    "id": "0x10bA8C420e912bF07BEdaC03Aa6908720db04e0c",
     "decimals": 18,
-    "description": "-",
-    "website": "https://raise.it/",
-    "explorer": "https://etherscan.io/token/0x10bA8C420e912bF07BEdaC03Aa6908720db04e0c",
-    "status": "active",
-    "id": "0x10bA8C420e912bF07BEdaC03Aa6908720db04e0c"
+    "coingecko_url": "https://www.coingecko.com/en/coins/hero-token",
+    "market_cap_rank": 3317,
+    "24_hr_volume_usd": 303.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x10bA8C420e912bF07BEdaC03Aa6908720db04e0c/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "MedToken",
     "symbol": "MTN",
-    "type": "ERC20",
+    "id": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
     "decimals": 18,
-    "description": "Medicalchain uses blockchain technology to securely manage health records for a collaborative, smart approach to healthcare.",
-    "website": "https://medicalchain.com/en/",
-    "explorer": "https://etherscan.io/token/0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
-    "status": "active",
-    "id": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3"
+    "coingecko_url": "https://www.coingecko.com/en/coins/medicalchain",
+    "market_cap_rank": 2223,
+    "24_hr_volume_usd": 13732.68,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3/logo.png"
 }

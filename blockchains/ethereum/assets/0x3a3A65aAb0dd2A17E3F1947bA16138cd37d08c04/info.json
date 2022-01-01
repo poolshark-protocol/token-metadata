@@ -1,11 +1,10 @@
 {
-    "name": "Aave ETH V1",
-    "website": "https://aave.com",
-    "description": "Aave ETH V1 is an interest bearing token pegged 1:1 to the underlying ETH deposited in Aave V1. aETH V1 accrue interest in real time in your wallet.",
-    "explorer": "https://etherscan.io/token/0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
-    "type": "ERC20",
-    "symbol": "aETH V1",
+    "name": "Aave Interest bearing ETH",
+    "symbol": "aETH",
+    "id": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
     "decimals": 18,
-    "status": "active",
-    "id": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-eth-v1",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7868.15,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04/logo.png"
 }

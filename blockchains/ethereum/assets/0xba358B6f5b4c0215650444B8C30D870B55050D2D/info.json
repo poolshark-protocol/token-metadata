@@ -1,11 +1,10 @@
 {
-    "name": "Hub",
-    "website": "https://hubtoken.org",
-    "description": "Hub, the Human Trust Protocol, solves endemic trust problems and provides verifiable and portable trust. The HUB token’s aim is to encode identity and reputation on the blockchain, to become the next digital identity protocol interoperable across multiple platforms.",
-    "explorer": "https://etherscan.io/token/0xba358B6f5b4c0215650444B8C30D870B55050D2D",
-    "type": "ERC20",
+    "name": "Hub Token",
     "symbol": "HUB",
+    "id": "0xba358B6f5b4c0215650444B8C30D870B55050D2D",
     "decimals": 18,
-    "status": "active",
-    "id": "0xba358B6f5b4c0215650444B8C30D870B55050D2D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/hub-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 20.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xba358B6f5b4c0215650444B8C30D870B55050D2D/logo.png"
 }

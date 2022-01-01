@@ -1,11 +1,10 @@
 {
     "name": "SyncFab Smart Manufacturing Blockchain",
     "symbol": "MFG",
-    "type": "ERC20",
+    "id": "0x6710c63432A2De02954fc0f851db07146a6c0312",
     "decimals": 18,
-    "description": "Decentralizing Manufacturing Supply Chains with Blockchain and the MFG Token",
-    "website": "https://blockchain.syncfab.com",
-    "explorer": "https://etherscan.io/token/0x6710c63432A2De02954fc0f851db07146a6c0312",
-    "status": "active",
-    "id": "0x6710c63432A2De02954fc0f851db07146a6c0312"
+    "coingecko_url": "https://www.coingecko.com/en/coins/smart-mfg",
+    "market_cap_rank": 910,
+    "24_hr_volume_usd": 65993,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6710c63432A2De02954fc0f851db07146a6c0312/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Dusk Network",
     "symbol": "DUSK",
-    "type": "ERC20",
+    "id": "0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
     "decimals": 18,
-    "description": "Dusk Network is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.",
-    "website": "https://dusk.network/",
-    "explorer": "https://etherscan.io/token/0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
-    "status": "active",
-    "id": "0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551"
+    "coingecko_url": "https://www.coingecko.com/en/coins/dusk-network",
+    "market_cap_rank": 215,
+    "24_hr_volume_usd": 49428118,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551/logo.png"
 }

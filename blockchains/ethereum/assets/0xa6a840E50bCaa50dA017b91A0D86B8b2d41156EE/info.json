@@ -1,11 +1,10 @@
 {
     "name": "EchoLink",
     "symbol": "EKO",
-    "type": "ERC20",
+    "id": "0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE",
     "decimals": 18,
-    "description": "EKO is a blockchain based system that provides verified education, skill, and work experience information.",
-    "website": "https://echolink.info",
-    "explorer": "https://etherscan.io/token/0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE",
-    "status": "active",
-    "id": "0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE"
+    "coingecko_url": "https://www.coingecko.com/en/coins/echolink",
+    "market_cap_rank": 3086,
+    "24_hr_volume_usd": 4865.36,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE/logo.png"
 }

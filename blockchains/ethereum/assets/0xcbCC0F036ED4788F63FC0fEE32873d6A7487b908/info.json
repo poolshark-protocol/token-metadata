@@ -1,11 +1,10 @@
 {
     "name": "Humaniq",
     "symbol": "HMQ",
-    "type": "ERC20",
+    "id": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
     "decimals": 8,
-    "description": "Humaniq (HMQ) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://humaniq.co",
-    "explorer": "https://etherscan.io/token/0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
-    "status": "active",
-    "id": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908"
+    "coingecko_url": "https://www.coingecko.com/en/coins/humaniq",
+    "market_cap_rank": 2173,
+    "24_hr_volume_usd": 49945,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908/logo.png"
 }

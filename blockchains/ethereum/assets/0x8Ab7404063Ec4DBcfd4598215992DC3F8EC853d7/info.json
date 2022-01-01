@@ -1,12 +1,10 @@
 {
     "name": "Akropolis",
-    "website": "https://akropolis.io",
-    "description": "Akropolis describes itself as a domain-specific financial protocol dedicated to the needs of the informal economy.",
-    "explorer": "https://etherscan.io/token/0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
-    "research": "https://research.binance.com/en/projects/akropolis",
-    "type": "ERC20",
     "symbol": "AKRO",
+    "id": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7",
     "decimals": 18,
-    "status": "active",
-    "id": "0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7"
+    "coingecko_url": "https://www.coingecko.com/en/coins/akropolis",
+    "market_cap_rank": 597,
+    "24_hr_volume_usd": 3408485,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7/logo.png"
 }

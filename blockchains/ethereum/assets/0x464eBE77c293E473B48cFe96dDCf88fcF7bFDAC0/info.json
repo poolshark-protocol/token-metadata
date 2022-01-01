@@ -1,37 +1,10 @@
 {
-    "name": "Kryll.io Token",
+    "name": "Kryll",
     "symbol": "KRL",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "Kryll integrates with the main exchanges, allowing you to centralize your portfolio and trade more easily! New exchanges are added regularly",
-    "website": "https://kryll.io/",
-    "explorer": "https://etherscan.io/token/0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
-    "status": "active",
     "id": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Cryptense/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/kryll_io"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/kryll_io"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/kryll.io"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/kryll/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/kryll/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kryll",
+    "market_cap_rank": 654,
+    "24_hr_volume_usd": 1512651,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0/logo.png"
 }

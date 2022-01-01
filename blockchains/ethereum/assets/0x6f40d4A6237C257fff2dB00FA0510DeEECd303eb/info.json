@@ -1,11 +1,10 @@
 {
     "name": "Instadapp",
-    "type": "ERC20",
     "symbol": "INST",
+    "id": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb",
     "decimals": 18,
-    "website": "https://Instadapp.io",
-    "description": "Middleware platform for decentralized finance applications",
-    "explorer": "https://etherscan.io/token/0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
-    "status": "active",
-    "id": "0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb"
+    "coingecko_url": "https://www.coingecko.com/en/coins/instadapp",
+    "market_cap_rank": 639,
+    "24_hr_volume_usd": 310528,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6f40d4A6237C257fff2dB00FA0510DeEECd303eb/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "HelloGold Token",
     "symbol": "HGT",
-    "type": "ERC20",
+    "id": "0xba2184520A1cC49a6159c57e61E1844E085615B6",
     "decimals": 8,
-    "description": "GOLDX app lets you buy investment grade gold and turn it into an Ethereum compatible asset from your phone, from as low as 1 USDC.",
-    "website": "https://www.hgfoundation.io",
-    "explorer": "https://etherscan.io/token/0xba2184520A1cC49a6159c57e61E1844E085615B6",
-    "status": "active",
-    "id": "0xba2184520A1cC49a6159c57e61E1844E085615B6"
+    "coingecko_url": "https://www.coingecko.com/en/coins/hellogold",
+    "market_cap_rank": 2881,
+    "24_hr_volume_usd": 0.115444,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xba2184520A1cC49a6159c57e61E1844E085615B6/logo.png"
 }

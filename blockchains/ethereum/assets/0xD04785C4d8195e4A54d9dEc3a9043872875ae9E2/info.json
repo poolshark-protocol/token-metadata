@@ -1,17 +1,10 @@
 {
     "name": "RottenToken",
-    "website": "https://rottenswap.org/",
-    "description": "Earn RottenTokens by staking Uniswap liquidity. In addition, 2.5% of every RottenToken transfer is burned and turned into MaggotTokens.",
-    "explorer": "https://etherscan.io/token/0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2",
-    "type": "ERC20",
     "symbol": "ROT",
-    "decimals": 18,
-    "status": "active",
     "id": "0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/rottenswap"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rotten",
+    "market_cap_rank": 3204,
+    "24_hr_volume_usd": 542.03,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2/logo.png"
 }

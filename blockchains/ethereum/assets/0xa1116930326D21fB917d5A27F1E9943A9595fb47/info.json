@@ -1,11 +1,10 @@
 {
-    "name": "Staked ABPT ",
+    "name": "Staked Aave Balance Pool Token",
     "symbol": "stkABPT",
-    "type": "ERC20",
+    "id": "0xa1116930326D21fB917d5A27F1E9943A9595fb47",
     "decimals": 18,
-    "description": "stkABPT is AAVE/ETH Balancer Liquidity that is staked in the Aave Protocol Safety Module. In case of a shortfall event, up to 30% of the stkABPT can be slashed to cover the deficit. stkABPT holders earn Safety Incentives, BAL rewards and trading fees as a reward for protecting the protocol and liquidity provided to Balancer.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0xa1116930326D21fB917d5A27F1E9943A9595fb47",
-    "status": "active",
-    "id": "0xa1116930326D21fB917d5A27F1E9943A9595fb47"
+    "coingecko_url": "https://www.coingecko.com/en/coins/staked-aave-balancer-pool-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa1116930326D21fB917d5A27F1E9943A9595fb47/logo.png"
 }

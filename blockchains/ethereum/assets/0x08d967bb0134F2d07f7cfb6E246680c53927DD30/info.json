@@ -1,11 +1,10 @@
 {
     "name": "MATH Token",
     "symbol": "MATH",
-    "type": "ERC20",
+    "id": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
     "decimals": 18,
-    "description": "65+ Popular public chains supported",
-    "website": "https://mathwallet.org/",
-    "explorer": "https://etherscan.io/token/0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
-    "status": "active",
-    "id": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30"
+    "coingecko_url": "https://www.coingecko.com/en/coins/math",
+    "market_cap_rank": 627,
+    "24_hr_volume_usd": 174210,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x08d967bb0134F2d07f7cfb6E246680c53927DD30/logo.png"
 }

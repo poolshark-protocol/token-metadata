@@ -1,11 +1,10 @@
 {
     "name": "EnterCoin",
     "symbol": "ENTRC",
-    "type": "ERC20",
+    "id": "0xd9d01D4Cb824219A8F482a0FAd479cB971Fd0628",
     "decimals": 8,
-    "description": "-",
-    "website": "https://entercoin.net",
-    "explorer": "https://etherscan.io/token/0xd9d01D4Cb824219A8F482a0FAd479cB971Fd0628",
-    "status": "active",
-    "id": "0xd9d01D4Cb824219A8F482a0FAd479cB971Fd0628"
+    "coingecko_url": "https://www.coingecko.com/en/coins/entercoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.66,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd9d01D4Cb824219A8F482a0FAd479cB971Fd0628/logo.png"
 }

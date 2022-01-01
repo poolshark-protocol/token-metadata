@@ -1,12 +1,10 @@
 {
-    "name": "Agrello",
-    "website": "https://agrello.io",
-    "description": "Agrello is building a blockchain-based digital ID solution for individuals and businesses.",
-    "explorer": "https://etherscan.io/token/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
-    "research": "https://research.binance.com/en/projects/agrello",
-    "type": "ERC20",
+    "name": "Delta",
     "symbol": "DLT",
+    "id": "0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
     "decimals": 18,
-    "status": "active",
-    "id": "0x07e3c70653548B04f0A75970C1F81B4CBbFB606f"
+    "coingecko_url": "https://www.coingecko.com/en/coins/agrello",
+    "market_cap_rank": 3175,
+    "24_hr_volume_usd": 210.93,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x07e3c70653548B04f0A75970C1F81B4CBbFB606f/logo.png"
 }

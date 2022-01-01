@@ -1,11 +1,10 @@
 {
-    "name": "RedPanda Earth ",
-    "type": "ERC20",
+    "name": "Red Panda",
     "symbol": "REDPANDA",
+    "id": "0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548",
     "decimals": 9,
-    "website": "https://redpanda.earth",
-    "description": "RedPanda Earth is a deflationary token focused on donating to charitable organizations worldwide to save our endangered species.",
-    "explorer": "https://etherscan.io/token/0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548",
-    "status": "active",
-    "id": "0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548"
+    "coingecko_url": "https://www.coingecko.com/en/coins/redpanda-earth",
+    "market_cap_rank": 1729,
+    "24_hr_volume_usd": 14121.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548/logo.png"
 }

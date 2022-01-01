@@ -1,12 +1,10 @@
 {
     "name": "Modefi",
-    "website": "https://modefi.io/",
-    "description": "Decentralized Oracle Solutions. Building the foundation for real world adoption of Oracles and DeFi",
-    "explorer": "https://etherscan.io/token/0xEA1ea0972fa092dd463f2968F9bB51Cc4c981D71",
-    "research": "https://cryptoguerrillas.com/modefi-oracle-defi/",
-    "type": "ERC20",
     "symbol": "MOD",
+    "id": "0xEA1ea0972fa092dd463f2968F9bB51Cc4c981D71",
     "decimals": 18,
-    "status": "active",
-    "id": "0xEA1ea0972fa092dd463f2968F9bB51Cc4c981D71"
+    "coingecko_url": "https://www.coingecko.com/en/coins/modefi",
+    "market_cap_rank": 1170,
+    "24_hr_volume_usd": 496934,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEA1ea0972fa092dd463f2968F9bB51Cc4c981D71/logo.png"
 }

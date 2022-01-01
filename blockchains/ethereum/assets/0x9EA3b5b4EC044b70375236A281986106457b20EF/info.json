@@ -1,11 +1,10 @@
 {
-    "name": "Delta Financial",
+    "name": "DELTA.financial - deep DeFi derivatives",
     "symbol": "DELTA",
-    "type": "ERC20",
+    "id": "0x9EA3b5b4EC044b70375236A281986106457b20EF",
     "decimals": 18,
-    "description": "Delta is an on-chain options layer which utilizes a combination of liquidity standards to reduce premiums and offer competitive options prices. It uses novel systems such as a unique vesting schedule to generate a new form of liquidity.",
-    "website": "https://delta.financial",
-    "explorer": "https://etherscan.io/token/0x9EA3b5b4EC044b70375236A281986106457b20EF",
-    "status": "active",
-    "id": "0x9EA3b5b4EC044b70375236A281986106457b20EF"
+    "coingecko_url": "https://www.coingecko.com/en/coins/delta-financial",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18901.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9EA3b5b4EC044b70375236A281986106457b20EF/logo.png"
 }

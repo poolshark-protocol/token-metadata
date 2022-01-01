@@ -1,11 +1,10 @@
 {
-    "name": "Hydro Protocol",
-    "website": "https://hydroprotocol.io",
-    "description": "Hydro empowers DeFi developers to create dynamic marketplaces for decentralized assets.",
-    "explorer": "https://etherscan.io/token/0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
-    "type": "ERC20",
+    "name": "Hydro Protocol Token",
     "symbol": "HOT",
+    "id": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
     "decimals": 18,
-    "status": "active",
-    "id": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1"
+    "coingecko_url": "https://www.coingecko.com/en/coins/hydro-protocol",
+    "market_cap_rank": 1895,
+    "24_hr_volume_usd": 56056,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9AF839687F6C94542ac5ece2e317dAAE355493A1/logo.png"
 }

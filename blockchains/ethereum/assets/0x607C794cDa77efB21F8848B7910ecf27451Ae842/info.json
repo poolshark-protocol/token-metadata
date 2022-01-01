@@ -1,29 +1,10 @@
 {
-    "name": "DeFiPIE",
-    "website": "https://defipie.com",
-    "description": "DeFiPIE allows everyone to create lending pools for any assets on Ethereum and Binance Smart Chain networks. Users can supply their assets and borrow other assets.",
-    "explorer": "https://etherscan.io/token/0x607C794cDa77efB21F8848B7910ecf27451Ae842",
-    "type": "ERC20",
+    "name": "DeFiPIE Token",
     "symbol": "PIE",
-    "decimals": 18,
-    "status": "active",
     "id": "0x607C794cDa77efB21F8848B7910ecf27451Ae842",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/DefiPie"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/defipiepie"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/defipie"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/defipie"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defipie",
+    "market_cap_rank": 2711,
+    "24_hr_volume_usd": 58329,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x607C794cDa77efB21F8848B7910ecf27451Ae842/logo.png"
 }

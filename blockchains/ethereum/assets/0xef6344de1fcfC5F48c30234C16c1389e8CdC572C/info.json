@@ -1,11 +1,11 @@
 {
-    "name": "EncrypGen",
-    "website": "https://encrypgen.com",
-    "description": "DNA is the currency of EncrypGen's genomic marketplace, which allows individuals to share, control, and monetize their DNA data while contributing to scientific research and advancing public health.",
-    "explorer": "https://etherscan.io/token/0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
-    "type": "ERC20",
+    "name": "DNA",
     "symbol": "DNA",
+    "id": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
     "decimals": 18,
-    "status": "active",
-    "id": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C"
+    "coingecko_url": "https://www.coingecko.com/en/coins/encrypgen",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1217.75,
+    "public_notice": "DNA has undergone a token swap, and has a new contract address. More details available here: https://encrypgen.com/the-big-dna-token-swap/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xef6344de1fcfC5F48c30234C16c1389e8CdC572C/logo.png"
 }

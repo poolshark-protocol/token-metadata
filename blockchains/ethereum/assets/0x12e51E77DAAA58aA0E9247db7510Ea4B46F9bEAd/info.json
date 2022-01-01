@@ -1,11 +1,10 @@
 {
-    "name": "Aave YFI V1",
-    "symbol": "aYFI V1",
-    "type": "ERC20",
+    "name": "Aave Interest bearing YFI",
+    "symbol": "aYFI",
+    "id": "0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd",
     "decimals": 18,
-    "description": "Aave YFI V1 is an interest bearing token pegged 1:1 to the underlying YFI deposited in Aave V1. aYFI V1 accrue interest in real time in your wallet.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd",
-    "status": "active",
-    "id": "0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd"
+    "coingecko_url": "https://www.coingecko.com/en/coins/ayfi-v1",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.17,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd/logo.png"
 }

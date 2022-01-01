@@ -1,11 +1,11 @@
 {
     "name": "ITO Utility Token",
-    "website": "https://ito.network",
-    "description": "The ITO Utility Token [IUT] is a vital component of the ITO Protocol crowdfunding model, giving participants instant liquidity on all tokenised pledges from ITOs.",
-    "explorer": "https://etherscan.io/token/0xD36a0e7b741542208aE0fBb35453C893D0136625",
-    "type": "ERC20",
     "symbol": "IUT",
+    "id": "0xD36a0e7b741542208aE0fBb35453C893D0136625",
     "decimals": 0,
-    "status": "active",
-    "id": "0xD36a0e7b741542208aE0fBb35453C893D0136625"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mvg-token",
+    "market_cap_rank": 3096,
+    "24_hr_volume_usd": 0.0014145,
+    "public_notice": "Previously known as MVG Network (MVG). Smart contract migrated from 0x71396a6410249725c5609646c4e449c6c4d41e27 to 0xD36a0e7b741542208aE0fBb35453C893D0136625",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD36a0e7b741542208aE0fBb35453C893D0136625/logo.png"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Black Kishu Inu",
-    "website": "https://bishu.finance/",
-    "description": "Bishu is a community driven ERC20 token that gives back to charities",
-    "explorer": "https://etherscan.io/token/0x99043bb680ab9262c7b2ac524e00b215efb7db9b",
-    "type": "ERC20",
     "symbol": "BISHU",
+    "id": "0x99043bB680Ab9262c7b2aC524E00b215Efb7db9b",
     "decimals": 9,
-    "status": "active",
-    "id": "0x99043bB680Ab9262c7b2aC524E00b215Efb7db9b"
+    "coingecko_url": "https://www.coingecko.com/en/coins/black-kishu-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 27.54,
+    "public_notice": "Black Kishu Inu (BISHU) has recently migrated to a new token, Bishu Finance (BISHUFI). You can view this <a href=\"https://www.coingecko.com/en/coins/bishu-finance\">here</a>. Please take extra precaution and DYOR before purchasing this token.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x99043bB680Ab9262c7b2aC524E00b215Efb7db9b/logo.png"
 }

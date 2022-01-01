@@ -1,22 +1,11 @@
 {
-    "name": "HATCH",
-    "website": "https://hatchdao.finance",
-    "description": "HatchDAO is a universal repository for researchers and developers to experiment with various decentralized consensus protocols in DAO’s",
-    "explorer": "https://etherscan.io/token/0x6F3009663470475F0749A6b76195375f95495fcB",
-    "research": "https://etherscan.io/token/0x6f3009663470475f0749a6b76195375f95495fcb",
-    "type": "ERC20",
+    "name": "HatchDAO",
     "symbol": "HATCH",
-    "decimals": 18,
-    "status": "active",
     "id": "0x6F3009663470475F0749A6b76195375f95495fcB",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/HatchDAO/HatchDAO-Token"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://pdfhost.io/v/sizGm.REJ_HatchDao_WPpdf.pdf"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hatch-dao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 77.05,
+    "public_notice": "Notice: We've received allegations that the team has abandoned the project. Please proceed with caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6F3009663470475F0749A6b76195375f95495fcB/logo.png"
 }

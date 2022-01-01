@@ -1,11 +1,10 @@
 {
-    "name": "Tenset",
+    "name": "10Set Token",
     "symbol": "10SET",
-    "type": "ERC20",
+    "id": "0x7FF4169a6B5122b664c51c95727d87750eC07c84",
     "decimals": 18,
-    "description": "The Bridge Between Crypto & Stock Market",
-    "website": "https://tenset.io/",
-    "explorer": "https://etherscan.io/token/0x7FF4169a6B5122b664c51c95727d87750eC07c84",
-    "status": "active",
-    "id": "0x7FF4169a6B5122b664c51c95727d87750eC07c84"
+    "coingecko_url": "https://www.coingecko.com/en/coins/tenset",
+    "market_cap_rank": 260,
+    "24_hr_volume_usd": 2914806,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7FF4169a6B5122b664c51c95727d87750eC07c84/logo.png"
 }

@@ -1,11 +1,10 @@
 {
-    "name": "PEAK",
-    "website": "https://app.peakdefi.com/download",
-    "description": "PEAKDEFI is a decentralized asset management fund, created to connect investors and asset managers for capital growth.",
-    "explorer": "https://etherscan.io/token/0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
-    "type": "ERC20",
+    "name": "PEAKDEFI",
     "symbol": "PEAK",
+    "id": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78",
     "decimals": 8,
-    "status": "active",
-    "id": "0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78"
+    "coingecko_url": "https://www.coingecko.com/en/coins/marketpeak",
+    "market_cap_rank": 399,
+    "24_hr_volume_usd": 143863,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x630d98424eFe0Ea27fB1b3Ab7741907DFFEaAd78/logo.png"
 }

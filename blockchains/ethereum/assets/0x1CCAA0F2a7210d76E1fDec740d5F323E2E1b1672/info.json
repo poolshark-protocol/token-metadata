@@ -1,11 +1,10 @@
 {
     "name": "Faceter Token",
     "symbol": "FACE",
-    "type": "ERC20",
+    "id": "0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672",
     "decimals": 18,
-    "description": "Faceter (FACE) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://tokensale.faceter.io/en",
-    "explorer": "https://etherscan.io/token/0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672",
-    "status": "active",
-    "id": "0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672"
+    "coingecko_url": "https://www.coingecko.com/en/coins/face",
+    "market_cap_rank": 2438,
+    "24_hr_volume_usd": 58.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1CCAA0F2a7210d76E1fDec740d5F323E2E1b1672/logo.png"
 }

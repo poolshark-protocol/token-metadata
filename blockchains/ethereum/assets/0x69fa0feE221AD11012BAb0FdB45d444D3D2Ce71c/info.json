@@ -1,11 +1,10 @@
 {
-    "name": "Thorstarter XRUNE Token",
-    "website": "https://thorstarter.org",
-    "description": "Thorstarter is an IDO platform and liquidity relayer for the THORChain ecosystem",
-    "explorer": "https://etherscan.io/token/0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c",
-    "type": "ERC20",
+    "name": "XRUNE Token",
     "symbol": "XRUNE",
+    "id": "0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c",
     "decimals": 18,
-    "status": "active",
-    "id": "0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c"
+    "coingecko_url": "https://www.coingecko.com/en/coins/thorstarter",
+    "market_cap_rank": 841,
+    "24_hr_volume_usd": 218431,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c/logo.png"
 }

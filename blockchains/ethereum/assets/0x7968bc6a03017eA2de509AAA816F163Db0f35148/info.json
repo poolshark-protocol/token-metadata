@@ -1,12 +1,10 @@
 {
     "name": "Hedget",
-    "website": "https://www.hedget.com",
-    "description": "Hedget is a decentralised protocol for options trading.",
-    "explorer": "https://etherscan.io/token/0x7968bc6a03017eA2de509AAA816F163Db0f35148",
-    "research": "",
-    "type": "ERC20",
     "symbol": "HGET",
+    "id": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
     "decimals": 6,
-    "status": "active",
-    "id": "0x7968bc6a03017eA2de509AAA816F163Db0f35148"
+    "coingecko_url": "https://www.coingecko.com/en/coins/hedget",
+    "market_cap_rank": 1577,
+    "24_hr_volume_usd": 105997,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7968bc6a03017eA2de509AAA816F163Db0f35148/logo.png"
 }

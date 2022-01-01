@@ -1,29 +1,10 @@
 {
     "name": "Parsiq Boost",
-    "website": "https://parsiq.net",
-    "description": "Incentivization of Liquidity Providers by PARSIQ.",
-    "explorer": "https://etherscan.io/token/0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9",
-    "type": "ERC20",
     "symbol": "PRQBOOST",
-    "decimals": 18,
-    "status": "active",
     "id": "0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/parsiq_group"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/parsiq_net"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/parsiqnet/"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/parsiq"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/parsiq-boost",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1176.09,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa211F450Ce88deb31D3F12Ae3C1EBf6b0e55A5d9/logo.png"
 }

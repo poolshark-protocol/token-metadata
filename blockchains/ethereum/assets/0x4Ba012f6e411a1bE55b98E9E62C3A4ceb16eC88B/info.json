@@ -1,25 +1,10 @@
 {
     "name": "Cybercoin",
-    "website": "https://cybercoin.site",
-    "description": "The next-generation blockchain platform for large-scale stacking value. Cybercoin is a platform solution for true digital value storage - Blockchain for everyone - Digital security and boundless possibilities.",
-    "explorer": "https://etherscan.io/token/0x4Ba012f6e411a1bE55b98E9E62C3A4ceb16eC88B",
-    "type": "ERC20",
     "symbol": "CBR",
-    "decimals": 18,
-    "status": "active",
     "id": "0x4Ba012f6e411a1bE55b98E9E62C3A4ceb16eC88B",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Cybercoin"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/H4sy68N"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://www.cybercoin.site/Cybercoin.pdf"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cybercoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Ba012f6e411a1bE55b98E9E62C3A4ceb16eC88B/logo.png"
 }

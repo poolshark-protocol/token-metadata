@@ -1,21 +1,11 @@
 {
-    "name": "Hokkaidu Inu",
-    "website": "https://hokk.finance/",
-    "description": "Leveraging community to build an inclusive financial ecosystem. We are Meme Utility",
-    "explorer": "https://etherscan.io/token/0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8",
-    "type": "ERC20",
+    "name": "Hokkaido Inu",
     "symbol": "HOKK",
-    "decimals": 18,
-    "status": "active",
     "id": "0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/HokkaidoInu"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/hokkaiduinu"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hokkaidu-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 159765,
+    "public_notice": "Hokkaido Inu (HOKK) has recently performed a relaunch on multiple chains. For more information, please view this <a href=\"https://hokk.finance/migrationinfo\">announcement</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8/logo.png"
 }

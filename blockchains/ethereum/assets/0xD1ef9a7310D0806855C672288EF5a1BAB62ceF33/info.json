@@ -1,11 +1,10 @@
 {
     "name": "BELIEVER",
     "symbol": "BLVR",
-    "type": "ERC20",
+    "id": "0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.believercards.com/",
-    "explorer": "https://etherscan.io/token/0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33",
-    "status": "active",
-    "id": "0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33"
+    "coingecko_url": "https://www.coingecko.com/en/coins/believer",
+    "market_cap_rank": 2129,
+    "24_hr_volume_usd": 2514.3,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33/logo.png"
 }

@@ -1,12 +1,10 @@
 {
     "name": "GRAP",
-    "website": "https://grap.finance",
-    "description": "Grap is a fork of the YAM project. But it came with correct 'rebase' and it fixed some obvious bugs. So it will be less trouble and more fun.",
-    "explorer": "https://etherscan.io/token/0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
-    "research": "",
-    "type": "ERC20",
     "symbol": "GRAP",
+    "id": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB",
     "decimals": 18,
-    "status": "active",
-    "id": "0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB"
+    "coingecko_url": "https://www.coingecko.com/en/coins/grap-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1724.99,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB/logo.png"
 }

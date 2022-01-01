@@ -1,41 +1,11 @@
 {
-    "name": "OMG",
-    "website": "https://omg.network",
-    "description": "OMG Network, formerly known as OmiseGO, is a non-custodial, layer-2 scaling solution built for the Ethereum blockchain. As an Ethereum scaling solution, OMG Network is designed to allow users to transfer ETH and ERC-20 tokens significantly faster and cheaper than when transacting directly on the Ethereum network.",
-    "explorer": "https://etherscan.io/token/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
-    "type": "ERC20",
+    "name": "OMGToken",
     "symbol": "OMG",
-    "decimals": 18,
-    "status": "active",
     "id": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/omgnetwork"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/omgnetworkhq"
-        },
-        {
-            "name": "blog",
-            "url": "https://omg.network/blog"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/omgnetworkhq"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/omisego/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docs.omg.network/"
-        },
-        {
-            "name": "source_code",
-            "url": "https://github.com/omgnetwork"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/omisego",
+    "market_cap_rank": 133,
+    "24_hr_volume_usd": 236958411,
+    "public_notice": "OmiseGo has been rebranded to OMG Network - https://omg.network/omisego-omg-network-rebrand/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07/logo.png"
 }

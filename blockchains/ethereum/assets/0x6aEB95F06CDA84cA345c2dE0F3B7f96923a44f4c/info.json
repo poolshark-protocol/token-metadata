@@ -1,11 +1,10 @@
 {
     "name": "Berry",
     "symbol": "BERRY",
-    "type": "ERC20",
+    "id": "0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c",
     "decimals": 14,
-    "description": "Rentberry offers users a fully operational long-term rental platform. It leverages blockchain technology to ensure seamless rental experience.",
-    "website": "https://rentberry.com/",
-    "explorer": "https://etherscan.io/token/0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c",
-    "status": "active",
-    "id": "0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c"
+    "coingecko_url": "https://www.coingecko.com/en/coins/rentberry",
+    "market_cap_rank": 2948,
+    "24_hr_volume_usd": 8.06,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c/logo.png"
 }

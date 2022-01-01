@@ -1,11 +1,10 @@
 {
-    "name": "Storj",
-    "website": "https://storj.io",
-    "description": "Storj (STORJ) hopes to provide decentralised cloud storage to its community.",
-    "explorer": "https://etherscan.io/token/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
-    "type": "ERC20",
+    "name": "StorjToken",
     "symbol": "STORJ",
+    "id": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
     "decimals": 8,
-    "status": "active",
-    "id": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC"
+    "coingecko_url": "https://www.coingecko.com/en/coins/storj",
+    "market_cap_rank": 271,
+    "24_hr_volume_usd": 54613013,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC/logo.png"
 }

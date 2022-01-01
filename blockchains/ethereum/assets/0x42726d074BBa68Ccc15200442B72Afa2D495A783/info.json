@@ -1,11 +1,10 @@
 {
     "name": "Isik Coin",
     "symbol": "ISIKC",
-    "type": "ERC20",
+    "id": "0x42726d074BBa68Ccc15200442B72Afa2D495A783",
     "decimals": 4,
-    "description": "-",
-    "website": "https://www.isikc.io/",
-    "explorer": "https://etherscan.io/token/0x42726d074BBa68Ccc15200442B72Afa2D495A783",
-    "status": "active",
-    "id": "0x42726d074BBa68Ccc15200442B72Afa2D495A783"
+    "coingecko_url": "https://www.coingecko.com/en/coins/isiklar-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1051186,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x42726d074BBa68Ccc15200442B72Afa2D495A783/logo.png"
 }

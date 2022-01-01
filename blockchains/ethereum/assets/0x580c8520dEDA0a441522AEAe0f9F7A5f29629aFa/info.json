@@ -1,11 +1,10 @@
 {
     "name": "Dawn",
-    "website": "https://dawn.org",
-    "description": "Dawn is an open-source protocol for gaming and competitions.",
-    "explorer": "https://etherscan.io/token/0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
-    "type": "ERC20",
     "symbol": "DAWN",
+    "id": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
     "decimals": 18,
-    "status": "active",
-    "id": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa"
+    "coingecko_url": "https://www.coingecko.com/en/coins/dawn-protocol",
+    "market_cap_rank": 354,
+    "24_hr_volume_usd": 9694307,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa/logo.png"
 }

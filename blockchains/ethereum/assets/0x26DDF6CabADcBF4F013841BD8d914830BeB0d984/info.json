@@ -1,11 +1,10 @@
 {
     "name": "KuaiToken",
     "symbol": "KT",
-    "type": "ERC20",
+    "id": "0x26DDF6CabADcBF4F013841BD8d914830BeB0d984",
     "decimals": 8,
-    "description": "-",
-    "website": "https://www.kuaitoken.com/",
-    "explorer": "https://etherscan.io/token/0x26DDF6CabADcBF4F013841BD8d914830BeB0d984",
-    "status": "active",
-    "id": "0x26DDF6CabADcBF4F013841BD8d914830BeB0d984"
+    "coingecko_url": "https://www.coingecko.com/en/coins/kuaitoken",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 379052,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26DDF6CabADcBF4F013841BD8d914830BeB0d984/logo.png"
 }

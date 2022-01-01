@@ -1,11 +1,11 @@
 {
     "name": "Perlin",
     "symbol": "PERL",
-    "type": "ERC20",
+    "id": "0xeca82185adCE47f39c684352B0439f030f860318",
     "decimals": 18,
-    "description": "PerlinX — democratizing the trading of real-world assets through decentralized liquidity pools and synthetic asset generation.",
-    "website": "https://perlinx.finance",
-    "explorer": "https://etherscan.io/token/0xeca82185adCE47f39c684352B0439f030f860318",
-    "status": "active",
-    "id": "0xeca82185adCE47f39c684352B0439f030f860318"
+    "coingecko_url": "https://www.coingecko.com/en/coins/perlin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1731391,
+    "public_notice": "New PERL smart contract address: 0xeca82185adCE47f39c684352B0439f030f860318 . For more information: https://medium.com/perlin-network/perl-contract-and-infrastructure-upgrade-dc810a269f6",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeca82185adCE47f39c684352B0439f030f860318/logo.png"
 }

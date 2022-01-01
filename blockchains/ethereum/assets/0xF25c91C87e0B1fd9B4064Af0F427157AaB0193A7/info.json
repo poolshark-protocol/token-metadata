@@ -1,11 +1,10 @@
 {
     "name": "BASIC Token",
     "symbol": "BASIC",
-    "type": "ERC20",
+    "id": "0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7",
     "decimals": 18,
-    "description": "Basic is a crypto finance platform where businesses and consumers can access finance services for crypto assets like bitcoin and ethereum.",
-    "website": "https://basic.finance/",
-    "explorer": "https://etherscan.io/token/0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7",
-    "status": "active",
-    "id": "0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7"
+    "coingecko_url": "https://www.coingecko.com/en/coins/basic",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1585367,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF25c91C87e0B1fd9B4064Af0F427157AaB0193A7/logo.png"
 }

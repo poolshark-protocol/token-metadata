@@ -1,11 +1,10 @@
 {
     "name": "TILWIKI - Faces of Art",
     "symbol": "TLW",
-    "type": "ERC20",
+    "id": "0x06f3CDabae564B0546529b4DD8FeF1bcD4235753",
     "decimals": 8,
-    "description": "TILWIKI is a global art and antique art blockchain platform that enables users to sell and buy art online including tokenized art through Artsharing (fractional ownership) to remove restrictive barriers preventing investor access.",
-    "website": "https://tilwiki.com/",
-    "explorer": "https://etherscan.io/token/0x06f3CDabae564B0546529b4DD8FeF1bcD4235753",
-    "status": "active",
-    "id": "0x06f3CDabae564B0546529b4DD8FeF1bcD4235753"
+    "coingecko_url": "https://www.coingecko.com/en/coins/tilwiki",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 182.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06f3CDabae564B0546529b4DD8FeF1bcD4235753/logo.png"
 }

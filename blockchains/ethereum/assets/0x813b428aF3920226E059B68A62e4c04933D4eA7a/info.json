@@ -1,11 +1,10 @@
 {
     "name": "Decentralized Asset Trading Platform",
     "symbol": "DATP",
-    "type": "ERC20",
+    "id": "0x813b428aF3920226E059B68A62e4c04933D4eA7a",
     "decimals": 8,
-    "description": "The Decentralized Trading Asset Platform is a DAPP opensource toolkit built for transactions using third parties with decentralized P2P networks.",
-    "website": "https://datp.market/",
-    "explorer": "https://etherscan.io/token/0x813b428aF3920226E059B68A62e4c04933D4eA7a",
-    "status": "active",
-    "id": "0x813b428aF3920226E059B68A62e4c04933D4eA7a"
+    "coingecko_url": "https://www.coingecko.com/en/coins/decentralized-asset-trading-platform",
+    "market_cap_rank": 3338,
+    "24_hr_volume_usd": 0.423217,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x813b428aF3920226E059B68A62e4c04933D4eA7a/logo.png"
 }

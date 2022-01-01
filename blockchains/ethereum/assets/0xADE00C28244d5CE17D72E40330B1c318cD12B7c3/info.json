@@ -1,18 +1,11 @@
 {
-    "name": "AdEx",
-    "website": "https://adex.network",
-    "description": "The AdEx Network aims to build a decentralized solution for digital advertising that reduces fraud, improves budgets, and protects user privacy.",
-    "explorer": "https://etherscan.io/token/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
-    "research": "https://research.binance.com/en/projects/adex-network",
-    "type": "ERC20",
+    "name": "AdEx Network",
     "symbol": "ADX",
-    "decimals": 18,
-    "status": "active",
     "id": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/AdExNetwork"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/adex",
+    "market_cap_rank": 539,
+    "24_hr_volume_usd": 6936393,
+    "public_notice": "Adex (ADX) has recently rebranded to Ambire AdEx (ADX). For more information, please view this <a href=\"https://twitter.com/AmbireAdEx/status/1448319436788838404\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3/logo.png"
 }

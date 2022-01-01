@@ -1,11 +1,10 @@
 {
-    "name": "Aave USDC",
+    "name": "Aave interest bearing USDC",
     "symbol": "aUSDC",
-    "type": "ERC20",
+    "id": "0xBcca60bB61934080951369a648Fb03DF4F96263C",
     "decimals": 6,
-    "description": "Aave USDC is an interest bearing token pegged 1:1 to the underlying USDC deposited in Aave. aUSDC accrue interest in real time in your wallet.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0xBcca60bB61934080951369a648Fb03DF4F96263C",
-    "status": "active",
-    "id": "0xBcca60bB61934080951369a648Fb03DF4F96263C"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-usdc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBcca60bB61934080951369a648Fb03DF4F96263C/logo.png"
 }

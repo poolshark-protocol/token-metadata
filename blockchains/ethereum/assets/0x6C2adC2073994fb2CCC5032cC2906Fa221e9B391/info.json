@@ -1,11 +1,10 @@
 {
     "name": "Delphy Token",
     "symbol": "DPY",
-    "type": "ERC20",
+    "id": "0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391",
     "decimals": 18,
-    "description": "Delphy is a distributed, social mobile prediction market platform built on Ethereum..",
-    "website": "https://www.delphy.org",
-    "explorer": "https://etherscan.io/token/0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391",
-    "status": "active",
-    "id": "0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391"
+    "coingecko_url": "https://www.coingecko.com/en/coins/delphy",
+    "market_cap_rank": 2595,
+    "24_hr_volume_usd": 26651,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6C2adC2073994fb2CCC5032cC2906Fa221e9B391/logo.png"
 }

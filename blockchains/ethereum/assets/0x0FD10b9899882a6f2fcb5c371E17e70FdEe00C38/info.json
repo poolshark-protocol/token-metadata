@@ -1,11 +1,11 @@
 {
-    "name": "Pundi X",
-    "website": "https://pundix.com",
-    "description": "Pundi X (NPXS) aims to make the use of cryptocurrency as a form of payment into a reality for retailers and consumers alike.",
-    "explorer": "https://etherscan.io/token/0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38",
-    "type": "ERC20",
+    "name": "Pundi X Token",
     "symbol": "PUNDIX",
+    "id": "0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38",
     "decimals": 18,
-    "status": "active",
-    "id": "0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38"
+    "coingecko_url": "https://www.coingecko.com/en/coins/pundi-x-2",
+    "market_cap_rank": 268,
+    "24_hr_volume_usd": 6066565,
+    "public_notice": "Old Pundi X (NPXS) token page at https://www.coingecko.com/en/coins/pundi-x-old <br> Notice : Token redomination of 1000 NPXS to 1 PUNDIX has taken place. Read more at : https://medium.com/pundix/npxs-will-be-pundix-894c0bde4275",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38/logo.png"
 }

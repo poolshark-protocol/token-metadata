@@ -1,11 +1,10 @@
 {
     "name": "MatryxToken",
     "symbol": "MTX",
-    "type": "ERC20",
+    "id": "0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
     "decimals": 18,
-    "description": "-",
-    "website": "https://matryx.ai",
-    "explorer": "https://etherscan.io/token/0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
-    "status": "active",
-    "id": "0x0AF44e2784637218dD1D32A322D44e603A8f0c6A"
+    "coingecko_url": "https://www.coingecko.com/en/coins/matryx",
+    "market_cap_rank": 1613,
+    "24_hr_volume_usd": 145475,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0AF44e2784637218dD1D32A322D44e603A8f0c6A/logo.png"
 }

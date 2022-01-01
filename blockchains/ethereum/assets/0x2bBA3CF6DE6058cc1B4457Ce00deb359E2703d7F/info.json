@@ -1,11 +1,10 @@
 {
     "name": "HashCoin",
     "symbol": "HSC",
-    "type": "ERC20",
+    "id": "0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.hashfuture.io/#home",
-    "explorer": "https://etherscan.io/token/0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F",
-    "status": "active",
-    "id": "0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F"
+    "coingecko_url": "https://www.coingecko.com/en/coins/hashcoin",
+    "market_cap_rank": 2319,
+    "24_hr_volume_usd": 5429.21,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F/logo.png"
 }

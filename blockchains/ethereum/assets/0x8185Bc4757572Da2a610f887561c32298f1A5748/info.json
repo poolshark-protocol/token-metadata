@@ -1,11 +1,10 @@
 {
-    "name": "Aluna Token",
-    "website": "https://aluna.social",
-    "description": "Aluna Social - Multi-exchange Social Trading Terminal for Crypto Traders and Investors",
-    "explorer": "https://etherscan.io/token/0x8185Bc4757572Da2a610f887561c32298f1A5748",
-    "type": "ERC20",
+    "name": "Aluna",
     "symbol": "ALN",
+    "id": "0x8185Bc4757572Da2a610f887561c32298f1A5748",
     "decimals": 18,
-    "status": "active",
-    "id": "0x8185Bc4757572Da2a610f887561c32298f1A5748"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aluna",
+    "market_cap_rank": 2317,
+    "24_hr_volume_usd": 4550.99,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8185Bc4757572Da2a610f887561c32298f1A5748/logo.png"
 }

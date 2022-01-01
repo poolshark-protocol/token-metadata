@@ -1,11 +1,10 @@
 {
     "name": "Million",
-    "website": "https://milliontoken.org",
-    "description": "Million is a digital currency with 1,000,000 total supply. https://milliontoken.org",
-    "explorer": "https://etherscan.io/token/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
-    "type": "ERC20",
     "symbol": "MM",
+    "id": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
     "decimals": 18,
-    "status": "active",
-    "id": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611"
+    "coingecko_url": "https://www.coingecko.com/en/coins/million",
+    "market_cap_rank": 1163,
+    "24_hr_volume_usd": 223395,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611/logo.png"
 }

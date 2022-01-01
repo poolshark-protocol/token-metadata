@@ -1,25 +1,10 @@
 {
-    "name": "LUKSO",
-    "website": "https://lukso.network",
-    "description": "LUKSO is the Blockchain for the new digital lifestyle.",
-    "explorer": "https://etherscan.io/token/0xA8b919680258d369114910511cc87595aec0be6D",
-    "type": "ERC20",
+    "name": "LUKSO Token",
     "symbol": "LYXe",
-    "decimals": 18,
-    "status": "active",
     "id": "0xA8b919680258d369114910511cc87595aec0be6D",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/lukso_io"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/LUKSO"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/lukso"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lukso-token",
+    "market_cap_rank": 265,
+    "24_hr_volume_usd": 1600749,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA8b919680258d369114910511cc87595aec0be6D/logo.png"
 }

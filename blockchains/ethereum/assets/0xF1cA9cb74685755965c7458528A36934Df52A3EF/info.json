@@ -1,11 +1,10 @@
 {
     "name": "AVINOC Token",
     "symbol": "AVINOC",
-    "type": "ERC20",
+    "id": "0xF1cA9cb74685755965c7458528A36934Df52A3EF",
     "decimals": 18,
-    "description": "AVINOC is a consistent, integrated and permissionless base data layer for decentralized, transparent and worldwide coordination of business flights within the general aviation, to achieve optimal utilization and reduce costs significantly.",
-    "website": "https://www.avinoc.com/",
-    "explorer": "https://etherscan.io/token/0xF1cA9cb74685755965c7458528A36934Df52A3EF",
-    "status": "active",
-    "id": "0xF1cA9cb74685755965c7458528A36934Df52A3EF"
+    "coingecko_url": "https://www.coingecko.com/en/coins/avinoc",
+    "market_cap_rank": 808,
+    "24_hr_volume_usd": 229100,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF1cA9cb74685755965c7458528A36934Df52A3EF/logo.png"
 }

@@ -1,12 +1,10 @@
 {
-    "name": "The Sandbox",
-    "website": "https://sandbox.game/en",
-    "description": "The SAND token is an ERC-20 utility token that is used for value transfers as well as staking and governance.",
-    "explorer": "https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
-    "research": "https://research.binance.com/en/projects/the-sandbox",
-    "type": "ERC20",
+    "name": "SAND",
     "symbol": "SAND",
+    "id": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
     "decimals": 18,
-    "status": "active",
-    "id": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-sandbox",
+    "market_cap_rank": 34,
+    "24_hr_volume_usd": 1076065353,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3845badAde8e6dFF049820680d1F14bD3903a5d0/logo.png"
 }

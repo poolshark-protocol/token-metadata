@@ -1,11 +1,10 @@
 {
-    "name": "BitKan",
-    "website": "http://kan.land",
-    "description": "The KAN can be used and circulated in various scenarios to serve the community's value incentives and sharing economy, and ultimately construct the K Sites cryptocurrency ecological mechanism.",
-    "explorer": "https://etherscan.io/token/0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a",
-    "type": "ERC20",
+    "name": "KAN",
     "symbol": "KAN",
+    "id": "0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a",
     "decimals": 18,
-    "status": "active",
-    "id": "0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a"
+    "coingecko_url": "https://www.coingecko.com/en/coins/kan",
+    "market_cap_rank": 1252,
+    "24_hr_volume_usd": 100741,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1410434b0346f5bE678d0FB554E5c7ab620f8f4a/logo.png"
 }

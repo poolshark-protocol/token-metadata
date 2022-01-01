@@ -1,11 +1,10 @@
 {
     "name": "PayAccept",
-    "website": "https://payaccept.net",
-    "description": "PayAccept is revolutionizing the way you manage payments. We combine traditional and Decentralized Finance (DeFi) to offer access to fiat, cryptocurrency, lending, card issuance, payment solutions, and risk management services.",
-    "explorer": "https://etherscan.io/token/0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2",
-    "type": "ERC20",
     "symbol": "PAYT",
+    "id": "0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2",
     "decimals": 18,
-    "status": "active",
-    "id": "0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2"
+    "coingecko_url": "https://www.coingecko.com/en/coins/payaccept",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 94.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2/logo.png"
 }

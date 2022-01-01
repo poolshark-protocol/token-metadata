@@ -1,11 +1,10 @@
 {
     "name": "Blocery Token",
-    "website": "http://blocery.io",
-    "description": "Utility token used as a medium of motivation to participate and enhance economic activities within the Blocery Food Supply Chain Ecosystem.",
-    "explorer": "https://etherscan.io/token/0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
-    "type": "ERC20",
     "symbol": "BLY",
+    "id": "0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
     "decimals": 18,
-    "status": "active",
-    "id": "0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d"
+    "coingecko_url": "https://www.coingecko.com/en/coins/blocery",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 856397,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d/logo.png"
 }

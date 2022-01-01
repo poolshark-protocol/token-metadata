@@ -1,11 +1,10 @@
 {
-    "name": "Gastoken",
-    "type": "ERC20",
+    "name": "Gastoken.io",
     "symbol": "GST2",
+    "id": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
     "decimals": 2,
-    "website": "",
-    "description": "-",
-    "explorer": "https://etherscan.io/token/0x0000000000b3f879cb30fe243b4dfee438691c04",
-    "status": "active",
-    "id": "0x0000000000b3F879cb30FE243b4Dfee438691c04"
+    "coingecko_url": "https://www.coingecko.com/en/coins/gastoken",
+    "market_cap_rank": 3035,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0000000000b3F879cb30FE243b4Dfee438691c04/logo.png"
 }

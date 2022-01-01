@@ -1,33 +1,10 @@
 {
-    "name": "Huobi Token",
-    "website": "https://hbg.com",
-    "description": "Huobi Token (HT) is an exchange based token and native currency of the Huobi crypto exchange.",
-    "explorer": "https://etherscan.io/token/0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
-    "type": "ERC20",
+    "name": "HuobiToken",
     "symbol": "HT",
-    "decimals": 18,
-    "status": "active",
     "id": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/huobiproofficial"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/HUOBI_Pro"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/huobi.pro"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/huobi-global"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/huobi-token/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/huobi-token",
+    "market_cap_rank": 93,
+    "24_hr_volume_usd": 96517765,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6f259637dcD74C767781E37Bc6133cd6A68aa161/logo.png"
 }

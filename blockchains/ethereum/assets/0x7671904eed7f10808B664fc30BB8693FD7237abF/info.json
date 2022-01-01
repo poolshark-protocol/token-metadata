@@ -1,17 +1,10 @@
 {
-    "name": "BBR",
-    "website": "https://app.bbr.finance/",
-    "description": "New way of yield farming defi BITBERRY FINANCE",
-    "explorer": "https://etherscan.io/token/0x7671904eed7f10808b664fc30bb8693fd7237abf",
-    "type": "ERC20",
+    "name": "BitberryToken",
     "symbol": "BBR",
-    "decimals": 18,
-    "status": "active",
     "id": "0x7671904eed7f10808B664fc30BB8693FD7237abF",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bbr-defi/bbr-contracts"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitberry-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7671904eed7f10808B664fc30BB8693FD7237abF/logo.png"
 }

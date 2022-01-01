@@ -1,11 +1,11 @@
 {
     "name": "uDOO",
     "symbol": "uDOO",
-    "type": "ERC20",
+    "id": "0x12f649A9E821F90BB143089a6e56846945892ffB",
     "decimals": 18,
-    "description": "-",
-    "website": "http://www.hyprr.com/",
-    "explorer": "https://etherscan.io/token/0x12f649A9E821F90BB143089a6e56846945892ffB",
-    "status": "active",
-    "id": "0x12f649A9E821F90BB143089a6e56846945892ffB"
+    "coingecko_url": "https://www.coingecko.com/en/coins/howdoo",
+    "market_cap_rank": 1835,
+    "24_hr_volume_usd": 56009,
+    "public_notice": "Contract Address updated from 0x0df721639ca2f7ff0e1f618b918a65ffb199ac4e to 0x12f649a9e821f90bb143089a6e56846945892ffb",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x12f649A9E821F90BB143089a6e56846945892ffB/logo.png"
 }

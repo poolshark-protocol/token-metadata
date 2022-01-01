@@ -1,21 +1,10 @@
 {
-    "name": "CryptoLocally (GIV)",
-    "website": "https://cryptolocally.com/",
-    "description": "A non-custodial, smart contract powered P2P gateway to blockchain and DeFi",
-    "explorer": "https://etherscan.io/token/0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
-    "type": "ERC20",
+    "name": "GIVToken",
     "symbol": "GIV",
-    "decimals": 8,
-    "status": "active",
     "id": "0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/CryptoLocally/Resources"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://cryptolocally.com/en/blog/giv-whitepaper/"
-        }
-    ]
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/givly-coin",
+    "market_cap_rank": 2187,
+    "24_hr_volume_usd": 2352.89,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0/logo.png"
 }

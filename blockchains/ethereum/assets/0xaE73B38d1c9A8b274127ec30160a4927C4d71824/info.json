@@ -1,11 +1,10 @@
 {
     "name": "STK Token",
     "symbol": "STK",
-    "type": "ERC20",
+    "id": "0xaE73B38d1c9A8b274127ec30160a4927C4d71824",
     "decimals": 18,
-    "description": "STK (STK) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://stktoken.com",
-    "explorer": "https://etherscan.io/token/0xaE73B38d1c9A8b274127ec30160a4927C4d71824",
-    "status": "active",
-    "id": "0xaE73B38d1c9A8b274127ec30160a4927C4d71824"
+    "coingecko_url": "https://www.coingecko.com/en/coins/stk",
+    "market_cap_rank": 3207,
+    "24_hr_volume_usd": 14529.3,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaE73B38d1c9A8b274127ec30160a4927C4d71824/logo.png"
 }

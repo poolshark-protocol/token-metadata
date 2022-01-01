@@ -1,11 +1,10 @@
 {
     "name": "CustomContractNetwork",
     "symbol": "CCN",
-    "type": "ERC20",
+    "id": "0x17B26400621695c2D8C2D8869f6259E82D7544c4",
     "decimals": 18,
-    "description": "CCN is a company that provides smart contract development and auditing services to blockchain industries and individuals.",
-    "website": "https://www.customcontract.network/",
-    "explorer": "https://etherscan.io/token/0x17B26400621695c2D8C2D8869f6259E82D7544c4",
-    "status": "active",
-    "id": "0x17B26400621695c2D8C2D8869f6259E82D7544c4"
+    "coingecko_url": "https://www.coingecko.com/en/coins/custom-contract-network",
+    "market_cap_rank": 2378,
+    "24_hr_volume_usd": 0.570788,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x17B26400621695c2D8C2D8869f6259E82D7544c4/logo.png"
 }

@@ -1,11 +1,11 @@
 {
-    "name": "aleph.im ERC-20 v2",
-    "website": "https://aleph.im",
-    "description": "Aleph.im is a cross-blockchain layer-2 networkspecifically focused on decentralized applications and their related infrastructure (storage, computing servers, security).",
-    "explorer": "https://etherscan.io/token/0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
-    "type": "ERC20",
+    "name": "aleph.im v2",
     "symbol": "ALEPH",
+    "id": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
     "decimals": 18,
-    "status": "active",
-    "id": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aleph",
+    "market_cap_rank": 612,
+    "24_hr_volume_usd": 708951,
+    "public_notice": "<b>Notice 1</b>: ALEPH ERC20 tokens have been re-issued 1:1 via a new smart contract and distributed to existing ALEPH token holders at the snapshot height. New contract: 0x27702a26126e0b3702af63ee09ac4d1a084ef628 <br> <b>Notice 2</b>: We have received reports that Hotbit and Hoo.com have yet to migrate token contract address and has temporarily removed tracking on this page.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x27702a26126e0B3702af63Ee09aC4d1A084EF628/logo.png"
 }

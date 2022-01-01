@@ -1,12 +1,10 @@
 {
-    "name": "IDEX",
-    "website": "https://idex.market",
-    "description": "The IDEX token is the primary token of IDEX, enabling users to directly contribute to and benefit from the project.",
-    "explorer": "https://etherscan.io/token/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
-    "research": "https://research.binance.com/en/projects/idex",
-    "type": "ERC20",
+    "name": "IDEX Token",
     "symbol": "IDEX",
+    "id": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
     "decimals": 18,
-    "status": "active",
-    "id": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aurora-dao",
+    "market_cap_rank": 361,
+    "24_hr_volume_usd": 6810027,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE/logo.png"
 }

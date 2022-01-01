@@ -1,17 +1,11 @@
 {
     "name": "Foresight",
-    "website": "https://foresightdefi.io",
-    "description": "Foresight provides DAO-Governed Cryptocurrency Insurance.",
-    "explorer": "https://etherscan.io/token/0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215",
-    "type": "ERC20",
     "symbol": "FORS",
-    "decimals": 18,
-    "status": "active",
     "id": "0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://foresightdefi.io/Foresight-Litepaper.pdf"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/foresight",
+    "market_cap_rank": 3041,
+    "24_hr_volume_usd": 29.1,
+    "public_notice": "Foresight is closing down. Refer to https://t.me/ForeSightCrypto/15621",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb1EC548F296270BC96B8A1b3b3C8F3f04b494215/logo.png"
 }

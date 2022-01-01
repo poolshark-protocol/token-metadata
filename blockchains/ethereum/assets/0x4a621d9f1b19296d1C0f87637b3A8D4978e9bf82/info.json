@@ -1,29 +1,11 @@
 {
     "name": "CyberFM Radio",
-    "website": "https://cyber-fm.com",
-    "description": "Utility token to reward Radio listeners and is 1 of 2 in the DLPRO Dual Token Economy.",
-    "explorer": "https://etherscan.io/token/0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82",
-    "type": "ERC20",
     "symbol": "CYFM",
-    "decimals": 18,
-    "status": "active",
     "id": "0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/CyberFM/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/CyberFM"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mftudotnet"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/cyberfm"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cyberfm",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 61.08,
+    "public_notice": "Note: Price displayed for CYFM represents an aggregated average across CYFM trading pairs available across ETH, BSC and TRON networks. For more information. please refer to the team at https://t.me/mftudotnet",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82/logo.png"
 }

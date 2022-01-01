@@ -1,11 +1,10 @@
 {
     "name": "Evedo Token",
     "symbol": "EVED",
-    "type": "ERC20",
+    "id": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
     "decimals": 18,
-    "description": "Evedo is a blockchain based platform, consisting of B2B & B2C Marketplaces. It unifies all businesses and participants involved in organizing events.",
-    "website": "https://www.evedo.co",
-    "explorer": "https://etherscan.io/token/0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
-    "status": "active",
-    "id": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd"
+    "coingecko_url": "https://www.coingecko.com/en/coins/evedo",
+    "market_cap_rank": 2129,
+    "24_hr_volume_usd": 960790,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd/logo.png"
 }

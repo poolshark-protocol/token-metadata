@@ -1,11 +1,10 @@
 {
-    "name": "DOGEFI Token",
-    "website": "https://dogefi.army",
-    "description": "Utility token to increase adoption of cryptocurrency.",
-    "explorer": "https://etherscan.io/token/0x9B9087756eCa997C5D595C840263001c9a26646D",
-    "type": "ERC20",
+    "name": "DOGEFI",
     "symbol": "DOGEFI",
+    "id": "0x9B9087756eCa997C5D595C840263001c9a26646D",
     "decimals": 18,
-    "status": "active",
-    "id": "0x9B9087756eCa997C5D595C840263001c9a26646D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/dogefi",
+    "market_cap_rank": 2949,
+    "24_hr_volume_usd": 10872.73,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9B9087756eCa997C5D595C840263001c9a26646D/logo.png"
 }

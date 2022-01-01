@@ -1,11 +1,10 @@
 {
-    "name": "GenShards",
-    "website": "https://genshards.com",
-    "description": "Genesis Shards transforms NFTs into a liquidity vehicle for Pre-IDO tokens and a whole new suite of DeFi products across multiple blockchains.",
-    "explorer": "https://etherscan.io/token/0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112",
-    "type": "ERC20",
+    "name": "Gen Shards",
     "symbol": "GS",
+    "id": "0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112",
     "decimals": 18,
-    "status": "active",
-    "id": "0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112"
+    "coingecko_url": "https://www.coingecko.com/en/coins/genesis-shards",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4781.34,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe0B9a2C3E9f40CF74B2C7F591B2b0CCa055c3112/logo.png"
 }

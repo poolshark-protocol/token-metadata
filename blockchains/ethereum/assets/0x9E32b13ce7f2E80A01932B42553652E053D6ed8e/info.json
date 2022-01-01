@@ -1,11 +1,10 @@
 {
-    "id": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
     "name": "Metis Token",
-    "website": "https://metis.io",
-    "description": "Metis Token",
-    "explorer": "https://etherscan.io/token/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
-    "type": "ERC20",
     "symbol": "Metis",
+    "id": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
     "decimals": 18,
-    "status": "active"
+    "coingecko_url": "https://www.coingecko.com/en/coins/metis-token",
+    "market_cap_rank": 234,
+    "24_hr_volume_usd": 73680570,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e/logo.png"
 }

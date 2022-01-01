@@ -1,11 +1,10 @@
 {
     "name": "HitchainCoin",
     "symbol": "HIT",
-    "type": "ERC20",
+    "id": "0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
     "decimals": 6,
-    "description": "HitChain is a decentralized and collaborative community built to value developers’ works with a transparent credit system using blockchain technology. It is a community of the developers, by the developers, for the developers.",
-    "website": "http://hitchain.org/index.html",
-    "explorer": "https://etherscan.io/token/0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
-    "status": "active",
-    "id": "0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566"
+    "coingecko_url": "https://www.coingecko.com/en/coins/hitchain",
+    "market_cap_rank": 1761,
+    "24_hr_volume_usd": 301809,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566/logo.png"
 }

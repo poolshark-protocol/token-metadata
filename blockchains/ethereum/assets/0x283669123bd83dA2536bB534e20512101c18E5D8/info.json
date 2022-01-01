@@ -1,11 +1,10 @@
 {
     "name": "Bitpayer Token",
     "symbol": "BPT",
-    "type": "ERC20",
+    "id": "0x283669123bd83dA2536bB534e20512101c18E5D8",
     "decimals": 9,
-    "description": "Bitpayer is a decentralized trading platform that lets you trade Ethereum and Ethereum-based tokens directly with other users. It is the first digital assets decentralised exchange that shares profits with all users.",
-    "website": "https://bitpayer.io/",
-    "explorer": "https://etherscan.io/token/0x283669123bd83dA2536bB534e20512101c18E5D8",
-    "status": "active",
-    "id": "0x283669123bd83dA2536bB534e20512101c18E5D8"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitplayer-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 156.88,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x283669123bd83dA2536bB534e20512101c18E5D8/logo.png"
 }

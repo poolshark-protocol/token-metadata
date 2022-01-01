@@ -1,11 +1,10 @@
 {
     "name": "Swag Token",
-    "website": "https://swag.finance",
-    "description": "Decentralizing the Global Adult Entertainment Industry",
-    "explorer": "https://etherscan.io/token/0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
-    "type": "ERC20",
     "symbol": "SWAG",
+    "id": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
     "decimals": 18,
-    "status": "active",
-    "id": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6"
+    "coingecko_url": "https://www.coingecko.com/en/coins/swag-finance",
+    "market_cap_rank": 1993,
+    "24_hr_volume_usd": 8.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6/logo.png"
 }

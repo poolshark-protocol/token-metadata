@@ -1,11 +1,10 @@
 {
     "name": "ABX Token",
     "symbol": "ABX",
-    "type": "ERC20",
+    "id": "0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E",
     "decimals": 18,
-    "description": "A blockchain powered trading platform that integrates crypto assets from multiple exchanges.",
-    "website": "https://www.arbidex.uk.com/",
-    "explorer": "https://etherscan.io/token/0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E",
-    "status": "active",
-    "id": "0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E"
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbidex",
+    "market_cap_rank": 3183,
+    "24_hr_volume_usd": 67658,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9a794Dc1939F1d78fa48613b89B8f9d0A20dA00E/logo.png"
 }

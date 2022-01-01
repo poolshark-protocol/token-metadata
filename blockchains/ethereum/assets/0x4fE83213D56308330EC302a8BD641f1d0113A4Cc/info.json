@@ -1,33 +1,10 @@
 {
     "name": "NuCypher",
-    "type": "ERC20",
     "symbol": "NU",
-    "decimals": 18,
-    "website": "https://www.nucypher.com/",
-    "description": "NuCypher is a decentralized threshold cryptography network.",
-    "explorer": "https://etherscan.io/token/0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
-    "status": "active",
     "id": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/nucypher/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/nucypher"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/nucypher"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/nucypher/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/nucypher/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nucypher",
+    "market_cap_rank": 181,
+    "24_hr_volume_usd": 28024674,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4fE83213D56308330EC302a8BD641f1d0113A4Cc/logo.png"
 }

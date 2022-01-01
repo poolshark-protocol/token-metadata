@@ -1,11 +1,10 @@
 {
     "name": "reflect.finance",
-    "website": "https://reflect.finance",
-    "description": "Frictionless Yield Generation. Hold and Earn.",
-    "explorer": "https://etherscan.io/token/0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7",
-    "type": "ERC20",
     "symbol": "RFI",
+    "id": "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7",
     "decimals": 9,
-    "status": "active",
-    "id": "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7"
+    "coingecko_url": "https://www.coingecko.com/en/coins/reflect-finance",
+    "market_cap_rank": 2725,
+    "24_hr_volume_usd": 7443.93,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7/logo.png"
 }

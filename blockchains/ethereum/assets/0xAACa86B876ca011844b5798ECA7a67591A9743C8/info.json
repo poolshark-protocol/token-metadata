@@ -1,11 +1,10 @@
 {
     "name": "BIOS",
-    "type": "ERC20",
     "symbol": "BIOS",
+    "id": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
     "decimals": 18,
-    "website": "https://www.0xnodes.io",
-    "description": "The utility token in the 0x_nodes ecosystem.",
-    "explorer": "https://etherscan.io/token/0xAACa86B876ca011844b5798ECA7a67591A9743C8",
-    "status": "active",
-    "id": "0xAACa86B876ca011844b5798ECA7a67591A9743C8"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bios",
+    "market_cap_rank": 997,
+    "24_hr_volume_usd": 281097,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAACa86B876ca011844b5798ECA7a67591A9743C8/logo.png"
 }

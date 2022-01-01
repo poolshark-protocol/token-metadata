@@ -1,11 +1,10 @@
 {
     "name": "AC eXchange Token",
-    "website": "https://www.acdx.io",
-    "description": "-",
-    "explorer": "https://etherscan.io/token/0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D",
-    "type": "ERC20",
     "symbol": "ACXT",
+    "id": "0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D",
     "decimals": 18,
-    "status": "active",
-    "id": "0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/ac-exchange-token",
+    "market_cap_rank": 2741,
+    "24_hr_volume_usd": 1563.44,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7bE00ed6796B21656732E8f739Fc1b8F1C53DA0D/logo.png"
 }

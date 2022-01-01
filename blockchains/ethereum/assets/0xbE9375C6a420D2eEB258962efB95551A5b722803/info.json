@@ -1,25 +1,11 @@
 {
-    "name": "StormX Token",
-    "website": "https://stormx.io",
-    "description": "Earn crypto when you shop online.",
-    "explorer": "https://etherscan.io/token/0xbe9375c6a420d2eeb258962efb95551a5b722803",
-    "type": "ERC20",
+    "name": "StormX",
     "symbol": "STMX",
-    "decimals": 18,
-    "status": "active",
     "id": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Stormxio"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/stormxapp"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/stormxio/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/storm",
+    "market_cap_rank": 322,
+    "24_hr_volume_usd": 3494881,
+    "public_notice": "Token has swapped to StormX (STMX) for more details : https://blog.stormtoken.com/token-swap-technicality-19211f23c9b9",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbE9375C6a420D2eEB258962efB95551A5b722803/logo.png"
 }

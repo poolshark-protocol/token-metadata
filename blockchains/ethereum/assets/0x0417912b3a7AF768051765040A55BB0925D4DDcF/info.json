@@ -1,11 +1,10 @@
 {
     "name": "Liquidity Dividends Protocol",
     "symbol": "LID",
-    "type": "ERC20",
+    "id": "0x0417912b3a7AF768051765040A55BB0925D4DDcF",
     "decimals": 18,
-    "description": "The Liquidity Dividends Protocol uses new technology that provides solutions for depositing liquidity into Uniswap while also offering a social rewards based staking system.",
-    "website": "https://www.lid.sh",
-    "explorer": "https://etherscan.io/token/0x0417912b3a7AF768051765040A55BB0925D4DDcF",
-    "status": "active",
-    "id": "0x0417912b3a7AF768051765040A55BB0925D4DDcF"
+    "coingecko_url": "https://www.coingecko.com/en/coins/liquidity-dividends-protocol",
+    "market_cap_rank": 2948,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0417912b3a7AF768051765040A55BB0925D4DDcF/logo.png"
 }

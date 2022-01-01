@@ -1,11 +1,10 @@
 {
     "name": "district0x Network Token",
     "symbol": "DNT",
-    "type": "ERC20",
+    "id": "0x0AbdAce70D3790235af448C88547603b945604ea",
     "decimals": 18,
-    "description": "Billed as a network of decentralized markets and communities",
-    "website": "https://district0x.io/",
-    "explorer": "https://etherscan.io/token/0x0AbdAce70D3790235af448C88547603b945604ea",
-    "status": "active",
-    "id": "0x0AbdAce70D3790235af448C88547603b945604ea"
+    "coingecko_url": "https://www.coingecko.com/en/coins/district0x",
+    "market_cap_rank": 473,
+    "24_hr_volume_usd": 3424002,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0AbdAce70D3790235af448C88547603b945604ea/logo.png"
 }

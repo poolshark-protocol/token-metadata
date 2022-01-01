@@ -1,12 +1,10 @@
 {
-    "name": "DeFi Pulse Index",
-    "website": "http://tokensets.com/portfolio/dpi",
-    "description": "A basket created by DeFiPulse of the top DeFi tokens by market cap. The DPI Set is rebalanced monthly to realign to its market cap weighted index.",
-    "explorer": "https://etherscan.io/token/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
-    "research": "https://defipulse.com/",
-    "type": "ERC20",
+    "name": "DefiPulse Index",
     "symbol": "DPI",
+    "id": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
     "decimals": 18,
-    "status": "active",
-    "id": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b"
+    "coingecko_url": "https://www.coingecko.com/en/coins/defipulse-index",
+    "market_cap_rank": 372,
+    "24_hr_volume_usd": 2555079,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b/logo.png"
 }

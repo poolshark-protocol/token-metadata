@@ -1,37 +1,10 @@
 {
-    "name": "ARMOR",
-    "website": "https://armor.fi",
-    "description": "Armor is a DeFi coverage aggregator to secure and scale adoption.",
-    "explorer": "https://etherscan.io/token/0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a",
-    "type": "ERC20",
+    "name": "Armor",
     "symbol": "ARMOR",
-    "decimals": 18,
-    "status": "active",
     "id": "0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ArmorFi"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/ArmorFi"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ArmorFi"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/8HuTB22"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/armorfi"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://armorfi.gitbook.io/armor/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/armor",
+    "market_cap_rank": 1230,
+    "24_hr_volume_usd": 217341,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a/logo.png"
 }

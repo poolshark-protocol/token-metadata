@@ -1,15 +1,10 @@
 {
-    "name": "Injective Protocol",
-    "website": "https://injectiveprotocol.com",
-    "description": "The Universal Layer-2 DeFi Protocol for Cross-Chain Derivatives Trading.",
-    "explorer": "https://etherscan.io/token/0xe28b3b32b6c345a34ff64674606124dd5aceca30",
-    "research": "https://research.binance.com/en/projects/injective-protocol",
-    "type": "ERC20",
+    "name": "Injective Token",
     "symbol": "INJ",
-    "decimals": 18,
-    "status": "active",
     "id": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
-    "tags": [
-        "defi"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/injective-protocol",
+    "market_cap_rank": 218,
+    "24_hr_volume_usd": 10734178,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30/logo.png"
 }

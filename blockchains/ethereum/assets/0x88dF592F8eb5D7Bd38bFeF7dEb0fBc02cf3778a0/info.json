@@ -1,11 +1,11 @@
 {
-    "name": "Tellor",
-    "website": "https://tellor.io",
-    "description": "Tellor (a decentralized oracle) aims to address the Oracle problem on Ethereum.",
-    "explorer": "https://etherscan.io/token/0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
-    "type": "ERC20",
+    "name": "Tellor Tributes",
     "symbol": "TRB",
+    "id": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
     "decimals": 18,
-    "status": "active",
-    "id": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0"
+    "coingecko_url": "https://www.coingecko.com/en/coins/tellor",
+    "market_cap_rank": 536,
+    "24_hr_volume_usd": 7989311,
+    "public_notice": "Tellor Tributes token contract has migrated from 0x0ba45a8b5d5575935b8158a88c631e9f9c95a2e5 to 0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0 .Read more at https://medium.com/tellor/trb-migration-fd8ebe320b02",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0/logo.png"
 }

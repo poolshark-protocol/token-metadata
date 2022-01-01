@@ -1,11 +1,10 @@
 {
     "name": "AmonD",
     "symbol": "AMON",
-    "type": "ERC20",
+    "id": "0x00059AE69c1622A7542EdC15E8d17b060fE307b6",
     "decimals": 18,
-    "description": "-",
-    "website": "http://www.amond.cc/",
-    "explorer": "https://etherscan.io/token/0x00059AE69c1622A7542EdC15E8d17b060fE307b6",
-    "status": "active",
-    "id": "0x00059AE69c1622A7542EdC15E8d17b060fE307b6"
+    "coingecko_url": "https://www.coingecko.com/en/coins/amond",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2933.36,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x00059AE69c1622A7542EdC15E8d17b060fE307b6/logo.png"
 }

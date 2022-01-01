@@ -1,33 +1,11 @@
 {
-    "name": "Frontier",
-    "website": "https://frontier.xyz/",
-    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, best-rate asset swapping, liquidity provision, CDP creation & monitoring, and more.",
-    "explorer": "https://etherscan.io/token/0xf8C3527CC04340b208C854E985240c02F7B7793f",
-    "type": "ERC20",
+    "name": "Frontier Token",
     "symbol": "FRONT",
-    "decimals": 18,
-    "status": "active",
     "id": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/frontierwallet"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/FrontierDotXYZ"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/FrontierDotXYZ"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/frontier/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/frontier-token/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/frontier-token",
+    "market_cap_rank": 676,
+    "24_hr_volume_usd": 7324846,
+    "public_notice": "Frontier (FRONT) has burned off its 10% team supply, worth $17.5M USD.<br>For more information: https://twitter.com/FrontierDotXYZ/status/1436693242611785733",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf8C3527CC04340b208C854E985240c02F7B7793f/logo.png"
 }

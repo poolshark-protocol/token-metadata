@@ -1,11 +1,10 @@
 {
     "name": "Minereum",
-    "website": "https://minereum.com/",
-    "description": "Minereum Official",
-    "explorer": "https://etherscan.io/token/0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
-    "type": "ERC20",
     "symbol": "MNE",
+    "id": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
     "decimals": 8,
-    "status": "active",
-    "id": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0"
+    "coingecko_url": "https://www.coingecko.com/en/coins/minereum",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 31889,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x426CA1eA2406c07d75Db9585F22781c096e3d0E0/logo.png"
 }

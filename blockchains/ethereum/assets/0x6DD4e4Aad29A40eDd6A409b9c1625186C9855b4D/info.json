@@ -1,11 +1,10 @@
 {
     "name": "GENE TOKEN (PARKGENE)",
     "symbol": "GENE",
-    "type": "ERC20",
+    "id": "0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D",
     "decimals": 8,
-    "description": "Parkgene (GENE) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://parkgene.io",
-    "explorer": "https://etherscan.io/token/0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D",
-    "status": "active",
-    "id": "0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/parkgene",
+    "market_cap_rank": 2780,
+    "24_hr_volume_usd": 429.15,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6DD4e4Aad29A40eDd6A409b9c1625186C9855b4D/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "MyBit",
     "symbol": "MYB",
-    "type": "ERC20",
+    "id": "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC",
     "decimals": 18,
-    "description": "Our vision is creating a future where people don't have to work and machines pay humans.",
-    "website": "https://mybit.io/",
-    "explorer": "https://etherscan.io/token/0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC",
-    "status": "active",
-    "id": "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mybit-token",
+    "market_cap_rank": 3511,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC/logo.png"
 }

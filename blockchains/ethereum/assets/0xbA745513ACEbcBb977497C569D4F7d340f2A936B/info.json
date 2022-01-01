@@ -1,25 +1,11 @@
 {
     "name": "Mainstream For The Underground",
-    "website": "https://mftu.net",
-    "description": "Utility token to pay Independent Musicians as a Distributed Ledger Performance Rights Organization.",
-    "explorer": "https://etherscan.io/token/0xbA745513ACEbcBb977497C569D4F7d340f2A936B",
-    "type": "ERC20",
     "symbol": "MFTU",
-    "decimals": 18,
-    "status": "active",
     "id": "0xbA745513ACEbcBb977497C569D4F7d340f2A936B",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/CyberFM/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Mainstream For The Underground"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mftudotnet"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mainstream-for-the-underground",
+    "market_cap_rank": 3431,
+    "24_hr_volume_usd": 3796.07,
+    "public_notice": "MFTU is being swapped. More information can be found here: https://medium.com/@doyoumftu/the-great-correction-after-the-election-c13ce383f1a8",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbA745513ACEbcBb977497C569D4F7d340f2A936B/logo.png"
 }

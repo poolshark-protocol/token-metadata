@@ -1,11 +1,10 @@
 {
     "name": "3X Short Bitcoin Cash Token",
     "symbol": "BCHBEAR",
-    "type": "ERC20",
+    "id": "0xa9fC65Da36064cE545e87690e06f5de10C52C690",
     "decimals": 18,
-    "description": "3X Short Bitcoin Cash Token (BCHBEAR) is an ERC20 token which seeks a return that corresponds to -3 times the daily return of Bitcoin Cash.",
-    "website": "https://ftx.com/tokens/BCHBEAR",
-    "explorer": "https://etherscan.io/token/0xa9fC65Da36064cE545e87690e06f5de10C52C690",
-    "status": "active",
-    "id": "0xa9fC65Da36064cE545e87690e06f5de10C52C690"
+    "coingecko_url": "https://www.coingecko.com/en/coins/3x-short-bitcoin-cash-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2561.11,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa9fC65Da36064cE545e87690e06f5de10C52C690/logo.png"
 }

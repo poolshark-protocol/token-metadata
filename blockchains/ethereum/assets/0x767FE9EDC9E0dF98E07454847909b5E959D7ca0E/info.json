@@ -1,11 +1,10 @@
 {
     "name": "Illuvium",
     "symbol": "ILV",
-    "type": "ERC20",
+    "id": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
     "decimals": 18,
-    "description": "Illuvium is a decentralized gaming studio that merges online gaming with cryptocurrency.",
-    "website": "https://illuvium.io",
-    "explorer": "https://etherscan.io/token/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
-    "status": "active",
-    "id": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E"
+    "coingecko_url": "https://www.coingecko.com/en/coins/illuvium",
+    "market_cap_rank": 159,
+    "24_hr_volume_usd": 25454991,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E/logo.png"
 }

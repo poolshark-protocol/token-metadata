@@ -1,11 +1,10 @@
 {
     "name": "PYRO Network",
     "symbol": "PYRO",
-    "type": "ERC20",
+    "id": "0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217",
     "decimals": 18,
-    "description": "-",
-    "website": "https://pyro.network/",
-    "explorer": "https://etherscan.io/token/0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217",
-    "status": "active",
-    "id": "0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217"
+    "coingecko_url": "https://www.coingecko.com/en/coins/pyro-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 15.03,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x14409B0Fc5C7f87b5DAd20754fE22d29A3dE8217/logo.png"
 }

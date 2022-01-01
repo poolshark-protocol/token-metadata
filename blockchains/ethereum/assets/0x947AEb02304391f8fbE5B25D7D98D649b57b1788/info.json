@@ -1,11 +1,10 @@
 {
-    "name": "Mandala Exchange Token",
-    "website": "https://www.mandala.exchange",
-    "description": "Mandala Exchange users can unlock platform enhancements and receive trading fee rebates by locking MDX on the platform.",
-    "explorer": "https://etherscan.io/token/0x947aeb02304391f8fbe5b25d7d98d649b57b1788",
-    "type": "ERC20",
+    "name": "MANDALA EXCHANGE TOKEN",
     "symbol": "MDX",
+    "id": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
     "decimals": 18,
-    "status": "active",
-    "id": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mandala-exchange-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4459.82,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x947AEb02304391f8fbE5B25D7D98D649b57b1788/logo.png"
 }

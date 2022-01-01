@@ -1,11 +1,11 @@
 {
     "name": "Mainframe Token",
     "symbol": "MFT",
-    "type": "ERC20",
+    "id": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
     "decimals": 18,
-    "description": "Mainframe is the platform for decentralized applications. Resistant to censorship, surveillance, and disruption, the Mainframe network enables any application to send data, store files, manage payments, run tasks, and more.",
-    "website": "https://mainframe.com/",
-    "explorer": "https://etherscan.io/token/0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
-    "status": "active",
-    "id": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mainframe",
+    "market_cap_rank": 521,
+    "24_hr_volume_usd": 2093382,
+    "public_notice": "Mainframe is rebranding to Hifi Finance, and a token swap will be conducted. Read here for more info: https://blog.mainframe.com/mainframerebrand-5cb034c26e42?gi=9024ce14e0b4",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDF2C7238198Ad8B389666574f2d8bc411A4b7428/logo.png"
 }

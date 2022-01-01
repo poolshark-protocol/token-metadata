@@ -1,11 +1,10 @@
 {
-    "name": "Public Mint Token",
-    "website": "https://publicmint.com",
-    "description": "Public Mint offers a fiat-native blockchain platform open for anyone to build fiat-native applications and accept credit cards, ACH, stablecoins, wire transfers and more.",
-    "explorer": "https://etherscan.io/token/0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
-    "type": "ERC20",
+    "name": "Public Mint",
     "symbol": "MINT",
+    "id": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
     "decimals": 18,
-    "status": "active",
-    "id": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059"
+    "coingecko_url": "https://www.coingecko.com/en/coins/public-mint",
+    "market_cap_rank": 1260,
+    "24_hr_volume_usd": 251468,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0CDF9acd87E940837ff21BB40c9fd55F68bba059/logo.png"
 }

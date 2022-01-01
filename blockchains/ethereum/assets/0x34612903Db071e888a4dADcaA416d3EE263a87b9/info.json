@@ -1,17 +1,11 @@
 {
-    "name": "ETHITEM",
-    "website": "https://ethitem.com",
-    "description": "The voting token of the on-chain organization ETHITEM",
-    "explorer": "https://etherscan.io/token/0x34612903Db071e888a4dADcaA416d3EE263a87b9",
-    "type": "ERC20",
+    "name": "ethart",
     "symbol": "arte",
-    "decimals": 18,
-    "status": "active",
     "id": "0x34612903Db071e888a4dADcaA416d3EE263a87b9",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/b-u-i-d-l/ETHITEM"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethart",
+    "market_cap_rank": 1808,
+    "24_hr_volume_usd": 35100,
+    "public_notice": "BUIDL, ARTE and UniFi have merged to become OS. https://ethos.eth.link/os.html",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x34612903Db071e888a4dADcaA416d3EE263a87b9/logo.png"
 }

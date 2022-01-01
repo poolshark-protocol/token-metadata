@@ -1,11 +1,10 @@
 {
-    "name": "Aave GUSD",
+    "name": "Aave interest bearing GUSD",
     "symbol": "aGUSD",
-    "type": "ERC20",
+    "id": "0xD37EE7e4f452C6638c96536e68090De8cBcdb583",
     "decimals": 2,
-    "description": "Aave GUSD is an interest bearing token pegged 1:1 to the underlying GUSD deposited in Aave. aGUSD accrue interest in real time in your wallet.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0xD37EE7e4f452C6638c96536e68090De8cBcdb583",
-    "status": "active",
-    "id": "0xD37EE7e4f452C6638c96536e68090De8cBcdb583"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-gusd",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD37EE7e4f452C6638c96536e68090De8cBcdb583/logo.png"
 }

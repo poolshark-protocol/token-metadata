@@ -1,11 +1,10 @@
 {
     "name": "SparkPoint",
     "symbol": "SRK",
-    "type": "ERC20",
+    "id": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
     "decimals": 18,
-    "description": "SparkPoint Ecosystem is a decentralized payment gateway with integrated crypto exchanges, blockchain based e-learning, gaming, and online store.",
-    "website": "https://www.sparkpoint.io/",
-    "explorer": "https://etherscan.io/token/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
-    "status": "active",
-    "id": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6"
+    "coingecko_url": "https://www.coingecko.com/en/coins/sparkpoint",
+    "market_cap_rank": 1074,
+    "24_hr_volume_usd": 558473,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6/logo.png"
 }

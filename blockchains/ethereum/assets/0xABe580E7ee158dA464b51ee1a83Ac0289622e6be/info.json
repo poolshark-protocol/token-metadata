@@ -1,11 +1,10 @@
 {
     "name": "Offshift",
     "symbol": "XFT",
-    "type": "ERC20",
+    "id": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
     "decimals": 18,
-    "description": "Offshift is a cryptographically private offshore storage & DeFi protocol on Ethereum.",
-    "website": "https://offshift.io",
-    "explorer": "https://etherscan.io/token/0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
-    "status": "active",
-    "id": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be"
+    "coingecko_url": "https://www.coingecko.com/en/coins/offshift",
+    "market_cap_rank": 722,
+    "24_hr_volume_usd": 6943009,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xABe580E7ee158dA464b51ee1a83Ac0289622e6be/logo.png"
 }

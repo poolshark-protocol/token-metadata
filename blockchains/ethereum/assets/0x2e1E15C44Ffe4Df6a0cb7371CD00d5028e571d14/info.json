@@ -1,37 +1,10 @@
 {
     "name": "Mettalex",
-    "website": "https://mettalex.com/",
-    "description": "Mettalex is a capital-efficient commodity derivatives DEX featuring unique market pairs, autonomous market making, banded trading, one-sided liquidity provision, and MTLX-based governance.",
-    "explorer": "https://etherscan.io/token/0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
-    "type": "ERC20",
     "symbol": "MTLX",
-    "decimals": 18,
-    "status": "active",
     "id": "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/fetchai/mettalex-market-maker"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Mettalex"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mettalex_official_news"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/zvWqGEaykD"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/channel/UCrEQK_X2Vm1kCtftlRoodXA"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/mettalex"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mettalex",
+    "market_cap_rank": 1633,
+    "24_hr_volume_usd": 150189,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14/logo.png"
 }

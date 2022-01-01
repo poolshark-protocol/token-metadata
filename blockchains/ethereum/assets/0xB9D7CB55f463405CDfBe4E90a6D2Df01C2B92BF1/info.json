@@ -1,11 +1,10 @@
 {
-    "name": "Aave UNI",
+    "name": "Aave interest bearing UNI",
     "symbol": "aUNI",
-    "type": "ERC20",
+    "id": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
     "decimals": 18,
-    "description": "Aave UNI is an interest bearing token pegged 1:1 to the underlying UNI deposited in Aave. aUNI accrue interest in real time in your wallet.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
-    "status": "active",
-    "id": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-uni",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1/logo.png"
 }

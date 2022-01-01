@@ -1,21 +1,10 @@
 {
-    "name": "APY.Finance",
-    "website": "https://apy.finance",
-    "description": "Yield Farming Robo-Advisor",
-    "explorer": "https://etherscan.io/token/0x95a4492F028aa1fd432Ea71146b433E7B4446611",
-    "type": "ERC20",
+    "name": "APY Governance Token",
     "symbol": "APY",
-    "decimals": 18,
-    "status": "active",
     "id": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/apy-finance"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docs.apy.finance/whitepaper/litepaper"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apy-finance",
+    "market_cap_rank": 1075,
+    "24_hr_volume_usd": 209230,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95a4492F028aa1fd432Ea71146b433E7B4446611/logo.png"
 }

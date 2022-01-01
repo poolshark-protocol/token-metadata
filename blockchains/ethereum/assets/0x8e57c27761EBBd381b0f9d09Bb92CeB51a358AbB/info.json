@@ -1,11 +1,10 @@
 {
     "name": "extraDNA",
     "symbol": "xDNA",
-    "type": "ERC20",
+    "id": "0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
     "decimals": 18,
-    "description": "Adaptive Social Media System.",
-    "website": "https://xhumanity.org",
-    "explorer": "https://etherscan.io/token/0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
-    "status": "active",
-    "id": "0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB"
+    "coingecko_url": "https://www.coingecko.com/en/coins/extradna",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 74898,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB/logo.png"
 }

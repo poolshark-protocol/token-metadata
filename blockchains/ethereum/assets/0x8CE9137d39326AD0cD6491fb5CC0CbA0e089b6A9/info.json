@@ -1,15 +1,10 @@
 {
     "name": "Swipe",
-    "website": "https://swipe.io/token",
-    "description": "Swipe Token is a utility token designed to be the gas and fuel of the Swipe Wallet and Swipe Card.",
-    "explorer": "https://etherscan.io/token/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
-    "research": "https://research.binance.com/en/projects/swipe",
-    "type": "ERC20",
     "symbol": "SXP",
-    "decimals": 18,
-    "status": "active",
     "id": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
-    "tags": [
-        "defi"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/swipe",
+    "market_cap_rank": 203,
+    "24_hr_volume_usd": 597827106,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9/logo.png"
 }

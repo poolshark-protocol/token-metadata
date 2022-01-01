@@ -1,11 +1,11 @@
 {
-    "name": "ADD.xyz",
+    "name": "ADD",
     "symbol": "ADD",
-    "type": "ERC20",
+    "id": "0x635d081fD8F6670135D8a3640E2cF78220787d56",
     "decimals": 18,
-    "description": "ADD.xyz is a full-stack DeFi aggregator, plugging in multiple products and DeFi applications into one single platform, focusing on User Experience, Design, Privacy and Anonymity.",
-    "website": "https://ADD.xyz",
-    "explorer": "https://etherscan.io/token/0x635d081fd8f6670135d8a3640e2cf78220787d56",
-    "status": "active",
-    "id": "0x635d081fD8F6670135D8a3640E2cF78220787d56"
+    "coingecko_url": "https://www.coingecko.com/en/coins/add-xyz-new",
+    "market_cap_rank": 2289,
+    "24_hr_volume_usd": 7.24,
+    "public_notice": "Project migrated from old address (https://www.coingecko.com/en/coins/add-xyz-old) to current new contract address",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x635d081fD8F6670135D8a3640E2cF78220787d56/logo.png"
 }

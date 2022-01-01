@@ -1,11 +1,10 @@
 {
     "name": "APM Coin",
     "symbol": "APM",
-    "type": "ERC20",
+    "id": "0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
     "decimals": 18,
-    "description": "apM Coin is a blockchain-based customer reward management and payment platform which aims to improve efficiency and credibility of business transactions between wholesalers and buyers.",
-    "website": "https://apm-coin.com",
-    "explorer": "https://etherscan.io/token/0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
-    "status": "active",
-    "id": "0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c"
+    "coingecko_url": "https://www.coingecko.com/en/coins/apm-coin",
+    "market_cap_rank": 1142,
+    "24_hr_volume_usd": 280297,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c/logo.png"
 }

@@ -1,11 +1,10 @@
 {
-    "name": "CREED",
-    "website": "https://creed.finance",
-    "description": "Every time you stake and unstake LP tokens, the contract will automatically harvest CREED rewards for you",
-    "explorer": "https://etherscan.io/token/0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
-    "type": "ERC20",
+    "name": "CreedToken",
     "symbol": "CREED",
+    "id": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad",
     "decimals": 18,
-    "status": "active",
-    "id": "0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad"
+    "coingecko_url": "https://www.coingecko.com/en/coins/creed-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x675E7d927Af7e6D0082e0153dc3485B687a6F0ad/logo.png"
 }

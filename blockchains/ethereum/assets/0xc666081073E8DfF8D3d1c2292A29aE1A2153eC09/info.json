@@ -1,11 +1,11 @@
 {
     "name": "DigitexFutures",
-    "website": "https://digitexfutures.com/",
-    "description": "The DGTX Token is a protocol token which value derives from its utility as a vehicle for commission-free trading of futures contracts on the price of Bitcoin, Ethereum and Litecoin against the US Dollar.",
-    "explorer": "https://etherscan.io/token/0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
-    "type": "ERC20",
     "symbol": "DGTX",
+    "id": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
     "decimals": 18,
-    "status": "active",
-    "id": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09"
+    "coingecko_url": "https://www.coingecko.com/en/coins/digitex-futures-exchange",
+    "market_cap_rank": 1878,
+    "24_hr_volume_usd": 363046,
+    "public_notice": "Notice: Digitex Futures Exchange is currently holding a 1:1 token swap, with the new contract address being 0xc666081073e8dff8d3d1c2292a29ae1a2153ec09. For more info, read: https://digitexfutures.com/blog/12580-2/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09/logo.png"
 }

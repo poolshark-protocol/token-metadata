@@ -1,11 +1,10 @@
 {
     "name": "DYNAMITE",
     "symbol": "DYNMT",
-    "type": "ERC20",
+    "id": "0x3B7f247f21BF3A07088C2D3423F64233d4B069F7",
     "decimals": 2,
-    "description": "DYNMT is a community-based experimental project, which was prepared for the purpose of deflation and was produced on the Ethereum network. The DYNAMITE token smart contract is designed to burn 2% per transfer.",
-    "website": "http://dynamitetoken.io/",
-    "explorer": "https://etherscan.io/token/0x3B7f247f21BF3A07088C2D3423F64233d4B069F7",
-    "status": "active",
-    "id": "0x3B7f247f21BF3A07088C2D3423F64233d4B069F7"
+    "coingecko_url": "https://www.coingecko.com/en/coins/dynamite-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 72676,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3B7f247f21BF3A07088C2D3423F64233d4B069F7/logo.png"
 }

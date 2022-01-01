@@ -1,11 +1,11 @@
 {
-    "name": "Seele",
-    "website": "https://seelen.pro/index_en.html",
-    "description": "Seele created 'Neural Consensus Algorithm'. It transforms the consensus problem into an asynchronous request, processing and sorting data in a large-scale environment based on 'micro-real numbers'.",
-    "explorer": "https://etherscan.io/token/0xb1e93236ab6073fdac58ada5564897177d4bcc43",
-    "type": "ERC20",
+    "name": "Seele Token",
     "symbol": "Seele",
+    "id": "0xB1e93236ab6073fdAC58adA5564897177D4bcC43",
     "decimals": 18,
-    "status": "active",
-    "id": "0xB1e93236ab6073fdAC58adA5564897177D4bcC43"
+    "coingecko_url": "https://www.coingecko.com/en/coins/seele",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1387391,
+    "public_notice": "Seele has just completed a chain swap where the contract address migrated from 0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0 to 0xb1e93236ab6073fdac58ada5564897177d4bcc43 ",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB1e93236ab6073fdAC58adA5564897177D4bcC43/logo.png"
 }

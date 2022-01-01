@@ -1,17 +1,10 @@
 {
     "name": "HOPR Token",
-    "type": "ERC20",
     "symbol": "HOPR",
-    "decimals": 18,
-    "description": "HOPR provides essential and compliant network-level metadata privacy for everyone. HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange.",
-    "website": "https://hoprnet.org/",
-    "explorer": "https://etherscan.io/token/0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
     "id": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
-    "status": "active",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/hoprnet/hoprnet"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hopr",
+    "market_cap_rank": 850,
+    "24_hr_volume_usd": 278256,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA/logo.png"
 }

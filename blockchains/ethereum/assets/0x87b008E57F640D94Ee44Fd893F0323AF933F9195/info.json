@@ -1,11 +1,10 @@
 {
-    "name": "Coin Artist",
-    "website": "https://medium.com/@coin_artist_17801",
-    "description": "COIN is a social token created by Coin Artist, a collaborative governance token for the Coin Artist ecosystem.",
-    "explorer": "https://etherscan.io/token/0x87b008E57F640D94Ee44Fd893F0323AF933F9195",
-    "type": "ERC20",
+    "name": "coin_artist",
     "symbol": "COIN",
+    "id": "0x87b008E57F640D94Ee44Fd893F0323AF933F9195",
     "decimals": 18,
-    "status": "active",
-    "id": "0x87b008E57F640D94Ee44Fd893F0323AF933F9195"
+    "coingecko_url": "https://www.coingecko.com/en/coins/coin-artist",
+    "market_cap_rank": 2228,
+    "24_hr_volume_usd": 263.4,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87b008E57F640D94Ee44Fd893F0323AF933F9195/logo.png"
 }

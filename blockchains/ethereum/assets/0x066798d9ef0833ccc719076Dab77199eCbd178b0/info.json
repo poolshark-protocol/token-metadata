@@ -1,11 +1,10 @@
 {
-    "name": "SAKE",
-    "website": "https://sakeswap.finance/",
-    "description": "sakeswap DAO token",
-    "explorer": "https://etherscan.io/token/0x066798d9ef0833ccc719076Dab77199eCbd178b0",
-    "type": "ERC20",
+    "name": "SakeToken",
     "symbol": "SAKE",
+    "id": "0x066798d9ef0833ccc719076Dab77199eCbd178b0",
     "decimals": 18,
-    "status": "active",
-    "id": "0x066798d9ef0833ccc719076Dab77199eCbd178b0"
+    "coingecko_url": "https://www.coingecko.com/en/coins/sake-token",
+    "market_cap_rank": 2249,
+    "24_hr_volume_usd": 326847,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x066798d9ef0833ccc719076Dab77199eCbd178b0/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Shping Coin",
     "symbol": "SHPING",
-    "type": "ERC20",
+    "id": "0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC",
     "decimals": 18,
-    "description": "Shping is the ultimate shopping companion, allowing you to compare pricing on products with a simple barcode scan of a product and earn money for interacting with the products you love.",
-    "website": "https://www.shping.com/",
-    "explorer": "https://etherscan.io/token/0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC",
-    "status": "active",
-    "id": "0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC"
+    "coingecko_url": "https://www.coingecko.com/en/coins/shping",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12275.08,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7C84e62859D0715eb77d1b1C4154Ecd6aBB21BEC/logo.png"
 }

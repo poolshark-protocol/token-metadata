@@ -1,11 +1,11 @@
 {
     "name": "openANX Token",
     "symbol": "OAX",
-    "type": "ERC20",
+    "id": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
     "decimals": 18,
-    "description": "Developing and promoting a sustainable digital asset ecosystem for the future.",
-    "website": "https://www.oax.org",
-    "explorer": "https://etherscan.io/token/0x701C244b988a513c945973dEFA05de933b23Fe1D",
-    "status": "active",
-    "id": "0x701C244b988a513c945973dEFA05de933b23Fe1D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/openanx",
+    "market_cap_rank": 1177,
+    "24_hr_volume_usd": 169136,
+    "public_notice": "Previously known as openanx, Website has changed from https://www.openanx.org/en/ to  https://www.oax.org/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x701C244b988a513c945973dEFA05de933b23Fe1D/logo.png"
 }

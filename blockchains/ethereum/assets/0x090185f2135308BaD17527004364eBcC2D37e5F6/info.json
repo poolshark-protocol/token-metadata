@@ -1,11 +1,10 @@
 {
     "name": "Spell Token",
-    "website": "https://abracadabra.money",
-    "description": "Abracadabra.money is a lending platform that allows users to borrow funds using Interest Bearing Tokens as collateral.",
-    "explorer": "https://etherscan.io/token/0x090185f2135308BaD17527004364eBcC2D37e5F6",
-    "type": "ERC20",
     "symbol": "SPELL",
+    "id": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
     "decimals": 18,
-    "status": "active",
-    "id": "0x090185f2135308BaD17527004364eBcC2D37e5F6"
+    "coingecko_url": "https://www.coingecko.com/en/coins/spell-token",
+    "market_cap_rank": 78,
+    "24_hr_volume_usd": 123318757,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo.png"
 }

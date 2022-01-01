@@ -1,11 +1,10 @@
 {
     "name": "RAKON",
     "symbol": "RKN",
-    "type": "ERC20",
+    "id": "0x6E5a43DB10b04701385A34afb670E404bC7Ea597",
     "decimals": 12,
-    "description": "-",
-    "website": "https://rakon.io/",
-    "explorer": "https://etherscan.io/token/0x6E5a43DB10b04701385A34afb670E404bC7Ea597",
-    "status": "active",
-    "id": "0x6E5a43DB10b04701385A34afb670E404bC7Ea597"
+    "coingecko_url": "https://www.coingecko.com/en/coins/rakon",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 590018,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6E5a43DB10b04701385A34afb670E404bC7Ea597/logo.png"
 }

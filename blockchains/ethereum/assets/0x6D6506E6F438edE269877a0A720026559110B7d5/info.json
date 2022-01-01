@@ -1,17 +1,10 @@
 {
-    "name": "Bonk Token",
-    "website": "https://bonktoken.com/",
-    "description": "Proof of art combined with decentralized staking",
-    "explorer": "https://etherscan.io/token/0x6D6506E6F438edE269877a0A720026559110B7d5",
-    "type": "ERC20",
+    "name": "BONKTOKEN",
     "symbol": "BONK",
-    "decimals": 18,
-    "status": "active",
     "id": "0x6D6506E6F438edE269877a0A720026559110B7d5",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/bonktoken"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bonk-token",
+    "market_cap_rank": 3138,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6D6506E6F438edE269877a0A720026559110B7d5/logo.png"
 }

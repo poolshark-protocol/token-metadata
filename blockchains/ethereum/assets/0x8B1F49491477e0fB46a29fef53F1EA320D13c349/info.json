@@ -1,11 +1,10 @@
 {
     "name": "MicroMoney",
     "symbol": "AMM",
-    "type": "ERC20",
+    "id": "0x8B1F49491477e0fB46a29fef53F1EA320D13c349",
     "decimals": 6,
-    "description": "Micromoney is an Open Source Credit & Big Data Bureau.",
-    "website": "https://www.micromoney.io",
-    "explorer": "https://etherscan.io/token/0x8B1F49491477e0fB46a29fef53F1EA320D13c349",
-    "status": "active",
-    "id": "0x8B1F49491477e0fB46a29fef53F1EA320D13c349"
+    "coingecko_url": "https://www.coingecko.com/en/coins/micromoney",
+    "market_cap_rank": 2971,
+    "24_hr_volume_usd": 200300,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8B1F49491477e0fB46a29fef53F1EA320D13c349/logo.png"
 }

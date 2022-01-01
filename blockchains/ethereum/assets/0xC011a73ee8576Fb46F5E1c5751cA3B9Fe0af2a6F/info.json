@@ -1,41 +1,10 @@
 {
-    "name": "Synthetix Network",
-    "website": "https://synthetix.io",
-    "description": "Synthetix is a derivatives liquidity protocol on Ethereum that enables the issuance and trading of synthetic assets.",
-    "explorer": "https://etherscan.io/token/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-    "research": "https://research.binance.com/en/projects/synthetix",
-    "type": "ERC20",
+    "name": "Synthetix Network Token",
     "symbol": "SNX",
-    "decimals": 18,
-    "status": "active",
     "id": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-    "tags": [
-        "governance"
-    ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/havven/havven"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/synthetix_io"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/synthetix_io/"
-        },
-        {
-            "name": "blog",
-            "url": "https://blog.synthetix.io/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://synthetix.io/uploads/havven_whitepaper.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/havven/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/havven",
+    "market_cap_rank": 109,
+    "24_hr_volume_usd": 76865668,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
 }

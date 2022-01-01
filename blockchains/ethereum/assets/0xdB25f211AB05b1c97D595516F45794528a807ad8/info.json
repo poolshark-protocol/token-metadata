@@ -1,14 +1,11 @@
 {
-    "name": "STASIS EURO",
-    "website": "https://stasis.net",
-    "description": "Produced by STASIS, EURS was developed to tokenize the traditional fiat asset known around the world as the Euro.",
-    "explorer": "https://etherscan.io/token/0xdB25f211AB05b1c97D595516F45794528a807ad8",
-    "type": "ERC20",
+    "name": "STASIS EURS Token",
     "symbol": "EURS",
-    "decimals": 2,
-    "status": "active",
     "id": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
-    "tags": [
-        "stablecoin"
-    ]
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stasis-eurs",
+    "market_cap_rank": 442,
+    "24_hr_volume_usd": 2004030,
+    "public_notice": "Name changed from STASIS EURS to STASIS EURO",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdB25f211AB05b1c97D595516F45794528a807ad8/logo.png"
 }

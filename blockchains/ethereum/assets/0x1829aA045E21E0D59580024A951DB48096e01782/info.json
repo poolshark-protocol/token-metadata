@@ -1,11 +1,10 @@
 {
     "name": "FuzeX Token",
     "symbol": "FXT",
-    "type": "ERC20",
+    "id": "0x1829aA045E21E0D59580024A951DB48096e01782",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.fuzex.co/",
-    "explorer": "https://etherscan.io/token/0x1829aA045E21E0D59580024A951DB48096e01782",
-    "status": "active",
-    "id": "0x1829aA045E21E0D59580024A951DB48096e01782"
+    "coingecko_url": "https://www.coingecko.com/en/coins/fuzex",
+    "market_cap_rank": 3040,
+    "24_hr_volume_usd": 205.66,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1829aA045E21E0D59580024A951DB48096e01782/logo.png"
 }

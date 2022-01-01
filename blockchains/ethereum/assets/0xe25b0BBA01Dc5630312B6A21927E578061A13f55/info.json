@@ -1,11 +1,10 @@
 {
     "name": "ShipChain SHIP",
     "symbol": "SHIP",
-    "type": "ERC20",
+    "id": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
     "decimals": 18,
-    "description": "ShipChain (SHIP) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://www.shipchain.io",
-    "explorer": "https://etherscan.io/token/0xe25b0BBA01Dc5630312B6A21927E578061A13f55",
-    "status": "active",
-    "id": "0xe25b0BBA01Dc5630312B6A21927E578061A13f55"
+    "coingecko_url": "https://www.coingecko.com/en/coins/shipchain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 547.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe25b0BBA01Dc5630312B6A21927E578061A13f55/logo.png"
 }

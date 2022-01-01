@@ -1,11 +1,10 @@
 {
     "name": "MXCToken",
     "symbol": "MXC",
-    "type": "ERC20",
+    "id": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
     "decimals": 18,
-    "description": "MXC Supernodes provide LPWAN network services to devices around the world.",
-    "website": "https://www.mxc.org",
-    "explorer": "https://etherscan.io/token/0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
-    "status": "active",
-    "id": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mxc",
+    "market_cap_rank": 422,
+    "24_hr_volume_usd": 9524872,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e/logo.png"
 }

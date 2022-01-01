@@ -1,11 +1,10 @@
 {
     "name": "Molecular Future",
-    "website": "http://molecular.cc",
-    "description": "Molecular Future is an innovative financial investment service company. The platform includes but not limited to digital currency management, hedge funds, crowd funding, ETF index funds, and mortgage transaction products.",
-    "explorer": "https://etherscan.io/token/0x653430560bE843C4a3D143d0110e896c2Ab8ac0D",
-    "type": "ERC20",
     "symbol": "MOF",
+    "id": "0x653430560bE843C4a3D143d0110e896c2Ab8ac0D",
     "decimals": 16,
-    "status": "active",
-    "id": "0x653430560bE843C4a3D143d0110e896c2Ab8ac0D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/molecular-future",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7390601,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x653430560bE843C4a3D143d0110e896c2Ab8ac0D/logo.png"
 }

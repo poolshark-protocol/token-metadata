@@ -1,11 +1,11 @@
 {
-    "name": "Friends with Benefits",
-    "website": "https://fwb.help",
-    "description": "FWB is a Private Discord channel filled with our favorite thinkers, creatives, rebels, and doers.",
-    "explorer": "https://etherscan.io/token/0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
-    "type": "ERC20",
+    "name": "Friends With Benefits Pro",
     "symbol": "FWB",
+    "id": "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8",
     "decimals": 18,
-    "status": "active",
-    "id": "0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8"
+    "coingecko_url": "https://www.coingecko.com/en/coins/friends-with-benefits-pro",
+    "market_cap_rank": 737,
+    "24_hr_volume_usd": 295263,
+    "public_notice": "FWB Pro is a new token created to address the Roll social token exploit that happened on 14 March 2021. The previous token contract is here: https://www.coingecko.com/en/coins/friends-with-benefits. For more info please refer to https://twitter.com/fwbtweets/status/1371545347416231937?s=21",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x35bD01FC9d6D5D81CA9E055Db88Dc49aa2c699A8/logo.png"
 }

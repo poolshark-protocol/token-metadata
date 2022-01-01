@@ -1,21 +1,11 @@
 {
     "name": "TE-FOOD/TustChain",
-    "website": "https://te-food.com/",
-    "description": "TE-FOOD aims to enable customers to improve consumer trust and brand exposure, gain deeper supply chain insight to improve their operational efficiency, comply with export regulations, protect their brands against counterfeiting, and perform quicker product recalls. As an end-to-end solution, TE-FOOD offers many components for the complete supply chain to identify tracked items and batches, capture the data, store it on blockchain, process the data, and present it to the consumers.",
-    "explorer": "https://etherscan.io/token/0x2ab6bb8408ca3199b8fa6c92d5b455f820af03c4",
-    "type": "ERC20",
     "symbol": "TONE",
-    "decimals": 18,
-    "status": "active",
     "id": "0x2Ab6Bb8408ca3199B8Fa6C92d5b455F820Af03c4",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/TE_FOOD"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/TE_FOOD"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/te-food",
+    "market_cap_rank": 1063,
+    "24_hr_volume_usd": 223614,
+    "public_notice": "Token swap performed. Ticker changed from TFD to TONE. Refer to https://www.kucoin.com/news/en-kucoin-will-support-the-token-swap-of-tefood-from-ted-to-tone",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2Ab6Bb8408ca3199B8Fa6C92d5b455F820Af03c4/logo.png"
 }

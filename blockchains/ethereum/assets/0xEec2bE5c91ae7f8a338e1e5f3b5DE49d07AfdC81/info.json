@@ -1,11 +1,10 @@
 {
     "name": "Dopex Governance Token",
     "symbol": "DPX",
-    "type": "ERC20",
+    "id": "0xEec2bE5c91ae7f8a338e1e5f3b5DE49d07AfdC81",
     "decimals": 18,
-    "description": "DPX - vanilla governance and protocol fee accrual token",
-    "website": "https://www.dopex.io/",
-    "explorer": "https://etherscan.io/token/0xEec2bE5c91ae7f8a338e1e5f3b5DE49d07AfdC81",
-    "status": "active",
-    "id": "0xEec2bE5c91ae7f8a338e1e5f3b5DE49d07AfdC81"
+    "coingecko_url": "https://www.coingecko.com/en/coins/dopex",
+    "market_cap_rank": 255,
+    "24_hr_volume_usd": 7898670,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEec2bE5c91ae7f8a338e1e5f3b5DE49d07AfdC81/logo.png"
 }

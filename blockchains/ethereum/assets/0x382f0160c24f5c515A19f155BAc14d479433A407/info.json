@@ -1,11 +1,10 @@
 {
     "name": "Klee Kai",
-    "website": "https://klee.finance/",
-    "description": "KLEE Kai, the last of its kind, the forgotten doge of ETH.",
-    "explorer": "https://etherscan.io/token/0x382f0160c24f5c515A19f155BAc14d479433A407",
-    "type": "ERC20",
     "symbol": "KLEE",
+    "id": "0x382f0160c24f5c515A19f155BAc14d479433A407",
     "decimals": 9,
-    "status": "active",
-    "id": "0x382f0160c24f5c515A19f155BAc14d479433A407"
+    "coingecko_url": "https://www.coingecko.com/en/coins/kleekai",
+    "market_cap_rank": 1089,
+    "24_hr_volume_usd": 429415,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x382f0160c24f5c515A19f155BAc14d479433A407/logo.png"
 }

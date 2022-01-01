@@ -1,11 +1,11 @@
 {
     "name": "Polymath",
-    "website": "https://polymath.network",
-    "description": "Polymath is creating a global platform for issuing and investing in securities tokens.",
-    "explorer": "https://etherscan.io/token/0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
-    "type": "ERC20",
     "symbol": "POLY",
+    "id": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
     "decimals": 18,
-    "status": "active",
-    "id": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC"
+    "coingecko_url": "https://www.coingecko.com/en/coins/polymath",
+    "market_cap_rank": 195,
+    "24_hr_volume_usd": 12592435,
+    "public_notice": "POLY is an ERC-20 token on Ethereum, which can now be upgraded 1:1 to POLYX, the native protocol token for Polymesh. For more information, please read: https://info.polymath.network/blog/introduction-to-polymesh-tokenomics",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC/logo.png"
 }

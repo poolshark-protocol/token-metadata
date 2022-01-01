@@ -1,33 +1,11 @@
 {
-    "name": "UNUS SED LEO",
-    "website": "https://bitfinex.com",
-    "description": "LEO Token is a Bitfinex exchange token, which mainly use is for discounts on the exchange.",
-    "explorer": "https://etherscan.io/token/0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
-    "type": "ERC20",
+    "name": "Bitfinex LEO Token",
     "symbol": "LEO",
-    "decimals": 18,
-    "status": "active",
     "id": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
-    "links": [
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/bitfinex1"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/bitfinex"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/bfxtelegram"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://bitfinex.com/wp-2019-05.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/leo-token/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/leo-token",
+    "market_cap_rank": 50,
+    "24_hr_volume_usd": 1206256,
+    "public_notice": "The LEO Transparency Dashboard has been put together to provide token holders with unique, verifiable insights into the token buyback process. Check it out at https://leo.bitfinex.com/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3/logo.png"
 }

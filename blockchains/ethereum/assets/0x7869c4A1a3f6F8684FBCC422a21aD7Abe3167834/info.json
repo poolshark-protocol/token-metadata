@@ -1,11 +1,10 @@
 {
     "name": "Pivot Token",
     "symbol": "PVT",
-    "type": "ERC20",
+    "id": "0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834",
     "decimals": 18,
-    "description": "Pivot is the world's largest investment and communication platform for blockchains, dedicated to providing users with real-time comprehensive cryptocurrency market, information, trading one-stop service.",
-    "website": "https://www.pivot.one/",
-    "explorer": "https://etherscan.io/token/0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834",
-    "status": "active",
-    "id": "0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834"
+    "coingecko_url": "https://www.coingecko.com/en/coins/pivot-token",
+    "market_cap_rank": 2761,
+    "24_hr_volume_usd": 141680,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7869c4A1a3f6F8684FBCC422a21aD7Abe3167834/logo.png"
 }

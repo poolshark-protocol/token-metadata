@@ -1,21 +1,11 @@
 {
     "name": "CBDAO",
-    "website": "https://coinbreeder.com",
-    "description": "CBDAO serves as a sandbox to research and proof test various decentralized consensus protocols on DAOs.",
-    "explorer": "https://etherscan.io/token/0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
-    "type": "ERC20",
     "symbol": "BREE",
-    "decimals": 18,
-    "status": "active",
     "id": "0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/coinbreeder/coinbreederDAO/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://drive.google.com/file/d/1wdVdS1QMcmDLL2IwaXD4p3TD__YeVY7b/view"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cbdao",
+    "market_cap_rank": 2655,
+    "24_hr_volume_usd": 64527,
+    "public_notice": "We have received reports that CBDAO team has deleted their Website,Twitter and Telegram and dumped their Team Tokens. Please proceed with caution. https://etherscan.io/address/0x85c90f369676789d3234ecf07adb5262df1bcf15",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4639cd8cd52EC1CF2E496a606ce28D8AfB1C792F/logo.png"
 }

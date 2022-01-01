@@ -1,21 +1,11 @@
 {
     "name": "Bondly",
-    "website": "https://www.bondly.finance",
-    "description": "Bondly is an interoperable, transparent and portable swap protocol designed to revolutionize traditional escrow methods and make everyone into their own digital marketplace.",
-    "explorer": "https://etherscan.io/token/0x91dfbee3965baaee32784c2d546b7a0c62f268c9",
-    "type": "ERC20",
     "symbol": "BONDLY",
-    "decimals": 18,
-    "status": "active",
     "id": "0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/BondlyFinance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/bondlyfinance"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bondly",
+    "market_cap_rank": 984,
+    "24_hr_volume_usd": 779956,
+    "public_notice": "Bondly tokens have been migrated to a new contract address https://twitter.com/BondlyFinance/status/1432017718048292869",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x91dFbEE3965baAEE32784c2d546B7a0C62F268c9/logo.png"
 }

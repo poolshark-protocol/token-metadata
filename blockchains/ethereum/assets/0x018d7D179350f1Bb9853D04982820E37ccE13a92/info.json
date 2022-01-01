@@ -1,11 +1,10 @@
 {
     "name": "INMAX",
     "symbol": "INX",
-    "type": "ERC20",
+    "id": "0x018d7D179350f1Bb9853D04982820E37ccE13a92",
     "decimals": 8,
-    "description": "INMAX is A dependable digital asset exchange and financial system.",
-    "website": "https://inmax.live",
-    "explorer": "https://etherscan.io/token/0x018d7D179350f1Bb9853D04982820E37ccE13a92",
-    "status": "active",
-    "id": "0x018d7D179350f1Bb9853D04982820E37ccE13a92"
+    "coingecko_url": "https://www.coingecko.com/en/coins/inmax",
+    "market_cap_rank": 3112,
+    "24_hr_volume_usd": 2443.53,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x018d7D179350f1Bb9853D04982820E37ccE13a92/logo.png"
 }

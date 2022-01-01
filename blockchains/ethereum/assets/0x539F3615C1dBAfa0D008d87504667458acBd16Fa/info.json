@@ -1,11 +1,10 @@
 {
     "name": "FERA",
-    "website": "https://ferastrategies.com/",
-    "description": "FERA provides trading strategies for crypto traders and investors, focusing on low-cap projects. The full service includes a trading plan that covers funds management and short-term predictions.",
-    "explorer": "https://etherscan.io/token/0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
-    "type": "ERC20",
     "symbol": "FERA",
+    "id": "0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
     "decimals": 18,
-    "status": "active",
-    "id": "0x539F3615C1dBAfa0D008d87504667458acBd16Fa"
+    "coingecko_url": "https://www.coingecko.com/en/coins/fera",
+    "market_cap_rank": 2522,
+    "24_hr_volume_usd": 2714.63,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x539F3615C1dBAfa0D008d87504667458acBd16Fa/logo.png"
 }

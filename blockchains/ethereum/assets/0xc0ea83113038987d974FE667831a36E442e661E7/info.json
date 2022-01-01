@@ -1,11 +1,10 @@
 {
     "name": "Libfx",
     "symbol": "Libfx",
-    "type": "ERC20",
+    "id": "0xc0ea83113038987d974FE667831a36E442e661E7",
     "decimals": 18,
-    "description": "Liber exchange platform uses LIBFX to mobilize the support from the community serving to expand the market for Liber exchange platform and use LIBFX as the main payment method of Liber.",
-    "website": "https://libermx.com/",
-    "explorer": "https://etherscan.io/token/0xc0ea83113038987d974FE667831a36E442e661E7",
-    "status": "active",
-    "id": "0xc0ea83113038987d974FE667831a36E442e661E7"
+    "coingecko_url": "https://www.coingecko.com/en/coins/libfx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10024.24,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc0ea83113038987d974FE667831a36E442e661E7/logo.png"
 }

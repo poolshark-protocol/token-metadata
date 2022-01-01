@@ -1,32 +1,10 @@
 {
-    "name": "mNFLX Token",
-    "website": "https://mirror.finance",
-    "description": "Wrapped Mirror NFLX Token.",
-    "explorer": "https://etherscan.io/token/0xC8d674114bac90148d11D3C1d33C61835a0F9DCD",
-    "type": "ERC20",
+    "name": "Wrapped Mirror NFLX Token",
     "symbol": "mNFLX",
-    "decimals": 18,
-    "status": "active",
     "id": "0xC8d674114bac90148d11D3C1d33C61835a0F9DCD",
-    "tags": [
-        "wrapped"
-    ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MirrorProtocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mirror_protocol"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/MirrorProtocol"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@mirror-protocol"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-netflix",
+    "market_cap_rank": 1117,
+    "24_hr_volume_usd": 141565,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC8d674114bac90148d11D3C1d33C61835a0F9DCD/logo.png"
 }

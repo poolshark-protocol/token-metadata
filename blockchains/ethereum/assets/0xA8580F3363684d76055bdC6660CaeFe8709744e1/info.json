@@ -1,29 +1,10 @@
 {
-    "name": "Folder Protocol Token",
-    "website": "https://folderlabs.io/",
-    "description": "Folder Protocol provides a blockchain-based second layer technologies and marketplace that aims to revolutionize the global storage economy for highly scalable, faster retrieval, and wider distribution.",
-    "explorer": "https://etherscan.io/token/0xA8580F3363684d76055bdC6660CaeFe8709744e1",
-    "type": "ERC20",
+    "name": "Folder Coin",
     "symbol": "FOL",
-    "decimals": 18,
-    "status": "active",
     "id": "0xA8580F3363684d76055bdC6660CaeFe8709744e1",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/folderlabs"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/folderlabs"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/user/folderlabs"
-        },
-        {
-            "name": "medium",
-            "url": "https://folderlabs.medium.com/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/folder-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2651.31,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA8580F3363684d76055bdC6660CaeFe8709744e1/logo.png"
 }

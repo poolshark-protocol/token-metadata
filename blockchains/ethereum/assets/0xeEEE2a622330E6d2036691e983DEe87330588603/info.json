@@ -1,11 +1,11 @@
 {
-    "name": "Asko",
-    "website": "https://askobar-network.com",
-    "description": "A community based project that drives the adoption of crypto which will attract new comers to the industry.",
-    "explorer": "https://etherscan.io/token/0xeeee2a622330e6d2036691e983dee87330588603",
-    "type": "ERC20",
+    "name": "Askobar Network",
     "symbol": "ASKO",
+    "id": "0xeEEE2a622330E6d2036691e983DEe87330588603",
     "decimals": 18,
-    "status": "active",
-    "id": "0xeEEE2a622330E6d2036691e983DEe87330588603"
+    "coingecko_url": "https://www.coingecko.com/en/coins/askobar-network",
+    "market_cap_rank": 1648,
+    "24_hr_volume_usd": 30573,
+    "public_notice": "Previously known as Askobar Network",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeEEE2a622330E6d2036691e983DEe87330588603/logo.png"
 }

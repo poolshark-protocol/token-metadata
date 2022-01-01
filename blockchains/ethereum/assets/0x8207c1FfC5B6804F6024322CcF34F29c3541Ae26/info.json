@@ -1,20 +1,10 @@
 {
-    "name": "Origin Token (OGN)",
-    "website": "https://originprotocol.com",
-    "description": "Enabling peer-to-peer commerce",
-    "explorer": "https://etherscan.io/token/0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
-    "type": "ERC20",
+    "name": "OriginToken",
     "symbol": "OGN",
-    "decimals": 18,
-    "status": "active",
     "id": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
-    "tags": [
-        "defi"
-    ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/originprotocol"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/origin-protocol",
+    "market_cap_rank": 280,
+    "24_hr_volume_usd": 19622466,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26/logo.png"
 }

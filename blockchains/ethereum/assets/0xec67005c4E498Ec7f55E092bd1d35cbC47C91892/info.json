@@ -1,11 +1,11 @@
 {
-    "name": "Melon",
-    "website": "https://melonport.com",
-    "description": "Melon is an Ethereum-based protocol for decentralized on-chain asset management.",
-    "explorer": "https://etherscan.io/token/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
-    "type": "ERC20",
+    "name": "Melon Token",
     "symbol": "MLN",
+    "id": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
     "decimals": 18,
-    "status": "active",
-    "id": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892"
+    "coingecko_url": "https://www.coingecko.com/en/coins/melon",
+    "market_cap_rank": 413,
+    "24_hr_volume_usd": 15786818,
+    "public_notice": "Melonport has rebranding to Enzyme - for more information, please refer to https://medium.com/enzymefinance/introducing-enzyme-7100201a56b5",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892/logo.png"
 }

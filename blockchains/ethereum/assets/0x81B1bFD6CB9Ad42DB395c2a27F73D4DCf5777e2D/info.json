@@ -1,11 +1,10 @@
 {
     "name": "Rare",
     "symbol": "RARE",
-    "type": "ERC20",
+    "id": "0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D",
     "decimals": 4,
-    "description": "-",
-    "website": "",
-    "explorer": "https://etherscan.io/token/0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D",
-    "status": "active",
-    "id": "0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/rare",
+    "market_cap_rank": 2613,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x81B1bFD6CB9Ad42DB395c2a27F73D4DCf5777e2D/logo.png"
 }

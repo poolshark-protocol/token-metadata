@@ -1,11 +1,10 @@
 {
     "name": "IceToken",
-    "website": "https://popsicle.finance",
-    "description": "Popsicle finance is a next-gen cross-chain liquidity provider (LP) yield optimization platform",
-    "explorer": "https://etherscan.io/token/0xf16e81dce15B08F326220742020379B855B87DF9",
-    "type": "ERC20",
     "symbol": "ICE",
+    "id": "0xf16e81dce15B08F326220742020379B855B87DF9",
     "decimals": 18,
-    "status": "active",
-    "id": "0xf16e81dce15B08F326220742020379B855B87DF9"
+    "coingecko_url": "https://www.coingecko.com/en/coins/ice-token",
+    "market_cap_rank": 288,
+    "24_hr_volume_usd": 22939560,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Pibble Token",
     "symbol": "PIB",
-    "type": "ERC20",
+    "id": "0x1864cE27E9F7517047933CaAE530674e8C70b8A7",
     "decimals": 18,
-    "description": "Pibble is a Blockchain based image Cryptocurrency! It is a monetized Image Ecosystem that brings image creators and consumers together, so as to compensate them for the work they create, use and enjoy.",
-    "website": "http://pibble.io/",
-    "explorer": "https://etherscan.io/token/0x1864cE27E9F7517047933CaAE530674e8C70b8A7",
-    "status": "active",
-    "id": "0x1864cE27E9F7517047933CaAE530674e8C70b8A7"
+    "coingecko_url": "https://www.coingecko.com/en/coins/pibble",
+    "market_cap_rank": 1018,
+    "24_hr_volume_usd": 53382,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1864cE27E9F7517047933CaAE530674e8C70b8A7/logo.png"
 }

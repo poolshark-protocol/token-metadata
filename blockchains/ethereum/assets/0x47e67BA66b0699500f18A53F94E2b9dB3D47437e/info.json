@@ -1,11 +1,10 @@
 {
     "name": "PlayGame",
     "symbol": "PXG",
-    "type": "ERC20",
+    "id": "0x47e67BA66b0699500f18A53F94E2b9dB3D47437e",
     "decimals": 18,
-    "description": "Powering real economy in the gaming world. Purchase virtual items and pool prize competition with cryptocurrencies.",
-    "website": "https://its.playgame.com/",
-    "explorer": "https://etherscan.io/token/0x47e67BA66b0699500f18A53F94E2b9dB3D47437e",
-    "status": "active",
-    "id": "0x47e67BA66b0699500f18A53F94E2b9dB3D47437e"
+    "coingecko_url": "https://www.coingecko.com/en/coins/playgame",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3153.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x47e67BA66b0699500f18A53F94E2b9dB3D47437e/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Catex",
     "symbol": "CATT",
-    "type": "ERC20",
+    "id": "0x6E605c269E0C92e70BEeB85486f1fC550f9380BD",
     "decimals": 18,
-    "description": "The Catex Token (CATT) is the native asset of the Catex exchange. Catt token holders reportedly receive dividends from the exchange and enjoy zero fee withdrawals.",
-    "website": "https://www.catex.io/",
-    "explorer": "https://etherscan.io/token/0x6E605c269E0C92e70BEeB85486f1fC550f9380BD",
-    "status": "active",
-    "id": "0x6E605c269E0C92e70BEeB85486f1fC550f9380BD"
+    "coingecko_url": "https://www.coingecko.com/en/coins/catex-token",
+    "market_cap_rank": 2582,
+    "24_hr_volume_usd": 2915.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6E605c269E0C92e70BEeB85486f1fC550f9380BD/logo.png"
 }

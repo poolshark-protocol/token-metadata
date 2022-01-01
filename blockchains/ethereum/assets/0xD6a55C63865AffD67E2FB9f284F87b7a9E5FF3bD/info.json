@@ -1,11 +1,11 @@
 {
     "name": "Switch",
     "symbol": "ESH",
-    "type": "ERC20",
+    "id": "0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
     "decimals": 18,
-    "description": "-",
-    "website": "https://switch.ag",
-    "explorer": "https://etherscan.io/token/0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
-    "status": "active",
-    "id": "0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD"
+    "coingecko_url": "https://www.coingecko.com/en/coins/switch",
+    "market_cap_rank": 2760,
+    "24_hr_volume_usd": 152753,
+    "public_notice": "Token swapped to Switch (ESH) - https://medium.com/@switchag/new-esh-token-swap-complete-d9a82c5c4a0c | New contract - https://etherscan.io/token/0xd6a55c63865affd67e2fb9f284f87b7a9e5ff3bd",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD/logo.png"
 }

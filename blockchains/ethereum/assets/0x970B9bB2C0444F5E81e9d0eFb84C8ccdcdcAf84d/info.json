@@ -1,11 +1,10 @@
 {
     "name": "Fuse Token",
     "symbol": "FUSE",
-    "type": "ERC20",
+    "id": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
     "decimals": 18,
-    "description": "Fuse is a no-code smart contract platform for entrepreneurs that allows entrepreneurs to integrate everyday payments into their business.",
-    "website": "https://fuse.io/",
-    "explorer": "https://etherscan.io/token/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
-    "status": "active",
-    "id": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d"
+    "coingecko_url": "https://www.coingecko.com/en/coins/fuse-network-token",
+    "market_cap_rank": 673,
+    "24_hr_volume_usd": 1069862,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d/logo.png"
 }

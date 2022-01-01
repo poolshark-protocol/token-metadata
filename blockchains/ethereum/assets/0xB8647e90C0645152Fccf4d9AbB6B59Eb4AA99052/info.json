@@ -1,11 +1,10 @@
 {
-    "name": "KEYFI Token",
+    "name": "KeyFi Token",
     "symbol": "KEYFI",
-    "type": "ERC20",
+    "id": "0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052",
     "decimals": 18,
-    "description": "KeyFi is an all-in-one platform for tracking, swapping, and staking your tokens, and more.",
-    "website": "https://keyfi.com",
-    "explorer": "https://etherscan.io/token/0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052",
-    "status": "active",
-    "id": "0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052"
+    "coingecko_url": "https://www.coingecko.com/en/coins/keyfi",
+    "market_cap_rank": 2264,
+    "24_hr_volume_usd": 8985.18,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB8647e90C0645152Fccf4d9AbB6B59Eb4AA99052/logo.png"
 }

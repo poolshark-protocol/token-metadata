@@ -1,11 +1,10 @@
 {
-    "name": "Schain Wallet",
-    "website": "https://schainwallet.com",
-    "description": "Schain Wallet is mobile defi wallet designed to help people staking and earn profit, storage,  transfer coin & token with security and lower fees",
-    "explorer": "https://etherscan.io/token/0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A",
-    "type": "ERC20",
+    "name": "SChain Wallet",
     "symbol": "SCHA",
+    "id": "0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A",
     "decimals": 0,
-    "status": "active",
-    "id": "0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A"
+    "coingecko_url": "https://www.coingecko.com/en/coins/schain-wallet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 11455.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A/logo.png"
 }

@@ -1,12 +1,10 @@
 {
-    "name": "ARPA Chain",
-    "website": "https://arpachain.io/",
-    "description": "Arpa envisions to be a privacy-preserving computation network by leveraging Multi-Party Computation (MPC).",
-    "explorer": "https://etherscan.io/token/0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
-    "research": "https://research.binance.com/en/projects/arpa",
-    "type": "ERC20",
+    "name": "ARPA Token",
     "symbol": "ARPA",
+    "id": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
     "decimals": 18,
-    "status": "active",
-    "id": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a"
+    "coingecko_url": "https://www.coingecko.com/en/coins/arpa-chain",
+    "market_cap_rank": 477,
+    "24_hr_volume_usd": 15854659,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBA50933C268F567BDC86E1aC131BE072C6B0b71a/logo.png"
 }

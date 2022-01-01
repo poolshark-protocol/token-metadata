@@ -1,11 +1,10 @@
 {
     "name": "Polkamarkets",
     "symbol": "POLK",
-    "type": "ERC20",
+    "id": "0xD478161C952357F05f0292B56012Cd8457F1cfbF",
     "decimals": 18,
-    "description": "Polkamarkets is a DeFi-Powered Prediction Market built for cross-chain information exchange and trading, where users take positions on outcomes of real world events–in a decentralized and interoperable platform on Polkadot.",
-    "website": "https://polkamarkets.com",
-    "explorer": "https://etherscan.io/token/0xd478161c952357f05f0292b56012cd8457f1cfbf",
-    "status": "active",
-    "id": "0xD478161C952357F05f0292B56012Cd8457F1cfbF"
+    "coingecko_url": "https://www.coingecko.com/en/coins/polkamarkets",
+    "market_cap_rank": 873,
+    "24_hr_volume_usd": 301769,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD478161C952357F05f0292B56012Cd8457F1cfbF/logo.png"
 }

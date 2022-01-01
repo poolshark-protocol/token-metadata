@@ -1,11 +1,10 @@
 {
     "name": "Endor Protocol Token",
     "symbol": "EDR",
-    "type": "ERC20",
+    "id": "0xc528c28FEC0A90C083328BC45f587eE215760A0F",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.endor.com",
-    "explorer": "https://etherscan.io/token/0xc528c28FEC0A90C083328BC45f587eE215760A0F",
-    "status": "active",
-    "id": "0xc528c28FEC0A90C083328BC45f587eE215760A0F"
+    "coingecko_url": "https://www.coingecko.com/en/coins/endor",
+    "market_cap_rank": 2638,
+    "24_hr_volume_usd": 3906.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc528c28FEC0A90C083328BC45f587eE215760A0F/logo.png"
 }

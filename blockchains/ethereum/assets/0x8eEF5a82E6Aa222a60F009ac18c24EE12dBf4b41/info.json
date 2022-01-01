@@ -1,12 +1,10 @@
 {
-    "name": "Tixl",
-    "website": "https://tixl.org",
-    "description": "Interoperable Smart Contracts & dApps Network",
-    "explorer": "https://etherscan.io/token/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
-    "research": "",
-    "type": "ERC20",
+    "name": "Tixl Token",
     "symbol": "TXL",
+    "id": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
     "decimals": 18,
-    "status": "active",
-    "id": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41"
+    "coingecko_url": "https://www.coingecko.com/en/coins/tixl-new",
+    "market_cap_rank": 1335,
+    "24_hr_volume_usd": 43521,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41/logo.png"
 }

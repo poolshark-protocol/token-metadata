@@ -1,11 +1,10 @@
 {
     "name": "iQeon",
     "symbol": "IQN",
-    "type": "ERC20",
+    "id": "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31",
     "decimals": 18,
-    "description": "IQeon is a European startup company developing the cutting-edge technological products in the sphere of Gaming and Blockchain.",
-    "website": "https://iqeon.io/",
-    "explorer": "https://etherscan.io/token/0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31",
-    "status": "active",
-    "id": "0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31"
+    "coingecko_url": "https://www.coingecko.com/en/coins/iqeon",
+    "market_cap_rank": 1026,
+    "24_hr_volume_usd": 1851146,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0DB8D8b76BC361bAcbB72E2C491E06085A97Ab31/logo.png"
 }

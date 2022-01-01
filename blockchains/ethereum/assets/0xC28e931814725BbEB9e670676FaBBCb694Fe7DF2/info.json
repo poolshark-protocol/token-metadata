@@ -1,11 +1,10 @@
 {
     "name": "QuadrantProtocol",
     "symbol": "eQUAD",
-    "type": "ERC20",
+    "id": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
     "decimals": 18,
-    "description": "Quadrant Protocol is the engine that powers Quadrant's data mapping capabilities.",
-    "website": "https://www.quadrantprotocol.com/#",
-    "explorer": "https://etherscan.io/token/0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
-    "status": "active",
-    "id": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2"
+    "coingecko_url": "https://www.coingecko.com/en/coins/quadrant-protocol",
+    "market_cap_rank": 1528,
+    "24_hr_volume_usd": 66909,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2/logo.png"
 }

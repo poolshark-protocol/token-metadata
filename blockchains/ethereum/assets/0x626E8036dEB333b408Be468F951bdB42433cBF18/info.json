@@ -1,11 +1,10 @@
 {
-    "name": "AIOZ Network Coin",
-    "website": "https://aioz.network",
-    "description": "AIOZ Network is re-imagining streaming from the ground up with a blockchain that integrates content distribution and tokenomics built for media.",
-    "explorer": "https://etherscan.io/token/0x626E8036dEB333b408Be468F951bdB42433cBF18",
-    "type": "ERC20",
+    "name": "AIOZ Network",
     "symbol": "AIOZ",
+    "id": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
     "decimals": 18,
-    "status": "active",
-    "id": "0x626E8036dEB333b408Be468F951bdB42433cBF18"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aioz-network",
+    "market_cap_rank": 369,
+    "24_hr_volume_usd": 1285705,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x626E8036dEB333b408Be468F951bdB42433cBF18/logo.png"
 }

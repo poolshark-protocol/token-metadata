@@ -1,11 +1,10 @@
 {
     "name": "Nuggets",
     "symbol": "NUG",
-    "type": "ERC20",
+    "id": "0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
     "decimals": 18,
-    "description": "Nuggets is a decentralized, self-sovereign ID and payments platform",
-    "website": "https://nuggets.life/",
-    "explorer": "https://etherscan.io/token/0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1",
-    "status": "active",
-    "id": "0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1"
+    "coingecko_url": "https://www.coingecko.com/en/coins/nuggets",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x245ef47D4d0505ECF3Ac463F4d81f41ADE8f1fd1/logo.png"
 }

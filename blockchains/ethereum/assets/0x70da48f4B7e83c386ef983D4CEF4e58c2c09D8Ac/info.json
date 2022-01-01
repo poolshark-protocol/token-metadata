@@ -1,11 +1,10 @@
 {
     "name": "Quras Token",
     "symbol": "XQC",
-    "type": "ERC20",
+    "id": "0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac",
     "decimals": 8,
-    "description": "QURAS is a genuine secret contract platform that fulfills various privacy protection needs.",
-    "website": "https://quras.io/",
-    "explorer": "https://etherscan.io/token/0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac",
-    "status": "active",
-    "id": "0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac"
+    "coingecko_url": "https://www.coingecko.com/en/coins/quras-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 28668,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac/logo.png"
 }

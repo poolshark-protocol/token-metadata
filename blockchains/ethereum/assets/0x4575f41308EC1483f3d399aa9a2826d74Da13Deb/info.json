@@ -1,12 +1,10 @@
 {
     "name": "Orchid",
-    "website": "https://orchid.com",
-    "description": "Orchid (OXT) is the native token of Orchid, a cryptocurrency-powered virtual private network (VPN).",
-    "explorer": "https://etherscan.io/token/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
-    "research": "https://research.binance.com/en/projects/orchid",
-    "type": "ERC20",
     "symbol": "OXT",
+    "id": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
     "decimals": 18,
-    "status": "active",
-    "id": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb"
+    "coingecko_url": "https://www.coingecko.com/en/coins/orchid-protocol",
+    "market_cap_rank": 303,
+    "24_hr_volume_usd": 10040466,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png"
 }

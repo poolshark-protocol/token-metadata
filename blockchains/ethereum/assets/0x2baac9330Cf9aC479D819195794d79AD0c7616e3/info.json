@@ -1,11 +1,10 @@
 {
     "name": "AdBank",
     "symbol": "ADB",
-    "type": "ERC20",
+    "id": "0x2baac9330Cf9aC479D819195794d79AD0c7616e3",
     "decimals": 18,
-    "description": "Built with the transparency of blockchain, advertisers don't waste money on fraudulent traffic and publishers get paid more without costly middlemen.",
-    "website": "https://adbank.network/",
-    "explorer": "https://etherscan.io/token/0x2baac9330Cf9aC479D819195794d79AD0c7616e3",
-    "status": "active",
-    "id": "0x2baac9330Cf9aC479D819195794d79AD0c7616e3"
+    "coingecko_url": "https://www.coingecko.com/en/coins/adbank",
+    "market_cap_rank": 2101,
+    "24_hr_volume_usd": 198834,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2baac9330Cf9aC479D819195794d79AD0c7616e3/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Cap",
-    "website": "https://cap.finance",
-    "description": "Cap is a protocol to trade the markets with stablecoins.",
-    "explorer": "https://etherscan.io/token/0x43044f861ec040DB59A7e324c40507adDb673142",
-    "type": "ERC20",
     "symbol": "CAP",
+    "id": "0x43044f861ec040DB59A7e324c40507adDb673142",
     "decimals": 18,
-    "status": "active",
-    "id": "0x43044f861ec040DB59A7e324c40507adDb673142"
+    "coingecko_url": "https://www.coingecko.com/en/coins/cap",
+    "market_cap_rank": 666,
+    "24_hr_volume_usd": 283480,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x43044f861ec040DB59A7e324c40507adDb673142/logo.png"
 }

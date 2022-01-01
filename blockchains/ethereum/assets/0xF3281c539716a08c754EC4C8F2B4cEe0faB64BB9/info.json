@@ -1,11 +1,10 @@
 {
     "name": "Markaccy",
     "symbol": "MKCY",
-    "type": "ERC20",
+    "id": "0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9",
     "decimals": 18,
-    "description": "Markaccy is a decentralized project aiming to unite a strong business community in pursuit of mutual interests through effective, easy, and professional P2P mechanisms with no intermediaries.",
-    "website": "https://www.markaccy.io/",
-    "explorer": "https://etherscan.io/token/0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9",
-    "status": "active",
-    "id": "0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9"
+    "coingecko_url": "https://www.coingecko.com/en/coins/markaccy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 37.95,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "AIT",
     "symbol": "AIT",
-    "type": "ERC20",
+    "id": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
     "decimals": 18,
-    "description": "AICHAIN (AIT) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://www.aichain.me",
-    "explorer": "https://etherscan.io/token/0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
-    "status": "active",
-    "id": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aichain",
+    "market_cap_rank": 1927,
+    "24_hr_volume_usd": 89181,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "DOVU",
-    "website": "https://dovu.io",
-    "description": "A unified Token, Wallet and HUB for Carbon Offsetting",
-    "explorer": "https://etherscan.io/token/0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
-    "type": "ERC20",
     "symbol": "DOV",
+    "id": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
     "decimals": 18,
-    "status": "active",
-    "id": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1"
+    "coingecko_url": "https://www.coingecko.com/en/coins/dovu",
+    "market_cap_rank": 1827,
+    "24_hr_volume_usd": 252391,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xac3211a5025414Af2866FF09c23FC18bc97e79b1/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Blackmoon Crypto Token",
     "symbol": "BMC",
-    "type": "ERC20",
+    "id": "0xDf6Ef343350780BF8C3410BF062e0C015B1DD671",
     "decimals": 8,
-    "description": "Blackmoon Crypto is a platform for the creation and management of tokenized investment funds. The platform aims to bridge the gap between the crypto investment world and the real world economy, allowing the creation of tokens to be associated with investments and projects which up until now have not been available in the crypto world.",
-    "website": "https://www.blackmooncrypto.com/",
-    "explorer": "https://etherscan.io/token/0xDf6Ef343350780BF8C3410BF062e0C015B1DD671",
-    "status": "active",
-    "id": "0xDf6Ef343350780BF8C3410BF062e0C015B1DD671"
+    "coingecko_url": "https://www.coingecko.com/en/coins/blackmoon-crypto",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00985444,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDf6Ef343350780BF8C3410BF062e0C015B1DD671/logo.png"
 }

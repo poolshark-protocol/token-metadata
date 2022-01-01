@@ -1,15 +1,10 @@
 {
-    "name": "COTI",
-    "website": "https://coti.io/",
-    "description": "COTI a fixed-supply DAG-based cryptocurrency.",
-    "explorer": "https://etherscan.io/token/0xDDB3422497E61e13543BeA06989C0789117555c5",
-    "research": "https://coti.io/technology",
-    "type": "ERC20",
+    "name": "COTI Token",
     "symbol": "COTI",
-    "decimals": 18,
-    "status": "active",
     "id": "0xDDB3422497E61e13543BeA06989C0789117555c5",
-    "tags": [
-        "defi"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coti",
+    "market_cap_rank": 240,
+    "24_hr_volume_usd": 27912128,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDDB3422497E61e13543BeA06989C0789117555c5/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "LiteXToken",
     "symbol": "LXT",
-    "type": "ERC20",
+    "id": "0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835",
     "decimals": 18,
-    "description": "LITEX - building the largest commercialized layer2 ecology worldwide.",
-    "website": "http://litex.io",
-    "explorer": "https://etherscan.io/token/0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835",
-    "status": "active",
-    "id": "0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835"
+    "coingecko_url": "https://www.coingecko.com/en/coins/litex",
+    "market_cap_rank": 2688,
+    "24_hr_volume_usd": 194853,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBC46D9961A3932f7D6b64abfdeC80C1816C4B835/logo.png"
 }

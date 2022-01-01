@@ -1,11 +1,10 @@
 {
     "name": "Krypton",
     "symbol": "KGC",
-    "type": "ERC20",
+    "id": "0xa8262Eb913FccEa4C3f77fc95b8b4043B384cFbB",
     "decimals": 18,
-    "description": "Krypton is a community-driven, privacy first cryptocurrency project with a main focus on decentralization, scalability and fungibility.",
-    "website": "https://kexingqiu.net/",
-    "explorer": "https://etherscan.io/token/0xa8262Eb913FccEa4C3f77fc95b8b4043B384cFbB",
-    "status": "active",
-    "id": "0xa8262Eb913FccEa4C3f77fc95b8b4043B384cFbB"
+    "coingecko_url": "https://www.coingecko.com/en/coins/krypton-token",
+    "market_cap_rank": 2922,
+    "24_hr_volume_usd": 76175,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa8262Eb913FccEa4C3f77fc95b8b4043B384cFbB/logo.png"
 }

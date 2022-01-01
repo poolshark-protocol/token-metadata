@@ -1,11 +1,10 @@
 {
     "name": "EpiK Protocol",
-    "type": "ERC20",
-    "symbol": "EPK",
+    "symbol": "ERC20-EPK",
+    "id": "0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4",
     "decimals": 18,
-    "website": "https://www.epik-protocol.io",
-    "description": "EpiK Protocol is a decentralized trusted knowledge graph\ncollaboration platform of the People, by the People, for the People.",
-    "explorer": "https://etherscan.io/token/0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4",
-    "status": "active",
-    "id": "0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4"
+    "coingecko_url": "https://www.coingecko.com/en/coins/epik-protocol",
+    "market_cap_rank": 1082,
+    "24_hr_volume_usd": 327201,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4/logo.png"
 }

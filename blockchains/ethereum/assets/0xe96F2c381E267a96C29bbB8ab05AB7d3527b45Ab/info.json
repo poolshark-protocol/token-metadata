@@ -1,11 +1,10 @@
 {
     "name": "SatoExchange",
     "symbol": "SATX",
-    "type": "ERC20",
+    "id": "0xe96F2c381E267a96C29bbB8ab05AB7d3527b45Ab",
     "decimals": 8,
-    "description": "SATX is the official token of the SatoExchange platform. A Crypto currency exchange trading alt coins in BTC, ETH, SATX, LTC and DOGE pairs.",
-    "website": "https://www.satoexchange.com/SATX/",
-    "explorer": "https://etherscan.io/token/0xe96F2c381E267a96C29bbB8ab05AB7d3527b45Ab",
-    "status": "active",
-    "id": "0xe96F2c381E267a96C29bbB8ab05AB7d3527b45Ab"
+    "coingecko_url": "https://www.coingecko.com/en/coins/satoexchange-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4861.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe96F2c381E267a96C29bbB8ab05AB7d3527b45Ab/logo.png"
 }

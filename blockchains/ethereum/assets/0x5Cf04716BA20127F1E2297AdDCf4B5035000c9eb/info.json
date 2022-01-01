@@ -1,11 +1,11 @@
 {
     "name": "NKN",
     "symbol": "NKN",
-    "type": "ERC20",
+    "id": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
     "decimals": 18,
-    "description": "NKN, or New Kind of Network, is an open-source protocol for public blockchain-based peer-to-peer Networks to share network bandwidth and Internet connectivity.",
-    "website": "https://www.nkn.org/",
-    "explorer": "https://etherscan.io/token/0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
-    "status": "active",
-    "id": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb"
+    "coingecko_url": "https://www.coingecko.com/en/coins/nkn",
+    "market_cap_rank": 286,
+    "24_hr_volume_usd": 5808371,
+    "public_notice": "NKN Token Swap: ERC-20 to Mainnet (bi-direction). http://swap.nkn.org/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb/logo.png"
 }

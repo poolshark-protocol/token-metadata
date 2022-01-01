@@ -1,11 +1,10 @@
 {
     "name": "DAD",
     "symbol": "DAD",
-    "type": "ERC20",
+    "id": "0x5B322514FF727253292637D9054301600c2C81e8",
     "decimals": 9,
-    "description": "-",
-    "website": "https://dad.one",
-    "explorer": "https://etherscan.io/token/0x5B322514FF727253292637D9054301600c2C81e8",
-    "status": "active",
-    "id": "0x5B322514FF727253292637D9054301600c2C81e8"
+    "coingecko_url": "https://www.coingecko.com/en/coins/decentralized-advertising",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 23542874,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5B322514FF727253292637D9054301600c2C81e8/logo.png"
 }

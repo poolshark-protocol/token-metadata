@@ -1,11 +1,10 @@
 {
     "name": "Breeze",
     "symbol": "BRZE",
-    "type": "ERC20",
+    "id": "0x77C07555aF5ffdC946Fb47ce15EA68620E4e7170",
     "decimals": 18,
-    "description": "The goal of Breezecoin is to combine blockchain-based cryptocurrency technology with real estate investments.",
-    "website": "https://www.breezecoin.io",
-    "explorer": "https://etherscan.io/token/0x77C07555aF5ffdC946Fb47ce15EA68620E4e7170",
-    "status": "active",
-    "id": "0x77C07555aF5ffdC946Fb47ce15EA68620E4e7170"
+    "coingecko_url": "https://www.coingecko.com/en/coins/breezecoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 22544,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77C07555aF5ffdC946Fb47ce15EA68620E4e7170/logo.png"
 }

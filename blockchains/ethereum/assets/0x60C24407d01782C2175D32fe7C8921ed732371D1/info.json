@@ -1,11 +1,10 @@
 {
     "name": "Lemo",
     "symbol": "LEMO",
-    "type": "ERC20",
+    "id": "0x60C24407d01782C2175D32fe7C8921ed732371D1",
     "decimals": 18,
-    "description": "LemoChain is a cross-application ecosystem for business data circulation, based on secure multi-party computation.",
-    "website": "https://www.lemochain.com/#/",
-    "explorer": "https://etherscan.io/token/0x60C24407d01782C2175D32fe7C8921ed732371D1",
-    "status": "active",
-    "id": "0x60C24407d01782C2175D32fe7C8921ed732371D1"
+    "coingecko_url": "https://www.coingecko.com/en/coins/lemochain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 73487,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x60C24407d01782C2175D32fe7C8921ed732371D1/logo.png"
 }

@@ -1,21 +1,10 @@
 {
     "name": "Tapmydata",
     "symbol": "TAP",
-    "decimals": 18,
-    "status": "active",
-    "website": "https://www.tapmydata.com",
-    "description": "Take back control of your data, store it on our encrypted wallet, license it to earn from your data",
-    "explorer": "https://etherscan.io/token/0x7f1f2d3dfa99678675ece1c243d3f7bc3746db5d",
-    "type": "ERC20",
     "id": "0x7f1F2D3dFa99678675ECE1C243d3f7bC3746db5D",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/tapmydata"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/tapmydataofficial"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tapmydata",
+    "market_cap_rank": 2251,
+    "24_hr_volume_usd": 416.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7f1F2D3dFa99678675ECE1C243d3f7bC3746db5D/logo.png"
 }

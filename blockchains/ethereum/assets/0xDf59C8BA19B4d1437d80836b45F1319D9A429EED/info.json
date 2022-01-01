@@ -1,11 +1,10 @@
 {
     "name": "IZIChain",
     "symbol": "IZI",
-    "type": "ERC20",
+    "id": "0xDf59C8BA19B4d1437d80836b45F1319D9A429EED",
     "decimals": 4,
-    "description": "IZIChain aims to provide bespoke blockchain solutions for financial markets. IZIChain reportedly allows users to interact with smart contracts and operate financial dApps (e.g. asset digitization, digital asset trading, loan offers).",
-    "website": "https://izichain.io/",
-    "explorer": "https://etherscan.io/token/0xDf59C8BA19B4d1437d80836b45F1319D9A429EED",
-    "status": "active",
-    "id": "0xDf59C8BA19B4d1437d80836b45F1319D9A429EED"
+    "coingecko_url": "https://www.coingecko.com/en/coins/izichain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDf59C8BA19B4d1437d80836b45F1319D9A429EED/logo.png"
 }

@@ -1,11 +1,11 @@
 {
-    "name": "Ormeus Ecosystem",
-    "website": "https://eco-system.io",
-    "description": "The World’s First Business-Backed Blockchain Smart Economy",
-    "explorer": "https://etherscan.io/token/0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E",
-    "type": "ERC20",
+    "name": "ECO TOKEN",
     "symbol": "ECO",
+    "id": "0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E",
     "decimals": 8,
-    "status": "active",
-    "id": "0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E"
+    "coingecko_url": "https://www.coingecko.com/en/coins/ormeus-ecosystem",
+    "market_cap_rank": 2927,
+    "24_hr_volume_usd": 78378,
+    "public_notice": "Note: ERC-20 version of ECO is traded on Uniswap and VCC, while the BEP-2 version one is traded on BW.com, Bilaxy and Finexbox.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E/logo.png"
 }

@@ -1,12 +1,11 @@
 {
-    "name": "Cappasity",
-    "website": "https://cappasity.com",
-    "description": "Cappasity is an easy, scalable platform for creating, embedding, and analyzing 3D and AR/VR content.",
-    "explorer": "https://etherscan.io/token/0x11613b1f840bb5A40F8866d857e24DA126B79D73",
-    "research": "",
-    "type": "ERC20",
+    "name": "CAPP Token",
     "symbol": "CAPP",
+    "id": "0x11613b1f840bb5A40F8866d857e24DA126B79D73",
     "decimals": 2,
-    "status": "active",
-    "id": "0x11613b1f840bb5A40F8866d857e24DA126B79D73"
+    "coingecko_url": "https://www.coingecko.com/en/coins/cappasity",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 317512,
+    "public_notice": "Token Contract has migrated from 0x04f2e7221fdb1b52a68169b25793e51478ff0329 to 0x11613b1f840bb5A40F8866d857e24DA126B79D73; for more info, visit https://www.kucoin.com/news/en-capp-pivx-olt-deposits-and-withdrawals-now-open",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x11613b1f840bb5A40F8866d857e24DA126B79D73/logo.png"
 }

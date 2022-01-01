@@ -1,11 +1,10 @@
 {
     "name": "TKNT",
-    "description": "TKN Betting Platform",
-    "website": "https://tknt.io",
-    "explorer": "https://etherscan.io/token/0xbce7bd79558dda90b261506768f265c5543a9f90",
-    "type": "ERC20",
     "symbol": "TKNT",
+    "id": "0xbcE7BD79558dda90B261506768f265c5543A9f90",
     "decimals": 18,
-    "status": "active",
-    "id": "0xbcE7BD79558dda90B261506768f265c5543A9f90"
+    "coingecko_url": "https://www.coingecko.com/en/coins/tkn-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.682328,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbcE7BD79558dda90B261506768f265c5543A9f90/logo.png"
 }

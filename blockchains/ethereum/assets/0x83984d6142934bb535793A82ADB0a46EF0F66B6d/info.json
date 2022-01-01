@@ -1,11 +1,10 @@
 {
     "name": "REMME token",
     "symbol": "REM",
-    "type": "ERC20",
+    "id": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
     "decimals": 4,
-    "description": "Distributed Public Key Infrastructure protocol and PKI-enabled apps for the modern web.",
-    "website": "https://remme.io",
-    "explorer": "https://etherscan.io/token/0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
-    "status": "active",
-    "id": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d"
+    "coingecko_url": "https://www.coingecko.com/en/coins/remme",
+    "market_cap_rank": 2460,
+    "24_hr_volume_usd": 20947,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x83984d6142934bb535793A82ADB0a46EF0F66B6d/logo.png"
 }

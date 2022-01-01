@@ -1,11 +1,10 @@
 {
     "name": "12Ships",
     "symbol": "TSHP",
-    "type": "ERC20",
+    "id": "0x525794473F7ab5715C81d06d10f52d11cC052804",
     "decimals": 18,
-    "description": "12ships will make your journey to the blockchain investment.",
-    "website": "http://12ships.com/",
-    "explorer": "https://etherscan.io/token/0x525794473F7ab5715C81d06d10f52d11cC052804",
-    "status": "active",
-    "id": "0x525794473F7ab5715C81d06d10f52d11cC052804"
+    "coingecko_url": "https://www.coingecko.com/en/coins/12ships",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2452.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x525794473F7ab5715C81d06d10f52d11cC052804/logo.png"
 }

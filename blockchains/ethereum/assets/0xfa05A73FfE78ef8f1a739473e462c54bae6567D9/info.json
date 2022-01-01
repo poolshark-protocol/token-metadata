@@ -1,11 +1,10 @@
 {
     "name": "Lunyr Token",
     "symbol": "LUN",
-    "type": "ERC20",
+    "id": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
     "decimals": 18,
-    "description": "Lunyr is an Ethereum-based decentralized world knowledge base which rewards users with app tokens for peer-reviewing and contributing information.",
-    "website": "https://lunyr.com/",
-    "explorer": "https://etherscan.io/token/0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
-    "status": "active",
-    "id": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9"
+    "coingecko_url": "https://www.coingecko.com/en/coins/lunyr",
+    "market_cap_rank": 3127,
+    "24_hr_volume_usd": 0.089091,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfa05A73FfE78ef8f1a739473e462c54bae6567D9/logo.png"
 }

@@ -1,11 +1,10 @@
 {
-    "name": "RedFOX Labs",
-    "type": "ERC20",
+    "name": "RFOX",
     "symbol": "RFOX",
+    "id": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
     "decimals": 18,
-    "website": "https://redfoxlabs.io",
-    "description": "REDFOXLABS is a tech-forward digital venture builder delivering companies & platforms that are secure, scalable, and innovative, bringing the world into a new era of technology and prosperity.",
-    "explorer": "https://etherscan.io/token/0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
-    "status": "active",
-    "id": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262"
+    "coingecko_url": "https://www.coingecko.com/en/coins/redfox-labs-2",
+    "market_cap_rank": 386,
+    "24_hr_volume_usd": 3311532,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa1d6Df714F91DeBF4e0802A542E13067f31b8262/logo.png"
 }

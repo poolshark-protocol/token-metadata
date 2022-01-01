@@ -1,17 +1,10 @@
 {
-    "name": "BarnBridge",
-    "website": "https://BarnBridge.com",
-    "description": "Tokenized Risk Protocol",
-    "explorer": "https://etherscan.io/token/0x0391D2021f89DC339F60Fff84546EA23E337750f",
-    "type": "ERC20",
+    "name": "BarnBridge Governance Token",
     "symbol": "BOND",
-    "decimals": 18,
-    "status": "active",
     "id": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/BarnBridge/BarnBridge-Whitepaper"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/barnbridge",
+    "market_cap_rank": 499,
+    "24_hr_volume_usd": 10458991,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0391D2021f89DC339F60Fff84546EA23E337750f/logo.png"
 }

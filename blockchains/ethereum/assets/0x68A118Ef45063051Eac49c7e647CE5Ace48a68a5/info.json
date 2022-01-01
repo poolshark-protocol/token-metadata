@@ -1,12 +1,10 @@
 {
-    "name": "Based Money",
-    "website": "https://based.money",
-    "description": "The BASED Protocol is a DeFi game of chicken designed to shake out weak hands and yield the highest gains for those who understand the rules.",
-    "explorer": "https://etherscan.io/token/0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
-    "dapp": "https://stake.based.money",
-    "type": "ERC20",
+    "name": "$BASED",
     "symbol": "$BASED",
+    "id": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
     "decimals": 18,
-    "status": "active",
-    "id": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5"
+    "coingecko_url": "https://www.coingecko.com/en/coins/based-money",
+    "market_cap_rank": 2868,
+    "24_hr_volume_usd": 4814.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Radicle",
     "symbol": "RAD",
-    "type": "ERC20",
+    "id": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3",
     "decimals": 18,
-    "description": "Radicle Token",
-    "website": "https://radicle.xyz",
-    "explorer": "https://etherscan.io/token/0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
-    "status": "active",
-    "id": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3"
+    "coingecko_url": "https://www.coingecko.com/en/coins/radicle",
+    "market_cap_rank": 245,
+    "24_hr_volume_usd": 10453291,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3/logo.png"
 }

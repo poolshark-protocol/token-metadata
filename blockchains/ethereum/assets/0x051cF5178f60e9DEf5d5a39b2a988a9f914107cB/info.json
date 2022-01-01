@@ -1,11 +1,10 @@
 {
     "name": "Epstein Token",
-    "website": "https://epsteintoken.com",
-    "description": "Epstein didn't kill himself...he's hiding on the moon, and we’re going to find him and raise awareness on the way.",
-    "explorer": "https://etherscan.io/token/0x051cF5178f60e9DEf5d5a39b2a988a9f914107cB",
-    "type": "ERC20",
     "symbol": "EPSTEIN",
+    "id": "0x051cF5178f60e9DEf5d5a39b2a988a9f914107cB",
     "decimals": 18,
-    "status": "active",
-    "id": "0x051cF5178f60e9DEf5d5a39b2a988a9f914107cB"
+    "coingecko_url": "https://www.coingecko.com/en/coins/epstein",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10.96,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x051cF5178f60e9DEf5d5a39b2a988a9f914107cB/logo.png"
 }

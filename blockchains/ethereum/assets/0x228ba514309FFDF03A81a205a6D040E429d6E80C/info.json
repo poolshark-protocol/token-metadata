@@ -1,11 +1,10 @@
 {
     "name": "Global Social Chain",
     "symbol": "GSC",
-    "type": "ERC20",
+    "id": "0x228ba514309FFDF03A81a205a6D040E429d6E80C",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.gsc.social",
-    "explorer": "https://etherscan.io/token/0x228ba514309FFDF03A81a205a6D040E429d6E80C",
-    "status": "active",
-    "id": "0x228ba514309FFDF03A81a205a6D040E429d6E80C"
+    "coingecko_url": "https://www.coingecko.com/en/coins/global-social-chain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10258.71,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x228ba514309FFDF03A81a205a6D040E429d6E80C/logo.png"
 }

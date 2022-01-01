@@ -1,17 +1,10 @@
 {
-    "name": "Moon Juice (JUICE)",
-    "website": "https://moonjuice.xyz/",
-    "description": "Moon Juice is a experiment in farming, deflation, and programmable money.",
-    "explorer": "https://etherscan.io/token/0x889eFB523cc39590B8483EB9491890AC71407f64",
-    "type": "ERC20",
+    "name": "Moon Juice",
     "symbol": "JUICE",
-    "decimals": 18,
-    "status": "active",
     "id": "0x889eFB523cc39590B8483EB9491890AC71407f64",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MoonJuice_xyz"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moon-juice",
+    "market_cap_rank": 3240,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x889eFB523cc39590B8483EB9491890AC71407f64/logo.png"
 }

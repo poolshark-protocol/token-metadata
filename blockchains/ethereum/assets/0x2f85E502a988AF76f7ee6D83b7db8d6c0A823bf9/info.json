@@ -1,11 +1,10 @@
 {
     "name": "LatiumX",
     "symbol": "LATX",
-    "type": "ERC20",
+    "id": "0x2f85E502a988AF76f7ee6D83b7db8d6c0A823bf9",
     "decimals": 8,
-    "description": "-",
-    "website": "https://latium.org/",
-    "explorer": "https://etherscan.io/token/0x2f85E502a988AF76f7ee6D83b7db8d6c0A823bf9",
-    "status": "active",
-    "id": "0x2f85E502a988AF76f7ee6D83b7db8d6c0A823bf9"
+    "coingecko_url": "https://www.coingecko.com/en/coins/latiumx",
+    "market_cap_rank": 2826,
+    "24_hr_volume_usd": 2.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2f85E502a988AF76f7ee6D83b7db8d6c0A823bf9/logo.png"
 }

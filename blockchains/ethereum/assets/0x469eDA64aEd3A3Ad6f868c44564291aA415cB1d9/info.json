@@ -1,11 +1,10 @@
 {
     "name": "FLUX",
     "symbol": "FLUX",
-    "type": "ERC20",
+    "id": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
     "decimals": 18,
-    "description": "-",
-    "website": "https://damcrypto.com",
-    "explorer": "https://etherscan.io/token/0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
-    "status": "active",
-    "id": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9"
+    "coingecko_url": "https://www.coingecko.com/en/coins/flux",
+    "market_cap_rank": 2578,
+    "24_hr_volume_usd": 3529.95,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9/logo.png"
 }

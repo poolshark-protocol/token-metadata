@@ -1,11 +1,10 @@
 {
     "name": "GOVI",
-    "website": "https://cvi.finance",
-    "description": "GOVI token is a governance token for the protocol and platform.",
-    "explorer": "https://etherscan.io/token/0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
-    "type": "ERC20",
     "symbol": "GOVI",
+    "id": "0xeEAA40B28A2d1b0B08f6f97bB1DD4B75316c6107",
     "decimals": 18,
-    "status": "active",
-    "id": "0xeEAA40B28A2d1b0B08f6f97bB1DD4B75316c6107"
+    "coingecko_url": "https://www.coingecko.com/en/coins/govi",
+    "market_cap_rank": 1242,
+    "24_hr_volume_usd": 864179,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeEAA40B28A2d1b0B08f6f97bB1DD4B75316c6107/logo.png"
 }

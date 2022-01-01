@@ -1,11 +1,10 @@
 {
     "name": "CoinDeal Token",
     "symbol": "CDL",
-    "type": "ERC20",
+    "id": "0xcb17cD357c7acD594717D899ecb9df540F633F27",
     "decimals": 18,
-    "description": "CoinDeal presents one of the easiest options to earn money on the exchange.",
-    "website": "https://token.coindeal.com",
-    "explorer": "https://etherscan.io/token/0xcb17cD357c7acD594717D899ecb9df540F633F27",
-    "status": "active",
-    "id": "0xcb17cD357c7acD594717D899ecb9df540F633F27"
+    "coingecko_url": "https://www.coingecko.com/en/coins/coindeal-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4.42,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcb17cD357c7acD594717D899ecb9df540F633F27/logo.png"
 }

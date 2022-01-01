@@ -1,11 +1,10 @@
 {
     "name": "Rublix",
     "symbol": "RBLX",
-    "type": "ERC20",
+    "id": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
     "decimals": 18,
-    "description": "Rublix is a software development company that is building blockchain powered tools to fuel the next generation of fintech projects.",
-    "website": "http://rublix.io",
-    "explorer": "https://etherscan.io/token/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
-    "status": "active",
-    "id": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E"
+    "coingecko_url": "https://www.coingecko.com/en/coins/rublix",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 333.89,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E/logo.png"
 }

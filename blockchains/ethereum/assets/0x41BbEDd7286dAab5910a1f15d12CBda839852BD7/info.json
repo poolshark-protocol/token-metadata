@@ -1,32 +1,10 @@
 {
-    "name": "mMSFT Token",
-    "website": "https://mirror.finance",
-    "description": "Wrapped Mirror MSFT Token.",
-    "explorer": "https://etherscan.io/token/0x41BbEDd7286dAab5910a1f15d12CBda839852BD7",
-    "type": "ERC20",
+    "name": "Wrapped Mirror MSFT Token",
     "symbol": "mMSFT",
-    "decimals": 18,
-    "status": "active",
     "id": "0x41BbEDd7286dAab5910a1f15d12CBda839852BD7",
-    "tags": [
-        "wrapped"
-    ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MirrorProtocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mirror_protocol"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/MirrorProtocol"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@mirror-protocol"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-microsoft",
+    "market_cap_rank": 1045,
+    "24_hr_volume_usd": 227767,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x41BbEDd7286dAab5910a1f15d12CBda839852BD7/logo.png"
 }

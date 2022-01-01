@@ -1,11 +1,10 @@
 {
-    "name": "ENB",
-    "website": "https://earnbase.org",
-    "description": "Earnbase is an all-in-one, user-friendly DeFi protocol to earn, save and swap tokens.",
-    "explorer": "https://etherscan.io/token/0xa6fb1df483b24eeab569e19447e0e107003b9e15",
-    "type": "ERC20",
+    "name": "Earnbase",
     "symbol": "ENB",
+    "id": "0xa6FB1DF483b24EEAB569e19447E0e107003B9E15",
     "decimals": 18,
-    "status": "active",
-    "id": "0xa6FB1DF483b24EEAB569e19447E0e107003B9E15"
+    "coingecko_url": "https://www.coingecko.com/en/coins/earnbase",
+    "market_cap_rank": 2720,
+    "24_hr_volume_usd": 2948.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa6FB1DF483b24EEAB569e19447E0e107003B9E15/logo.png"
 }

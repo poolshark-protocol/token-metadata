@@ -1,11 +1,10 @@
 {
     "name": "Simple Token",
     "symbol": "ST",
-    "type": "ERC20",
+    "id": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
     "decimals": 18,
-    "description": "OST KIT gives you all the tools you need to run your blockchain-powered economy on open scalable sidechains.",
-    "website": "https://ost.com/",
-    "explorer": "https://etherscan.io/token/0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
-    "status": "active",
-    "id": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA"
+    "coingecko_url": "https://www.coingecko.com/en/coins/simple-token",
+    "market_cap_rank": 1958,
+    "24_hr_volume_usd": 16536.31,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA/logo.png"
 }

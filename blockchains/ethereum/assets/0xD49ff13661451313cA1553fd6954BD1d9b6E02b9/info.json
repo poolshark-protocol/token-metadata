@@ -1,11 +1,10 @@
 {
     "name": "ElectrifyAsia",
     "symbol": "ELEC",
-    "type": "ERC20",
+    "id": "0xD49ff13661451313cA1553fd6954BD1d9b6E02b9",
     "decimals": 18,
-    "description": "Synergy is a peer-to-peer (P2P) energy trading platform that allows for the trading of energy among individual producers of energy, reaping stable revenues to consumers across city-wide energy grids, providing grater energy options at fairer prices.",
-    "website": "https://electrify.asia",
-    "explorer": "https://etherscan.io/token/0xD49ff13661451313cA1553fd6954BD1d9b6E02b9",
-    "status": "active",
-    "id": "0xD49ff13661451313cA1553fd6954BD1d9b6E02b9"
+    "coingecko_url": "https://www.coingecko.com/en/coins/electrify-asia",
+    "market_cap_rank": 2481,
+    "24_hr_volume_usd": 14428.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD49ff13661451313cA1553fd6954BD1d9b6E02b9/logo.png"
 }

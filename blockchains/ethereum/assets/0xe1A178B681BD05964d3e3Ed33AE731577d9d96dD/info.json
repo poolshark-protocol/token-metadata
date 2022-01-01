@@ -1,11 +1,10 @@
 {
     "name": "BOX Token",
     "symbol": "BOX",
-    "type": "ERC20",
+    "id": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
     "decimals": 18,
-    "description": "BOX offers a secure, convenient and streamlined crypto asset management system for institutional investment, audit risk control and crypto-exchange platforms.",
-    "website": "https://box.la",
-    "explorer": "https://etherscan.io/token/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
-    "status": "active",
-    "id": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD"
+    "coingecko_url": "https://www.coingecko.com/en/coins/box-token",
+    "market_cap_rank": 2545,
+    "24_hr_volume_usd": 543.03,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD/logo.png"
 }

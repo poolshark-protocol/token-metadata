@@ -1,11 +1,10 @@
 {
-    "name": "Centrality",
-    "website": "https://centrality.ai",
-    "description": "Centrality is a Kiwi company formed by like-minded individuals that are interested in cutting edge technology and creating something purposeful.",
-    "explorer": "https://etherscan.io/token/0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
-    "type": "ERC20",
+    "name": "Centrality Token",
     "symbol": "CENNZ",
+    "id": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
     "decimals": 18,
-    "status": "active",
-    "id": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F"
+    "coingecko_url": "https://www.coingecko.com/en/coins/centrality",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1364125,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1122B6a0E00DCe0563082b6e2953f3A943855c1F/logo.png"
 }

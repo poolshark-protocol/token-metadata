@@ -1,11 +1,10 @@
 {
     "name": "MOchi MArket",
     "symbol": "MOMA",
-    "type": "ERC20",
+    "id": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
     "decimals": 18,
-    "description": "The multi-chain decentralized exchange ecosystem for non-fungible tokens",
-    "website": "https://mochi.market",
-    "explorer": "https://etherscan.io/token/0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
-    "status": "active",
-    "id": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mochi-market",
+    "market_cap_rank": 2233,
+    "24_hr_volume_usd": 13161.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B/logo.png"
 }

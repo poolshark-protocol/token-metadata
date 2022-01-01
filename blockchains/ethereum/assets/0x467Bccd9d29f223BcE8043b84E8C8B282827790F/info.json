@@ -1,41 +1,11 @@
 {
     "name": "Telcoin",
     "symbol": "TEL",
-    "type": "ERC20",
-    "decimals": 2,
-    "description": "Telcoin (TEL) is an Ethereum-based decentralized crypto established.",
-    "website": "http://www.telco.in",
-    "explorer": "https://etherscan.io/token/0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
-    "status": "active",
     "id": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/telcoin"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/telcoin_team"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/@telcoin"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/telcoin/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/telcoincommunity"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://telco.in/docs/whitepaper.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/telcoin/"
-        }
-    ]
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/telcoin",
+    "market_cap_rank": 150,
+    "24_hr_volume_usd": 6009201,
+    "public_notice": "Contract address updated from 0x85e076361cc813a908ff672f9bad1541474402b2 to 0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x467Bccd9d29f223BcE8043b84E8C8B282827790F/logo.png"
 }

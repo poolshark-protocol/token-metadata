@@ -1,11 +1,10 @@
 {
     "name": "Fuel Token",
     "symbol": "FUEL",
-    "type": "ERC20",
+    "id": "0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
     "decimals": 18,
-    "description": "Etherparty™ is a contract wizard that removes the complexity of creating, managing and executing smart contracts on any compatible blockchain.",
-    "website": "https://etherparty.io/",
-    "explorer": "https://etherscan.io/token/0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
-    "status": "active",
-    "id": "0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40"
+    "coingecko_url": "https://www.coingecko.com/en/coins/etherparty",
+    "market_cap_rank": 2589,
+    "24_hr_volume_usd": 12994.9,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40/logo.png"
 }

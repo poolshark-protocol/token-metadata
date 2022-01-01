@@ -1,11 +1,11 @@
 {
     "name": "Dollars",
-    "website": "https://dollarprotocol.com",
-    "description": "Dollar Protocol is a suite of algorithmic synthetics governed by Share",
-    "explorer": "https://etherscan.io/token/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
-    "type": "ERC20",
     "symbol": "USDx",
+    "id": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
     "decimals": 9,
-    "status": "active",
-    "id": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3"
+    "coingecko_url": "https://www.coingecko.com/en/coins/dollars",
+    "market_cap_rank": 1525,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Contract address has changed from 0xd233d1f6fd11640081abb8db125f722b5dc729dc to 0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3/logo.png"
 }

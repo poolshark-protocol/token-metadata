@@ -1,11 +1,10 @@
 {
     "name": "Float Protocol: FLOAT",
-    "website": "https://floatprotocol.com/",
-    "description": "FLOAT - a non-pegged stabilised coin that defends purchasing power in the long-run.",
-    "explorer": "https://etherscan.io/token/0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
-    "type": "ERC20",
     "symbol": "FLOAT",
+    "id": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
     "decimals": 18,
-    "status": "active",
-    "id": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9"
+    "coingecko_url": "https://www.coingecko.com/en/coins/float-protocol-float",
+    "market_cap_rank": 1611,
+    "24_hr_volume_usd": 61216,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9/logo.png"
 }

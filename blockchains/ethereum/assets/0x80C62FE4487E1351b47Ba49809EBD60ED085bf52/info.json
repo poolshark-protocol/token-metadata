@@ -1,11 +1,10 @@
 {
-    "name": "Clover Finance",
+    "name": "Clover",
     "symbol": "CLV",
-    "type": "ERC20",
+    "id": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52",
     "decimals": 18,
-    "description": "Clover Finance is an infrastructure platform focused on cross-chain compatibility.",
-    "website": "https://clover.finance",
-    "explorer": "https://etherscan.io/token/0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
-    "status": "active",
-    "id": "0x80C62FE4487E1351b47Ba49809EBD60ED085bf52"
+    "coingecko_url": "https://www.coingecko.com/en/coins/clover-finance",
+    "market_cap_rank": 377,
+    "24_hr_volume_usd": 11062695,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x80C62FE4487E1351b47Ba49809EBD60ED085bf52/logo.png"
 }

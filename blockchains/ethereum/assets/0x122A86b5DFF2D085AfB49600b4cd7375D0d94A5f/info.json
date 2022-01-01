@@ -1,14 +1,10 @@
 {
     "name": "ITL (Italian Lira)",
     "symbol": "ITL",
-    "type": "ERC20",
-    "decimals": 8,
-    "description": "ITL will be used for online and offline purchases, crypto trading and for all future payment transactions.",
-    "website": "https://www.italianlira.ws/",
-    "explorer": "https://etherscan.io/token/0x122A86b5DFF2D085AfB49600b4cd7375D0d94A5f",
-    "status": "active",
     "id": "0x122A86b5DFF2D085AfB49600b4cd7375D0d94A5f",
-    "tags": [
-        "stablecoin"
-    ]
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/italian-lira",
+    "market_cap_rank": 3320,
+    "24_hr_volume_usd": 0.092066,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x122A86b5DFF2D085AfB49600b4cd7375D0d94A5f/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Shih Tzu",
-    "type": "ERC20",
     "symbol": "SHIH",
+    "id": "0x841FB148863454A3b3570f515414759BE9091465",
     "decimals": 18,
-    "description": "SHIH TZU project is a meme based token that has determined to pursue NFT artwork",
-    "website": "https://www.shih-tzu.org/",
-    "explorer": "https://etherscan.io/token/0x841FB148863454A3b3570f515414759BE9091465",
-    "status": "active",
-    "id": "0x841FB148863454A3b3570f515414759BE9091465"
+    "coingecko_url": "https://www.coingecko.com/en/coins/shih-tzu",
+    "market_cap_rank": 1514,
+    "24_hr_volume_usd": 45002,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x841FB148863454A3b3570f515414759BE9091465/logo.png"
 }

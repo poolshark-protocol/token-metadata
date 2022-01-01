@@ -1,17 +1,10 @@
 {
-    "name": "FIN",
-    "website": "https://definer.org/",
-    "description": "Earn interest and access instant loans through DeFiner’s noncustodial platform. Truly peer-to-peer. Secure. No middlemen.",
-    "explorer": "https://etherscan.io/token/0x054f76beED60AB6dBEb23502178C52d6C5dEbE40",
-    "type": "ERC20",
+    "name": "DeFiner",
     "symbol": "FIN",
-    "decimals": 18,
-    "status": "active",
     "id": "0x054f76beED60AB6dBEb23502178C52d6C5dEbE40",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DeFinerorg"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/definer",
+    "market_cap_rank": 1734,
+    "24_hr_volume_usd": 56749,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x054f76beED60AB6dBEb23502178C52d6C5dEbE40/logo.png"
 }

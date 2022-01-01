@@ -1,11 +1,11 @@
 {
-    "name": "Mt Pelerin Shares",
-    "website": "https://mtpelerin.com",
-    "description": "Mt Pelerin company shares issued on blockchain and recognized as shares providing the same level of protection conferred by Swiss law",
-    "explorer": "https://etherscan.io/token/0x96c645D3D3706f793Ef52C19bBACe441900eD47D",
-    "type": "ERC20",
+    "name": "MtPelerin Shares",
     "symbol": "MPS",
+    "id": "0x96c645D3D3706f793Ef52C19bBACe441900eD47D",
     "decimals": 0,
-    "status": "active",
-    "id": "0x96c645D3D3706f793Ef52C19bBACe441900eD47D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mt-pelerin-shares",
+    "market_cap_rank": 1534,
+    "24_hr_volume_usd": 719.37,
+    "public_notice": "Mt Pelerin Shares has recently expanded to xDai\u00a0chain. For more info, read <a href=\"https://www.mtpelerin.com/blog/mps-now-live-on-xdai\">here</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x96c645D3D3706f793Ef52C19bBACe441900eD47D/logo.png"
 }

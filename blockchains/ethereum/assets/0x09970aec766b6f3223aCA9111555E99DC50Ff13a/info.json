@@ -1,11 +1,10 @@
 {
     "name": "Levolution.io Token",
     "symbol": "LEVL",
-    "type": "ERC20",
+    "id": "0x09970aec766b6f3223aCA9111555E99DC50Ff13a",
     "decimals": 18,
-    "description": "The Levolution platform aims to help entrepreneurs leverage the value of token offerings, by allowing them to build, develop, market, launch and optimize their project on a single platform.",
-    "website": "https://ito.levolution.io",
-    "explorer": "https://etherscan.io/token/0x09970aec766b6f3223aCA9111555E99DC50Ff13a",
-    "status": "active",
-    "id": "0x09970aec766b6f3223aCA9111555E99DC50Ff13a"
+    "coingecko_url": "https://www.coingecko.com/en/coins/levolution",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 140616,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x09970aec766b6f3223aCA9111555E99DC50Ff13a/logo.png"
 }

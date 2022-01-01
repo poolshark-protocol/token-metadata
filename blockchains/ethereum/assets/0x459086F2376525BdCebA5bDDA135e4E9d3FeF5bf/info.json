@@ -1,11 +1,10 @@
 {
     "name": "renBCH",
     "symbol": "renBCH",
-    "type": "ERC20",
+    "id": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
     "decimals": 8,
-    "description": "renBCH is a one-for-one representation of BCH on Ethereum via RenVM.",
-    "website": "https://renproject.io/",
-    "explorer": "https://etherscan.io/token/0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
-    "status": "active",
-    "id": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf"
+    "coingecko_url": "https://www.coingecko.com/en/coins/renbch",
+    "market_cap_rank": 2982,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf/logo.png"
 }

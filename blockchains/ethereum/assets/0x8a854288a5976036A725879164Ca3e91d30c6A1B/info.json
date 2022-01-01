@@ -1,11 +1,10 @@
 {
     "name": "GET",
     "symbol": "GET",
-    "type": "ERC20",
+    "id": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
     "decimals": 18,
-    "description": "The GET Protocol offers a blockchain-based smart ticketing solution that can be used by everybody who needs to issue tickets(NFTs) in an honest and transparent way.",
-    "website": "https://get-protocol.io",
-    "explorer": "https://etherscan.io/token/0x8a854288a5976036A725879164Ca3e91d30c6A1B",
-    "status": "active",
-    "id": "0x8a854288a5976036A725879164Ca3e91d30c6A1B"
+    "coingecko_url": "https://www.coingecko.com/en/coins/get-token",
+    "market_cap_rank": 798,
+    "24_hr_volume_usd": 124839,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8a854288a5976036A725879164Ca3e91d30c6A1B/logo.png"
 }

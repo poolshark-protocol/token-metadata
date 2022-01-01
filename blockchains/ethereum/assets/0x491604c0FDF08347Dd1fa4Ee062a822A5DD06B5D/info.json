@@ -1,11 +1,10 @@
 {
     "name": "Cartesi Token",
     "symbol": "CTSI",
-    "type": "ERC20",
+    "id": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
     "decimals": 18,
-    "description": "-",
-    "website": "https://cartesi.io",
-    "explorer": "https://etherscan.io/token/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
-    "status": "active",
-    "id": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/cartesi",
+    "market_cap_rank": 224,
+    "24_hr_volume_usd": 22097644,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png"
 }

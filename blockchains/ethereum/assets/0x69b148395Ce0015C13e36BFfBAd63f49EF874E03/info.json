@@ -1,11 +1,10 @@
 {
     "name": "Data Token",
     "symbol": "DTA",
-    "type": "ERC20",
+    "id": "0x69b148395Ce0015C13e36BFfBAd63f49EF874E03",
     "decimals": 18,
-    "description": "DATA (Decentralized AI-powered Trust Alliance) is a blockchain based digital data authentication protocol powered by AI & P2P mobile storage infrastructure.",
-    "website": "http://data.eco/",
-    "explorer": "https://etherscan.io/token/0x69b148395Ce0015C13e36BFfBAd63f49EF874E03",
-    "status": "active",
-    "id": "0x69b148395Ce0015C13e36BFfBAd63f49EF874E03"
+    "coingecko_url": "https://www.coingecko.com/en/coins/data",
+    "market_cap_rank": 2448,
+    "24_hr_volume_usd": 54565,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69b148395Ce0015C13e36BFfBAd63f49EF874E03/logo.png"
 }

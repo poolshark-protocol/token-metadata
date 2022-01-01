@@ -1,11 +1,10 @@
 {
-    "name": "Aave TUSD",
+    "name": "Aave interest bearing TUSD",
     "symbol": "aTUSD",
-    "type": "ERC20",
+    "id": "0x101cc05f4A51C0319f570d5E146a8C625198e636",
     "decimals": 18,
-    "description": "Aave TUSD is an interest bearing token pegged 1:1 to the underlying TUSD deposited in Aave. aTUSD accrue interest in real time in your wallet.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0x101cc05f4A51C0319f570d5E146a8C625198e636",
-    "status": "active",
-    "id": "0x101cc05f4A51C0319f570d5E146a8C625198e636"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-tusd",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x101cc05f4A51C0319f570d5E146a8C625198e636/logo.png"
 }

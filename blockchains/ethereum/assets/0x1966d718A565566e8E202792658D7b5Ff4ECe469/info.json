@@ -1,11 +1,10 @@
 {
     "name": "nDEX",
     "symbol": "NDX",
-    "type": "ERC20",
+    "id": "0x1966d718A565566e8E202792658D7b5Ff4ECe469",
     "decimals": 18,
-    "description": "nDEX Network is a next generation decentralized ethereum token exchange. Our primary goal is to provide a clean, fast and secure trading environment with lowest service charge.",
-    "website": "https://ndexnetwork.com",
-    "explorer": "https://etherscan.io/token/0x1966d718A565566e8E202792658D7b5Ff4ECe469",
-    "status": "active",
-    "id": "0x1966d718A565566e8E202792658D7b5Ff4ECe469"
+    "coingecko_url": "https://www.coingecko.com/en/coins/ndex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1143.5,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1966d718A565566e8E202792658D7b5Ff4ECe469/logo.png"
 }

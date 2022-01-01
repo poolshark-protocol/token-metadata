@@ -1,11 +1,10 @@
 {
     "name": "SWARM",
     "symbol": "SWM",
-    "type": "ERC20",
+    "id": "0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
     "decimals": 18,
-    "description": "-",
-    "website": "http://swarm.fund",
-    "explorer": "https://etherscan.io/token/0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
-    "status": "active",
-    "id": "0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39"
+    "coingecko_url": "https://www.coingecko.com/en/coins/swarm",
+    "market_cap_rank": 2135,
+    "24_hr_volume_usd": 158.25,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39/logo.png"
 }

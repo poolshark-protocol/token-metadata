@@ -1,11 +1,10 @@
 {
-    "name": "BOSON Token",
-    "website": "https://bosonprotocol.io/",
-    "description": "The $BOSON token is the core economic unit of the Boson ecosystem.",
-    "explorer": "https://etherscan.io/token/0xc477d038d5420c6a9e0b031712f61c5120090de9",
-    "type": "ERC20",
+    "name": "Boson Token",
     "symbol": "BOSON",
+    "id": "0xC477D038d5420C6A9e0b031712f61c5120090de9",
     "decimals": 18,
-    "status": "active",
-    "id": "0xC477D038d5420C6A9e0b031712f61c5120090de9"
+    "coingecko_url": "https://www.coingecko.com/en/coins/boson-protocol",
+    "market_cap_rank": 454,
+    "24_hr_volume_usd": 3883282,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC477D038d5420C6A9e0b031712f61c5120090de9/logo.png"
 }

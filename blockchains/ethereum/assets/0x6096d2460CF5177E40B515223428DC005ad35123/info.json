@@ -1,11 +1,10 @@
 {
     "name": "Precium Token",
     "symbol": "PCM",
-    "type": "ERC20",
+    "id": "0x6096d2460CF5177E40B515223428DC005ad35123",
     "decimals": 18,
-    "description": "Precium is a smart contract platform that provides a template of various smart contract terms to allow users to create and use smart contracts simply and securely through peer-to-peer transactions.",
-    "website": "https://precium.io",
-    "explorer": "https://etherscan.io/token/0x6096d2460CF5177E40B515223428DC005ad35123",
-    "status": "active",
-    "id": "0x6096d2460CF5177E40B515223428DC005ad35123"
+    "coingecko_url": "https://www.coingecko.com/en/coins/precium",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 246.44,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6096d2460CF5177E40B515223428DC005ad35123/logo.png"
 }

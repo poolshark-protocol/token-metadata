@@ -1,11 +1,10 @@
 {
     "name": "Blocktix Token",
     "symbol": "TIX",
-    "type": "ERC20",
+    "id": "0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4",
     "decimals": 18,
-    "description": "The Blocktix System is a platform that replaces the current fragmented markets of event ticket distribution, ticket transfer and event promotion. Blocktix is a single system for all services and provides a low overhead for distributors and promoters, freeing up money otherwise wasted in inefficient market based systems.",
-    "website": "https://blocktix.io/",
-    "explorer": "https://etherscan.io/token/0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4",
-    "status": "active",
-    "id": "0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4"
+    "coingecko_url": "https://www.coingecko.com/en/coins/blocktix",
+    "market_cap_rank": 3106,
+    "24_hr_volume_usd": 3.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4/logo.png"
 }

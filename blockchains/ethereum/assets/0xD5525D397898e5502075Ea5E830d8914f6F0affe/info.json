@@ -1,11 +1,11 @@
 {
     "name": "MEME",
     "symbol": "MEME",
-    "type": "ERC20",
+    "id": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
     "decimals": 8,
-    "description": "Meme mashes up the most exciting innovations in DeFi and NFTs. Put your $MEME to work and collect digital content that you can truly own.",
-    "website": "https://dontbuymeme.com",
-    "explorer": "https://etherscan.io/token/0xD5525D397898e5502075Ea5E830d8914f6F0affe",
-    "status": "active",
-    "id": "0xD5525D397898e5502075Ea5E830d8914f6F0affe"
+    "coingecko_url": "https://www.coingecko.com/en/coins/degenerator",
+    "market_cap_rank": 1004,
+    "24_hr_volume_usd": 20150,
+    "public_notice": "$MEME token has undergone a contract migration and rebranding to Meme Inu, new token is at https://www.coingecko.com/en/coins/meme-inu?locale=en<br>for more information, read https://dontbuymeme.medium.com/welcome-to-the-bark-side-632c8cfda1bb",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD5525D397898e5502075Ea5E830d8914f6F0affe/logo.png"
 }

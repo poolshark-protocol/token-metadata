@@ -1,11 +1,10 @@
 {
-    "name": "MINDS",
-    "website": "https://minds.com/",
-    "description": "Minds Tokens are the fuel of the Minds network.",
-    "explorer": "https://etherscan.io/token/0xB26631c6dda06aD89B93C71400D25692de89c068",
-    "type": "ERC20",
+    "name": "Minds",
     "symbol": "MINDS",
+    "id": "0xB26631c6dda06aD89B93C71400D25692de89c068",
     "decimals": 18,
-    "status": "active",
-    "id": "0xB26631c6dda06aD89B93C71400D25692de89c068"
+    "coingecko_url": "https://www.coingecko.com/en/coins/minds",
+    "market_cap_rank": 970,
+    "24_hr_volume_usd": 14258.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB26631c6dda06aD89B93C71400D25692de89c068/logo.png"
 }

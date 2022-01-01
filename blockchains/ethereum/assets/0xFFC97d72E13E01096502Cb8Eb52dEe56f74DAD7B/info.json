@@ -1,11 +1,10 @@
 {
-    "name": "Aave AAVE",
+    "name": "Aave interest bearing AAVE",
     "symbol": "aAAVE",
-    "type": "ERC20",
+    "id": "0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B",
     "decimals": 18,
-    "description": "Aave AAVE is an interest bearing token pegged 1:1 to the underlying AAVE deposited in Aave.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B",
-    "status": "active",
-    "id": "0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-aave",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3565.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B/logo.png"
 }

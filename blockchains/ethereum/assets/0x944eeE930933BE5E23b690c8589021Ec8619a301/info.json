@@ -1,11 +1,10 @@
 {
     "name": "MUNCH Token",
     "symbol": "MUNCH",
-    "type": "ERC20",
+    "id": "0x944eeE930933BE5E23b690c8589021Ec8619a301",
     "decimals": 9,
-    "description": "Munch is a fully decentralized, community-built project to help charities. We are very active in our community and strive to develop trust by being transparent in our mission and our goals.",
-    "website": "https://munchtoken.com/",
-    "explorer": "https://etherscan.io/token/0x944eeE930933BE5E23b690c8589021Ec8619a301",
-    "status": "active",
-    "id": "0x944eeE930933BE5E23b690c8589021Ec8619a301"
+    "coingecko_url": "https://www.coingecko.com/en/coins/munch-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5735.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x944eeE930933BE5E23b690c8589021Ec8619a301/logo.png"
 }

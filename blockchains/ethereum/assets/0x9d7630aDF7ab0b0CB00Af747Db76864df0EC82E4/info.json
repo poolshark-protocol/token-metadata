@@ -1,17 +1,10 @@
 {
-    "id": "0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
-    "name": "GATENet",
-    "website": "https://gatetoken.io/",
-    "description": "GATENet is building on-chain regulated securities settlement and registry solutions to reduce costs and increase efficiencies for issuers, investors and market participants.",
-    "explorer": "https://etherscan.io/token/0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
+    "name": "GATE",
     "symbol": "GATE",
-    "type": "ERC20",
+    "id": "0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
     "decimals": 18,
-    "status": "active",
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/GSXGATECommunity"
-        }
-    ]
+    "coingecko_url": "https://www.coingecko.com/en/coins/gatenet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 268.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4/logo.png"
 }

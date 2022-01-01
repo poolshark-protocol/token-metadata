@@ -1,11 +1,10 @@
 {
     "name": "Bitgear",
     "symbol": "GEAR",
-    "type": "ERC20",
+    "id": "0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
     "decimals": 18,
-    "description": "Bitgear aims to create a bridge and aggregate decentralized and centralized exchanges all in one platform.",
-    "website": "https://bitgear.io",
-    "explorer": "https://etherscan.io/token/0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
-    "status": "active",
-    "id": "0x1b980e05943dE3dB3a459C72325338d327B6F5a9"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitgear",
+    "market_cap_rank": 2540,
+    "24_hr_volume_usd": 1184.02,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1b980e05943dE3dB3a459C72325338d327B6F5a9/logo.png"
 }

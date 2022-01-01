@@ -1,11 +1,10 @@
 {
-    "name": "Aave REN",
+    "name": "Aave interest bearing REN",
     "symbol": "aREN",
-    "type": "ERC20",
+    "id": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
     "decimals": 18,
-    "description": "Aave REN is an interest bearing token pegged 1:1 to the underlying REN deposited in Aave. aREN accrue interest in real time in your wallet.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
-    "status": "active",
-    "id": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-ren",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a/logo.png"
 }

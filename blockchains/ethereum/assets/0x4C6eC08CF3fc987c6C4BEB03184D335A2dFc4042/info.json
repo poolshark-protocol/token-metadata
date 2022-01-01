@@ -1,11 +1,10 @@
 {
     "name": "Paint",
-    "website": "https://murall.art",
-    "description": "MurAll is a 2048x1024px digital mural that anyone can draw on without restriction. MurAll requires PAINT - a fixed supply token synonymous with real-life paint, which is burned in the painting transaction. Painting on MurAll also mints a MURALL NFT of the artwork for the artist to keep.",
-    "explorer": "https://etherscan.io/token/0x4c6ec08cf3fc987c6c4beb03184d335a2dfc4042",
-    "type": "ERC20",
     "symbol": "PAINT",
+    "id": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
     "decimals": 18,
-    "status": "active",
-    "id": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042"
+    "coingecko_url": "https://www.coingecko.com/en/coins/paint",
+    "market_cap_rank": 1969,
+    "24_hr_volume_usd": 14150.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042/logo.png"
 }

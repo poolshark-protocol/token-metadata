@@ -1,11 +1,10 @@
 {
     "name": "Humanscape",
     "symbol": "HUM",
-    "type": "ERC20",
+    "id": "0x174aFE7A032b5A33a3270a9f6C30746E25708532",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.humanscape.io/",
-    "explorer": "https://etherscan.io/token/0x174aFE7A032b5A33a3270a9f6C30746E25708532",
-    "status": "active",
-    "id": "0x174aFE7A032b5A33a3270a9f6C30746E25708532"
+    "coingecko_url": "https://www.coingecko.com/en/coins/humanscape",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8455808,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x174aFE7A032b5A33a3270a9f6C30746E25708532/logo.png"
 }

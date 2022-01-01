@@ -1,22 +1,10 @@
 {
-    "name": "Sapien Token",
-    "website": "https://sapien.network/",
-    "description": "Sapien is an Ethereum-based social network that puts Humans First.",
-    "explorer": "https://etherscan.io/token/0x20f7a3ddf244dc9299975b4da1c39f8d5d75f05a",
-    "research": "",
-    "type": "ERC20",
+    "name": "Sapien Network",
     "symbol": "SPN",
-    "decimals": 6,
-    "status": "active",
     "id": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/sapiennetwork"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://common.sapien.network/static/pdf/SPNv1_4.pdf"
-        }
-    ]
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sapien",
+    "market_cap_rank": 2087,
+    "24_hr_volume_usd": 41.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A/logo.png"
 }

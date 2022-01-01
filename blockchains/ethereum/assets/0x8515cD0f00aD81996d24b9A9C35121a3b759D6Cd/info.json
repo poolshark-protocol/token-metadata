@@ -1,11 +1,11 @@
 {
     "name": "Blockburn",
     "symbol": "BURN",
-    "type": "ERC20",
+    "id": "0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd",
     "decimals": 18,
-    "description": "-",
-    "website": "https://blockburn.io/",
-    "explorer": "https://etherscan.io/token/0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd",
-    "status": "active",
-    "id": "0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd"
+    "coingecko_url": "https://www.coingecko.com/en/coins/blockburn",
+    "market_cap_rank": 3514,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Contract address change from 0x91ca1146073b0cc9f57a1dde38a0ccb1ab2a3317 to 0x8515cd0f00ad81996d24b9a9c35121a3b759d6cd",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8515cD0f00aD81996d24b9A9C35121a3b759D6Cd/logo.png"
 }

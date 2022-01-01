@@ -1,11 +1,10 @@
 {
     "name": "OneRoot Network Token",
     "symbol": "RNT",
-    "type": "ERC20",
+    "id": "0xFF603F43946A3A28DF5E6A73172555D8C8b02386",
     "decimals": 18,
-    "description": "ONEROOT aims to make use of the immutability, transparency and traceability of blockchain while embracing values of decentralization and shared economy to build a network of value that better fits with the characteristics of distributed network and tokenization of assets.",
-    "website": "https://www.oneroot.io/en",
-    "explorer": "https://etherscan.io/token/0xFF603F43946A3A28DF5E6A73172555D8C8b02386",
-    "status": "active",
-    "id": "0xFF603F43946A3A28DF5E6A73172555D8C8b02386"
+    "coingecko_url": "https://www.coingecko.com/en/coins/oneroot-network",
+    "market_cap_rank": 2547,
+    "24_hr_volume_usd": 49745,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFF603F43946A3A28DF5E6A73172555D8C8b02386/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "FOTA",
     "symbol": "FOTA",
-    "type": "ERC20",
+    "id": "0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C",
     "decimals": 18,
-    "description": "FORTUNA is a global OTC derivatives market disciplined by algorithms while supporting transparent, real time, and full dose trading data supervision.",
-    "website": "https://www.fota.top/",
-    "explorer": "https://etherscan.io/token/0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C",
-    "status": "active",
-    "id": "0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C"
+    "coingecko_url": "https://www.coingecko.com/en/coins/fortuna",
+    "market_cap_rank": 3115,
+    "24_hr_volume_usd": 37.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C/logo.png"
 }

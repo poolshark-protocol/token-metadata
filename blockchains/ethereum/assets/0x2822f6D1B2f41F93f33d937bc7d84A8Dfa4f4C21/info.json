@@ -1,11 +1,10 @@
 {
     "name": "QQQ Token",
     "symbol": "QQQ",
-    "type": "ERC20",
+    "id": "0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
     "decimals": 18,
-    "description": "We provide decentralized CDN service, the decentralized version of GCP, AWS Cloud Service.",
-    "website": "https://poseidon.network/",
-    "explorer": "https://etherscan.io/token/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
-    "status": "active",
-    "id": "0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21"
+    "coingecko_url": "https://www.coingecko.com/en/coins/qqq-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 105903,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "PlusCoin",
     "symbol": "NPLC",
-    "type": "ERC20",
+    "id": "0x97fB6Fc2AD532033Af97043B563131C5204F8A35",
     "decimals": 18,
-    "description": "PlusCoin has been developed to connect cryptocurrency and the real economy. PlusCoin also serves as exchange token of Korean exchange UpXide.",
-    "website": "http://plus-coin.com/en/",
-    "explorer": "https://etherscan.io/token/0x97fB6Fc2AD532033Af97043B563131C5204F8A35",
-    "status": "active",
-    "id": "0x97fB6Fc2AD532033Af97043B563131C5204F8A35"
+    "coingecko_url": "https://www.coingecko.com/en/coins/plus-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 516.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x97fB6Fc2AD532033Af97043B563131C5204F8A35/logo.png"
 }

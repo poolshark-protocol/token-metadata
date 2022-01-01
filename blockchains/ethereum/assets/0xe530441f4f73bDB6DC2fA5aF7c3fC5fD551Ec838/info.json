@@ -1,11 +1,10 @@
 {
     "name": "GSENetwork",
     "symbol": "GSE",
-    "type": "ERC20",
+    "id": "0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
     "decimals": 4,
-    "description": "GSENetwork is committed to establishing a transparent and secure phenomenon-level decentralized credit network. With the help of the Internet of Things technology, the pass incentive system, and the composite pass economy design, smart contract services can be implemented through the sharing economy to achieve credit recovery and redefine classical sharing.",
-    "website": "https://gse.network",
-    "explorer": "https://etherscan.io/token/0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
-    "status": "active",
-    "id": "0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838"
+    "coingecko_url": "https://www.coingecko.com/en/coins/gsenetwork",
+    "market_cap_rank": 1995,
+    "24_hr_volume_usd": 10083.56,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Ethereum Blue",
     "symbol": "BLUE",
-    "type": "ERC20",
+    "id": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
     "decimals": 8,
-    "description": "Decentralized 2-Factor Authentication, Blacklisting, Whitelisting, Auto Smart Contract Scanning, & more.",
-    "website": "https://www.blueprotocol.com/",
-    "explorer": "https://etherscan.io/token/0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
-    "status": "active",
-    "id": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b"
+    "coingecko_url": "https://www.coingecko.com/en/coins/blue",
+    "market_cap_rank": 2262,
+    "24_hr_volume_usd": 4909651,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x539EfE69bCDd21a83eFD9122571a64CC25e0282b/logo.png"
 }

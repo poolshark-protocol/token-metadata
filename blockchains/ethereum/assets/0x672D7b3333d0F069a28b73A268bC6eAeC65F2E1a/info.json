@@ -1,11 +1,10 @@
 {
     "name": "Kelpie Inu",
-    "type": "ERC20",
     "symbol": "KELPIE",
+    "id": "0x672D7b3333d0F069a28b73A268bC6eAeC65F2E1a",
     "decimals": 9,
-    "website": "https://kelpie.tech",
-    "description": "New Submission for logo",
-    "explorer": "https://etherscan.io/token/0x672d7b3333d0f069a28b73a268bc6eaec65f2e1a",
-    "status": "active",
-    "id": "0x672D7b3333d0F069a28b73A268bC6eAeC65F2E1a"
+    "coingecko_url": "https://www.coingecko.com/en/coins/kelpie-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4903.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x672D7b3333d0F069a28b73A268bC6eAeC65F2E1a/logo.png"
 }

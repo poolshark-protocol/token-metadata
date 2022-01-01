@@ -1,29 +1,10 @@
 {
-    "name": "mTWTR Token",
-    "website": "https://mirror.finance",
-    "description": "Wrapped Mirror TWTR Token.",
-    "explorer": "https://etherscan.io/token/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
-    "type": "ERC20",
+    "name": "Wrapped Mirror TWTR Token",
     "symbol": "mTWTR",
-    "decimals": 18,
-    "status": "active",
     "id": "0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MirrorProtocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mirror_protocol"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/MirrorProtocol"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@mirror-protocol"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-twitter",
+    "market_cap_rank": 1205,
+    "24_hr_volume_usd": 82288,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9/logo.png"
 }

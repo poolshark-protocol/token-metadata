@@ -1,11 +1,10 @@
 {
     "name": "Cryptobuyer Token",
     "symbol": "XPT",
-    "type": "ERC20",
+    "id": "0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19",
     "decimals": 18,
-    "description": "At Cryptobuyer we offer multiple financial services in the same place, with the security, privacy and speed you deserve.",
-    "website": "https://cryptobuyer.io",
-    "explorer": "https://etherscan.io/token/0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19",
-    "status": "active",
-    "id": "0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19"
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptobuyer-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 522.99,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19/logo.png"
 }

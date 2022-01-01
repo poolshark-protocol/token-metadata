@@ -1,11 +1,10 @@
 {
-    "name": "MIMO Parallel Governance Token (MIMO)",
-    "type": "ERC20",
+    "name": "MIMO Parallel Governance Token",
     "symbol": "MIMO",
+    "id": "0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc",
     "decimals": 18,
-    "website": "https://mimo.capital/",
-    "description": "MIMO token is the Governance Token of PAR Token",
-    "explorer": "https://etherscan.io/token/0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
-    "status": "active",
-    "id": "0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mimo-parallel-governance-token",
+    "market_cap_rank": 483,
+    "24_hr_volume_usd": 1196618,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc/logo.png"
 }

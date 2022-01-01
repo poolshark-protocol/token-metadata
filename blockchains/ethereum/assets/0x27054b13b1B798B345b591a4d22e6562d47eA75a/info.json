@@ -1,25 +1,10 @@
 {
-    "name": "AirSwap",
-    "website": "https://www.airswap.io",
-    "description": "AirSwap powers peer-to-peer trading.",
-    "explorer": "https://etherscan.io/token/0x27054b13b1B798B345b591a4d22e6562d47eA75a",
-    "type": "ERC20",
+    "name": "AirSwap Token",
     "symbol": "AST",
-    "decimals": 4,
-    "status": "active",
     "id": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/airswap"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/ecQbV7H"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/airswap"
-        }
-    ]
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/airswap",
+    "market_cap_rank": 692,
+    "24_hr_volume_usd": 610457,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x27054b13b1B798B345b591a4d22e6562d47eA75a/logo.png"
 }

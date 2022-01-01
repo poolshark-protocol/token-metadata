@@ -1,11 +1,10 @@
 {
     "name": "CEEK",
     "symbol": "CEEK",
-    "type": "ERC20",
+    "id": "0xb056c38f6b7Dc4064367403E26424CD2c60655e1",
     "decimals": 18,
-    "description": "CEEK VR (CEEK) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://www.ceek.io",
-    "explorer": "https://etherscan.io/token/0xb056c38f6b7Dc4064367403E26424CD2c60655e1",
-    "status": "active",
-    "id": "0xb056c38f6b7Dc4064367403E26424CD2c60655e1"
+    "coingecko_url": "https://www.coingecko.com/en/coins/ceek",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8212499,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb056c38f6b7Dc4064367403E26424CD2c60655e1/logo.png"
 }

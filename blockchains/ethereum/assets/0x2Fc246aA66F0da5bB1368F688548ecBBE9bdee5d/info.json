@@ -1,11 +1,10 @@
 {
     "name": "TEMCO",
     "symbol": "TEMCO",
-    "type": "ERC20",
+    "id": "0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d",
     "decimals": 18,
-    "description": "TEMCO is the world's first Bitcoin Smart Contract (RSK) based supply chain data platform. TEMCO connects isolated supply chain data and offers business and consumer services.",
-    "website": "https://www.temco.io/",
-    "explorer": "https://etherscan.io/token/0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d",
-    "status": "active",
-    "id": "0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d"
+    "coingecko_url": "https://www.coingecko.com/en/coins/temco",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 826403,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Davinci coin",
     "symbol": "DAC",
-    "type": "ERC20",
+    "id": "0xAAD54C9f27B876D2538455DdA69207279fF673a5",
     "decimals": 18,
-    "description": "Davinci Coin (DAC) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://www.davinci.vision",
-    "explorer": "https://etherscan.io/token/0xAAD54C9f27B876D2538455DdA69207279fF673a5",
-    "status": "active",
-    "id": "0xAAD54C9f27B876D2538455DdA69207279fF673a5"
+    "coingecko_url": "https://www.coingecko.com/en/coins/davinci-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 52677,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAAD54C9f27B876D2538455DdA69207279fF673a5/logo.png"
 }

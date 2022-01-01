@@ -1,11 +1,10 @@
 {
     "name": "PlayFuel",
     "symbol": "PLF",
-    "type": "ERC20",
+    "id": "0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
     "decimals": 18,
-    "description": "Our vision-focus is tailoring a breakthrough solutionsin the design and creation of blockchain games and NFT based assets.",
-    "website": "https://playfuel.io",
-    "explorer": "https://etherscan.io/token/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
-    "status": "active",
-    "id": "0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef"
+    "coingecko_url": "https://www.coingecko.com/en/coins/playfuel",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6331171,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef/logo.png"
 }

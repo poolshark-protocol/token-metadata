@@ -1,27 +1,11 @@
 {
-    "name": "BotOcean",
-    "type": "ERC20",
-    "symbol": "BOTS",
-    "decimals": 18,
-    "website": "https://botocean.com",
-    "description": "Bot Ocean democratizes the algorithmic trading market by giving you the tools to navigate your way through the market and earn assets while our bots do their job.",
-    "short_description": "Accessible algorithmic trading",
-    "explorer": "https://etherscan.io/token/0xf9fbe825bfb2bf3e387af0dc18cac8d87f29dea8",
-    "status": "active",
+    "name": "Radar",
+    "symbol": "RADAR",
     "id": "0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8",
-    "research": "https://botocean.com/",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/BotOcean"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/botoceaninc"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://botocean.com/static/media/whitepaper.aff921dc.pdf"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/radar",
+    "market_cap_rank": 1114,
+    "24_hr_volume_usd": 104314,
+    "public_notice": "BotOcean has rebranded to Radar. For more information, visit https://twitter.com/radarprotocol <br> Radar has migrated to a new contract address (0xf03a2dc374d494fbe894563fe22ee544d826aa50). For more information, please read: https://radar.blog/radar-bsc-token-migration-a548024bd30c",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8/logo.png"
 }

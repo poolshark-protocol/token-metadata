@@ -1,45 +1,11 @@
 {
     "name": "Revain",
     "symbol": "REV",
-    "type": "ERC20",
-    "decimals": 6,
-    "description": "Revain is a blockchain-based review platform for the crypto community. Revain's ultimate goal is to provide high-quality reviews on all global products and services using emerging technologies like blockchain and AI.",
-    "website": "https://revain.org/",
-    "explorer": "https://etherscan.io/token/0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
-    "status": "active",
     "id": "0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Revain"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Revain_org"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/revain_org/"
-        },
-        {
-            "name": "blog",
-            "url": "https://medium.com/revain"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/revain.org/"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/joinchat/CzZcC0PCgpJcbBCb3JfNeQ"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://revain.org/pdf/wp/en-wp.pdf"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/revain/"
-        }
-    ]
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/revain",
+    "market_cap_rank": 1588,
+    "24_hr_volume_usd": 1929076,
+    "public_notice": "Revain (R) will be swapped to Revain (REV) in a 1:1 ratio. For more information please refer to https://revain.org/blog/r-swap-is-coming",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9/logo.png"
 }

@@ -1,11 +1,10 @@
 {
-    "name": "stETH",
-    "website": "https://stake.lido.fi",
-    "description": "stETH is a token that represents staked ether in Lido.",
-    "explorer": "https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
-    "type": "ERC20",
+    "name": "Liquid staked Ether 2.0",
     "symbol": "stETH",
+    "id": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
     "decimals": 18,
-    "status": "active",
-    "id": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+    "coingecko_url": "https://www.coingecko.com/en/coins/staked-ether",
+    "market_cap_rank": 31,
+    "24_hr_volume_usd": 11891907,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84/logo.png"
 }

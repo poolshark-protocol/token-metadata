@@ -1,11 +1,10 @@
 {
     "name": "RvT",
     "symbol": "RVT",
-    "type": "ERC20",
+    "id": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
     "decimals": 18,
-    "description": "The Decentralized & Mobile Cyber Security Token.",
-    "website": "https://rivetz.com/",
-    "explorer": "https://etherscan.io/token/0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244",
-    "status": "active",
-    "id": "0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244"
+    "coingecko_url": "https://www.coingecko.com/en/coins/rivetz",
+    "market_cap_rank": 11984,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3d1BA9be9f66B8ee101911bC36D3fB562eaC2244/logo.png"
 }

@@ -1,21 +1,10 @@
 {
     "name": "Polka City",
-    "type": "ERC20",
     "symbol": "POLC",
-    "decimals": 18,
-    "website": "https://www.polkacity.io",
-    "description": "PolkaCity is a unique fully contract-based metaverse project which combines NFT, DeFi and gaming worlds!",
-    "explorer": "https://etherscan.io/token/0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
-    "status": "active",
     "id": "0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/PolkaCity"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/Polkacity"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polka-city",
+    "market_cap_rank": 773,
+    "24_hr_volume_usd": 3349930,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37/logo.png"
 }

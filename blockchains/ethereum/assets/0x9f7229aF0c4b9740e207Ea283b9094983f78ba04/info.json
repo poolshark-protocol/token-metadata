@@ -1,11 +1,10 @@
 {
     "name": "Tadpole",
-    "website": "https://tadpole.finance",
-    "description": "Tadpole Finance is an experimental DeFi project to create a more open lending markets, where users can make deposits and loans with any ERC20 tokens on the Ethereum network.",
-    "explorer": "https://etherscan.io/token/0x9f7229aF0c4b9740e207Ea283b9094983f78ba04",
-    "type": "ERC20",
     "symbol": "TAD",
+    "id": "0x9f7229aF0c4b9740e207Ea283b9094983f78ba04",
     "decimals": 18,
-    "status": "active",
-    "id": "0x9f7229aF0c4b9740e207Ea283b9094983f78ba04"
+    "coingecko_url": "https://www.coingecko.com/en/coins/tadpole-finance",
+    "market_cap_rank": 1803,
+    "24_hr_volume_usd": 8492.3,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9f7229aF0c4b9740e207Ea283b9094983f78ba04/logo.png"
 }

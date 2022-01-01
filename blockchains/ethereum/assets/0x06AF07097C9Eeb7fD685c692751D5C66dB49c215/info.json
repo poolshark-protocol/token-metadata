@@ -1,11 +1,10 @@
 {
     "name": "Chai",
     "symbol": "CHAI",
-    "type": "ERC20",
+    "id": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
     "decimals": 18,
-    "description": "-",
-    "website": "https://chai.money/",
-    "explorer": "https://etherscan.io/token/0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
-    "status": "active",
-    "id": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215"
+    "coingecko_url": "https://www.coingecko.com/en/coins/chai",
+    "market_cap_rank": 2285,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06AF07097C9Eeb7fD685c692751D5C66dB49c215/logo.png"
 }

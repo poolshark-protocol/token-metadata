@@ -1,11 +1,10 @@
 {
     "name": "Niobium",
     "symbol": "NBC",
-    "type": "ERC20",
+    "id": "0x9F195617fA8fbAD9540C5D113A99A0a0172aaEDC",
     "decimals": 18,
-    "description": "Niobium Coin (NBC) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://niobiumcoin.io",
-    "explorer": "https://etherscan.io/token/0x9F195617fA8fbAD9540C5D113A99A0a0172aaEDC",
-    "status": "active",
-    "id": "0x9F195617fA8fbAD9540C5D113A99A0a0172aaEDC"
+    "coingecko_url": "https://www.coingecko.com/en/coins/niobium-coin",
+    "market_cap_rank": 2856,
+    "24_hr_volume_usd": 2.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9F195617fA8fbAD9540C5D113A99A0a0172aaEDC/logo.png"
 }

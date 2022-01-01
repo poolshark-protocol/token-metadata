@@ -1,11 +1,10 @@
 {
     "name": "DigiCol Token",
-    "website": "https://www.digicol.io",
-    "description": "-",
-    "explorer": "https://etherscan.io/token/0x63B8b7d4A3EFD0735c4BFFBD95B332a55e4eB851",
-    "type": "ERC20",
     "symbol": "DGCL",
+    "id": "0x63B8b7d4A3EFD0735c4BFFBD95B332a55e4eB851",
     "decimals": 18,
-    "status": "active",
-    "id": "0x63B8b7d4A3EFD0735c4BFFBD95B332a55e4eB851"
+    "coingecko_url": "https://www.coingecko.com/en/coins/digicol-token",
+    "market_cap_rank": 2024,
+    "24_hr_volume_usd": 10236.55,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x63B8b7d4A3EFD0735c4BFFBD95B332a55e4eB851/logo.png"
 }

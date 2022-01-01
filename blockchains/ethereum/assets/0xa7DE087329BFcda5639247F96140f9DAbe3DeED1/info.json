@@ -1,11 +1,10 @@
 {
     "name": "Statera",
     "symbol": "STA",
-    "type": "ERC20",
+    "id": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
     "decimals": 18,
-    "description": "Metronome Desktop Wallet.",
-    "website": "https://stateratoken.com",
-    "explorer": "https://etherscan.io/token/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
-    "status": "active",
-    "id": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1"
+    "coingecko_url": "https://www.coingecko.com/en/coins/statera",
+    "market_cap_rank": 1835,
+    "24_hr_volume_usd": 4730.34,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1/logo.png"
 }

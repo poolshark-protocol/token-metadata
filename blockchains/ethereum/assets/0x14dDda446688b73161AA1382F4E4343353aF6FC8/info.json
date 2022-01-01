@@ -1,11 +1,10 @@
 {
     "name": "FXPay",
     "symbol": "FXP",
-    "type": "ERC20",
+    "id": "0x14dDda446688b73161AA1382F4E4343353aF6FC8",
     "decimals": 8,
-    "description": "FXP is a gateway solution which will unify the Ecosystem and Forex industry based on the blockchain technology.",
-    "website": "https://fxpay.io/",
-    "explorer": "https://etherscan.io/token/0x14dDda446688b73161AA1382F4E4343353aF6FC8",
-    "status": "active",
-    "id": "0x14dDda446688b73161AA1382F4E4343353aF6FC8"
+    "coingecko_url": "https://www.coingecko.com/en/coins/fxpay",
+    "market_cap_rank": 2647,
+    "24_hr_volume_usd": 17875.15,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x14dDda446688b73161AA1382F4E4343353aF6FC8/logo.png"
 }

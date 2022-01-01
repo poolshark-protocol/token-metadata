@@ -1,11 +1,10 @@
 {
     "name": "Enigma",
     "symbol": "ENG",
-    "type": "ERC20",
+    "id": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
     "decimals": 8,
-    "description": "Enigma builds and supports groundbreaking privacy-focused technologies and networks.",
-    "website": "https://enigma.co",
-    "explorer": "https://etherscan.io/token/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4",
-    "status": "active",
-    "id": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4"
+    "coingecko_url": "https://www.coingecko.com/en/coins/enigma",
+    "market_cap_rank": 1429,
+    "24_hr_volume_usd": 127983,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4/logo.png"
 }

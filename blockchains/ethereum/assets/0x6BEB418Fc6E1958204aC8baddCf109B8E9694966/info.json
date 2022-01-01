@@ -1,11 +1,10 @@
 {
     "name": "Linker Coin",
     "symbol": "LNC",
-    "type": "ERC20",
+    "id": "0x6BEB418Fc6E1958204aC8baddCf109B8E9694966",
     "decimals": 18,
-    "description": "Collection of the systems which facilitate the inter-transaction between Linker Coin and various economic networks built on crypto-currency market, financial market, e-commerce market, etc.",
-    "website": "https://www.linkercoin.com/en",
-    "explorer": "https://etherscan.io/token/0x6BEB418Fc6E1958204aC8baddCf109B8E9694966",
-    "status": "active",
-    "id": "0x6BEB418Fc6E1958204aC8baddCf109B8E9694966"
+    "coingecko_url": "https://www.coingecko.com/en/coins/linker-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 739.79,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6BEB418Fc6E1958204aC8baddCf109B8E9694966/logo.png"
 }

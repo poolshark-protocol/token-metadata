@@ -1,11 +1,10 @@
 {
-    "name": "Robonomics Web Services",
-    "website": "https://robonomics.network",
-    "description": "Robonomics parachain lifetime subscription token.",
-    "explorer": "https://etherscan.io/token/0x08AD83D779BDf2BBE1ad9cc0f78aa0D24AB97802",
-    "type": "ERC20",
+    "name": "Robonomics Web Services :: V1",
     "symbol": "RWS",
+    "id": "0x08AD83D779BDf2BBE1ad9cc0f78aa0D24AB97802",
     "decimals": 18,
-    "status": "active",
-    "id": "0x08AD83D779BDf2BBE1ad9cc0f78aa0D24AB97802"
+    "coingecko_url": "https://www.coingecko.com/en/coins/robonomics-web-services",
+    "market_cap_rank": 2552,
+    "24_hr_volume_usd": 1462.49,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x08AD83D779BDf2BBE1ad9cc0f78aa0D24AB97802/logo.png"
 }

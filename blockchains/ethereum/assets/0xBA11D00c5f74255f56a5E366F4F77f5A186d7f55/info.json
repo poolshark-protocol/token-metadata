@@ -1,15 +1,10 @@
 {
-    "name": "Band Protocol",
-    "website": "https://bandprotocol.com",
-    "description": "Band Protocol is a cross-chain data oracle network that aggregates and connects real-world data and APIs to smart contracts.",
-    "explorer": "https://etherscan.io/token/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
-    "research": "https://research.binance.com/en/projects/band-protocol",
-    "type": "ERC20",
+    "name": "BandToken",
     "symbol": "BAND",
-    "decimals": 18,
-    "status": "active",
     "id": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
-    "tags": [
-        "defi"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/band-protocol",
+    "market_cap_rank": 312,
+    "24_hr_volume_usd": 19631958,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
 }

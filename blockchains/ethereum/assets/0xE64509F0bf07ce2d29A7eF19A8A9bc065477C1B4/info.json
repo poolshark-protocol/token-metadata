@@ -1,11 +1,10 @@
 {
     "name": "PiplCoin",
     "symbol": "PIPL",
-    "type": "ERC20",
+    "id": "0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4",
     "decimals": 8,
-    "description": "-",
-    "website": "https://piplcoin.com",
-    "explorer": "https://etherscan.io/token/0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4",
-    "status": "active",
-    "id": "0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4"
+    "coingecko_url": "https://www.coingecko.com/en/coins/piplcoin",
+    "market_cap_rank": 2345,
+    "24_hr_volume_usd": 1411.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4/logo.png"
 }

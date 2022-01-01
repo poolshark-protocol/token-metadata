@@ -1,11 +1,10 @@
 {
-    "name": "The Budbo Token",
-    "type": "ERC20",
+    "name": "Bubo",
     "symbol": "BUBO",
+    "id": "0xCCbf21ba6EF00802AB06637896B799f7101F54A2",
     "decimals": 18,
-    "description": "Together, we pioneer the future of cannabis. Budbo is a suite of cannabis solutions powered by blockchain.",
-    "website": "https://budbo.io/",
-    "explorer": "https://etherscan.io/token/0xCCbf21ba6EF00802AB06637896B799f7101F54A2",
-    "status": "active",
-    "id": "0xCCbf21ba6EF00802AB06637896B799f7101F54A2"
+    "coingecko_url": "https://www.coingecko.com/en/coins/budbo",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 60624,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCCbf21ba6EF00802AB06637896B799f7101F54A2/logo.png"
 }

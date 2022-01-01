@@ -1,11 +1,10 @@
 {
     "name": "Nestree",
     "symbol": "EGG",
-    "type": "ERC20",
+    "id": "0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c",
     "decimals": 18,
-    "description": "Nestree Community Messenger.",
-    "website": "https://www.nestree.io/",
-    "explorer": "https://etherscan.io/token/0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c",
-    "status": "active",
-    "id": "0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c"
+    "coingecko_url": "https://www.coingecko.com/en/coins/nestree",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7136477,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x65cCD72c0813CE6f2703593B633202a0F3Ca6a0c/logo.png"
 }

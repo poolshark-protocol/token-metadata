@@ -1,11 +1,10 @@
 {
     "name": "Herbalist Token",
     "symbol": "HERB",
-    "type": "ERC20",
+    "id": "0x04A020325024F130988782bd5276e53595e8d16E",
     "decimals": 8,
-    "description": "Herbalist Token Project is going to solve expensive rare herbs problem by building a blockchain integrated marketplace that will bring the farmers and the buyers together. In our platform, any farmer is going to be able list their products and find buyers around the globe easily and quickly.",
-    "website": "http://www.herbalisttoken.com",
-    "explorer": "https://etherscan.io/token/0x04A020325024F130988782bd5276e53595e8d16E",
-    "status": "active",
-    "id": "0x04A020325024F130988782bd5276e53595e8d16E"
+    "coingecko_url": "https://www.coingecko.com/en/coins/herbalist-token",
+    "market_cap_rank": 3293,
+    "24_hr_volume_usd": 65.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x04A020325024F130988782bd5276e53595e8d16E/logo.png"
 }

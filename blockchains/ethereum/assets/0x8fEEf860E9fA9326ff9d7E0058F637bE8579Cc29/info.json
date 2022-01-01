@@ -1,17 +1,10 @@
 {
     "name": "TIMERS",
-    "website": "https://timers.network",
-    "description": "The TIMERS token is a representation of a humans intrinsic time value. The abbreviation IPM stands for Income/Per/Minute.",
-    "explorer": "https://etherscan.io/token/0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29",
-    "type": "ERC20",
     "symbol": "IPM",
-    "decimals": 18,
-    "status": "active",
     "id": "0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://timers.network/synopsis/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/timers",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 947.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29/logo.png"
 }

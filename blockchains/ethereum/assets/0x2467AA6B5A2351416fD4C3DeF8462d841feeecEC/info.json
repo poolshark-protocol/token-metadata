@@ -1,11 +1,10 @@
 {
     "name": "qiibeeToken",
     "symbol": "QBX",
-    "type": "ERC20",
+    "id": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
     "decimals": 18,
-    "description": "The global standard for loyalty on the blockchain. With qiibee, businesses around the world can run their loyalty programs on the blockchain.",
-    "website": "https://qiibee.com/",
-    "explorer": "https://etherscan.io/token/0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
-    "status": "active",
-    "id": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC"
+    "coingecko_url": "https://www.coingecko.com/en/coins/qiibee",
+    "market_cap_rank": 2402,
+    "24_hr_volume_usd": 4.2,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "ValorToken",
     "symbol": "VALOR",
-    "type": "ERC20",
+    "id": "0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a",
     "decimals": 18,
-    "description": "SMART VALOR's vision is to build the new financial market infrastructure for on-chain securitization, democratizing access to wealth and making exclusive investments more widely accessible.",
-    "website": "https://smartvalor.com",
-    "explorer": "https://etherscan.io/token/0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a",
-    "status": "active",
-    "id": "0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a"
+    "coingecko_url": "https://www.coingecko.com/en/coins/smart-valor",
+    "market_cap_rank": 804,
+    "24_hr_volume_usd": 4379261,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a/logo.png"
 }

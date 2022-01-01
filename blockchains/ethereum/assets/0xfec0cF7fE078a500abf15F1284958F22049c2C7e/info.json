@@ -1,11 +1,10 @@
 {
     "name": "Maecenas ART Token",
     "symbol": "ART",
-    "type": "ERC20",
+    "id": "0xfec0cF7fE078a500abf15F1284958F22049c2C7e",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.maecenas.co/",
-    "explorer": "https://etherscan.io/token/0xfec0cF7fE078a500abf15F1284958F22049c2C7e",
-    "status": "active",
-    "id": "0xfec0cF7fE078a500abf15F1284958F22049c2C7e"
+    "coingecko_url": "https://www.coingecko.com/en/coins/maecenas",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 607.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfec0cF7fE078a500abf15F1284958F22049c2C7e/logo.png"
 }

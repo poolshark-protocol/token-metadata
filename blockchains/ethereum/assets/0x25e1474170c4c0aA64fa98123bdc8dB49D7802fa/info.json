@@ -1,11 +1,10 @@
 {
     "name": "Bidao",
     "symbol": "BID",
-    "type": "ERC20",
+    "id": "0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
     "decimals": 18,
-    "description": "Bidao® is building a chain agnostic trustless stablecoin and decentralized finance ecosystem. Moreover the Bidao® Token can be staked to earn extra rewards.",
-    "website": "https://bidaochain.com/",
-    "explorer": "https://etherscan.io/token/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa",
-    "status": "active",
-    "id": "0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bidao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 162401,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x25e1474170c4c0aA64fa98123bdc8dB49D7802fa/logo.png"
 }

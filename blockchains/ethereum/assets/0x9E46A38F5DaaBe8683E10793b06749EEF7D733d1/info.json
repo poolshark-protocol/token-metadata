@@ -1,11 +1,10 @@
 {
     "name": "Nectar",
     "symbol": "NCT",
-    "type": "ERC20",
+    "id": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
     "decimals": 18,
-    "description": "PolySwarm is a more effective way to detect, analyze and respond to the latest threats, the ones more likely to go undetected by existing solutions.",
-    "website": "https://polyswarm.io",
-    "explorer": "https://etherscan.io/token/0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
-    "status": "active",
-    "id": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1"
+    "coingecko_url": "https://www.coingecko.com/en/coins/polyswarm",
+    "market_cap_rank": 700,
+    "24_hr_volume_usd": 18681.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1/logo.png"
 }

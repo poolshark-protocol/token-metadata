@@ -1,14 +1,10 @@
 {
     "name": "ERC20",
     "symbol": "ERC20",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "ERC20 is an innovative NFT Collectible token and a new kind of DeFi.",
-    "website": "https://erc20.tech",
-    "explorer": "https://etherscan.io/token/0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
-    "status": "active",
     "id": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
-    "tags": [
-        "deflationary"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/erc20",
+    "market_cap_rank": 781,
+    "24_hr_volume_usd": 1623.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA/logo.png"
 }

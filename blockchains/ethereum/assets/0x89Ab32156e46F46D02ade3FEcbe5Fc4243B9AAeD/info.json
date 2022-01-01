@@ -1,15 +1,11 @@
 {
-    "name": "pNetwork",
-    "website": "https://p.network",
-    "description": "The heartbeat of cross-chain composability.",
-    "explorer": "https://etherscan.io/token/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
-    "research": "https://research.binance.com/en/projects/pnetwork",
-    "type": "ERC20",
+    "name": "pNetwork Token",
     "symbol": "PNT",
-    "decimals": 18,
-    "status": "active",
     "id": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
-    "tags": [
-        "governance"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pnetwork",
+    "market_cap_rank": 796,
+    "24_hr_volume_usd": 6231597,
+    "public_notice": "Eidoo (EDO) has been upgraded to pNetwork (PNT), https://www.coingecko.com/en/coins/pnetwork/. For more information on the token upgrade, please read https://en.cryptonomist.ch/blog/eidoo/the-edo-to-pnt-upgrade-what-you-need-to-know-updated/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD/logo.png"
 }

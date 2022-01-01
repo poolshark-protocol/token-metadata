@@ -1,20 +1,10 @@
 {
-    "name": "OctoFi",
-    "website": "https://octo.fi",
-    "description": "Decentralized finance tentacles",
-    "explorer": "https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
-    "type": "ERC20",
+    "name": "Octo.fi",
     "symbol": "OCTO",
-    "decimals": 18,
-    "status": "active",
     "id": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
-    "tags": [
-        "governance"
-    ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/octofi"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/octofi",
+    "market_cap_rank": 1989,
+    "24_hr_volume_usd": 23582,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7240aC91f01233BaAf8b064248E80feaA5912BA3/logo.png"
 }

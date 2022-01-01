@@ -1,11 +1,11 @@
 {
     "name": "LGO Token",
-    "website": "https://lgo.group",
-    "description": "LGO provides a wide range of financial services on digital assets to an international and professional client base.",
-    "explorer": "https://etherscan.io/token/0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
-    "type": "ERC20",
     "symbol": "LGO",
+    "id": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
     "decimals": 8,
-    "status": "active",
-    "id": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa"
+    "coingecko_url": "https://www.coingecko.com/en/coins/legolas-exchange",
+    "market_cap_rank": 1742,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Previously known LGO Exchange",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa/logo.png"
 }

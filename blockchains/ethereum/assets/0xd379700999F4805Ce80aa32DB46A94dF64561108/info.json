@@ -1,17 +1,10 @@
 {
     "name": "Dextrust",
-    "website": "https://dextrust.org/",
-    "description": "A community driven decentralized exchange platform",
-    "explorer": "https://etherscan.io/token/0xd379700999F4805Ce80aa32DB46A94dF64561108",
-    "type": "ERC20",
     "symbol": "DETS",
-    "decimals": 18,
-    "status": "active",
     "id": "0xd379700999F4805Ce80aa32DB46A94dF64561108",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/dextrustdefi"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dextrust",
+    "market_cap_rank": 1956,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd379700999F4805Ce80aa32DB46A94dF64561108/logo.png"
 }

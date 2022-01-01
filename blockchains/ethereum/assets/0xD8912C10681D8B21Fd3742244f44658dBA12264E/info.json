@@ -1,11 +1,10 @@
 {
     "name": "Pluton",
     "symbol": "PLU",
-    "type": "ERC20",
+    "id": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
     "decimals": 18,
-    "description": "Plutus is an incredibly secure crypto-friendly finance app.",
-    "website": "https://plutus.it",
-    "explorer": "https://etherscan.io/token/0xD8912C10681D8B21Fd3742244f44658dBA12264E",
-    "status": "active",
-    "id": "0xD8912C10681D8B21Fd3742244f44658dBA12264E"
+    "coingecko_url": "https://www.coingecko.com/en/coins/pluton",
+    "market_cap_rank": 1252,
+    "24_hr_volume_usd": 167711,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD8912C10681D8B21Fd3742244f44658dBA12264E/logo.png"
 }

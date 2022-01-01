@@ -1,11 +1,10 @@
 {
-    "name": "BlitzPick (XBP)",
-    "type": "ERC20",
+    "name": "BlitzPredict",
     "symbol": "XBP",
+    "id": "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40",
     "decimals": 18,
-    "website": "https://www.blitzpick.com",
-    "description": "Immutable Repositories for Sports Bettors.",
-    "explorer": "https://etherscan.io/token/0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40",
-    "status": "active",
-    "id": "0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40"
+    "coingecko_url": "https://www.coingecko.com/en/coins/blitzpredict",
+    "market_cap_rank": 3509,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x28dee01D53FED0Edf5f6E310BF8Ef9311513Ae40/logo.png"
 }

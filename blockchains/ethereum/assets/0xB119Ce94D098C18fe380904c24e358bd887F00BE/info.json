@@ -1,11 +1,10 @@
 {
     "name": "MACH Exchange",
     "symbol": "MACH",
-    "type": "ERC20",
+    "id": "0xB119Ce94D098C18fe380904c24e358bd887F00BE",
     "decimals": 18,
-    "description": "MACH aims to create a P2P asset trading platform. Users will be able to trade their assets such as online/offline goods and crypto-currencies. It is reportedly supported by an escrow system and AI-Chatbot.",
-    "website": "https://mymach.io/",
-    "explorer": "https://etherscan.io/token/0xB119Ce94D098C18fe380904c24e358bd887F00BE",
-    "status": "active",
-    "id": "0xB119Ce94D098C18fe380904c24e358bd887F00BE"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mach",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 17.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB119Ce94D098C18fe380904c24e358bd887F00BE/logo.png"
 }

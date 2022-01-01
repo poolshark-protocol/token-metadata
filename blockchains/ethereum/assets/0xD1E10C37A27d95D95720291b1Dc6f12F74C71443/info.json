@@ -1,11 +1,10 @@
 {
-    "name": "Cosmo Coin",
-    "type": "ERC20",
+    "name": "CosmoCoin",
     "symbol": "COSM",
+    "id": "0xD1E10C37A27d95D95720291b1Dc6f12F74C71443",
     "decimals": 18,
-    "website": "",
-    "description": "-",
-    "explorer": "https://etherscan.io/token/0xd1e10c37a27d95d95720291b1dc6f12f74c71443",
-    "status": "active",
-    "id": "0xD1E10C37A27d95D95720291b1Dc6f12F74C71443"
+    "coingecko_url": "https://www.coingecko.com/en/coins/cosmo-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18.15,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD1E10C37A27d95D95720291b1Dc6f12F74C71443/logo.png"
 }

@@ -1,11 +1,11 @@
 {
     "name": "GoMoney2",
-    "website": "https://animalgo.io/",
-    "description": "GOM2 restructures the DeFi narrative to reward token holders. In addition, GOM2 tokens can be used to swap with other ERC-20 tokens.",
-    "explorer": "https://etherscan.io/token/0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7",
-    "type": "ERC20",
     "symbol": "GOM2",
+    "id": "0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7",
     "decimals": 0,
-    "status": "active",
-    "id": "0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7"
+    "coingecko_url": "https://www.coingecko.com/en/coins/gomoney2",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1516190,
+    "public_notice": "Software upgrade from GOM to GOM2 https://animalgo.io/notice_detail/30/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7/logo.png"
 }

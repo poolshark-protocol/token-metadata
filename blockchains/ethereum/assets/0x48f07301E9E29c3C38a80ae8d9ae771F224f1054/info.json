@@ -1,11 +1,10 @@
 {
     "name": "South African Tether",
     "symbol": "XZAR",
-    "type": "ERC20",
+    "id": "0x48f07301E9E29c3C38a80ae8d9ae771F224f1054",
     "decimals": 18,
-    "description": "xZAR is a South African stablecoin pegged 1 to 1 with the South African Rand (ZAR).",
-    "website": "http://www.xzar.co.za/",
-    "explorer": "https://etherscan.io/token/0x48f07301E9E29c3C38a80ae8d9ae771F224f1054",
-    "status": "active",
-    "id": "0x48f07301E9E29c3C38a80ae8d9ae771F224f1054"
+    "coingecko_url": "https://www.coingecko.com/en/coins/south-african-tether",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x48f07301E9E29c3C38a80ae8d9ae771F224f1054/logo.png"
 }

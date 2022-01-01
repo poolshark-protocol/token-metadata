@@ -1,14 +1,10 @@
 {
-    "name": "iExec RLC",
-    "website": "https://iex.ec",
-    "description": "iExec claims to have developed the first decentralized marketplace for cloud computing resources.",
-    "explorer": "https://etherscan.io/token/0x607F4C5BB672230e8672085532f7e901544a7375",
-    "type": "ERC20",
+    "name": "iEx.ec Network Token",
     "symbol": "RLC",
-    "decimals": 9,
-    "status": "active",
     "id": "0x607F4C5BB672230e8672085532f7e901544a7375",
-    "tags": [
-        "defi"
-    ]
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/iexec-rlc",
+    "market_cap_rank": 308,
+    "24_hr_volume_usd": 10765284,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x607F4C5BB672230e8672085532f7e901544a7375/logo.png"
 }

@@ -1,29 +1,10 @@
 {
-    "name": "mIAU Token",
-    "website": "https://mirror.finance",
-    "description": "Wrapped Mirror IAU Token.",
-    "explorer": "https://etherscan.io/token/0x1d350417d9787E000cc1b95d70E9536DcD91F373",
-    "type": "ERC20",
+    "name": "Wrapped Mirror IAU Token",
     "symbol": "mIAU",
-    "decimals": 18,
-    "status": "active",
     "id": "0x1d350417d9787E000cc1b95d70E9536DcD91F373",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MirrorProtocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mirror_protocol"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/MirrorProtocol"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@mirror-protocol"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-ishares-gold-trust",
+    "market_cap_rank": 1211,
+    "24_hr_volume_usd": 769769,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1d350417d9787E000cc1b95d70E9536DcD91F373/logo.png"
 }

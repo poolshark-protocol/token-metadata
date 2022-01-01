@@ -1,11 +1,10 @@
 {
-    "name": "Aave KNC",
+    "name": "Aave interest bearing KNC",
     "symbol": "aKNC",
-    "type": "ERC20",
+    "id": "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA",
     "decimals": 18,
-    "description": "Aave KNC is an interest bearing token pegged 1:1 to the underlying KNC deposited in Aave. aKNC accrue interest in real time in your wallet.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA",
-    "status": "active",
-    "id": "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-knc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA/logo.png"
 }

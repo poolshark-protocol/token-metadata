@@ -1,11 +1,10 @@
 {
     "name": "Gomics",
     "symbol": "GOM",
-    "type": "ERC20",
+    "id": "0xb8c6ad2586bB71d518C2aaf510Efe91f82022F58",
     "decimals": 18,
-    "description": "Gomics aims to provide a blockchain entertainment platform to facilitate the process of producing and consuming content.",
-    "website": "http://gomics.io/",
-    "explorer": "https://etherscan.io/token/0xb8c6ad2586bB71d518C2aaf510Efe91f82022F58",
-    "status": "active",
-    "id": "0xb8c6ad2586bB71d518C2aaf510Efe91f82022F58"
+    "coingecko_url": "https://www.coingecko.com/en/coins/gomics",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7499.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb8c6ad2586bB71d518C2aaf510Efe91f82022F58/logo.png"
 }

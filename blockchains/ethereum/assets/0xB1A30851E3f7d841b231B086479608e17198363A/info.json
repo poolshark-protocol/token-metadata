@@ -1,11 +1,10 @@
 {
     "name": "HOMEROS",
     "symbol": "HMR",
-    "type": "ERC20",
+    "id": "0xB1A30851E3f7d841b231B086479608e17198363A",
     "decimals": 18,
-    "description": "Homeros is a blockchain-based platform made exclusively for the gaming community.",
-    "website": "https://homerosnet.com",
-    "explorer": "https://etherscan.io/token/0xB1A30851E3f7d841b231B086479608e17198363A",
-    "status": "active",
-    "id": "0xB1A30851E3f7d841b231B086479608e17198363A"
+    "coingecko_url": "https://www.coingecko.com/en/coins/homeros",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1029992,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB1A30851E3f7d841b231B086479608e17198363A/logo.png"
 }

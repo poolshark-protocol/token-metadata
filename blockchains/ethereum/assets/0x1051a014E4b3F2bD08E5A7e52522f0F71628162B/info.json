@@ -1,11 +1,10 @@
 {
     "name": "GOTOGODS",
     "symbol": "OGODS",
-    "type": "ERC20",
+    "id": "0x1051a014E4b3F2bD08E5A7e52522f0F71628162B",
     "decimals": 18,
-    "description": "An innovative platform that allows fans to book live meetings with STARS.",
-    "website": "https://www.gotogods.io/",
-    "explorer": "https://etherscan.io/token/0x1051a014E4b3F2bD08E5A7e52522f0F71628162B",
-    "status": "active",
-    "id": "0x1051a014E4b3F2bD08E5A7e52522f0F71628162B"
+    "coingecko_url": "https://www.coingecko.com/en/coins/gotogods",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.064531,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1051a014E4b3F2bD08E5A7e52522f0F71628162B/logo.png"
 }

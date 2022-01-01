@@ -1,11 +1,10 @@
 {
     "name": "0xcert Protocol Token",
     "symbol": "ZXC",
-    "type": "ERC20",
+    "id": "0x83e2BE8d114F9661221384B3a50d24B96a5653F5",
     "decimals": 18,
-    "description": "0xcert provides the open-source 0xcert Framework for building powerful decentralized applications (dapps) combined with non-fungible tokens (NFTs). The Framework is a JavaScript library that reduces the time, resources, and issues of developing a dapp.",
-    "website": "https://0xcert.org/",
-    "explorer": "https://etherscan.io/token/0x83e2BE8d114F9661221384B3a50d24B96a5653F5",
-    "status": "active",
-    "id": "0x83e2BE8d114F9661221384B3a50d24B96a5653F5"
+    "coingecko_url": "https://www.coingecko.com/en/coins/0xcert",
+    "market_cap_rank": 2386,
+    "24_hr_volume_usd": 76482,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x83e2BE8d114F9661221384B3a50d24B96a5653F5/logo.png"
 }

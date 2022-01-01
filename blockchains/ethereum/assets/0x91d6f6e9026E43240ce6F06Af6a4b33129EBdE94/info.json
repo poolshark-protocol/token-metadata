@@ -1,11 +1,11 @@
 {
-    "name": "RiveX",
-    "website": "https://rivex.io",
-    "description": "RiveX is a chain agnostic interoperable layer-2 solution across different blockchain protocols. RiveX aims to empower the next generation of decentralized applications, decentralized finance and enterprise solutions.",
-    "explorer": "https://etherscan.io/token/0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94",
-    "type": "ERC20",
+    "name": "RiveX Token",
     "symbol": "RVX",
+    "id": "0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94",
     "decimals": 18,
-    "status": "active",
-    "id": "0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94"
+    "coingecko_url": "https://www.coingecko.com/en/coins/rivex-erc20",
+    "market_cap_rank": 3058,
+    "24_hr_volume_usd": 37898,
+    "public_notice": "Rivex has completed token migration from Wanchain to Ethereum, please refer to <a href=\"https://medium.com/@RiveXOfficial/rivex-wrc-20-to-erc-20-token-swap-details-ethereum-here-we-come-367232f6f5ad\">Rivex's Official Blog</a> for more details.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x91d6f6e9026E43240ce6F06Af6a4b33129EBdE94/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "DALECOIN",
     "symbol": "DALC",
-    "type": "ERC20",
+    "id": "0x07D9e49Ea402194bf48A8276dAfB16E4eD633317",
     "decimals": 8,
-    "description": "DaleCoin is an ERC20 token based on the Ethereum blockchain which shall serve as a payment token for goods and services.",
-    "website": "http://dalecoin.org/",
-    "explorer": "https://etherscan.io/token/0x07D9e49Ea402194bf48A8276dAfB16E4eD633317",
-    "status": "active",
-    "id": "0x07D9e49Ea402194bf48A8276dAfB16E4eD633317"
+    "coingecko_url": "https://www.coingecko.com/en/coins/dalecoin",
+    "market_cap_rank": 3407,
+    "24_hr_volume_usd": 6.82,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x07D9e49Ea402194bf48A8276dAfB16E4eD633317/logo.png"
 }

@@ -1,21 +1,10 @@
 {
-    "name": "Dracula Protocol",
-    "website": "https://dracula.sucks/",
-    "description": "One tool to farm everything in Defi.",
-    "explorer": "https://etherscan.io/token/0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
-    "type": "ERC20",
+    "name": "Dracula Token",
     "symbol": "DRC",
-    "decimals": 18,
-    "status": "active",
     "id": "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Dracula-Protocol/"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://medium.com/@DraculaProtocol/the-dracula-protocol-919a80fcb09"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dracula-token",
+    "market_cap_rank": 2697,
+    "24_hr_volume_usd": 54379,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8/logo.png"
 }

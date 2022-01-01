@@ -1,32 +1,10 @@
 {
-    "name": "mAAPL Token",
-    "website": "https://mirror.finance",
-    "description": "Wrapped Mirror AAPL Token.",
-    "explorer": "https://etherscan.io/token/0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84",
-    "type": "ERC20",
+    "name": "Wrapped Mirror AAPL Token",
     "symbol": "mAAPL",
-    "decimals": 18,
-    "status": "active",
     "id": "0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84",
-    "tags": [
-        "wrapped"
-    ],
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/MirrorProtocol"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/mirror_protocol"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/MirrorProtocol"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@mirror-protocol"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-apple",
+    "market_cap_rank": 1020,
+    "24_hr_volume_usd": 200837,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84/logo.png"
 }

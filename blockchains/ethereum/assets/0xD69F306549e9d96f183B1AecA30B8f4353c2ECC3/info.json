@@ -1,11 +1,10 @@
 {
-    "name": "MCH Coin",
-    "website": "https://www.mycryptoheroes.net/help-posts/TTgrGCNsMHYxK6jMCB4rV",
-    "description": "MCH coins are primarily used to vote on MCH governance.",
-    "explorer": "https://etherscan.io/token/0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3",
-    "type": "ERC20",
+    "name": "MCHCoin",
     "symbol": "MCHC",
+    "id": "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3",
     "decimals": 18,
-    "status": "active",
-    "id": "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mch-coin",
+    "market_cap_rank": 1649,
+    "24_hr_volume_usd": 387031,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3/logo.png"
 }

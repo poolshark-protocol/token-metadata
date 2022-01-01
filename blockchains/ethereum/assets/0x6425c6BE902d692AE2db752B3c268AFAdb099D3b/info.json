@@ -1,11 +1,10 @@
 {
     "name": "RED MWAT",
     "symbol": "MWAT",
-    "type": "ERC20",
+    "id": "0x6425c6BE902d692AE2db752B3c268AFAdb099D3b",
     "decimals": 18,
-    "description": "Restart Energy MWAT (MWAT) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://restartenergy.io",
-    "explorer": "https://etherscan.io/token/0x6425c6BE902d692AE2db752B3c268AFAdb099D3b",
-    "status": "active",
-    "id": "0x6425c6BE902d692AE2db752B3c268AFAdb099D3b"
+    "coingecko_url": "https://www.coingecko.com/en/coins/restart-energy",
+    "market_cap_rank": 1717,
+    "24_hr_volume_usd": 73396,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6425c6BE902d692AE2db752B3c268AFAdb099D3b/logo.png"
 }

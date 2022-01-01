@@ -1,11 +1,10 @@
 {
     "name": "GraphLinq",
     "symbol": "GLQ",
-    "type": "ERC20",
+    "id": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
     "decimals": 18,
-    "description": "The automation of decentralized DeFi data monitorization and external executions over multi-chain applications.",
-    "website": "https://graphlinq.io/",
-    "explorer": "https://etherscan.io/token/0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
-    "status": "active",
-    "id": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24"
+    "coingecko_url": "https://www.coingecko.com/en/coins/graphlinq-protocol",
+    "market_cap_rank": 1402,
+    "24_hr_volume_usd": 203997,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24/logo.png"
 }

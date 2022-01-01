@@ -1,11 +1,10 @@
 {
     "name": "PlatonCoin",
     "symbol": "PLTC",
-    "type": "ERC20",
+    "id": "0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f",
     "decimals": 18,
-    "description": "Platon Finance is a blockchain digital ecosystem that represents a bridge for all the people and business owners so everybody could learn, understand, use and benefit from blockchain, a revolution of technology.",
-    "website": "https://platonfinance.com",
-    "explorer": "https://etherscan.io/token/0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f",
-    "status": "active",
-    "id": "0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f"
+    "coingecko_url": "https://www.coingecko.com/en/coins/platoncoin",
+    "market_cap_rank": 637,
+    "24_hr_volume_usd": 376542,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f/logo.png"
 }

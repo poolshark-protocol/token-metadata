@@ -1,11 +1,10 @@
 {
-    "name": "Bistroo",
+    "name": "Bistroo Token",
     "symbol": "BIST",
-    "type": "ERC20",
+    "id": "0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F",
     "decimals": 18,
-    "description": "The community-powered food delivery platform.",
-    "website": "https://bistroo.io",
-    "explorer": "https://etherscan.io/token/0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
-    "status": "active",
-    "id": "0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bistroo",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10824.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F/logo.png"
 }

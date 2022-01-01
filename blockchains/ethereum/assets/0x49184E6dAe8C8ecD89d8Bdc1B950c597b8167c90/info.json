@@ -1,11 +1,10 @@
 {
     "name": "LIBERTAS",
     "symbol": "LIBERTAS",
-    "type": "ERC20",
+    "id": "0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
     "decimals": 2,
-    "description": "Libertas is a decentralized audio and podcast streaming service built on the Ethereum Blockchain.",
-    "website": "https://libertas.network",
-    "explorer": "https://etherscan.io/token/0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90",
-    "status": "active",
-    "id": "0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90"
+    "coingecko_url": "https://www.coingecko.com/en/coins/libertas-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1438.41,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x49184E6dAe8C8ecD89d8Bdc1B950c597b8167c90/logo.png"
 }

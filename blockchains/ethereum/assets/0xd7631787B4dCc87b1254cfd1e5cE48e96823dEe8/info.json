@@ -1,11 +1,10 @@
 {
     "name": "SOCIAL",
     "symbol": "SCL",
-    "type": "ERC20",
+    "id": "0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8",
     "decimals": 8,
-    "description": "Sociall (SCL) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://sociall.io",
-    "explorer": "https://etherscan.io/token/0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8",
-    "status": "active",
-    "id": "0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8"
+    "coingecko_url": "https://www.coingecko.com/en/coins/sociall",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.02284241,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd7631787B4dCc87b1254cfd1e5cE48e96823dEe8/logo.png"
 }

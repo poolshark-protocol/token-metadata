@@ -1,11 +1,11 @@
 {
-    "name": "Ferrum Network",
-    "website": "https://ferrum.network",
-    "description": "Ferrum Network aims to empower individuals with decentralized financial technology.",
-    "explorer": "https://etherscan.io/token/0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
-    "type": "ERC20",
+    "name": "Ferrum Network Token",
     "symbol": "FRM",
+    "id": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
     "decimals": 6,
-    "status": "active",
-    "id": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C"
+    "coingecko_url": "https://www.coingecko.com/en/coins/ferrum-network",
+    "market_cap_rank": 1030,
+    "24_hr_volume_usd": 676061,
+    "public_notice": "Ferrum Network (FRM) has recently migrated from Binance Chain (BEP2) to a <a href=\"https://bscscan.com/token/0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc\">new contract</a> on BSC (BEP20). For more information, please view this announcement on <a href=\"https://medium.com/ferrumnetwork/frm-frmx-to-launch-on-bsc-frm-bep2-to-bep20-migration-62bbb94ebb3b\">Medium</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C/logo.png"
 }

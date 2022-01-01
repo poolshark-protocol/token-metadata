@@ -1,11 +1,10 @@
 {
     "name": "BCDN",
     "symbol": "BCDN",
-    "type": "ERC20",
+    "id": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
     "decimals": 15,
-    "description": "BLOCKCDN is an intelligent CDN node deployment software based on open source Squid and combined with SDK and P2P technology.",
-    "website": "http://www.blockcdn.org/",
-    "explorer": "https://etherscan.io/token/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
-    "status": "active",
-    "id": "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40"
+    "coingecko_url": "https://www.coingecko.com/en/coins/blockcdn",
+    "market_cap_rank": 2873,
+    "24_hr_volume_usd": 5136.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40/logo.png"
 }

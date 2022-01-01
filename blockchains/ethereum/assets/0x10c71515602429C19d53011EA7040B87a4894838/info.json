@@ -1,11 +1,10 @@
 {
-    "name": "Diamond Platform Token",
-    "website": "https://cdiamondcoin.com",
-    "description": "Diamond Network aims to create a transparent and traceable diamond market.",
-    "explorer": "https://etherscan.io/token/0x10c71515602429C19d53011EA7040B87a4894838",
-    "type": "ERC20",
+    "name": "DPT",
     "symbol": "DPT",
+    "id": "0x10c71515602429C19d53011EA7040B87a4894838",
     "decimals": 18,
-    "status": "active",
-    "id": "0x10c71515602429C19d53011EA7040B87a4894838"
+    "coingecko_url": "https://www.coingecko.com/en/coins/diamond-platform-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3230.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x10c71515602429C19d53011EA7040B87a4894838/logo.png"
 }

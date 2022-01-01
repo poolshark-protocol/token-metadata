@@ -1,11 +1,10 @@
 {
     "name": "BTSE Token",
-    "website": "https://btse.com",
-    "description": "BTSE utility token carefully designed to augment the user experience on the exchange and within the BTSE ecosystem.",
-    "explorer": "https://etherscan.io/token/0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
-    "type": "ERC20",
     "symbol": "BTSE",
+    "id": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef",
     "decimals": 8,
-    "status": "active",
-    "id": "0x666d875C600AA06AC1cf15641361dEC3b00432Ef"
+    "coingecko_url": "https://www.coingecko.com/en/coins/btse-token",
+    "market_cap_rank": 432,
+    "24_hr_volume_usd": 1181855,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x666d875C600AA06AC1cf15641361dEC3b00432Ef/logo.png"
 }

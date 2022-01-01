@@ -1,11 +1,10 @@
 {
     "name": "Chimpion",
     "symbol": "BNANA",
-    "type": "ERC20",
+    "id": "0x07eF9E82721AC16809D24DAfBE1792Ce01654DB4",
     "decimals": 18,
-    "description": "Chimpion created the first ever online banking for the crypto community.",
-    "website": "https://www.chimpion.io",
-    "explorer": "https://etherscan.io/token/0x07eF9E82721AC16809D24DAfBE1792Ce01654DB4",
-    "status": "active",
-    "id": "0x07eF9E82721AC16809D24DAfBE1792Ce01654DB4"
+    "coingecko_url": "https://www.coingecko.com/en/coins/banana-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 930298,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x07eF9E82721AC16809D24DAfBE1792Ce01654DB4/logo.png"
 }

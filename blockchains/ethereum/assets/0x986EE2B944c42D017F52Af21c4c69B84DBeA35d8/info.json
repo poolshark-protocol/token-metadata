@@ -1,11 +1,10 @@
 {
     "name": "BitMartToken",
-    "symbol": "BMX",
-    "type": "ERC20",
+    "symbol": "BMC",
+    "id": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
     "decimals": 18,
-    "description": "BitMart is a globally integrated trading platform founded by a group of cryptocurrency enthusiasts. BMX is an ERC20 based token issued by BitMart Exchange.",
-    "website": "https://www.bitmart.com/",
-    "explorer": "https://etherscan.io/token/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
-    "status": "active",
-    "id": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitmart-token",
+    "market_cap_rank": 586,
+    "24_hr_volume_usd": 9896377,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8/logo.png"
 }

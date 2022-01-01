@@ -1,14 +1,10 @@
 {
     "name": "Rarible",
     "symbol": "RARI",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "We think that the best way to align platform development with customers' interests is to empower the ones who actively interact with protocol: creators and collectors.",
-    "website": "https://app.rarible.com/rari",
-    "explorer": "https://etherscan.io/token/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
-    "status": "active",
     "id": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
-    "tags": [
-        "governance"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rarible",
+    "market_cap_rank": 573,
+    "24_hr_volume_usd": 1515795,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF/logo.png"
 }

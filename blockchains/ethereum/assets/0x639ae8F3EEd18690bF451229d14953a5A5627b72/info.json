@@ -1,11 +1,10 @@
 {
-    "name": "GNBU",
-    "website": "https://nimbusplatform.io",
-    "description": "Nimbus - Creating Value Based on Real Use cases for Digital Assets.",
-    "explorer": "https://etherscan.io/token/0x639ae8F3EEd18690bF451229d14953a5A5627b72",
-    "type": "ERC20",
+    "name": "Nimbus Governance Token",
     "symbol": "GNBU",
+    "id": "0x639ae8F3EEd18690bF451229d14953a5A5627b72",
     "decimals": 18,
-    "status": "active",
-    "id": "0x639ae8F3EEd18690bF451229d14953a5A5627b72"
+    "coingecko_url": "https://www.coingecko.com/en/coins/nimbus-governance-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3264.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x639ae8F3EEd18690bF451229d14953a5A5627b72/logo.png"
 }

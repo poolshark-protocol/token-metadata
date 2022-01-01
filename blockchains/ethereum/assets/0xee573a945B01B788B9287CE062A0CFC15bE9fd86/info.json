@@ -1,17 +1,10 @@
 {
     "name": "Exeedme",
-    "website": "https://exeedme.com/",
-    "description": "New Revenue Streams for Gamers",
-    "explorer": "https://etherscan.io/token/0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
-    "type": "ERC20",
     "symbol": "XED",
-    "decimals": 18,
-    "status": "active",
     "id": "0xee573a945B01B788B9287CE062A0CFC15bE9fd86",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/exeedme"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/exeedme",
+    "market_cap_rank": 829,
+    "24_hr_volume_usd": 288221,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xee573a945B01B788B9287CE062A0CFC15bE9fd86/logo.png"
 }

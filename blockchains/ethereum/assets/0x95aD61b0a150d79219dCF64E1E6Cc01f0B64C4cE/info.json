@@ -1,28 +1,10 @@
 {
     "name": "SHIBA INU",
-    "website": "https://shibatoken.com/",
-    "description": "According to SHIBA INU, the reasoning behind the creation of SHIBA is that Shibas constantly forget where they bury their treasure. The website proclaims \"Many doggie wars have been waged over precious treasure and delicious goodies.\"",
-    "explorer": "https://etherscan.io/token/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-    "type": "ERC20",
     "symbol": "SHIB",
-    "decimals": 18,
-    "status": "active",
     "id": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
-    "tags": [
-        "deflationary"
-    ],
-    "links": [
-        {
-            "name": "telegram",
-            "url": "https://t.me/shibainuthedogecoinkiller"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/shiba-inu/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/shiba-inu/"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shiba-inu",
+    "market_cap_rank": 13,
+    "24_hr_volume_usd": 809302455,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE/logo.png"
 }

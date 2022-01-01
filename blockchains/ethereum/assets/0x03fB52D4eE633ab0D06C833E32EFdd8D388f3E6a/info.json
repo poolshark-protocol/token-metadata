@@ -1,11 +1,10 @@
 {
     "name": "Black Hole",
     "symbol": "HOLE",
-    "type": "ERC20",
+    "id": "0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a",
     "decimals": 18,
-    "description": "HOLE is a hyperdeflationary cryptocurrency with massive 20% burn. Join us on the journey to the unknown parts of the universe.",
-    "website": "https://superblackhole.com/",
-    "explorer": "https://etherscan.io/token/0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a",
-    "status": "active",
-    "id": "0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a"
+    "coingecko_url": "https://www.coingecko.com/en/coins/super-black-hole",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.41,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x03fB52D4eE633ab0D06C833E32EFdd8D388f3E6a/logo.png"
 }

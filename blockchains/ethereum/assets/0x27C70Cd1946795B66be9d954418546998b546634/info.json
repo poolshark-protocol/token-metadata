@@ -1,14 +1,10 @@
 {
     "name": "DOGE KILLER",
     "symbol": "LEASH",
-    "type": "ERC20",
-    "decimals": 18,
-    "website": "https://www.shibatoken.com",
-    "description": "The second token incentivized on ShibaSwap offers special rewards for those who provide liquidity.",
-    "explorer": "https://etherscan.io/token/0x27c70cd1946795b66be9d954418546998b546634",
-    "status": "active",
     "id": "0x27C70Cd1946795B66be9d954418546998b546634",
-    "tags": [
-        "deflationary"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/leash",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5956088,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x27C70Cd1946795B66be9d954418546998b546634/logo.png"
 }

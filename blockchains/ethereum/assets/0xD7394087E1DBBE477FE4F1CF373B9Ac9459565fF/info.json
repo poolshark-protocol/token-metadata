@@ -1,11 +1,10 @@
 {
     "name": "RealTract",
     "symbol": "RET",
-    "type": "ERC20",
+    "id": "0xD7394087E1DBBE477FE4F1CF373B9Ac9459565fF",
     "decimals": 8,
-    "description": "RealTract is born as a thorough solution to the disadvantages of blockchain and the current smart contract, adding and improving technologies.",
-    "website": "https://realtract.network/",
-    "explorer": "https://etherscan.io/token/0xD7394087E1DBBE477FE4F1CF373B9Ac9459565fF",
-    "status": "active",
-    "id": "0xD7394087E1DBBE477FE4F1CF373B9Ac9459565fF"
+    "coingecko_url": "https://www.coingecko.com/en/coins/realtract",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD7394087E1DBBE477FE4F1CF373B9Ac9459565fF/logo.png"
 }

@@ -1,11 +1,10 @@
 {
-    "name": "Bob Token",
+    "name": "BOB Token",
     "symbol": "BOB",
-    "type": "ERC20",
+    "id": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.bobsrepair.com",
-    "explorer": "https://etherscan.io/token/0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
-    "status": "active",
-    "id": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bobs_repair",
+    "market_cap_rank": 1997,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134/logo.png"
 }

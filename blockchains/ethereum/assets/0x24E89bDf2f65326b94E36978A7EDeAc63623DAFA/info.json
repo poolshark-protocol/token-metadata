@@ -1,21 +1,11 @@
 {
     "name": "Tiger King",
-    "type": "ERC20",
     "symbol": "TKING",
-    "decimals": 18,
-    "website": "https://www.tiger-king.org/",
-    "description": "Official coin of the Tiger King",
-    "explorer": "https://etherscan.io/token/0x24e89bdf2f65326b94e36978a7edeac63623dafa",
-    "status": "active",
     "id": "0x24E89bDf2f65326b94E36978A7EDeAc63623DAFA",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Tiger_King_Coin"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/theTigerKingOfficial"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tiger-king",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 90816,
+    "public_notice": "Tiger King (TKING) has recently migrated from their <a href=\"https://etherscan.io/token/0xc626d951eff8e421448074bd2ad7805c6d585793\">old contract</a> to a <a href=\"https://etherscan.io/token/0x24e89bdf2f65326b94e36978a7edeac63623dafa\">new one</a>. For more information, visit https://twitter.com/Tiger_King_Coin/status/1425746306652311554",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x24E89bDf2f65326b94E36978A7EDeAc63623DAFA/logo.png"
 }

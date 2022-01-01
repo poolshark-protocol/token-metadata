@@ -1,12 +1,10 @@
 {
-    "name": "Bella Protocol",
-    "website": "https://bella.fi",
-    "description": "Bella Protocol is described to be a set of DeFi products for one-click crypto banking.",
-    "explorer": "https://etherscan.io/token/0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
-    "research": "https://research.binance.com/en/projects/bella",
-    "type": "ERC20",
+    "name": "Bella",
     "symbol": "BEL",
+    "id": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
     "decimals": 18,
-    "status": "active",
-    "id": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bella-protocol",
+    "market_cap_rank": 550,
+    "24_hr_volume_usd": 5172240,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14/logo.png"
 }

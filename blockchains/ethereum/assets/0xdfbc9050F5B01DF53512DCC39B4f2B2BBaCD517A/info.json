@@ -1,11 +1,11 @@
 {
     "name": "Jobchain",
     "symbol": "JOB",
-    "type": "ERC20",
+    "id": "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
     "decimals": 8,
-    "description": "Jobchain is an ecosystem that enables anybody to find jobs or hire personnel anytime, anywhere while earning salary in cryptocurrency.",
-    "website": "https://www.jobchain.com/",
-    "explorer": "https://etherscan.io/token/0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
-    "status": "active",
-    "id": "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A"
+    "coingecko_url": "https://www.coingecko.com/en/coins/jobchain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5.03,
+    "public_notice": "Contract address change from 0x17280da053596e097604839c61a2ef5efb7d493f to 0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A/logo.png"
 }

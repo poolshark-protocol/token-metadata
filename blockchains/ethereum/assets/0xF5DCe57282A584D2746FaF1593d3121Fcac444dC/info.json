@@ -1,11 +1,10 @@
 {
     "name": "Compound Dai",
     "symbol": "cDAI",
-    "type": "ERC20",
+    "id": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
     "decimals": 8,
-    "description": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
-    "website": "https://compound.finance/",
-    "explorer": "https://etherscan.io/token/0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
-    "status": "active",
-    "id": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC"
+    "coingecko_url": "https://www.coingecko.com/en/coins/compound-sai",
+    "market_cap_rank": 1631,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF5DCe57282A584D2746FaF1593d3121Fcac444dC/logo.png"
 }

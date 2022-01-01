@@ -1,11 +1,10 @@
 {
-    "name": "Team Finance",
-    "website": "https://team.finance",
-    "description": "Founder token vesting and liquidity token locking solution.",
-    "explorer": "https://etherscan.io/token/0xb05AF453011d7ad68a92b0065FFD9d1277eD2741",
-    "type": "ERC20",
+    "name": "Team",
     "symbol": "TEAM",
+    "id": "0xb05AF453011d7ad68a92b0065FFD9d1277eD2741",
     "decimals": 18,
-    "status": "active",
-    "id": "0xb05AF453011d7ad68a92b0065FFD9d1277eD2741"
+    "coingecko_url": "https://www.coingecko.com/en/coins/team-finance",
+    "market_cap_rank": 3435,
+    "24_hr_volume_usd": 27.66,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb05AF453011d7ad68a92b0065FFD9d1277eD2741/logo.png"
 }

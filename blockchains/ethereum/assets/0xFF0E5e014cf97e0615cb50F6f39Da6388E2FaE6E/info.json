@@ -1,11 +1,10 @@
 {
     "name": "Origo",
     "symbol": "OGO",
-    "type": "ERC20",
+    "id": "0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E",
     "decimals": 18,
-    "description": "-",
-    "website": "https://origo.network",
-    "explorer": "https://etherscan.io/token/0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E",
-    "status": "active",
-    "id": "0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E"
+    "coingecko_url": "https://www.coingecko.com/en/coins/origo",
+    "market_cap_rank": 2904,
+    "24_hr_volume_usd": 29658,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFF0E5e014cf97e0615cb50F6f39Da6388E2FaE6E/logo.png"
 }

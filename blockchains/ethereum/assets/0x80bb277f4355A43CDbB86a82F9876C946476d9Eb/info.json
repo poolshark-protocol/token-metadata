@@ -1,17 +1,10 @@
 {
     "name": "DogDefiCoin",
-    "website": "https://dogdeficoin.com",
-    "description": "DogDefi offers liquidity mining and earn DogDeFiCoin as reward.",
-    "explorer": "https://etherscan.io/token/0x80bb277f4355a43cdbb86a82f9876c946476d9eb",
-    "type": "ERC20",
     "symbol": "DOGDEFI",
-    "decimals": 18,
-    "status": "active",
     "id": "0x80bb277f4355A43CDbB86a82F9876C946476d9Eb",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/DogDeFiCoin"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dogdeficoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 75.14,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x80bb277f4355A43CDbB86a82F9876C946476d9Eb/logo.png"
 }

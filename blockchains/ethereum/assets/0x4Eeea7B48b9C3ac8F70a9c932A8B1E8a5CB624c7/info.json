@@ -1,11 +1,10 @@
 {
     "name": "Membrana",
     "symbol": "MBN",
-    "type": "ERC20",
+    "id": "0x4Eeea7B48b9C3ac8F70a9c932A8B1E8a5CB624c7",
     "decimals": 18,
-    "description": "-",
-    "website": "https://mbn.global",
-    "explorer": "https://etherscan.io/token/0x4Eeea7B48b9C3ac8F70a9c932A8B1E8a5CB624c7",
-    "status": "active",
-    "id": "0x4Eeea7B48b9C3ac8F70a9c932A8B1E8a5CB624c7"
+    "coingecko_url": "https://www.coingecko.com/en/coins/membrana-platform",
+    "market_cap_rank": 3115,
+    "24_hr_volume_usd": 46297,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Eeea7B48b9C3ac8F70a9c932A8B1E8a5CB624c7/logo.png"
 }

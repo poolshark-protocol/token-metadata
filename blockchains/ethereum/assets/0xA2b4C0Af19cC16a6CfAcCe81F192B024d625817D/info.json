@@ -1,11 +1,10 @@
 {
     "name": "Kishu Inu",
-    "type": "ERC20",
     "symbol": "KISHU",
+    "id": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D",
     "decimals": 9,
-    "website": "https://kishu.finance/",
-    "description": "Kishu Inu ($KISHU) is a community-focused, decentralized cryptocurrency with instant rewards for holders. Join the moon mission.",
-    "explorer": "https://etherscan.io/token/0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
-    "status": "active",
-    "id": "0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/kishu-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5325963,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA2b4C0Af19cC16a6CfAcCe81F192B024d625817D/logo.png"
 }

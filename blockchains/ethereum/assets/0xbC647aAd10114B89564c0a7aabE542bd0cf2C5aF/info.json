@@ -1,11 +1,10 @@
 {
     "name": "IONChain Token",
     "symbol": "IONC",
-    "type": "ERC20",
+    "id": "0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.ionchain.org",
-    "explorer": "https://etherscan.io/token/0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF",
-    "status": "active",
-    "id": "0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF"
+    "coingecko_url": "https://www.coingecko.com/en/coins/ionchain-token",
+    "market_cap_rank": 2084,
+    "24_hr_volume_usd": 2660.12,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbC647aAd10114B89564c0a7aabE542bd0cf2C5aF/logo.png"
 }

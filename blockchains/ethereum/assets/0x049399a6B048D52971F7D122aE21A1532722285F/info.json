@@ -1,11 +1,10 @@
 {
     "name": "Fire Lotto",
     "symbol": "FLOT",
-    "type": "ERC20",
+    "id": "0x049399a6B048D52971F7D122aE21A1532722285F",
     "decimals": 18,
-    "description": "Fire Lotto is a modern blockchain lottery as simple and understandable as traditional lotteries are.",
-    "website": "https://firelotto.io/",
-    "explorer": "https://etherscan.io/token/0x049399a6B048D52971F7D122aE21A1532722285F",
-    "status": "active",
-    "id": "0x049399a6B048D52971F7D122aE21A1532722285F"
+    "coingecko_url": "https://www.coingecko.com/en/coins/fire-lotto",
+    "market_cap_rank": 2781,
+    "24_hr_volume_usd": 3620435,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x049399a6B048D52971F7D122aE21A1532722285F/logo.png"
 }

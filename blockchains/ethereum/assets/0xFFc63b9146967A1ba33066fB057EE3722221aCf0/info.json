@@ -1,11 +1,10 @@
 {
     "name": "Alpha",
     "symbol": "A",
-    "type": "ERC20",
+    "id": "0xFFc63b9146967A1ba33066fB057EE3722221aCf0",
     "decimals": 18,
-    "description": "-",
-    "website": "https://www.Alphaplatform.co",
-    "explorer": "https://etherscan.io/token/0xFFc63b9146967A1ba33066fB057EE3722221aCf0",
-    "status": "active",
-    "id": "0xFFc63b9146967A1ba33066fB057EE3722221aCf0"
+    "coingecko_url": "https://www.coingecko.com/en/coins/alpha-platform",
+    "market_cap_rank": 3498,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFFc63b9146967A1ba33066fB057EE3722221aCf0/logo.png"
 }

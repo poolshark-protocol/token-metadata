@@ -1,11 +1,11 @@
 {
     "name": "BirdCoin",
     "symbol": "BIRD",
-    "type": "ERC20",
+    "id": "0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d",
     "decimals": 18,
-    "description": "Birdchain is a decentralized instant messaging application. It will give its users opportunity to earn extra income by selling their unused SMS messages, watching promotional videos, and selling their data.",
-    "website": "https://www.birdchain.io/",
-    "explorer": "https://etherscan.io/token/0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d",
-    "status": "active",
-    "id": "0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d"
+    "coingecko_url": "https://www.coingecko.com/en/coins/birdchain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 45.94,
+    "public_notice": "Birdchain has recently underwent a chain migration to the Binance Smart Chain.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d/logo.png"
 }

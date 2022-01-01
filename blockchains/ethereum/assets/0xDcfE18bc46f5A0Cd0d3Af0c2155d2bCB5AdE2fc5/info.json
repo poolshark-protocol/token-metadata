@@ -1,11 +1,10 @@
 {
     "name": "Hue",
     "symbol": "HUE",
-    "type": "ERC20",
+    "id": "0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5",
     "decimals": 4,
-    "description": "HUE lives at the intersection of tech and creative expression. Created in August 2019, HUE is one of oldest social tokens and is responsible for helping launch the social token category. HUE is also the first social token used to trade digital collectibles (NFTs).",
-    "website": "https://app.tryroll.com/rewards/HUE",
-    "explorer": "https://etherscan.io/token/0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5",
-    "status": "active",
-    "id": "0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5"
+    "coingecko_url": "https://www.coingecko.com/en/coins/hue",
+    "market_cap_rank": 2811,
+    "24_hr_volume_usd": 1247.4,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5/logo.png"
 }

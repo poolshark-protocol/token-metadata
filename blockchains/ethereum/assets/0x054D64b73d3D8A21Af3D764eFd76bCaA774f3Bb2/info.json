@@ -1,24 +1,10 @@
 {
-    "name": "PPAY",
-    "website": "https://plasma.finance",
-    "description": "PPAY: DeFi liquidity aggregator and Plasma.Finance portfolio dashboard.",
-    "explorer": "https://etherscan.io/token/0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
-    "type": "ERC20",
+    "name": "Plasma",
     "symbol": "PPAY",
-    "decimals": 18,
-    "status": "active",
     "id": "0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2",
-    "tags": [
-        "governance"
-    ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/plasmadlt/PPAY-Governance"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://docs.plasmapay.com/about/ppay-token"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/plasma-finance",
+    "market_cap_rank": 1208,
+    "24_hr_volume_usd": 263086,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2/logo.png"
 }

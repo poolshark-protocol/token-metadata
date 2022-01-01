@@ -1,11 +1,10 @@
 {
     "name": "LinkEye Token",
     "symbol": "LET",
-    "type": "ERC20",
+    "id": "0xFA3118B34522580c35Ae27F6cf52da1dBb756288",
     "decimals": 6,
-    "description": "LinkEye is a Hyperledger Fabric based consortium-blockchain solution tofacilitate global credit alliance. Utilizating blockchain technology and credit economy model enables Linkeye to create a shared list of untrusted profiles within the credit alliance through connecting isolated islands of credit data, creating a comprehensive, reliable credit database. ",
-    "website": "https://www.linkeye.com/",
-    "explorer": "https://etherscan.io/token/0xFA3118B34522580c35Ae27F6cf52da1dBb756288",
-    "status": "active",
-    "id": "0xFA3118B34522580c35Ae27F6cf52da1dBb756288"
+    "coingecko_url": "https://www.coingecko.com/en/coins/linkeye",
+    "market_cap_rank": 2024,
+    "24_hr_volume_usd": 243381,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFA3118B34522580c35Ae27F6cf52da1dBb756288/logo.png"
 }

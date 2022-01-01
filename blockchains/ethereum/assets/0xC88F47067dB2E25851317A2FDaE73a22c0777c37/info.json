@@ -1,11 +1,10 @@
 {
     "name": "oneBTC",
-    "website": "https://ichi.org",
-    "description": "oneBTC is the stablecoin created for the wBTC community. Backed by both a treasury of wBTC and collateral of USDC this ERC20 token can be redeemed for USDC at anytime and also provides a vote for governance of the wBTC treasury.",
-    "explorer": "https://etherscan.io/token/0xC88F47067dB2E25851317A2FDaE73a22c0777c37",
-    "type": "ERC20",
     "symbol": "oneBTC",
+    "id": "0xC88F47067dB2E25851317A2FDaE73a22c0777c37",
     "decimals": 9,
-    "status": "active",
-    "id": "0xC88F47067dB2E25851317A2FDaE73a22c0777c37"
+    "coingecko_url": "https://www.coingecko.com/en/coins/onebtc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC88F47067dB2E25851317A2FDaE73a22c0777c37/logo.png"
 }

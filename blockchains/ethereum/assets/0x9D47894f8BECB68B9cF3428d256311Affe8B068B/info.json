@@ -1,26 +1,10 @@
 {
-    "name": "ROPE",
-    "website": "https://rope.lol",
-    "short_description": "powered by anons",
-    "description": "Fair launch NFT and yield bearing asset platform.",
-    "explorer": "https://etherscan.io/token/0x9d47894f8becb68b9cf3428d256311affe8b068b",
-    "type": "ERC20",
+    "name": "$ROPE",
     "symbol": "$ROPE",
-    "decimals": 18,
-    "status": "active",
     "id": "0x9D47894f8BECB68B9cF3428d256311Affe8B068B",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/dontbuyrope/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/dontbuyrope"
-        },
-        {
-            "name": "medium",
-            "url": "https://dontbuyrope.medium.com"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rope",
+    "market_cap_rank": 3132,
+    "24_hr_volume_usd": 308.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9D47894f8BECB68B9cF3428d256311Affe8B068B/logo.png"
 }

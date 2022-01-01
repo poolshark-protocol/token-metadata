@@ -1,11 +1,10 @@
 {
     "name": "BitBall",
     "symbol": "BTB",
-    "type": "ERC20",
+    "id": "0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
     "decimals": 18,
-    "description": "Bitball Ecosystem All in one crypto Solution Peer to Peer digital currencies with Multiple utilities",
-    "website": "https://www.bitball-btb.com/",
-    "explorer": "https://etherscan.io/token/0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
-    "status": "active",
-    "id": "0x06e0feB0D74106c7adA8497754074D222Ec6BCDf"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitball",
+    "market_cap_rank": 1934,
+    "24_hr_volume_usd": 1948.27,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06e0feB0D74106c7adA8497754074D222Ec6BCDf/logo.png"
 }

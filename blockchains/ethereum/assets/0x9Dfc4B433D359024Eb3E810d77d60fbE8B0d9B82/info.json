@@ -1,11 +1,10 @@
 {
-    "name": "Dandy Dego",
-    "website": "https://dego.finance",
-    "description": "DEGO claims to be a brand new idea towards a sustainable Decentralized Finance (DeFi) ecosystem.",
-    "explorer": "https://etherscan.io/token/0x9Dfc4B433D359024Eb3E810d77d60fbE8B0d9B82",
-    "type": "ERC20",
+    "name": "dandy.dego",
     "symbol": "DANDY",
+    "id": "0x9Dfc4B433D359024Eb3E810d77d60fbE8B0d9B82",
     "decimals": 18,
-    "status": "active",
-    "id": "0x9Dfc4B433D359024Eb3E810d77d60fbE8B0d9B82"
+    "coingecko_url": "https://www.coingecko.com/en/coins/dandy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4.06,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9Dfc4B433D359024Eb3E810d77d60fbE8B0d9B82/logo.png"
 }

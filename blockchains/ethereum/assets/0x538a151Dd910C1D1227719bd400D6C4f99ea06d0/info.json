@@ -1,11 +1,10 @@
 {
     "name": "Cryptochrome",
-    "website": "https://cryptochrome.org/",
-    "description": "Liquidity Mining & Staking of ERC-20 tokens.",
-    "explorer": "https://etherscan.io/token/0x538a151Dd910C1D1227719bd400D6C4f99ea06d0",
-    "type": "ERC20",
     "symbol": "CHM",
+    "id": "0x538a151Dd910C1D1227719bd400D6C4f99ea06d0",
     "decimals": 18,
-    "status": "active",
-    "id": "0x538a151Dd910C1D1227719bd400D6C4f99ea06d0"
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptochrome",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 22288,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x538a151Dd910C1D1227719bd400D6C4f99ea06d0/logo.png"
 }

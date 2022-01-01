@@ -1,11 +1,10 @@
 {
-    "name": "SEFI",
-    "website": "https://secretswap.io",
-    "description": "SEFI is the native governance token for SecretSwap and Secret DeFi more generally. Earn SEFI and shape the future of the front-running resistant, privacy-first open finance ecosystem.",
-    "explorer": "https://etherscan.io/token/0x773258b03c730f84af10dfcb1bfaa7487558b8ac",
-    "type": "ERC20",
+    "name": "Secret Finance",
     "symbol": "SEFI",
+    "id": "0x773258b03c730F84aF10dFcB1BfAa7487558B8Ac",
     "decimals": 6,
-    "status": "active",
-    "id": "0x773258b03c730F84aF10dFcB1BfAa7487558B8Ac"
+    "coingecko_url": "https://www.coingecko.com/en/coins/secret-finance",
+    "market_cap_rank": 1200,
+    "24_hr_volume_usd": 1220443,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x773258b03c730F84aF10dFcB1BfAa7487558B8Ac/logo.png"
 }

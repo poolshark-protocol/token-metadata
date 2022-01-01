@@ -1,11 +1,10 @@
 {
     "name": "HuntToken",
     "symbol": "HUNT",
-    "type": "ERC20",
+    "id": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
     "decimals": 18,
-    "description": "HuntToken (HUNT) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://token.hunt.town",
-    "explorer": "https://etherscan.io/token/0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5",
-    "status": "active",
-    "id": "0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5"
+    "coingecko_url": "https://www.coingecko.com/en/coins/hunt-token",
+    "market_cap_rank": 513,
+    "24_hr_volume_usd": 5536627,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9AAb071B4129B083B01cB5A0Cb513Ce7ecA26fa5/logo.png"
 }

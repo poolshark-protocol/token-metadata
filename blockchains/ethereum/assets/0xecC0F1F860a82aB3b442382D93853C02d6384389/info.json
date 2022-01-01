@@ -1,11 +1,10 @@
 {
-    "name": "AXIS DeFi",
-    "website": "https://axisdefi.com",
-    "description": "The World’s First Lightspeed DeFi Dedicated Interoperable Superchain",
-    "explorer": "https://etherscan.io/token/0xecC0F1F860a82aB3b442382D93853C02d6384389",
-    "type": "ERC20",
+    "name": "AXIS",
     "symbol": "AXIS",
+    "id": "0xecC0F1F860a82aB3b442382D93853C02d6384389",
     "decimals": 18,
-    "status": "active",
-    "id": "0xecC0F1F860a82aB3b442382D93853C02d6384389"
+    "coingecko_url": "https://www.coingecko.com/en/coins/axis-defi",
+    "market_cap_rank": 1978,
+    "24_hr_volume_usd": 19975.49,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xecC0F1F860a82aB3b442382D93853C02d6384389/logo.png"
 }

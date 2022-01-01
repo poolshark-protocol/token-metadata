@@ -1,11 +1,10 @@
 {
     "name": "FUTURAX",
     "symbol": "FTXT",
-    "type": "ERC20",
+    "id": "0x41875C2332B0877cDFAA699B641402b7D4642c32",
     "decimals": 8,
-    "description": "FUTURAX is project of cryptocurrencies exchanger platform, we foucused to build modern Crypto Market with many feature and benefit to Trader.",
-    "website": "https://www.futurax.global/",
-    "explorer": "https://etherscan.io/token/0x41875C2332B0877cDFAA699B641402b7D4642c32",
-    "status": "active",
-    "id": "0x41875C2332B0877cDFAA699B641402b7D4642c32"
+    "coingecko_url": "https://www.coingecko.com/en/coins/futurax",
+    "market_cap_rank": 3130,
+    "24_hr_volume_usd": 457.63,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x41875C2332B0877cDFAA699B641402b7D4642c32/logo.png"
 }

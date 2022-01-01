@@ -1,11 +1,10 @@
 {
     "name": "ShinCoin",
-    "type": "ERC20",
     "symbol": "SCOIN",
+    "id": "0x3f5DF2F90DF67E10974fBcB1729c00D3f87c0EB4",
     "decimals": 6,
-    "website": "https://www.shincoin.io",
-    "description": "The next-gen luxury asset staking",
-    "explorer": "https://etherscan.io/token/0x3f5df2f90df67e10974fbcb1729c00d3f87c0eb4",
-    "status": "active",
-    "id": "0x3f5DF2F90DF67E10974fBcB1729c00D3f87c0EB4"
+    "coingecko_url": "https://www.coingecko.com/en/coins/shincoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.29,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3f5DF2F90DF67E10974fBcB1729c00D3f87c0EB4/logo.png"
 }

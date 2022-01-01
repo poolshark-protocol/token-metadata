@@ -1,11 +1,10 @@
 {
     "name": "InsurePal token",
     "symbol": "IPL",
-    "type": "ERC20",
+    "id": "0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
     "decimals": 18,
-    "description": "Team insurance is a form of insurance in which a group of people insures themselves at the same time, as a team.",
-    "website": "https://insurepal.io/",
-    "explorer": "https://etherscan.io/token/0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
-    "status": "active",
-    "id": "0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80"
+    "coingecko_url": "https://www.coingecko.com/en/coins/insurepal",
+    "market_cap_rank": 3047,
+    "24_hr_volume_usd": 94.41,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80/logo.png"
 }

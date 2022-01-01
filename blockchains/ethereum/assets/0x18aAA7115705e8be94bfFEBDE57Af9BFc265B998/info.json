@@ -1,12 +1,10 @@
 {
     "name": "Audius",
-    "website": "https://audius.co",
-    "description": "Audius is a decentralized music-sharing and streaming protocol that facilitates direct transactions between listeners and creators.",
-    "explorer": "https://etherscan.io/token/0x18aaa7115705e8be94bffebde57af9bfc265b998",
-    "research": "https://research.binance.com/en/projects/audius",
-    "type": "ERC20",
     "symbol": "AUDIO",
+    "id": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
     "decimals": 18,
-    "status": "active",
-    "id": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998"
+    "coingecko_url": "https://www.coingecko.com/en/coins/audius",
+    "market_cap_rank": 133,
+    "24_hr_volume_usd": 25918529,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998/logo.png"
 }

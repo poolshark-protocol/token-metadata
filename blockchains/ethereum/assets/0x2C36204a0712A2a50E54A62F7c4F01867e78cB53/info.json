@@ -1,11 +1,10 @@
 {
     "name": "Taklimakan",
     "symbol": "TAN",
-    "type": "ERC20",
+    "id": "0x2C36204a0712A2a50E54A62F7c4F01867e78cB53",
     "decimals": 18,
-    "description": "Taklimakan Network describes itself as an AI and blockchain-based social network platform for crypto-enthusiasts and ordinary users.",
-    "website": "https://taklimakan.network",
-    "explorer": "https://etherscan.io/token/0x2C36204a0712A2a50E54A62F7c4F01867e78cB53",
-    "status": "active",
-    "id": "0x2C36204a0712A2a50E54A62F7c4F01867e78cB53"
+    "coingecko_url": "https://www.coingecko.com/en/coins/taklimakan-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 33299,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C36204a0712A2a50E54A62F7c4F01867e78cB53/logo.png"
 }

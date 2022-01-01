@@ -1,14 +1,10 @@
 {
     "name": "Request Token",
     "symbol": "REQ",
-    "type": "ERC20",
-    "decimals": 18,
-    "description": "The Request Network itself is an Ethereum-based decentralized payment system where anyone can request a payment and receive money through secure means.",
-    "website": "https://request.network",
-    "explorer": "https://etherscan.io/token/0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
-    "status": "active",
     "id": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
-    "tags": [
-        "defi"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/request-network",
+    "market_cap_rank": 254,
+    "24_hr_volume_usd": 25147984,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8f8221aFbB33998d8584A2B05749bA73c37a938a/logo.png"
 }

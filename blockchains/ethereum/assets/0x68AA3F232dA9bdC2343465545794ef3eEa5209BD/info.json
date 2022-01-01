@@ -1,11 +1,10 @@
 {
     "name": "Mothership Token",
     "symbol": "MSP",
-    "type": "ERC20",
+    "id": "0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
     "decimals": 18,
-    "description": "Cryptocurrency exchange built from the ground up to support cryptocurrency traders with fiat pairs.",
-    "website": "https://mothership.cx/",
-    "explorer": "https://etherscan.io/token/0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
-    "status": "active",
-    "id": "0x68AA3F232dA9bdC2343465545794ef3eEa5209BD"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mothership",
+    "market_cap_rank": 2524,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68AA3F232dA9bdC2343465545794ef3eEa5209BD/logo.png"
 }

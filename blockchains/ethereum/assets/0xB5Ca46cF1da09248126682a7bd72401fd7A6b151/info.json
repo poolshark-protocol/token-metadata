@@ -1,11 +1,10 @@
 {
     "name": "Provoco Token",
     "symbol": "VOCO",
-    "type": "ERC20",
+    "id": "0xB5Ca46cF1da09248126682a7bd72401fd7A6b151",
     "decimals": 18,
-    "description": "The Provoco social challenge network is an example of how blockchain technology offers trust, openness and security that may be beneficial for mass users, where everyone will find their own space. Monetization and gamification will give incentives to raise, accept and accomplish a wide range of private and public challenges, creating thousands of engaging activities and content.",
-    "website": "https://provoco.me/",
-    "explorer": "https://etherscan.io/token/0xB5Ca46cF1da09248126682a7bd72401fd7A6b151",
-    "status": "active",
-    "id": "0xB5Ca46cF1da09248126682a7bd72401fd7A6b151"
+    "coingecko_url": "https://www.coingecko.com/en/coins/provoco",
+    "market_cap_rank": 3504,
+    "24_hr_volume_usd": 0.00294029,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB5Ca46cF1da09248126682a7bd72401fd7A6b151/logo.png"
 }

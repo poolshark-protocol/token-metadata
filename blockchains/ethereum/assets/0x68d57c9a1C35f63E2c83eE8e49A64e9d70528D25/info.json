@@ -1,11 +1,10 @@
 {
     "name": "SIRIN",
     "symbol": "SRN",
-    "type": "ERC20",
+    "id": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
     "decimals": 18,
-    "description": "Blockchain Smartphone.",
-    "website": "https://www.sirinlabs.com",
-    "explorer": "https://etherscan.io/token/0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
-    "status": "active",
-    "id": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25"
+    "coingecko_url": "https://www.coingecko.com/en/coins/sirin-labs-token",
+    "market_cap_rank": 1675,
+    "24_hr_volume_usd": 19648.76,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25/logo.png"
 }

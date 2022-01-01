@@ -1,11 +1,11 @@
 {
-    "name": "Hydro Token",
+    "name": "HYDRO TOKEN",
     "symbol": "HYDRO",
-    "type": "ERC20",
+    "id": "0x946112efaB61C3636CBD52DE2E1392D7A75A6f01",
     "decimals": 18,
-    "description": "Hydro is a decentralized ecosystem using cutting-edge cryptography to secure user accounts, identities, and transactions.",
-    "website": "https://www.projecthydro.org",
-    "explorer": "https://etherscan.io/token/0x946112efab61c3636cbd52de2e1392d7a75a6f01",
-    "status": "active",
-    "id": "0x946112efaB61C3636CBD52DE2E1392D7A75A6f01"
+    "coingecko_url": "https://www.coingecko.com/en/coins/hydro",
+    "market_cap_rank": 2594,
+    "24_hr_volume_usd": 8774.79,
+    "public_notice": "Contract address has changed from 0xebbdf302c940c6bfd49c6b165f457fdb324649bc to 0x946112efab61c3636cbd52de2e1392d7a75a6f01.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x946112efaB61C3636CBD52DE2E1392D7A75A6f01/logo.png"
 }

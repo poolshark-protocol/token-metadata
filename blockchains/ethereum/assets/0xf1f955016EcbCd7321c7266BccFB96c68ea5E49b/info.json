@@ -1,11 +1,10 @@
 {
     "name": "Rally",
-    "website": "https://rally.io/",
-    "description": "Cryptocurrency for Creator Communities",
-    "explorer": "https://etherscan.io/token/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
-    "type": "ERC20",
     "symbol": "RLY",
+    "id": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
     "decimals": 18,
-    "status": "active",
-    "id": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b"
+    "coingecko_url": "https://www.coingecko.com/en/coins/rally-2",
+    "market_cap_rank": 142,
+    "24_hr_volume_usd": 7128197,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b/logo.png"
 }

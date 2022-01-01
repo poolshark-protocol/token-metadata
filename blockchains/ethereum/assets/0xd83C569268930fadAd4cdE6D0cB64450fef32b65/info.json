@@ -1,11 +1,10 @@
 {
-    "name": "InvictusCapital.com Token",
+    "name": "Invictus Capital Token",
     "symbol": "ICAP",
-    "type": "ERC20",
+    "id": "0xd83C569268930fadAd4cdE6D0cB64450fef32b65",
     "decimals": 18,
-    "description": "The invictuscapital.com token is a community token to reward investors. The token incentivizes long-term holders by aligning them with Invictus Capital, as a portion of all fees earned across all funds will be rebated into a pool to buy and burn ICAP off the market each week.",
-    "website": "https://invictuscapital.com/en/icap",
-    "explorer": "https://etherscan.io/token/0xd83C569268930fadAd4cdE6D0cB64450fef32b65",
-    "status": "active",
-    "id": "0xd83C569268930fadAd4cdE6D0cB64450fef32b65"
+    "coingecko_url": "https://www.coingecko.com/en/coins/invictus-capital-token",
+    "market_cap_rank": 2431,
+    "24_hr_volume_usd": 23567,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd83C569268930fadAd4cdE6D0cB64450fef32b65/logo.png"
 }

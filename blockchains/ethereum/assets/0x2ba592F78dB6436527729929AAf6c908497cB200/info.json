@@ -1,14 +1,11 @@
 {
-    "name": "CREAM",
-    "website": "https://cream.finance",
-    "description": "Cream - Crypto Rules Everything Around Me",
-    "explorer": "https://etherscan.io/token/0x2ba592F78dB6436527729929AAf6c908497cB200",
-    "type": "ERC20",
+    "name": "Cream",
     "symbol": "CREAM",
-    "decimals": 18,
-    "status": "active",
     "id": "0x2ba592F78dB6436527729929AAf6c908497cB200",
-    "tags": [
-        "governance"
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cream-2",
+    "market_cap_rank": 822,
+    "24_hr_volume_usd": 4317208,
+    "public_notice": "CREAM Finance has been exploited in flash loan attack. Please trade with caution. Kindly read https://twitter.com/creamdotfinance/status/1453377073699983366?s=21",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2ba592F78dB6436527729929AAf6c908497cB200/logo.png"
 }

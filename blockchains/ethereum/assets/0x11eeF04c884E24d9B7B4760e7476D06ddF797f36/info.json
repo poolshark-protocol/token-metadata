@@ -1,11 +1,10 @@
 {
     "name": "MX Token",
-    "website": "https://mxc.com",
-    "description": "MX is the native token of the MXC trading platform. MX holders reportedly benefit from asset appreciation, rebates on platform revenue, supervision, and voting.",
-    "explorer": "https://etherscan.io/token/0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
-    "type": "ERC20",
     "symbol": "MX",
+    "id": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
     "decimals": 18,
-    "status": "active",
-    "id": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36"
+    "coingecko_url": "https://www.coingecko.com/en/coins/mx-token",
+    "market_cap_rank": 302,
+    "24_hr_volume_usd": 495427,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x11eeF04c884E24d9B7B4760e7476D06ddF797f36/logo.png"
 }

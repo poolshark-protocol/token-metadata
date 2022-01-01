@@ -1,22 +1,10 @@
 {
     "name": "Empty Set Dollar",
-    "website": "https://emptyset.finance/",
-    "description": "Innovative USD Stablecoin",
-    "explorer": "https://etherscan.io/token/0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
-    "research": "https://docs.esd.tools/",
-    "type": "ERC20",
     "symbol": "ESD",
-    "decimals": 18,
-    "status": "active",
     "id": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/emptysetsquad/dollar"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://github.com/emptysetsquad/dollar-docs"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/empty-set-dollar",
+    "market_cap_rank": 1909,
+    "24_hr_volume_usd": 11313.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723/logo.png"
 }

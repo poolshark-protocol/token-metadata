@@ -1,11 +1,10 @@
 {
-    "name": "Aave BUSD",
+    "name": "Aave interest bearing BUSD",
     "symbol": "aBUSD",
-    "type": "ERC20",
+    "id": "0xA361718326c15715591c299427c62086F69923D9",
     "decimals": 18,
-    "description": "Aave BUSD is an interest bearing token pegged 1:1 to the underlying BUSD deposited in Aave. aBUSD accrue interest in real time in your wallet.",
-    "website": "https://aave.com",
-    "explorer": "https://etherscan.io/token/0xA361718326c15715591c299427c62086F69923D9",
-    "status": "active",
-    "id": "0xA361718326c15715591c299427c62086F69923D9"
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-busd",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA361718326c15715591c299427c62086F69923D9/logo.png"
 }

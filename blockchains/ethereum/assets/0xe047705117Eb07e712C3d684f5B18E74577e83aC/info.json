@@ -1,11 +1,11 @@
 {
-    "name": "BitcashPay Token",
-    "website": "https://bitcashpay.net/",
-    "description": "Staking and Yield Farming, Decentralized Lending, DEX with FIAT Cash-in/Cash-out, Crypto Academy, Payment Solution, Remittance. The ALL-in-ONE DEFI PLATFORM",
-    "explorer": "https://etherscan.io/token/0xe047705117Eb07e712C3d684f5B18E74577e83aC",
-    "type": "ERC20",
+    "name": "BitcashPay",
     "symbol": "BCP",
-    "decimals": 18,
-    "status": "active",
-    "id": "0xe047705117Eb07e712C3d684f5B18E74577e83aC"
+    "id": "0xe047705117Eb07e712C3d684f5B18E74577e83aC",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitcashpay-old",
+    "market_cap_rank": 3269,
+    "24_hr_volume_usd": 50.21,
+    "public_notice": "BitcashPay was hacked and has recently migrated to a <a href=\"https://www.coingecko.com/en/coins/bcpay-fintech?locale=en\">new contract</a>. Do not purchase any more of their old tokens. For more information, visit their official Twitter page.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe047705117Eb07e712C3d684f5B18E74577e83aC/logo.png"
 }

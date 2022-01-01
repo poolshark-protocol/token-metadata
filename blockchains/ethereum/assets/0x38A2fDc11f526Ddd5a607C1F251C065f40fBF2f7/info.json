@@ -1,12 +1,10 @@
 {
-    "name": "PhoenixDAO Token",
-    "website": "https://phoenixdao.io",
-    "description": "Digital identity and authentication protocols to power the next generation of DeFi apps.",
-    "explorer": "https://etherscan.io/token/0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
-    "type": "ERC20",
+    "name": "PhoenixDAO",
     "symbol": "PHNX",
-    "decimals": 18,
-    "status": "active",
     "id": "0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
-    "short_description": "Digital identity and authentication protocols to power the next generation of DeFi apps."
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/phoenixdao",
+    "market_cap_rank": 1833,
+    "24_hr_volume_usd": 158000,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7/logo.png"
 }

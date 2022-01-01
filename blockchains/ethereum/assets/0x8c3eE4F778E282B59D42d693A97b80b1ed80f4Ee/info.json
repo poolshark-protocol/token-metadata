@@ -1,17 +1,10 @@
 {
     "name": "SatoPay",
-    "website": "https://satopay.network/",
-    "description": "Crypto Payment Gateway",
-    "explorer": "https://etherscan.io/token/0x8c3eE4F778E282B59D42d693A97b80b1ed80f4Ee",
-    "type": "ERC20",
     "symbol": "STOP",
-    "decimals": 18,
-    "status": "active",
     "id": "0x8c3eE4F778E282B59D42d693A97b80b1ed80f4Ee",
-    "links": [
-        {
-            "name": "whitepaper",
-            "url": "https://satopay.network/whitepapper.pdf"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/satopay",
+    "market_cap_rank": 2791,
+    "24_hr_volume_usd": 51449,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8c3eE4F778E282B59D42d693A97b80b1ed80f4Ee/logo.png"
 }

@@ -1,11 +1,10 @@
 {
     "name": "Rate3",
     "symbol": "RTE",
-    "type": "ERC20",
+    "id": "0x436F0F3a982074c4a05084485D421466a994FE53",
     "decimals": 18,
-    "description": "Creating a Connected Tokenized World Rate3 bridges enterprises to the blockchain through cross-chain asset tokenization and identity management.",
-    "website": "https://www.rate3.network",
-    "explorer": "https://etherscan.io/token/0x436F0F3a982074c4a05084485D421466a994FE53",
-    "status": "active",
-    "id": "0x436F0F3a982074c4a05084485D421466a994FE53"
+    "coingecko_url": "https://www.coingecko.com/en/coins/rate3",
+    "market_cap_rank": 3043,
+    "24_hr_volume_usd": 3318.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x436F0F3a982074c4a05084485D421466a994FE53/logo.png"
 }

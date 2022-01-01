@@ -1,11 +1,10 @@
 {
     "name": "ROOBEE",
-    "website": "https://roobee.io/",
-    "description": "Roobee is a blockchain-based investment platform for non-professional and private investors. Roobee allows you to build an investment portfolio consisting of various assets, from cryptocurrencies to stocks and ETFs. The payment can be made in any convenient way, without limitations, and without high entry thresholds.",
-    "explorer": "https://etherscan.io/token/0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA",
-    "type": "ERC20",
     "symbol": "ROOBEE",
+    "id": "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA",
     "decimals": 18,
-    "status": "active",
-    "id": "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA"
+    "coingecko_url": "https://www.coingecko.com/en/coins/roobee",
+    "market_cap_rank": 1574,
+    "24_hr_volume_usd": 1290971,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA/logo.png"
 }

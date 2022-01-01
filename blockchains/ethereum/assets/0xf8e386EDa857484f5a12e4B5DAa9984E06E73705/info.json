@@ -1,11 +1,10 @@
 {
     "name": "Indorse Token",
-    "website": "https://indorse.io",
-    "description": "Utility token for conducting decentralized code reviews and coding assessments.",
-    "explorer": "https://etherscan.io/token/0xf8e386eda857484f5a12e4b5daa9984e06e73705",
-    "type": "ERC20",
     "symbol": "IND",
+    "id": "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705",
     "decimals": 18,
-    "status": "active",
-    "id": "0xf8e386EDa857484f5a12e4B5DAa9984E06E73705"
+    "coingecko_url": "https://www.coingecko.com/en/coins/indorse",
+    "market_cap_rank": 2327,
+    "24_hr_volume_usd": 2004.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf8e386EDa857484f5a12e4B5DAa9984E06E73705/logo.png"
 }

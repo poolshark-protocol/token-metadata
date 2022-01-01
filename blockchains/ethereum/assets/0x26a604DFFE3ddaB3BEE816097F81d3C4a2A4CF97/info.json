@@ -1,11 +1,11 @@
 {
     "name": "CorionX utility token",
     "symbol": "CORX",
-    "type": "ERC20",
+    "id": "0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
     "decimals": 8,
-    "description": "-",
-    "website": "https://corion.io",
-    "explorer": "https://etherscan.io/token/0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
-    "status": "active",
-    "id": "0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97"
+    "coingecko_url": "https://www.coingecko.com/en/coins/corionx",
+    "market_cap_rank": 2891,
+    "24_hr_volume_usd": 53422,
+    "public_notice": "CORX has migrated from their <a href=\"https://bscscan.com/token/0x36184181fa321e350aaaf88dad723e281365c1ac\">old BSC contract address</a> to a <a href=\"https://bscscan.com/token/0x141383CDB8158982fB3469C3e49cC82F8026d968\">new one</a>. For more information, visit their <a href=\"https://corion.medium.com/change-of-corionxb-token-contract-address-65420eb6102e\">official Medium post</a> or other community channels listed below.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97/logo.png"
 }

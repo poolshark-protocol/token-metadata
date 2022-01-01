@@ -1,11 +1,11 @@
 {
-    "name": "OlympusDAO",
+    "name": "Olympus",
     "symbol": "OHM",
-    "type": "ERC20",
+    "id": "0x383518188C0C6d7730D91b2c03a03C837814a899",
     "decimals": 9,
-    "description": "Olympus (OHM) aims to become a decentralized reserve currency that is community owned, governed by a DAO, and backed by decentralized assets.",
-    "website": "https://olympusdao.finance",
-    "explorer": "https://etherscan.io/token/0x383518188C0C6d7730D91b2c03a03C837814a899",
-    "status": "active",
-    "id": "0x383518188C0C6d7730D91b2c03a03C837814a899"
+    "coingecko_url": "https://www.coingecko.com/en/coins/olympus-v1",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3721299,
+    "public_notice": "Olympus has migrated to v2: https://www.coingecko.com/en/coins/olympus. ",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x383518188C0C6d7730D91b2c03a03C837814a899/logo.png"
 }

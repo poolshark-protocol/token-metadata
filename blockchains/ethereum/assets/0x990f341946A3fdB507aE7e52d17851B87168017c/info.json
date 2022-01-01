@@ -1,11 +1,10 @@
 {
     "name": "Strong",
     "symbol": "STRONG",
-    "type": "ERC20",
+    "id": "0x990f341946A3fdB507aE7e52d17851B87168017c",
     "decimals": 18,
-    "description": "Strong (STRONG) is a cryptocurrency and operates on the Ethereum platform.",
-    "website": "https://strongblock.io",
-    "explorer": "https://etherscan.io/token/0x990f341946A3fdB507aE7e52d17851B87168017c",
-    "status": "active",
-    "id": "0x990f341946A3fdB507aE7e52d17851B87168017c"
+    "coingecko_url": "https://www.coingecko.com/en/coins/strong",
+    "market_cap_rank": 467,
+    "24_hr_volume_usd": 16847408,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x990f341946A3fdB507aE7e52d17851B87168017c/logo.png"
 }

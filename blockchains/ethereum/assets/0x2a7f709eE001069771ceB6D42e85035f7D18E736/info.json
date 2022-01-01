@@ -1,22 +1,10 @@
 {
-    "name": "OWL",
-    "website": "https://stealthswap.org",
-    "description": "StealthSwap is a protocol that implements shielded payments on Ethereum.",
-    "explorer": "https://etherscan.io/token/0x2a7f709eE001069771ceB6D42e85035f7D18E736",
-    "research": "https://medium.com/stealthswap",
-    "type": "ERC20",
+    "name": "OWL Token",
     "symbol": "OWL",
-    "decimals": 18,
-    "status": "active",
     "id": "0x2a7f709eE001069771ceB6D42e85035f7D18E736",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/stealthswap"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://stealthswap.org/dist/assets/stealthswap-whitepaper-v1.pdf"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/owl-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1093.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2a7f709eE001069771ceB6D42e85035f7D18E736/logo.png"
 }

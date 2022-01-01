@@ -1,11 +1,11 @@
 {
-    "name": "COOK Token",
-    "website": "https://cook.finance/",
-    "description": "COOK token is a governance and utility token issued by Cook Protocol.",
-    "explorer": "https://etherscan.io/token/0xFF75CEd57419bcaEBe5F05254983b013B0646eF5",
-    "type": "ERC20",
+    "name": "Cook Token",
     "symbol": "COOK",
+    "id": "0xFF75CEd57419bcaEBe5F05254983b013B0646eF5",
     "decimals": 18,
-    "status": "active",
-    "id": "0xFF75CEd57419bcaEBe5F05254983b013B0646eF5"
+    "coingecko_url": "https://www.coingecko.com/en/coins/cook",
+    "market_cap_rank": 1611,
+    "24_hr_volume_usd": 278338,
+    "public_notice": "Cook Protocol has recently expanded to Avalanche. Find out more on their Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFF75CEd57419bcaEBe5F05254983b013B0646eF5/logo.png"
 }

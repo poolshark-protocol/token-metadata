@@ -1,11 +1,10 @@
 {
     "name": "Lendingblock",
     "symbol": "LND",
-    "type": "ERC20",
+    "id": "0x0947b0e6D821378805c9598291385CE7c791A6B2",
     "decimals": 18,
-    "description": "Lendingblock is a platform that facilitates peer-to-peer borrowing and lending of cryptocurrencies and digital assets.",
-    "website": "https://lendingblock.com/",
-    "explorer": "https://etherscan.io/token/0x0947b0e6D821378805c9598291385CE7c791A6B2",
-    "status": "active",
-    "id": "0x0947b0e6D821378805c9598291385CE7c791A6B2"
+    "coingecko_url": "https://www.coingecko.com/en/coins/lendingblock",
+    "market_cap_rank": 2102,
+    "24_hr_volume_usd": 839.2,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0947b0e6D821378805c9598291385CE7c791A6B2/logo.png"
 }

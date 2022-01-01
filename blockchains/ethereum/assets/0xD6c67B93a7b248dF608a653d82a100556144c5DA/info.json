@@ -1,11 +1,10 @@
 {
-    "name": "ExNetwork Token",
-    "website": "https://exnetwork.community/",
-    "description": "ExNetwork Community App",
-    "explorer": "https://etherscan.io/token/0xD6c67B93a7b248dF608a653d82a100556144c5DA",
-    "type": "ERC20",
+    "name": "ExNetwork Community Token",
     "symbol": "EXNT",
+    "id": "0xD6c67B93a7b248dF608a653d82a100556144c5DA",
     "decimals": 16,
-    "status": "active",
-    "id": "0xD6c67B93a7b248dF608a653d82a100556144c5DA"
+    "coingecko_url": "https://www.coingecko.com/en/coins/exnetwork-token",
+    "market_cap_rank": 1138,
+    "24_hr_volume_usd": 4517.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD6c67B93a7b248dF608a653d82a100556144c5DA/logo.png"
 }

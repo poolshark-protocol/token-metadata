@@ -1,11 +1,10 @@
 {
     "name": "PumaPay",
     "symbol": "PMA",
-    "type": "ERC20",
+    "id": "0x846C66cf71C43f80403B51fE3906B3599D63336f",
     "decimals": 18,
-    "description": "PumaPay was built on top of the Ethereum blockchain.",
-    "website": "https://pumapay.io",
-    "explorer": "https://etherscan.io/token/0x846C66cf71C43f80403B51fE3906B3599D63336f",
-    "status": "active",
-    "id": "0x846C66cf71C43f80403B51fE3906B3599D63336f"
+    "coingecko_url": "https://www.coingecko.com/en/coins/pumapay",
+    "market_cap_rank": 1743,
+    "24_hr_volume_usd": 263749,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x846C66cf71C43f80403B51fE3906B3599D63336f/logo.png"
 }

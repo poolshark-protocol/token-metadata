@@ -1,11 +1,11 @@
 {
     "name": "BITTO",
-    "website": "https://bittoexchange.com",
-    "description": "First Exchange with Proof of Stake Blockchain Technology that offers an advanced access to its users to gain profit.",
-    "explorer": "https://etherscan.io/token/0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456",
-    "type": "ERC20",
     "symbol": "BITTO",
+    "id": "0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456",
     "decimals": 18,
-    "status": "active",
-    "id": "0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456"
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitto-exchange",
+    "market_cap_rank": 2294,
+    "24_hr_volume_usd": 5512.15,
+    "public_notice": "BITTO Token contract has migrated from 0xa101e27f06a97985b925e244111b61560ecd97db to 0x55a290f08bb4cae8dcf1ea5635a3fcfd4da60456. More more info please refer to https://twitter.com/BittoExchange/status/1306272034222006273",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456/logo.png"
 }

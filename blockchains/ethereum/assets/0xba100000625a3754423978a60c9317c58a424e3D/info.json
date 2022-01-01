@@ -1,12 +1,10 @@
 {
     "name": "Balancer",
-    "website": "https://balancer.finance",
-    "description": "Balancer is a non-custodial portfolio manager, liquidity provider, and price sensor.",
-    "explorer": "https://etherscan.io/token/0xba100000625a3754423978a60c9317c58a424e3D",
-    "research": "https://research.binance.com/en/projects/balancer",
-    "type": "ERC20",
     "symbol": "BAL",
+    "id": "0xba100000625a3754423978a60c9317c58a424e3D",
     "decimals": 18,
-    "status": "active",
-    "id": "0xba100000625a3754423978a60c9317c58a424e3D"
+    "coingecko_url": "https://www.coingecko.com/en/coins/balancer",
+    "market_cap_rank": 330,
+    "24_hr_volume_usd": 30213119,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
 }

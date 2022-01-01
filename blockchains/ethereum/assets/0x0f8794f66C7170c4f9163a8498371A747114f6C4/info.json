@@ -1,17 +1,11 @@
 {
-    "name": "Flama",
-    "website": "https://flamanet.io/",
-    "description": "Flama is one of the first deflationary tokens in the market with enhanced futures like staking.",
-    "explorer": "https://etherscan.io/token/0x0f8794f66C7170c4f9163a8498371A747114f6C4",
-    "type": "ERC20",
+    "name": "FLAMA",
     "symbol": "FMA",
-    "decimals": 18,
-    "status": "active",
     "id": "0x0f8794f66C7170c4f9163a8498371A747114f6C4",
-    "links": [
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Flama"
-        }
-    ]
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/flama",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Verify that the token is 0x0f8794f66C7170c4f9163a8498371A747114f6C4before trading",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f8794f66C7170c4f9163a8498371A747114f6C4/logo.png"
 }

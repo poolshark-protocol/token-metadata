@@ -1,11 +1,10 @@
 {
     "name": "snglsDAO Governance Token",
-    "website": "https://snglsDAO.io",
-    "description": "snglsDAO Governance Token is the reputation token for the snglsDAO.  Join the revolution of unstoppable media and the fight for freedom from censorship!",
-    "explorer": "https://etherscan.io/token/0xc4199fB6FFDb30A829614becA030f9042f1c3992",
-    "type": "ERC20",
     "symbol": "SGT",
+    "id": "0xc4199fB6FFDb30A829614becA030f9042f1c3992",
     "decimals": 18,
-    "status": "active",
-    "id": "0xc4199fB6FFDb30A829614becA030f9042f1c3992"
+    "coingecko_url": "https://www.coingecko.com/en/coins/snglsdao-governance-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2786.53,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc4199fB6FFDb30A829614becA030f9042f1c3992/logo.png"
 }

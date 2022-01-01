@@ -1,11 +1,10 @@
 {
     "name": "Presearch",
-    "website": "https://presearch.io",
-    "description": "Presearch aims to build a next-generation search engine that is powered by its community.",
-    "explorer": "https://etherscan.io/token/0xEC213F83defB583af3A000B1c0ada660b1902A0F",
-    "type": "ERC20",
     "symbol": "PRE",
+    "id": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
     "decimals": 18,
-    "status": "active",
-    "id": "0xEC213F83defB583af3A000B1c0ada660b1902A0F"
+    "coingecko_url": "https://www.coingecko.com/en/coins/presearch",
+    "market_cap_rank": 406,
+    "24_hr_volume_usd": 2813305,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEC213F83defB583af3A000B1c0ada660b1902A0F/logo.png"
 }

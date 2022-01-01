@@ -1,11 +1,10 @@
 {
     "name": "SuperBid",
-    "type": "ERC20",
     "symbol": "SUPERBID",
+    "id": "0x0563DCe613D559a47877fFD1593549fb9d3510D6",
     "decimals": 18,
-    "website": "https://www.superbid.io",
-    "description": "SuperBid is an innovative social-auction app that connects influencers with their fans.",
-    "explorer": "https://etherscan.io/token/0x0563DCe613D559a47877fFD1593549fb9d3510D6",
-    "status": "active",
-    "id": "0x0563DCe613D559a47877fFD1593549fb9d3510D6"
+    "coingecko_url": "https://www.coingecko.com/en/coins/superbid",
+    "market_cap_rank": 1289,
+    "24_hr_volume_usd": 415877,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0563DCe613D559a47877fFD1593549fb9d3510D6/logo.png"
 }

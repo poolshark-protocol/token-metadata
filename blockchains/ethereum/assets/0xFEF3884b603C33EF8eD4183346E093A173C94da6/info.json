@@ -1,11 +1,10 @@
 {
-    "name": "MetaMorph",
+    "name": " MetaMorph ",
     "symbol": "METM",
-    "type": "ERC20",
+    "id": "0xFEF3884b603C33EF8eD4183346E093A173C94da6",
     "decimals": 18,
-    "description": "-",
-    "website": "https://metamorph.pro/",
-    "explorer": "https://etherscan.io/token/0xFEF3884b603C33EF8eD4183346E093A173C94da6",
-    "status": "active",
-    "id": "0xFEF3884b603C33EF8eD4183346E093A173C94da6"
+    "coingecko_url": "https://www.coingecko.com/en/coins/metamorph",
+    "market_cap_rank": 3167,
+    "24_hr_volume_usd": 104.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFEF3884b603C33EF8eD4183346E093A173C94da6/logo.png"
 }
