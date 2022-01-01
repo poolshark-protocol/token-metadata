@@ -1,0 +1,9 @@
+{
+    "name": "ULANCO",
+    "symbol": "UAC",
+    "id": "0x0AF5855a348C58a8BbF65BCc7B9BBaCD0e7e2238",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ulanco",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0AF5855a348C58a8BbF65BCc7B9BBaCD0e7e2238/logo.png"
+}

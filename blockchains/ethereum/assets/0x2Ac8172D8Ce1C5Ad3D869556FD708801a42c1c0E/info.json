@@ -1,0 +1,9 @@
+{
+    "name": "Envoy Token",
+    "symbol": "VOY",
+    "id": "0x2Ac8172D8Ce1C5Ad3D869556FD708801a42c1c0E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/envoy-defi",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2Ac8172D8Ce1C5Ad3D869556FD708801a42c1c0E/logo.png"
+}

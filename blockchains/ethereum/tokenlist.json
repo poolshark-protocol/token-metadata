@@ -52644,6 +52644,314 @@
             "market_cap_rank": 3310,
             "24_hr_volume_usd": 408.64,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93ED140172Ff226daD1F7F3650489b8Daa07aE7F/logo.png"
+        },
+        {
+            "name": "Adana Demirspor Token",
+            "symbol": "DEMIR",
+            "id": "0xFEc82a1B2638826Bfe53ae2F87CfD94329CDe60d",
+            "decimals": 2,
+            "coingecko_url": "https://www.coingecko.com/en/coins/adana-demirspor",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFEc82a1B2638826Bfe53ae2F87CfD94329CDe60d/logo.png"
+        },
+        {
+            "name": "AGAIN",
+            "symbol": "AGAIN",
+            "id": "0xc01A327e30B0fBf32861333F238b5C36a60ABC09",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/again-project",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc01A327e30B0fBf32861333F238b5C36a60ABC09/logo.png"
+        },
+        {
+            "name": "Artificial Liquid Intelligence Token",
+            "symbol": "ALI",
+            "id": "0x6B0b3a982b4634aC68dD83a4DBF02311cE324181",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/alethea-artificial-liquid-intelligence-token",
+            "market_cap_rank": null,
+            "public_notice": "ALI token launch auction sale can be found on https://copperlaunch.com/auctions/0x6836bfa9B9d000036d41Dbd44b40688c45055037",
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6B0b3a982b4634aC68dD83a4DBF02311cE324181/logo.png"
+        },
+        {
+            "name": "Alluo Token",
+            "symbol": "ALLUO",
+            "id": "0x1E5193ccC53f25638Aa22a940af899B692e10B09",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/alluo",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1E5193ccC53f25638Aa22a940af899B692e10B09/logo.png"
+        },
+        {
+            "name": "Alpaca City",
+            "symbol": "ALPACA",
+            "id": "0x413f6A89DdB823974F24F2E3cD3B4f467D3BBB38",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/alpaca-vault-nftx",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x413f6A89DdB823974F24F2E3cD3B4f467D3BBB38/logo.png"
+        },
+        {
+            "name": "Antalyaspor Token",
+            "symbol": "AKREP",
+            "id": "0xb2f87efA44dE3008d6bA75D5e879422003D6dABB",
+            "decimals": 2,
+            "coingecko_url": "https://www.coingecko.com/en/coins/antalyaspor",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb2f87efA44dE3008d6bA75D5e879422003D6dABB/logo.png"
+        },
+        {
+            "name": "ARTEM Coin",
+            "symbol": "ARTEM",
+            "id": "0x9B83f827928aBdf18cF1F7e67053572b9bceff3a",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/artem",
+            "market_cap_rank": null,
+            "public_notice": "Artem was redeployed from the <a href=\"https://etherscan.io/token/0x3C021662c2D7BAFcf31413388BE5465B2E797381\">old contract</a> to a <a href=\"https://etherscan.io/token/0x9b83f827928abdf18cf1f7e67053572b9bceff3a\">new one</a> with the ticker ARTEM.",
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9B83f827928aBdf18cF1F7e67053572b9bceff3a/logo.png"
+        },
+        {
+            "name": "Autobahn",
+            "symbol": "ATB",
+            "id": "0x1fB359D35c209399F47b4C1a040bD49b24Ae90be",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/autobahn",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1fB359D35c209399F47b4C1a040bD49b24Ae90be/logo.png"
+        },
+        {
+            "name": "Bitacium",
+            "symbol": "Xbond",
+            "id": "0x19D6c93F2d298362045D63C6E32f741954379a6f",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bitacium",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x19D6c93F2d298362045D63C6E32f741954379a6f/logo.png"
+        },
+        {
+            "name": "Bit Store Coin",
+            "symbol": "STORE",
+            "id": "0x9378db8054788bCe01AE902a19A4F64a1BD4767f",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bit-store-coin",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9378db8054788bCe01AE902a19A4F64a1BD4767f/logo.png"
+        },
+        {
+            "name": "Compound Maker",
+            "symbol": "cMKR",
+            "id": "0x95b4eF2869eBD94BEb4eEE400a99824BF5DC325b",
+            "decimals": 8,
+            "coingecko_url": "https://www.coingecko.com/en/coins/compound-maker",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95b4eF2869eBD94BEb4eEE400a99824BF5DC325b/logo.png"
+        },
+        {
+            "name": "CosplayToken",
+            "symbol": "COT",
+            "id": "0x5CAc718A3AE330d361e39244BF9e67AB17514CE8",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/cosplay-token-2",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5CAc718A3AE330d361e39244BF9e67AB17514CE8/logo.png"
+        },
+        {
+            "name": "CryptoCat",
+            "symbol": "CCAT",
+            "id": "0x0bE88600F8175e6681064fFfbBf20a9156058D89",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/cryptocat",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0bE88600F8175e6681064fFfbBf20a9156058D89/logo.png"
+        },
+        {
+            "name": "Curio Stable Coin",
+            "symbol": "CSC",
+            "id": "0xfDcdfA378818AC358739621ddFa8582E6ac1aDcB",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/curio-stable-coin",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfDcdfA378818AC358739621ddFa8582E6ac1aDcB/logo.png"
+        },
+        {
+            "name": "DeFiHelper Governance Token",
+            "symbol": "DFH",
+            "id": "0x5F2080542ab6ae7e0b06778F0B2d263006297840",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/defihelper-governance-token",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5F2080542ab6ae7e0b06778F0B2d263006297840/logo.png"
+        },
+        {
+            "name": "Ethereum FIL",
+            "symbol": "eFIL",
+            "id": "0x2a2cB9bA73289D4D068BD57D3c26165DaD5Cb628",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/efil",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2a2cB9bA73289D4D068BD57D3c26165DaD5Cb628/logo.png"
+        },
+        {
+            "name": "Envoy Token",
+            "symbol": "VOY",
+            "id": "0x2Ac8172D8Ce1C5Ad3D869556FD708801a42c1c0E",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/envoy-defi",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2Ac8172D8Ce1C5Ad3D869556FD708801a42c1c0E/logo.png"
+        },
+        {
+            "name": "GDAO governance",
+            "symbol": "xGDAO",
+            "id": "0x306978DA6ebEe060375f35418744F85C1CB6b353",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/gdao-governance-vault",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x306978DA6ebEe060375f35418744F85C1CB6b353/logo.png"
+        },
+        {
+            "name": "Gearbox",
+            "symbol": "GEAR",
+            "id": "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/gearbox",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBa3335588D9403515223F109EdC4eB7269a9Ab5D/logo.png"
+        },
+        {
+            "name": "Kishuelon",
+            "symbol": "KELON",
+            "id": "0x372a912b1bdf243Aa4Eb8a5697c7E97036f422bE",
+            "decimals": 9,
+            "coingecko_url": "https://www.coingecko.com/en/coins/kishuelon",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x372a912b1bdf243Aa4Eb8a5697c7E97036f422bE/logo.png"
+        },
+        {
+            "name": "MAINFINEX",
+            "symbol": "XVX",
+            "id": "0x903dFBC9bAC585feDaE3c2E327913abfd022E2E0",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/mainfinex",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x903dFBC9bAC585feDaE3c2E327913abfd022E2E0/logo.png"
+        },
+        {
+            "name": "Meta Pets",
+            "symbol": "$MP",
+            "id": "0x17cd80AA8F4Aed7C403e4c6b9c2Cd3fABEf09D99",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/meta-pets",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x17cd80AA8F4Aed7C403e4c6b9c2Cd3fABEf09D99/logo.png"
+        },
+        {
+            "name": "MULIERUM",
+            "symbol": "DIVA",
+            "id": "0xFD3e8aa6551d90d3dE0b5eC2526BbC54eFAcE2c4",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/mulierum",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFD3e8aa6551d90d3dE0b5eC2526BbC54eFAcE2c4/logo.png"
+        },
+        {
+            "name": "Mylivn Coin",
+            "symbol": "MLVC",
+            "id": "0x5054Ed21D6F50B8bCC374C9EF86C9Ad832E52140",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/mylivn-coin",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5054Ed21D6F50B8bCC374C9EF86C9Ad832E52140/logo.png"
+        },
+        {
+            "name": "Saddle DAO",
+            "symbol": "SDL",
+            "id": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/saddle-finance",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871/logo.png"
+        },
+        {
+            "name": "Sakaryaspor Token",
+            "symbol": "SKRY",
+            "id": "0xC81946C6E0e15163b14aBD4B5008F3D900B2A736",
+            "decimals": 2,
+            "coingecko_url": "https://www.coingecko.com/en/coins/sakaryaspor",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC81946C6E0e15163b14aBD4B5008F3D900B2A736/logo.png"
+        },
+        {
+            "name": "Sivasspor Token",
+            "symbol": "SIV",
+            "id": "0x6cf9464B2C628Db187f2Bc1DDc0C43fDA72EfDd5",
+            "decimals": 2,
+            "coingecko_url": "https://www.coingecko.com/en/coins/sivasspor",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6cf9464B2C628Db187f2Bc1DDc0C43fDA72EfDd5/logo.png"
+        },
+        {
+            "name": "Standard Token",
+            "symbol": "TST",
+            "id": "0xa0b93B9e90aB887E53F9FB8728c009746e989B53",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/standard-token",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa0b93B9e90aB887E53F9FB8728c009746e989B53/logo.png"
+        },
+        {
+            "name": "Top Dog Beach Club",
+            "symbol": "TOPDOG",
+            "id": "0xc57bAa24F72037C21f9c0d345BB6F19f47407447",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/topdog-vault-nftx",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc57bAa24F72037C21f9c0d345BB6F19f47407447/logo.png"
+        },
+        {
+            "name": "Toshimon",
+            "symbol": "TOSHI",
+            "id": "0x1b9Aa0b63e0F025CD544E4d350ed81429b43b724",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/toshimon-vault-nftx",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1b9Aa0b63e0F025CD544E4d350ed81429b43b724/logo.png"
+        },
+        {
+            "name": "Tr3zor",
+            "symbol": "TR3",
+            "id": "0xF61BF4d1A948487d61b8fa63808AAC06bda55F98",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/tr3zor",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF61BF4d1A948487d61b8fa63808AAC06bda55F98/logo.png"
+        },
+        {
+            "name": "ULANCO",
+            "symbol": "UAC",
+            "id": "0x0AF5855a348C58a8BbF65BCc7B9BBaCD0e7e2238",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/ulanco",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0AF5855a348C58a8BbF65BCc7B9BBaCD0e7e2238/logo.png"
+        },
+        {
+            "name": "Unbound Dollar",
+            "symbol": "UND",
+            "id": "0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/unbound-dollar",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499/logo.png"
+        },
+        {
+            "name": "Yield Guild Games South East Asia Token",
+            "symbol": "SEA",
+            "id": "0xff9fEa2666AC0b074A1a53579FF95ADd4df0601a",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/yield-guild-games-south-east-asia",
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xff9fEa2666AC0b074A1a53579FF95ADd4df0601a/logo.png"
         }
     ],
     "version": {

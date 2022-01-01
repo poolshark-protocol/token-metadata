@@ -1,0 +1,9 @@
+{
+    "name": "CryptoCat",
+    "symbol": "CCAT",
+    "id": "0x0bE88600F8175e6681064fFfbBf20a9156058D89",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptocat",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0bE88600F8175e6681064fFfbBf20a9156058D89/logo.png"
+}

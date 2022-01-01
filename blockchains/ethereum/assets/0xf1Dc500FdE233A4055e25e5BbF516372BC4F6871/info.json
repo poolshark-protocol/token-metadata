@@ -1,0 +1,9 @@
+{
+    "name": "Saddle DAO",
+    "symbol": "SDL",
+    "id": "0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/saddle-finance",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf1Dc500FdE233A4055e25e5BbF516372BC4F6871/logo.png"
+}

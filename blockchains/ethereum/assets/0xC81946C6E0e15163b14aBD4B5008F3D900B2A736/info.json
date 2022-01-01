@@ -1,0 +1,9 @@
+{
+    "name": "Sakaryaspor Token",
+    "symbol": "SKRY",
+    "id": "0xC81946C6E0e15163b14aBD4B5008F3D900B2A736",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sakaryaspor",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC81946C6E0e15163b14aBD4B5008F3D900B2A736/logo.png"
+}

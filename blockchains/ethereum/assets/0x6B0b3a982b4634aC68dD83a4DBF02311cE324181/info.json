@@ -1,0 +1,10 @@
+{
+    "name": "Artificial Liquid Intelligence Token",
+    "symbol": "ALI",
+    "id": "0x6B0b3a982b4634aC68dD83a4DBF02311cE324181",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alethea-artificial-liquid-intelligence-token",
+    "market_cap_rank": null,
+    "public_notice": "ALI token launch auction sale can be found on https://copperlaunch.com/auctions/0x6836bfa9B9d000036d41Dbd44b40688c45055037",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6B0b3a982b4634aC68dD83a4DBF02311cE324181/logo.png"
+}

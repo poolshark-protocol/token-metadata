@@ -1,0 +1,9 @@
+{
+    "name": "Unbound Dollar",
+    "symbol": "UND",
+    "id": "0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unbound-dollar",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0C0F2b41F758d66bB8e694693B0f9e6FaE726499/logo.png"
+}

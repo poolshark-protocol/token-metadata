@@ -1,0 +1,9 @@
+{
+    "name": "DeFiHelper Governance Token",
+    "symbol": "DFH",
+    "id": "0x5F2080542ab6ae7e0b06778F0B2d263006297840",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defihelper-governance-token",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5F2080542ab6ae7e0b06778F0B2d263006297840/logo.png"
+}

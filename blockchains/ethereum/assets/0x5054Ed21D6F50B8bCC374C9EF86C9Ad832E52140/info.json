@@ -1,0 +1,9 @@
+{
+    "name": "Mylivn Coin",
+    "symbol": "MLVC",
+    "id": "0x5054Ed21D6F50B8bCC374C9EF86C9Ad832E52140",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mylivn-coin",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5054Ed21D6F50B8bCC374C9EF86C9Ad832E52140/logo.png"
+}

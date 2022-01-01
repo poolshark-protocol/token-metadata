@@ -1,0 +1,9 @@
+{
+    "name": "Bitacium",
+    "symbol": "Xbond",
+    "id": "0x19D6c93F2d298362045D63C6E32f741954379a6f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitacium",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x19D6c93F2d298362045D63C6E32f741954379a6f/logo.png"
+}

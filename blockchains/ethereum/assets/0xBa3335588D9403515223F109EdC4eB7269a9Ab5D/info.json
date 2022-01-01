@@ -1,0 +1,9 @@
+{
+    "name": "Gearbox",
+    "symbol": "GEAR",
+    "id": "0xBa3335588D9403515223F109EdC4eB7269a9Ab5D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gearbox",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBa3335588D9403515223F109EdC4eB7269a9Ab5D/logo.png"
+}

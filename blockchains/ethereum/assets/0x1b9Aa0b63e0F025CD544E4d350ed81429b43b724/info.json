@@ -1,0 +1,9 @@
+{
+    "name": "Toshimon",
+    "symbol": "TOSHI",
+    "id": "0x1b9Aa0b63e0F025CD544E4d350ed81429b43b724",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/toshimon-vault-nftx",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1b9Aa0b63e0F025CD544E4d350ed81429b43b724/logo.png"
+}

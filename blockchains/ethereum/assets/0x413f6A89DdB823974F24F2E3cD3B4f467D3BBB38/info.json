@@ -1,0 +1,9 @@
+{
+    "name": "Alpaca City",
+    "symbol": "ALPACA",
+    "id": "0x413f6A89DdB823974F24F2E3cD3B4f467D3BBB38",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alpaca-vault-nftx",
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x413f6A89DdB823974F24F2E3cD3B4f467D3BBB38/logo.png"
+}
