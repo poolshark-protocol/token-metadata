@@ -1,6 +1,5 @@
 import time
 import json
-cg = CoinGeckoAPI()
 
 supported_chains = ['ethereum']
 

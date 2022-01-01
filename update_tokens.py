@@ -14,7 +14,32 @@ print(w3.isConnected())
 erc20_file = open('abis/ERC20.json')
 erc20_abi = json.load(erc20_file)
 supported_chains = ['ethereum']
-search_tokens_blacklist = ['RealT Token', 'RealToken']
+search_tokens_blacklist = ['RealT Token', 
+                           'RealToken', 
+                           'All.me', 
+                           'AltEstate Token', 
+                           'Cointorox', 
+                           'Curio Governance',
+                           'DigixDAO',
+                           'Energoncoin',
+                           'Ethereum Gold',
+                           'EXMR FDN',
+                           'Freeliquid',
+                           'Future Of Finance Fund',
+                           'Giga Watt Token',
+                           'HedgeTrade',
+                           'High Performance Blockchain',
+                           'LNX Protocol',
+                           'Paypex',
+                           'Prime DAI',
+                           'Rapidz',
+                           'Spaghetti',
+                           'SpideyFloki',
+                           'Taxa Token',
+                           'TOP Network',
+                           'Union Fair Coin',
+                           'WM PROFESSIONAL'
+                          ]
 
 coins = cg.get_coins_list(include_platform=True)
 i = 0
