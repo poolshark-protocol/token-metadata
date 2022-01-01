@@ -52952,11 +52952,96 @@
             "coingecko_url": "https://www.coingecko.com/en/coins/yield-guild-games-south-east-asia",
             "market_cap_rank": null,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xff9fEa2666AC0b074A1a53579FF95ADd4df0601a/logo.png"
+        },
+        {
+            "name": "Amepay",
+            "symbol": "AME",
+            "id": "0x12513335ffD5DAfc2334e98625d27c1CA84bff86",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/amepay",
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 6737.39,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x12513335ffD5DAfc2334e98625d27c1CA84bff86/logo.png"
+        },
+        {
+            "name": "",
+            "symbol": "AVT",
+            "id": "0x0d88eD6E74bbFD96B831231638b66C05571e824F",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/aventus",
+            "market_cap_rank": 879,
+            "24_hr_volume_usd": 253915,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0d88eD6E74bbFD96B831231638b66C05571e824F/logo.png"
+        },
+        {
+            "name": "Darwinia Commitment Token",
+            "symbol": "KTON",
+            "id": "0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/darwinia-commitment-token",
+            "market_cap_rank": 1946,
+            "24_hr_volume_usd": 15237.58,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9F284E1337A815fe77D2Ff4aE46544645B20c5ff/logo.png"
+        },
+        {
+            "name": "Darwinia Network Native Token",
+            "symbol": "RING",
+            "id": "0x9469D013805bFfB7D3DEBe5E7839237e535ec483",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/darwinia-network-native-token",
+            "market_cap_rank": 944,
+            "24_hr_volume_usd": 280001,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9469D013805bFfB7D3DEBe5E7839237e535ec483/logo.png"
+        },
+        {
+            "name": "dForce Token",
+            "symbol": "DF",
+            "id": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/dforce-token",
+            "market_cap_rank": 706,
+            "24_hr_volume_usd": 1623955,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0/logo.png"
+        },
+        {
+            "name": "Key",
+            "symbol": "KEY",
+            "id": "0x4Cd988AfBad37289BAAf53C13e98E2BD46aAEa8c",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/key",
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 39586,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Cd988AfBad37289BAAf53C13e98E2BD46aAEa8c/logo.png"
+        },
+        {
+            "name": "Maker",
+            "symbol": "MKR",
+            "id": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/maker",
+            "market_cap_rank": 73,
+            "24_hr_volume_usd": 59250939,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+        },
+        {
+            "name": "Probit Token",
+            "symbol": "PROB",
+            "id": "0xfB559CE67Ff522ec0b9Ba7f5dC9dc7EF6c139803",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/probit-exchange",
+            "market_cap_rank": 1171,
+            "24_hr_volume_usd": 16312.29,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfB559CE67Ff522ec0b9Ba7f5dC9dc7EF6c139803/logo.png"
+        },
+        {
+            "name": "USDx Stablecoin",
+            "symbol": "USDX",
+            "id": "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/usdx-stablecoin",
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1.35,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeb269732ab75A6fD61Ea60b06fE994cD32a83549/logo.png"
         }
-    ],
-    "version": {
-        "major": 14,
-        "minor": 0,
-        "patch": 0
-    }
+    ]
 }

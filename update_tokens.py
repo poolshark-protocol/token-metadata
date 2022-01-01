@@ -96,13 +96,13 @@ for chain in supported_chains:
                     try:  
                         token['name'] = contract.functions.name().call()
                     except:
-                        print('name() failed for' + coin + '..using coingecko name value..')
+                        print('name() failed for' + json.dumps(coin) + '..using coingecko name value..')
                         token['name'] = coin['name']
 
                     try:    
                         token['symbol'] = contract.functions.symbol().call()
                     except:
-                        print('symbol() failed for' + coin + '..using coingecko symbol value..')
+                        print('symbol() failed for' + json.dumps(coin) + '..using coingecko symbol value..')
                         token['symbol'] = coin['symbol'].upper()
                       
                     token['id'] = contract.address
@@ -110,7 +110,7 @@ for chain in supported_chains:
                     try:
                         token['decimals'] = contract.functions.decimals().call()
                     except:
-                        print('decimals() failed for' + coin + '..continuing on..')
+                        print('decimals() failed for' + json.dumps(coin) + '..continuing on..')
                         continue
 
                     token['coingecko_url'] = 'https://www.coingecko.com/en/coins/' + coin['id']
