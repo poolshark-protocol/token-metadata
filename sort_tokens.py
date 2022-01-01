@@ -11,21 +11,26 @@ for chain in supported_chains:
     f = open('blockchains/' + chain + '/tokenlist.json','r')
     print(time.time())
     tokenlist = json.load(f)
-   
+    index = 0
     search_tokens = tokenlist['search_tokens']
     print(len(search_tokens))
     for token in search_tokens:
         #print(token)
         if 'market_cap_rank' in token.keys() and token['market_cap_rank'] == None:
             sort_by_volume.append(token)
-            search_tokens.remove(token)
-           # print('removed token')
+            del search_tokens[index]
+            print('removed token')
         elif 'market_cap_rank' not in token.keys():
             print('coin found w/o market cap rank: ' + json.dumps(token))
-            search_tokens.remove(token)
+            del search_tokens[index]
+        index += 1
+        
         
     for token in search_tokens:
         if 'name' not in token.keys() or token['name'] == '':
             print(json.dumps(token))
+      #  elif token['market_cap_rank'] == None:
+            #print(json.dumps(token))
+
     print(len(search_tokens))
     sorted(search_tokens,key=itemgetter('market_cap_rank'))
