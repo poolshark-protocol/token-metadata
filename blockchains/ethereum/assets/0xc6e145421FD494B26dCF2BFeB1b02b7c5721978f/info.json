@@ -1,0 +1,10 @@
+{
+    "name": "Crypto Perx",
+    "symbol": "CPRX",
+    "id": "0xc6e145421FD494B26dCF2BFeB1b02b7c5721978f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crypto-perx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 258541,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc6e145421FD494B26dCF2BFeB1b02b7c5721978f/logo.png"
+}

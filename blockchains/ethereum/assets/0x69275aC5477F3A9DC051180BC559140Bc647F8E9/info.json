@@ -1,0 +1,10 @@
+{
+    "name": "ApplePie",
+    "symbol": "APLP",
+    "id": "0x69275aC5477F3A9DC051180BC559140Bc647F8E9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apple-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1665.54,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69275aC5477F3A9DC051180BC559140Bc647F8E9/logo.png"
+}

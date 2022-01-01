@@ -1,0 +1,10 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "id": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/usd-coin",
+    "market_cap_rank": 7,
+    "24_hr_volume_usd": 2525708436,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+}

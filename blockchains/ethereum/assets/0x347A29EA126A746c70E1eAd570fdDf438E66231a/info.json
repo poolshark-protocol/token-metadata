@@ -1,0 +1,10 @@
+{
+    "name": "CurrentCoin",
+    "symbol": "CUR",
+    "id": "0x347A29EA126A746c70E1eAd570fdDf438E66231a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/currentcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 20357,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x347A29EA126A746c70E1eAd570fdDf438E66231a/logo.png"
+}

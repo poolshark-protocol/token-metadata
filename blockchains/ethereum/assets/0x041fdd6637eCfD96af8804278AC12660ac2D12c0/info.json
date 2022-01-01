@@ -1,0 +1,10 @@
+{
+    "name": "SwapDEX",
+    "symbol": "SDX",
+    "id": "0x041fdd6637eCfD96af8804278AC12660ac2D12c0",
+    "decimals": 7,
+    "coingecko_url": "https://www.coingecko.com/en/coins/swapdex",
+    "market_cap_rank": 1673,
+    "24_hr_volume_usd": 2090.27,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x041fdd6637eCfD96af8804278AC12660ac2D12c0/logo.png"
+}

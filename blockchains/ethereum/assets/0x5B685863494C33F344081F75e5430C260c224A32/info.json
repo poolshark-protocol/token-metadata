@@ -1,0 +1,10 @@
+{
+    "name": "CORE MultiChain Token",
+    "symbol": "CMCX",
+    "id": "0x5B685863494C33F344081F75e5430C260c224A32",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/core",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4580457,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5B685863494C33F344081F75e5430C260c224A32/logo.png"
+}

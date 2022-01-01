@@ -1,0 +1,10 @@
+{
+    "name": "WePiggy Coin",
+    "symbol": "WPC",
+    "id": "0x6F620EC89B8479e97A6985792d0c64F237566746",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wepiggy-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 42208,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6F620EC89B8479e97A6985792d0c64F237566746/logo.png"
+}

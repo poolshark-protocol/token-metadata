@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped IxiCash",
+    "symbol": "WIXI",
+    "id": "0x179Cd91631d96e8faFEe6A744eAC6fFdbB923520",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ixicash",
+    "market_cap_rank": 2143,
+    "24_hr_volume_usd": 1642.47,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x179Cd91631d96e8faFEe6A744eAC6fFdbB923520/logo.png"
+}

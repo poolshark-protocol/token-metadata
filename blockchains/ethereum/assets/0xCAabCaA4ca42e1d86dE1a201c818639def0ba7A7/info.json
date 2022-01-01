@@ -1,0 +1,10 @@
+{
+    "name": "Talken",
+    "symbol": "TALK",
+    "id": "0xCAabCaA4ca42e1d86dE1a201c818639def0ba7A7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/talken",
+    "market_cap_rank": 1044,
+    "24_hr_volume_usd": 96083,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCAabCaA4ca42e1d86dE1a201c818639def0ba7A7/logo.png"
+}

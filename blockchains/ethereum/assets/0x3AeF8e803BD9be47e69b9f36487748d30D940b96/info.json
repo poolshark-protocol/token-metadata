@@ -1,0 +1,10 @@
+{
+    "name": "vesta",
+    "symbol": "vesta",
+    "id": "0x3AeF8e803BD9be47e69b9f36487748d30D940b96",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vesta",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2449.59,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3AeF8e803BD9be47e69b9f36487748d30D940b96/logo.png"
+}

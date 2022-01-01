@@ -1,0 +1,10 @@
+{
+    "name": "QIQ",
+    "symbol": "QIQ",
+    "id": "0x98Af2e926206F1Eb5Af46AEDDD144727267d0487",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/qoiniq",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x98Af2e926206F1Eb5Af46AEDDD144727267d0487/logo.png"
+}

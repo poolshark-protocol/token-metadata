@@ -1,0 +1,10 @@
+{
+    "name": "Atlantic Finance Token",
+    "symbol": "ATFI",
+    "id": "0x8c680d0dE5A9a3f6a99649d0a000225054934742",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/atlantic-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.04995116,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8c680d0dE5A9a3f6a99649d0a000225054934742/logo.png"
+}

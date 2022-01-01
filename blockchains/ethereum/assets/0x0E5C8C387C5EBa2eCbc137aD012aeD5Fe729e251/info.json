@@ -1,0 +1,10 @@
+{
+    "name": "Rangers Protocol Gas",
+    "symbol": "RPG",
+    "id": "0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rangers-protocol-gas",
+    "market_cap_rank": 1055,
+    "24_hr_volume_usd": 254741,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0E5C8C387C5EBa2eCbc137aD012aeD5Fe729e251/logo.png"
+}

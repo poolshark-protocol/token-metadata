@@ -1,0 +1,10 @@
+{
+    "name": "MY IDENTITY COIN",
+    "symbol": "MYID",
+    "id": "0x5273063725a43A323300C502478C22FbB4e92C2D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/my-identity-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 541.5,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5273063725a43A323300C502478C22FbB4e92C2D/logo.png"
+}

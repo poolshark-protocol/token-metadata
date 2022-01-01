@@ -1,0 +1,11 @@
+{
+    "name": "USDM",
+    "symbol": "USDM",
+    "id": "0x31d4Eb09a216e181eC8a43ce79226A487D6F0BA9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/usdm",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4259.06,
+    "public_notice": "Please note that USDM may be off-peg due to market volatility. Do check Curve Factory Pool (https://curve.fi/factory/23) for latest swap rates as the Uniswap pool tracked has limited liquidity.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31d4Eb09a216e181eC8a43ce79226A487D6F0BA9/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Euro Tether",
+    "symbol": "EURT",
+    "id": "0xC581b735A1688071A1746c968e0798D642EDE491",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tether-eurt",
+    "market_cap_rank": 683,
+    "24_hr_volume_usd": 12554803,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC581b735A1688071A1746c968e0798D642EDE491/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ThornCoin",
+    "symbol": "THRN",
+    "id": "0x35A735B7D1d811887966656855F870c05fD0A86D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/thorncoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.053776,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x35A735B7D1d811887966656855F870c05fD0A86D/logo.png"
+}

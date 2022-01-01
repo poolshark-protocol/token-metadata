@@ -1,0 +1,10 @@
+{
+    "name": "BitNorm",
+    "symbol": "BN",
+    "id": "0x42edc1c5ff57Ff5240C90E2D8DfA269D77D68013",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitnorm",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 29.44,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x42edc1c5ff57Ff5240C90E2D8DfA269D77D68013/logo.png"
+}

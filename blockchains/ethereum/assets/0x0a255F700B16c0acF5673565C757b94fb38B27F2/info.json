@@ -1,0 +1,10 @@
+{
+    "name": "NEOWORLD CASH",
+    "symbol": "NASH",
+    "id": "0x0a255F700B16c0acF5673565C757b94fb38B27F2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/neoworld-cash",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 17687.48,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0a255F700B16c0acF5673565C757b94fb38B27F2/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "QAO",
+    "symbol": "\ud83c\udf10",
+    "id": "0x3402E15b3EA0f1aEC2679c4Be4c6d051ceF93953",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/qao",
+    "market_cap_rank": 1997,
+    "24_hr_volume_usd": 768.59,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3402E15b3EA0f1aEC2679c4Be4c6d051ceF93953/logo.png"
+}

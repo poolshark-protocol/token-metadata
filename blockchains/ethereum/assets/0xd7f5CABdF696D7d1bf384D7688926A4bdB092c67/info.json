@@ -1,0 +1,10 @@
+{
+    "name": "Dream Car",
+    "symbol": "DRC",
+    "id": "0xd7f5CABdF696D7d1bf384D7688926A4bdB092c67",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/drc-mobility",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 67529,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd7f5CABdF696D7d1bf384D7688926A4bdB092c67/logo.png"
+}

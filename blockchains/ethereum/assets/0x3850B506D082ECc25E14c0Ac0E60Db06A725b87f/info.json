@@ -1,0 +1,10 @@
+{
+    "name": "Yu-Gi-Eth!",
+    "symbol": "YGE",
+    "id": "0x3850B506D082ECc25E14c0Ac0E60Db06A725b87f",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yu-gi-eth",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3850B506D082ECc25E14c0Ac0E60Db06A725b87f/logo.png"
+}

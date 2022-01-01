@@ -1,0 +1,10 @@
+{
+    "name": "Material",
+    "symbol": "MTRL",
+    "id": "0x13C99770694f07279607A6274F28a28c33086424",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/material",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13933.79,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x13C99770694f07279607A6274F28a28c33086424/logo.png"
+}

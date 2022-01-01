@@ -1,0 +1,10 @@
+{
+    "name": "Xi Token",
+    "symbol": "XI",
+    "id": "0x295B42684F90c77DA7ea46336001010F2791Ec8c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xi-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 11915.02,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x295B42684F90c77DA7ea46336001010F2791Ec8c/logo.png"
+}

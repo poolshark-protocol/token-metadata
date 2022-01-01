@@ -1,0 +1,10 @@
+{
+    "name": "Zoo Token",
+    "symbol": "ZOOT",
+    "id": "0x1341A2257fa7b770420Ef70616f888056f90926c",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zoo-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 29705,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1341A2257fa7b770420Ef70616f888056f90926c/logo.png"
+}

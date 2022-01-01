@@ -1,0 +1,10 @@
+{
+    "name": "Boldman",
+    "symbol": "BOLD",
+    "id": "0x2d4de3C744D43CF77CB12399921FAF0D78b7415b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/boldman-capital",
+    "market_cap_rank": 3360,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2d4de3C744D43CF77CB12399921FAF0D78b7415b/logo.png"
+}

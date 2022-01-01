@@ -1,0 +1,10 @@
+{
+    "name": "Aave Interest bearing ZRX",
+    "symbol": "aZRX",
+    "id": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-zrx-v1",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 27864481,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f/logo.png"
+}

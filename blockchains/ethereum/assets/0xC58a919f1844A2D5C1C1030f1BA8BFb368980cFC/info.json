@@ -1,0 +1,10 @@
+{
+    "name": "Metastar",
+    "symbol": "METASTAR",
+    "id": "0xC58a919f1844A2D5C1C1030f1BA8BFb368980cFC",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metastar",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC58a919f1844A2D5C1C1030f1BA8BFb368980cFC/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "VISOR",
+    "symbol": "VISR",
+    "id": "0xF938424F7210f31dF2Aee3011291b658f872e91e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/visor",
+    "market_cap_rank": 2898,
+    "24_hr_volume_usd": 69854,
+    "public_notice": "Visor (VISR) has recently suffered an exploit. Kindly trade with caution. For more information, please view this <a href=\"https://twitter.com/VisorFinance/status/1473306777131405314\"\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF938424F7210f31dF2Aee3011291b658f872e91e/logo.png"
+}

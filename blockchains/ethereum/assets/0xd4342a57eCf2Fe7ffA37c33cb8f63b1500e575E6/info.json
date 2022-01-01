@@ -1,0 +1,10 @@
+{
+    "name": "Apron",
+    "symbol": "APN",
+    "id": "0xd4342a57eCf2Fe7ffA37c33cb8f63b1500e575E6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apron",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 272131,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd4342a57eCf2Fe7ffA37c33cb8f63b1500e575E6/logo.png"
+}

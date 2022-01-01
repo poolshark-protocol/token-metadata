@@ -1,0 +1,10 @@
+{
+    "name": "PNLToken",
+    "symbol": "PNL",
+    "id": "0x9FC8f0ca1668E87294941b7f627e9C15eA06B459",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/true-pnl",
+    "market_cap_rank": 2216,
+    "24_hr_volume_usd": 7862.33,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9FC8f0ca1668E87294941b7f627e9C15eA06B459/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "i Money Crypto",
+    "symbol": "IMC",
+    "id": "0xBF0741E995F469D39e4f96C0780f9a8E43f4b978",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/i-money-crypto",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 514065,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBF0741E995F469D39e4f96C0780f9a8E43f4b978/logo.png"
+}

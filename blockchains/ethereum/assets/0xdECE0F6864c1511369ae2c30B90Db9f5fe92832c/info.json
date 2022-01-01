@@ -1,0 +1,10 @@
+{
+    "name": "DISCIPLINA",
+    "symbol": "DSCPL",
+    "id": "0xdECE0F6864c1511369ae2c30B90Db9f5fe92832c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/disciplina-project-by-teachmeplease",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdECE0F6864c1511369ae2c30B90Db9f5fe92832c/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "3X Long Tezos Token",
+    "symbol": "XTZBULL",
+    "id": "0x8AF17a6396c8f315f6b6DBC6AA686C85f9b3E554",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/3x-long-tezos-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 110815,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8AF17a6396c8f315f6b6DBC6AA686C85f9b3E554/logo.png"
+}

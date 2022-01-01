@@ -1,0 +1,10 @@
+{
+    "name": "Cratos",
+    "symbol": "CRTS",
+    "id": "0x678e840C640F619E17848045D23072844224dD37",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cratos",
+    "market_cap_rank": 221,
+    "24_hr_volume_usd": 7070002,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x678e840C640F619E17848045D23072844224dD37/logo.png"
+}

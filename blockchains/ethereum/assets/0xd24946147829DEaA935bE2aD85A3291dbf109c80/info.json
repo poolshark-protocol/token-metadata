@@ -1,0 +1,10 @@
+{
+    "name": "Aave AMM Market USDC",
+    "symbol": "aAmmUSDC",
+    "id": "0xd24946147829DEaA935bE2aD85A3291dbf109c80",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-amm-usdc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd24946147829DEaA935bE2aD85A3291dbf109c80/logo.png"
+}

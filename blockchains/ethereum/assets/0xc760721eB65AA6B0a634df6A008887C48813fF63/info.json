@@ -1,0 +1,10 @@
+{
+    "name": "Cryptorg",
+    "symbol": "CTG",
+    "id": "0xc760721eB65AA6B0a634df6A008887C48813fF63",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptorg-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 123.21,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc760721eB65AA6B0a634df6A008887C48813fF63/logo.png"
+}

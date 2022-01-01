@@ -1,0 +1,10 @@
+{
+    "name": "BunnyVerse",
+    "symbol": "BNV",
+    "id": "0x072987D5B36aD8d45552aEd98879a7101cCdd749",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bunnyverse",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8306.5,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x072987D5B36aD8d45552aEd98879a7101cCdd749/logo.png"
+}

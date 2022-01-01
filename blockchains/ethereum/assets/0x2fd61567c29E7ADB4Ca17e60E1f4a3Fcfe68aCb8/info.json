@@ -1,0 +1,10 @@
+{
+    "name": "SymVerse",
+    "symbol": "SYM",
+    "id": "0x2fd61567c29E7ADB4Ca17e60E1f4a3Fcfe68aCb8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/symverse",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 35381,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2fd61567c29E7ADB4Ca17e60E1f4a3Fcfe68aCb8/logo.png"
+}

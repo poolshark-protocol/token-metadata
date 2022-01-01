@@ -1,0 +1,10 @@
+{
+    "name": "ETH 50 SMA Crossover Set",
+    "symbol": "ETH50SMACO",
+    "id": "0xa360F2aF3F957906468c0FD7526391AeD08aE3DB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eth-50-day-ma-crossover-set",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 33430,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa360F2aF3F957906468c0FD7526391AeD08aE3DB/logo.png"
+}

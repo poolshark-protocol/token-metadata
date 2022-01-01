@@ -1,0 +1,10 @@
+{
+    "name": "ScifiToken",
+    "symbol": "SCIFI",
+    "id": "0xfDC4a3FC36df16a78edCAf1B837d3ACAaeDB2CB4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/scifi-index",
+    "market_cap_rank": 2116,
+    "24_hr_volume_usd": 951.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfDC4a3FC36df16a78edCAf1B837d3ACAaeDB2CB4/logo.png"
+}

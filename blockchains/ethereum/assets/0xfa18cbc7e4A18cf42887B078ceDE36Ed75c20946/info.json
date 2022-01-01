@@ -1,0 +1,10 @@
+{
+    "name": "KentuckyFarmCapital",
+    "symbol": "KFC",
+    "id": "0xfa18cbc7e4A18cf42887B078ceDE36Ed75c20946",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kentucky-farm-capital",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 208.77,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfa18cbc7e4A18cf42887B078ceDE36Ed75c20946/logo.png"
+}

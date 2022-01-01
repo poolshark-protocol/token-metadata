@@ -1,0 +1,10 @@
+{
+    "name": "TokenTuber",
+    "symbol": "TUBER",
+    "id": "0xd1766A85B0d6F81185782dC07F15326d63C3cBaa",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tokentuber",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 23.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd1766A85B0d6F81185782dC07F15326d63C3cBaa/logo.png"
+}

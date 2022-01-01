@@ -1,0 +1,10 @@
+{
+    "name": "Etherland",
+    "symbol": "ELAND",
+    "id": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/etherland",
+    "market_cap_rank": 2227,
+    "24_hr_volume_usd": 20086,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x33E07f5055173cF8FeBedE8B21B12D1e2b523205/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Boosted Finance",
+    "symbol": "BOOST",
+    "id": "0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/boosted-finance",
+    "market_cap_rank": 3169,
+    "24_hr_volume_usd": 3132.47,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3e780920601D61cEdb860fe9c4a90c9EA6A35E78/logo.png"
+}

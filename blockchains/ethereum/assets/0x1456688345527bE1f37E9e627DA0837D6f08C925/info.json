@@ -1,0 +1,10 @@
+{
+    "name": "USDP Stablecoin",
+    "symbol": "USDP",
+    "id": "0x1456688345527bE1f37E9e627DA0837D6f08C925",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/usdp",
+    "market_cap_rank": 837,
+    "24_hr_volume_usd": 34858,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1456688345527bE1f37E9e627DA0837D6f08C925/logo.png"
+}

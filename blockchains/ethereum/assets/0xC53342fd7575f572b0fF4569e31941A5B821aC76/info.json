@@ -1,0 +1,10 @@
+{
+    "name": "ETH Volatility Index",
+    "symbol": "ETHV",
+    "id": "0xC53342fd7575f572b0fF4569e31941A5B821aC76",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-volatility-index-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 20781,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC53342fd7575f572b0fF4569e31941A5B821aC76/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Aurix Exchange",
+    "symbol": "AUR",
+    "id": "0x6E98E5401ADCB0D76F4DEBfc3d794B3031F48790",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aurix",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 23457,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6E98E5401ADCB0D76F4DEBfc3d794B3031F48790/logo.png"
+}

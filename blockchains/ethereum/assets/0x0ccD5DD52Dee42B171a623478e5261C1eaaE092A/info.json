@@ -1,0 +1,10 @@
+{
+    "name": "DeFi on MCW",
+    "symbol": "DFM",
+    "id": "0x0ccD5DD52Dee42B171a623478e5261C1eaaE092A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defi-on-mcw",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 20909,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0ccD5DD52Dee42B171a623478e5261C1eaaE092A/logo.png"
+}

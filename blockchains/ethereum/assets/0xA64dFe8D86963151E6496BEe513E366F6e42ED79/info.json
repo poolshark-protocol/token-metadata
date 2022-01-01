@@ -1,0 +1,10 @@
+{
+    "name": "Goku Inu",
+    "symbol": "GOKU",
+    "id": "0xA64dFe8D86963151E6496BEe513E366F6e42ED79",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/goku-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 60882,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA64dFe8D86963151E6496BEe513E366F6e42ED79/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Custody Token",
+    "symbol": "CUST",
+    "id": "0xf6ABff616043C2dA572573dCC583B656297b30e7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/custody-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.02,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf6ABff616043C2dA572573dCC583B656297b30e7/logo.png"
+}

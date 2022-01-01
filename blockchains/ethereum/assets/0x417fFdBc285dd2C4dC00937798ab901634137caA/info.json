@@ -1,0 +1,10 @@
+{
+    "name": "BlackFisk",
+    "symbol": "BLFI",
+    "id": "0x417fFdBc285dd2C4dC00937798ab901634137caA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blackfisk",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 187.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x417fFdBc285dd2C4dC00937798ab901634137caA/logo.png"
+}

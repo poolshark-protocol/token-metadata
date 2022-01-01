@@ -1,0 +1,10 @@
+{
+    "name": "Hotbit Token",
+    "symbol": "HTB",
+    "id": "0x6be61833FC4381990e82D7D4a9F4c9B3F67eA941",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hotbit-token",
+    "market_cap_rank": 767,
+    "24_hr_volume_usd": 296075,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6be61833FC4381990e82D7D4a9F4c9B3F67eA941/logo.png"
+}

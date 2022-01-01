@@ -1,0 +1,10 @@
+{
+    "name": "AlpaToken",
+    "symbol": "ALPA",
+    "id": "0x7cA4408137eb639570F8E647d9bD7B7E8717514A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alpaca",
+    "market_cap_rank": 2038,
+    "24_hr_volume_usd": 26327,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7cA4408137eb639570F8E647d9bD7B7E8717514A/logo.png"
+}

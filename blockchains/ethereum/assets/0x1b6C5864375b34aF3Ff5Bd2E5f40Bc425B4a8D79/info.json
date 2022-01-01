@@ -1,0 +1,10 @@
+{
+    "name": "TopChainCoin",
+    "symbol": "TOPC",
+    "id": "0x1b6C5864375b34aF3Ff5Bd2E5f40Bc425B4a8D79",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/topchain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 90041,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1b6C5864375b34aF3Ff5Bd2E5f40Bc425B4a8D79/logo.png"
+}

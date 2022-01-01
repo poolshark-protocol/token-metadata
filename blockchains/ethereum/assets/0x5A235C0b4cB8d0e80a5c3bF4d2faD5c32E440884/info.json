@@ -1,0 +1,10 @@
+{
+    "name": "Genesis CyberKongz",
+    "symbol": "KONGZ",
+    "id": "0x5A235C0b4cB8d0e80a5c3bF4d2faD5c32E440884",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kongz-vault-nftx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5A235C0b4cB8d0e80a5c3bF4d2faD5c32E440884/logo.png"
+}

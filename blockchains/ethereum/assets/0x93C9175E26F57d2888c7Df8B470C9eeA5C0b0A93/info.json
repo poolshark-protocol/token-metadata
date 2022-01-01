@@ -1,0 +1,10 @@
+{
+    "name": "b-cube.ai Token",
+    "symbol": "BCUBE",
+    "id": "0x93C9175E26F57d2888c7Df8B470C9eeA5C0b0A93",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/b-cube-ai",
+    "market_cap_rank": 1576,
+    "24_hr_volume_usd": 63017,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93C9175E26F57d2888c7Df8B470C9eeA5C0b0A93/logo.png"
+}

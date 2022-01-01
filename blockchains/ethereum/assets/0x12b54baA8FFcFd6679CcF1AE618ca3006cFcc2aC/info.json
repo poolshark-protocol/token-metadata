@@ -1,0 +1,10 @@
+{
+    "name": "ChilliSwap Token",
+    "symbol": "CHLI",
+    "id": "0x12b54baA8FFcFd6679CcF1AE618ca3006cFcc2aC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chilliswap",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x12b54baA8FFcFd6679CcF1AE618ca3006cFcc2aC/logo.png"
+}

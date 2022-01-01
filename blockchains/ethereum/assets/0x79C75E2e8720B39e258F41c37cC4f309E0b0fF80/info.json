@@ -1,0 +1,10 @@
+{
+    "name": "Phantasma Stake",
+    "symbol": "SOUL",
+    "id": "0x79C75E2e8720B39e258F41c37cC4f309E0b0fF80",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/phantasma",
+    "market_cap_rank": 257,
+    "24_hr_volume_usd": 6850927,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x79C75E2e8720B39e258F41c37cC4f309E0b0fF80/logo.png"
+}

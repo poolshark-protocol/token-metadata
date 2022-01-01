@@ -1,0 +1,10 @@
+{
+    "name": "Ballswapper Accelerator Reflection Token",
+    "symbol": "BART",
+    "id": "0x21fb4DD8C500BE1A9BA27F827217E477217D6225",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ballswapper-accelerator-reflection-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 400.52,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x21fb4DD8C500BE1A9BA27F827217E477217D6225/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Low Orbit Crypto Cannon",
+    "symbol": "LOCC",
+    "id": "0x556938621C19e5eae58C94a806da9d237b969bd8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/low-orbit-crypto-cannon",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x556938621C19e5eae58C94a806da9d237b969bd8/logo.png"
+}

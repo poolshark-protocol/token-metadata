@@ -1,0 +1,10 @@
+{
+    "name": "Jack Token",
+    "symbol": "JACK",
+    "id": "0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jack-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 111896,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28/logo.png"
+}

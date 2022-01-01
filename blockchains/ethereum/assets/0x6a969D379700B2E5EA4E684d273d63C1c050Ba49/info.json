@@ -1,0 +1,10 @@
+{
+    "name": "Pacific",
+    "symbol": "PAF",
+    "id": "0x6a969D379700B2E5EA4E684d273d63C1c050Ba49",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pacific",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 251137,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6a969D379700B2E5EA4E684d273d63C1c050Ba49/logo.png"
+}

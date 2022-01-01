@@ -1,0 +1,10 @@
+{
+    "name": "Bright",
+    "symbol": "BRIGHT",
+    "id": "0x5dD57Da40e6866C9FcC34F4b6DDC89F1BA740DfE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bright-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 662949,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5dD57Da40e6866C9FcC34F4b6DDC89F1BA740DfE/logo.png"
+}

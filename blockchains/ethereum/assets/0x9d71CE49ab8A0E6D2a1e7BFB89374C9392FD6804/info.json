@@ -1,0 +1,10 @@
+{
+    "name": "NvirWorld",
+    "symbol": "Nvir",
+    "id": "0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nvirworld",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 25490,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d71CE49ab8A0E6D2a1e7BFB89374C9392FD6804/logo.png"
+}

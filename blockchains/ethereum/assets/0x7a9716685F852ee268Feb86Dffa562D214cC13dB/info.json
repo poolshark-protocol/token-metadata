@@ -1,0 +1,10 @@
+{
+    "name": "FANBI TOKEN",
+    "symbol": "FBT",
+    "id": "0x7a9716685F852ee268Feb86Dffa562D214cC13dB",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fanbi-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1766.2,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7a9716685F852ee268Feb86Dffa562D214cC13dB/logo.png"
+}

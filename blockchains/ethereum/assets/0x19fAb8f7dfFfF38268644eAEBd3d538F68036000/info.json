@@ -1,0 +1,10 @@
+{
+    "name": "Chronic Token",
+    "symbol": "CHT",
+    "id": "0x19fAb8f7dfFfF38268644eAEBd3d538F68036000",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chronic-token",
+    "market_cap_rank": 3515,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x19fAb8f7dfFfF38268644eAEBd3d538F68036000/logo.png"
+}

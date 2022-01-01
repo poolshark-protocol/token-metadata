@@ -1,0 +1,10 @@
+{
+    "name": "BoringDAO DOGE",
+    "symbol": "oDOGE",
+    "id": "0x9c306A78b1a904e83115c05Ac67c1Ef07C653651",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/boringdao-doge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 227.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9c306A78b1a904e83115c05Ac67c1Ef07C653651/logo.png"
+}

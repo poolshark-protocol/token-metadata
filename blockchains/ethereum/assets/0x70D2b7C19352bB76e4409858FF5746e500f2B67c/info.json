@@ -1,0 +1,10 @@
+{
+    "name": "Pawtocol Network UPI Token",
+    "symbol": "UPI",
+    "id": "0x70D2b7C19352bB76e4409858FF5746e500f2B67c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pawtocol",
+    "market_cap_rank": 1058,
+    "24_hr_volume_usd": 636432,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x70D2b7C19352bB76e4409858FF5746e500f2B67c/logo.png"
+}

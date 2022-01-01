@@ -1,0 +1,10 @@
+{
+    "name": "ZTCoin",
+    "symbol": "ZT",
+    "id": "0xFE39e6a32AcD2aF7955Cb3D406Ba2B55C901f247",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ztcoin",
+    "market_cap_rank": 1275,
+    "24_hr_volume_usd": 1613457053,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFE39e6a32AcD2aF7955Cb3D406Ba2B55C901f247/logo.png"
+}

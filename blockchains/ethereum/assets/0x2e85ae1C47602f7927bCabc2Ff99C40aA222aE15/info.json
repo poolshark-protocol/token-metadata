@@ -1,0 +1,10 @@
+{
+    "name": "Katana Inu",
+    "symbol": "KATA",
+    "id": "0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/katana-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 271367,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2e85ae1C47602f7927bCabc2Ff99C40aA222aE15/logo.png"
+}

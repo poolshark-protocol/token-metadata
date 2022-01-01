@@ -1,0 +1,10 @@
+{
+    "name": "UnmarshalToken",
+    "symbol": "MARSH",
+    "id": "0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unmarshal",
+    "market_cap_rank": 1202,
+    "24_hr_volume_usd": 3291481,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5a666c7d92E5fA7Edcb6390E4efD6d0CDd69cF37/logo.png"
+}

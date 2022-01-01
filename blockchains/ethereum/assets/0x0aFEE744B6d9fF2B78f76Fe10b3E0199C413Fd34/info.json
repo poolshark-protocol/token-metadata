@@ -1,0 +1,10 @@
+{
+    "name": "Store-Of-Value Token",
+    "symbol": "SOV",
+    "id": "0x0aFEE744B6d9fF2B78f76Fe10b3E0199C413Fd34",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/store-of-value-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0aFEE744B6d9fF2B78f76Fe10b3E0199C413Fd34/logo.png"
+}

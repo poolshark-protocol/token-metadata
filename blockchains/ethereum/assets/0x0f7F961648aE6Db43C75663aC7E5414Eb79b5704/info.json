@@ -1,0 +1,10 @@
+{
+    "name": "XIO Network",
+    "symbol": "XIO",
+    "id": "0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xio",
+    "market_cap_rank": 1607,
+    "24_hr_volume_usd": 54967,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704/logo.png"
+}

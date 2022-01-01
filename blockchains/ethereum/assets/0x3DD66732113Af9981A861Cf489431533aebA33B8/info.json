@@ -1,0 +1,11 @@
+{
+    "name": "Yearn Finance Network",
+    "symbol": "YFN",
+    "id": "0x3DD66732113Af9981A861Cf489431533aebA33B8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yearn-finance-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 607.08,
+    "public_notice": "Contract address has changed from 0x3709ae438e0557976296051f431256f386de370c to 0x3DD66732113Af9981A861Cf489431533aebA33B8.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3DD66732113Af9981A861Cf489431533aebA33B8/logo.png"
+}

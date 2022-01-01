@@ -1,0 +1,10 @@
+{
+    "name": "BambooDeFi",
+    "symbol": "BAMBOO",
+    "id": "0xf56842Af3B56Fd72d17cB103f92d027bBa912e89",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bamboo-defi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 136988,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf56842Af3B56Fd72d17cB103f92d027bBa912e89/logo.png"
+}

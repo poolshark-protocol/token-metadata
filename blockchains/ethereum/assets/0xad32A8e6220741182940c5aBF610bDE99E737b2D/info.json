@@ -1,0 +1,10 @@
+{
+    "name": "PieDAO DOUGH v2",
+    "symbol": "DOUGH",
+    "id": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/piedao-dough-v2",
+    "market_cap_rank": 1438,
+    "24_hr_volume_usd": 31466,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xad32A8e6220741182940c5aBF610bDE99E737b2D/logo.png"
+}

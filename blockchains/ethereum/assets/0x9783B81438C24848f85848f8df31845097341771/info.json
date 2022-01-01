@@ -1,0 +1,10 @@
+{
+    "name": "DOG COLLAR",
+    "symbol": "COLLAR",
+    "id": "0x9783B81438C24848f85848f8df31845097341771",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dog-collar",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 308620,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9783B81438C24848f85848f8df31845097341771/logo.png"
+}

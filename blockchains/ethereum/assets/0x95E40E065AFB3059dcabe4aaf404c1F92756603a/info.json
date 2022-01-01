@@ -1,0 +1,10 @@
+{
+    "name": "King DAG",
+    "symbol": "KDAG",
+    "id": "0x95E40E065AFB3059dcabe4aaf404c1F92756603a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kdag",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 35923,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95E40E065AFB3059dcabe4aaf404c1F92756603a/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Lossless Token",
+    "symbol": "LSS",
+    "id": "0x3B9BE07d622aCcAEd78f479BC0EDabFd6397E320",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lossless",
+    "market_cap_rank": 943,
+    "24_hr_volume_usd": 1818706,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3B9BE07d622aCcAEd78f479BC0EDabFd6397E320/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "UNetworkToken",
+    "symbol": "UUU",
+    "id": "0x3543638eD4a9006E4840B105944271Bcea15605D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/u-network",
+    "market_cap_rank": 2365,
+    "24_hr_volume_usd": 6030394,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3543638eD4a9006E4840B105944271Bcea15605D/logo.png"
+}

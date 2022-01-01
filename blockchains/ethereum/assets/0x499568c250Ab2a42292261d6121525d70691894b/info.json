@@ -1,0 +1,10 @@
+{
+    "name": "KROWN",
+    "symbol": "KRW",
+    "id": "0x499568c250Ab2a42292261d6121525d70691894b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/krown",
+    "market_cap_rank": 2406,
+    "24_hr_volume_usd": 15182.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x499568c250Ab2a42292261d6121525d70691894b/logo.png"
+}

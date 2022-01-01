@@ -1,0 +1,10 @@
+{
+    "name": "YFIA",
+    "symbol": "YFIA",
+    "id": "0xd778e4F5450eDE47289fEf874a37B79Db77c4CF1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfia",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 30.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd778e4F5450eDE47289fEf874a37B79Db77c4CF1/logo.png"
+}

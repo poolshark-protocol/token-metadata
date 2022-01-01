@@ -1,0 +1,10 @@
+{
+    "name": "XOVBank",
+    "symbol": "XOV",
+    "id": "0x153eD9CC1b792979d2Bde0BBF45CC2A7e436a5F9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xov",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13.11,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x153eD9CC1b792979d2Bde0BBF45CC2A7e436a5F9/logo.png"
+}

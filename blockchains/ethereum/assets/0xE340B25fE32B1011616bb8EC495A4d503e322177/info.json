@@ -1,0 +1,10 @@
+{
+    "name": "Aave AMM Market UniDAIUSDC",
+    "symbol": "aAmmUniDAIUSDC",
+    "id": "0xE340B25fE32B1011616bb8EC495A4d503e322177",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-amm-unidaiusdc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE340B25fE32B1011616bb8EC495A4d503e322177/logo.png"
+}

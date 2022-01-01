@@ -1,0 +1,10 @@
+{
+    "name": "Feisty Doge NFT",
+    "symbol": "NFD",
+    "id": "0xDFDb7f72c1F195C5951a234e8DB9806EB0635346",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/feisty-doge-nft",
+    "market_cap_rank": 1368,
+    "24_hr_volume_usd": 98312,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDFDb7f72c1F195C5951a234e8DB9806EB0635346/logo.png"
+}

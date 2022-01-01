@@ -1,0 +1,10 @@
+{
+    "name": "LITION",
+    "symbol": "LIT",
+    "id": "0x763Fa6806e1acf68130D2D0f0df754C93cC546B2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lition",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 185.95,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x763Fa6806e1acf68130D2D0f0df754C93cC546B2/logo.png"
+}

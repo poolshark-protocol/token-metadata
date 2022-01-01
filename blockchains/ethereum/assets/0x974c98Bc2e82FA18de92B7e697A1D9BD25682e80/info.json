@@ -1,0 +1,10 @@
+{
+    "name": "3X Long Ethereum Classic Token",
+    "symbol": "ETCBULL",
+    "id": "0x974c98Bc2e82FA18de92B7e697A1D9BD25682e80",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/3x-long-ethereum-classic-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 27909,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x974c98Bc2e82FA18de92B7e697A1D9BD25682e80/logo.png"
+}

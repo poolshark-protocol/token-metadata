@@ -1,0 +1,10 @@
+{
+    "name": "Connectome",
+    "symbol": "CNTM",
+    "id": "0x0E5f00DA8AAef196a719d045DB89b5DA8F371b32",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/connectome",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1305199,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0E5f00DA8AAef196a719d045DB89b5DA8F371b32/logo.png"
+}

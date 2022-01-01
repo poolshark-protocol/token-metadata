@@ -1,0 +1,11 @@
+{
+    "name": "Flux Token",
+    "symbol": "FLX",
+    "id": "0x3Ea8ea4237344C9931214796d9417Af1A1180770",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/flux-token",
+    "market_cap_rank": 1345,
+    "24_hr_volume_usd": 524140,
+    "public_notice": "Flux is having a liquidity bootstrapping pool auction sale at https://copperlaunch.com/auctions/0xb61bef0cf17b25542c061ed861f270d5ac88a6b7",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3Ea8ea4237344C9931214796d9417Af1A1180770/logo.png"
+}

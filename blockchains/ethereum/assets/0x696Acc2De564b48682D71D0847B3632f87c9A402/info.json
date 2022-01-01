@@ -1,0 +1,10 @@
+{
+    "name": "AurusGOLD",
+    "symbol": "AWG",
+    "id": "0x696Acc2De564b48682D71D0847B3632f87c9A402",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aurusgold",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 87.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x696Acc2De564b48682D71D0847B3632f87c9A402/logo.png"
+}

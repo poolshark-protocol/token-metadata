@@ -1,0 +1,10 @@
+{
+    "name": "Singularity Dao",
+    "symbol": "SDAO",
+    "id": "0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/singularitydao",
+    "market_cap_rank": 705,
+    "24_hr_volume_usd": 1859269,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F/logo.png"
+}

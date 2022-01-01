@@ -1,0 +1,10 @@
+{
+    "name": "Firdaos",
+    "symbol": "FDO",
+    "id": "0x361887C1D1B73557018c47c8001711168128cf69",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/firdaos",
+    "market_cap_rank": 2684,
+    "24_hr_volume_usd": 521027,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x361887C1D1B73557018c47c8001711168128cf69/logo.png"
+}

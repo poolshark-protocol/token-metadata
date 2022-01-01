@@ -1,0 +1,10 @@
+{
+    "name": "Fintropy",
+    "symbol": "FINT",
+    "id": "0xd61143652aF94f570C7D9429356662dD859cA6EC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fintropy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 56268,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd61143652aF94f570C7D9429356662dD859cA6EC/logo.png"
+}

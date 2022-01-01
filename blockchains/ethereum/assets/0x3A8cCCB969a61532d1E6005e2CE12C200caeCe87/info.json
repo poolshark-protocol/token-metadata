@@ -1,0 +1,10 @@
+{
+    "name": "TitanSwap",
+    "symbol": "Titan",
+    "id": "0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/titanswap",
+    "market_cap_rank": 264,
+    "24_hr_volume_usd": 58870,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3A8cCCB969a61532d1E6005e2CE12C200caeCe87/logo.png"
+}

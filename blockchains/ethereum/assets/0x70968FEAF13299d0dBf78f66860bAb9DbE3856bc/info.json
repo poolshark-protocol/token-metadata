@@ -1,0 +1,10 @@
+{
+    "name": "Treelion",
+    "symbol": "TRN",
+    "id": "0x70968FEAF13299d0dBf78f66860bAb9DbE3856bc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/treelion",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3146.5,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x70968FEAF13299d0dBf78f66860bAb9DbE3856bc/logo.png"
+}

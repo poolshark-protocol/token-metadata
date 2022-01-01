@@ -1,0 +1,10 @@
+{
+    "name": "Value Liquidity",
+    "symbol": "VALUE",
+    "id": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/value-liquidity",
+    "market_cap_rank": 1776,
+    "24_hr_volume_usd": 672154,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x49E833337ECe7aFE375e44F4E3e8481029218E5c/logo.png"
+}

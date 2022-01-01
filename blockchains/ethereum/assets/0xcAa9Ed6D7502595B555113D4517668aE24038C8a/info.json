@@ -1,0 +1,10 @@
+{
+    "name": "Marvin Inu",
+    "symbol": "MARVIN",
+    "id": "0xcAa9Ed6D7502595B555113D4517668aE24038C8a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/marvin-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 111897,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcAa9Ed6D7502595B555113D4517668aE24038C8a/logo.png"
+}

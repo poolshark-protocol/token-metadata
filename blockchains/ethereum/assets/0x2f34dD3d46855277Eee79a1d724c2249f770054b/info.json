@@ -1,0 +1,10 @@
+{
+    "name": "Goin Token",
+    "symbol": "GOI",
+    "id": "0x2f34dD3d46855277Eee79a1d724c2249f770054b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/goforit",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8300.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2f34dD3d46855277Eee79a1d724c2249f770054b/logo.png"
+}

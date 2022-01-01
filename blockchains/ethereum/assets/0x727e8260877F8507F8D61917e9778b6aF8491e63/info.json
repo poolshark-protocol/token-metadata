@@ -1,0 +1,10 @@
+{
+    "name": "Charizard Inu",
+    "symbol": "CHARIZARD",
+    "id": "0x727e8260877F8507F8D61917e9778b6aF8491e63",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/charizard-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1620.69,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x727e8260877F8507F8D61917e9778b6aF8491e63/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "UnoRe",
+    "symbol": "UNO",
+    "id": "0x474021845C4643113458ea4414bdb7fB74A01A77",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/uno-re",
+    "market_cap_rank": 984,
+    "24_hr_volume_usd": 986048,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x474021845C4643113458ea4414bdb7fB74A01A77/logo.png"
+}

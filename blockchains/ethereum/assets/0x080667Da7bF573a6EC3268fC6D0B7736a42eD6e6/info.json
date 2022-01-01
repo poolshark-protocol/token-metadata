@@ -1,0 +1,10 @@
+{
+    "name": "ERC20EktaToken",
+    "symbol": "EKTA",
+    "id": "0x080667Da7bF573a6EC3268fC6D0B7736a42eD6e6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ekta",
+    "market_cap_rank": 1528,
+    "24_hr_volume_usd": 2994.88,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x080667Da7bF573a6EC3268fC6D0B7736a42eD6e6/logo.png"
+}

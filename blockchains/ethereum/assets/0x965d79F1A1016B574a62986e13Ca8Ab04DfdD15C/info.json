@@ -1,0 +1,10 @@
+{
+    "name": "M2",
+    "symbol": "M2",
+    "id": "0x965d79F1A1016B574a62986e13Ca8Ab04DfdD15C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/m2",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 144598,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x965d79F1A1016B574a62986e13Ca8Ab04DfdD15C/logo.png"
+}

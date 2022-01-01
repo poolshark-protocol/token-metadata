@@ -1,0 +1,10 @@
+{
+    "name": "Coingress",
+    "symbol": "CGRESS",
+    "id": "0xE8a95475884E5f13AdB1f9f10E84F7390bAC1B5c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coingress",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.65,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE8a95475884E5f13AdB1f9f10E84F7390bAC1B5c/logo.png"
+}

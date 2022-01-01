@@ -1,0 +1,10 @@
+{
+    "name": "Synth sDEFI",
+    "symbol": "sDEFI",
+    "id": "0xe1aFe1Fd76Fd88f78cBf599ea1846231B8bA3B6B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sdefi",
+    "market_cap_rank": 1687,
+    "24_hr_volume_usd": 17701.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe1aFe1Fd76Fd88f78cBf599ea1846231B8bA3B6B/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Pulse",
+    "symbol": "PULSE",
+    "id": "0x52A047Ee205701895Ee06A375492490EC9C597cE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pulse-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13823.53,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x52A047Ee205701895Ee06A375492490EC9C597cE/logo.png"
+}

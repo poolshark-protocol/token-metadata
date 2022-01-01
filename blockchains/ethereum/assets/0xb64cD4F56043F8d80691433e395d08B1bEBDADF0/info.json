@@ -1,0 +1,10 @@
+{
+    "name": "Meliora",
+    "symbol": "MORA",
+    "id": "0xb64cD4F56043F8d80691433e395d08B1bEBDADF0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/meliora",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 159472,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb64cD4F56043F8d80691433e395d08B1bEBDADF0/logo.png"
+}

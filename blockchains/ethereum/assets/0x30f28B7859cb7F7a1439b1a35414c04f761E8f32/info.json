@@ -1,0 +1,10 @@
+{
+    "name": "Bebop Inu",
+    "symbol": "Bebop-Inu",
+    "id": "0x30f28B7859cb7F7a1439b1a35414c04f761E8f32",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bebop-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1501.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x30f28B7859cb7F7a1439b1a35414c04f761E8f32/logo.png"
+}

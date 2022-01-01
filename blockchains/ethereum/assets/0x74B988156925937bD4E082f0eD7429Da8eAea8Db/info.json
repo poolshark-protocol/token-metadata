@@ -1,0 +1,11 @@
+{
+    "name": "MEME Inu.",
+    "symbol": "MEME",
+    "id": "0x74B988156925937bD4E082f0eD7429Da8eAea8Db",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/meme-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8083375,
+    "public_notice": "$MEME is undergoing token swap to Meme Inu at https://swap.dontbuymeme.com/#/. If you hold any <a href=\"https://www.coingecko.com/en/coins/meme?locale=en\">$MEME tokens</a>, you are advised to do the swap.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x74B988156925937bD4E082f0eD7429Da8eAea8Db/logo.png"
+}

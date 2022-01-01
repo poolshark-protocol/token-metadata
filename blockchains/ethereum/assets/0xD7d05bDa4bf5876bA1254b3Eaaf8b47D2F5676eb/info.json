@@ -1,0 +1,10 @@
+{
+    "name": "STABLE Asset",
+    "symbol": "STA",
+    "id": "0xD7d05bDa4bf5876bA1254b3Eaaf8b47D2F5676eb",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stable-asset",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7714.62,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD7d05bDa4bf5876bA1254b3Eaaf8b47D2F5676eb/logo.png"
+}

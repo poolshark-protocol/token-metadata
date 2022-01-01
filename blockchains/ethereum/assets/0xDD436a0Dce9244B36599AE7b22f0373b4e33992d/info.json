@@ -1,0 +1,10 @@
+{
+    "name": "TrustUSD",
+    "symbol": "TRUSD",
+    "id": "0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/trustusd",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 55.32,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDD436a0Dce9244B36599AE7b22f0373b4e33992d/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Power Index Pool Token",
+    "symbol": "PIPT",
+    "id": "0x26607aC599266b21d13c7aCF7942c7701a8b699c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/power-index-pool-token",
+    "market_cap_rank": 1993,
+    "24_hr_volume_usd": 14583.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26607aC599266b21d13c7aCF7942c7701a8b699c/logo.png"
+}

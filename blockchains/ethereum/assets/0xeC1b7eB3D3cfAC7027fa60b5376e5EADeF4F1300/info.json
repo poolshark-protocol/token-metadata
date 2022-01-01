@@ -1,0 +1,10 @@
+{
+    "name": "HZMCOIN",
+    "symbol": "HZM",
+    "id": "0xeC1b7eB3D3cfAC7027fa60b5376e5EADeF4F1300",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hzm-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 106791,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeC1b7eB3D3cfAC7027fa60b5376e5EADeF4F1300/logo.png"
+}

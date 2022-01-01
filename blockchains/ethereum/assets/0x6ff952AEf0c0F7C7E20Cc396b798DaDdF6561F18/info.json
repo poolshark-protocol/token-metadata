@@ -1,0 +1,10 @@
+{
+    "name": "Spidey Inu",
+    "symbol": "SPIDEY INU",
+    "id": "0x6ff952AEf0c0F7C7E20Cc396b798DaDdF6561F18",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/spidey-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1800.93,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6ff952AEf0c0F7C7E20Cc396b798DaDdF6561F18/logo.png"
+}

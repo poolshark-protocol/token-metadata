@@ -1,0 +1,10 @@
+{
+    "name": "Doch",
+    "symbol": "DCH",
+    "id": "0x4a73E60ADBb8575500Ffc6AaEa6128954011C8Af",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/doch-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00672347,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4a73E60ADBb8575500Ffc6AaEa6128954011C8Af/logo.png"
+}

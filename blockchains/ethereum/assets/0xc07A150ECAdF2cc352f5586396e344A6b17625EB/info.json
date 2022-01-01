@@ -1,0 +1,10 @@
+{
+    "name": "BioPassport Coin",
+    "symbol": "BIOT",
+    "id": "0xc07A150ECAdF2cc352f5586396e344A6b17625EB",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/biopassport",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 43953314,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc07A150ECAdF2cc352f5586396e344A6b17625EB/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Dimitra Token",
+    "symbol": "DMTR",
+    "id": "0x51cB253744189f11241becb29BeDd3F1b5384fdB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dimitra",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 166332,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x51cB253744189f11241becb29BeDd3F1b5384fdB/logo.png"
+}

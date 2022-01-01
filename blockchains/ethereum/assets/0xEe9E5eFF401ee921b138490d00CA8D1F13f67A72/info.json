@@ -1,0 +1,11 @@
+{
+    "name": "Asian Fintech",
+    "symbol": "Afin",
+    "id": "0xEe9E5eFF401ee921b138490d00CA8D1F13f67A72",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/afin-coin",
+    "market_cap_rank": 1359,
+    "24_hr_volume_usd": 360540,
+    "public_notice": "Asian Fintech has recently expanded to Binance Smart Chain. For more info, read <a href=\"https://www.facebook.com/asianfintech/photos/a.1080095692192379/2158280857707185/\">here</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEe9E5eFF401ee921b138490d00CA8D1F13f67A72/logo.png"
+}

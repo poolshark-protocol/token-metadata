@@ -1,0 +1,10 @@
+{
+    "name": "Atauro",
+    "symbol": "ATR",
+    "id": "0x1f3CE12f7D9c589bF825CEc15642Bc37EAE9E89e",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/atauro",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 182725,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1f3CE12f7D9c589bF825CEc15642Bc37EAE9E89e/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "BoringDAO BTC",
+    "symbol": "oBTC",
+    "id": "0x8064d9Ae6cDf087b1bcd5BDf3531bD5d8C537a68",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/boringdao-btc",
+    "market_cap_rank": 523,
+    "24_hr_volume_usd": 7637.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8064d9Ae6cDf087b1bcd5BDf3531bD5d8C537a68/logo.png"
+}

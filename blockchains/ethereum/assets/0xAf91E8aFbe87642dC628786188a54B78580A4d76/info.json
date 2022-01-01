@@ -1,0 +1,10 @@
+{
+    "name": "Fund Of Yours",
+    "symbol": "FOY",
+    "id": "0xAf91E8aFbe87642dC628786188a54B78580A4d76",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fund-of-yours",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 720.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAf91E8aFbe87642dC628786188a54B78580A4d76/logo.png"
+}

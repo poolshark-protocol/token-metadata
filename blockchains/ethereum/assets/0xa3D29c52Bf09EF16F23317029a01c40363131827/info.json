@@ -1,0 +1,10 @@
+{
+    "name": "Pharmapay",
+    "symbol": "PRP",
+    "id": "0xa3D29c52Bf09EF16F23317029a01c40363131827",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pharma-pay-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 16853.29,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa3D29c52Bf09EF16F23317029a01c40363131827/logo.png"
+}

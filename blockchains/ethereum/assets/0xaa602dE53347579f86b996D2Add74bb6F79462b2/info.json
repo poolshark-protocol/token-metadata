@@ -1,0 +1,10 @@
+{
+    "name": "Zipmex Token",
+    "symbol": "ZMT",
+    "id": "0xaa602dE53347579f86b996D2Add74bb6F79462b2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zipmex-token",
+    "market_cap_rank": 214,
+    "24_hr_volume_usd": 14529853,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaa602dE53347579f86b996D2Add74bb6F79462b2/logo.png"
+}

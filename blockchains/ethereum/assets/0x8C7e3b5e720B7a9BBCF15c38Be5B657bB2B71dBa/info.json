@@ -1,0 +1,10 @@
+{
+    "name": "GTE Token",
+    "symbol": "GTE",
+    "id": "0x8C7e3b5e720B7a9BBCF15c38Be5B657bB2B71dBa",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/greentek",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 108503,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8C7e3b5e720B7a9BBCF15c38Be5B657bB2B71dBa/logo.png"
+}

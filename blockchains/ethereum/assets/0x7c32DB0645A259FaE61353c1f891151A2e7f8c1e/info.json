@@ -1,0 +1,10 @@
+{
+    "name": "POTENTIAM",
+    "symbol": "PTM",
+    "id": "0x7c32DB0645A259FaE61353c1f891151A2e7f8c1e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/potentiam",
+    "market_cap_rank": 1878,
+    "24_hr_volume_usd": 40764,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7c32DB0645A259FaE61353c1f891151A2e7f8c1e/logo.png"
+}

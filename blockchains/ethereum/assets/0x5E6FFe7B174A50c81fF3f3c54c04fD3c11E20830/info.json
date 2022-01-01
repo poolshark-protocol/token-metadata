@@ -1,0 +1,10 @@
+{
+    "name": "Dragonvein Coin",
+    "symbol": "DVC",
+    "id": "0x5E6FFe7B174A50c81fF3f3c54c04fD3c11E20830",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dragonvein",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 37323,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5E6FFe7B174A50c81fF3f3c54c04fD3c11E20830/logo.png"
+}

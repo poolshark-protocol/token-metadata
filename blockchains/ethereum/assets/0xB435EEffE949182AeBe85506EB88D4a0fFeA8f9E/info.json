@@ -1,0 +1,10 @@
+{
+    "name": "MUD Guild Game",
+    "symbol": "MGG",
+    "id": "0xB435EEffE949182AeBe85506EB88D4a0fFeA8f9E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mud-guild-game",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB435EEffE949182AeBe85506EB88D4a0fFeA8f9E/logo.png"
+}

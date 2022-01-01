@@ -1,0 +1,10 @@
+{
+    "name": "VitaDAO Token",
+    "symbol": "VITA",
+    "id": "0x81f8f0bb1cB2A06649E51913A151F0E7Ef6FA321",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vitadao",
+    "market_cap_rank": 1009,
+    "24_hr_volume_usd": 243685,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x81f8f0bb1cB2A06649E51913A151F0E7Ef6FA321/logo.png"
+}

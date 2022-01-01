@@ -1,0 +1,10 @@
+{
+    "name": "ZeroHybrid",
+    "symbol": "ZHT",
+    "id": "0x4b13A8a95Da56773312cA0d4e0670530aa700FcF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zerohybrid",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 52826,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4b13A8a95Da56773312cA0d4e0670530aa700FcF/logo.png"
+}

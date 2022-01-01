@@ -1,0 +1,10 @@
+{
+    "name": "Intercoin Investor Token",
+    "symbol": "ITR",
+    "id": "0x1111158f88410DA5F92c7E34c01e7B8649Bc0155",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/intercoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7.06,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1111158f88410DA5F92c7E34c01e7B8649Bc0155/logo.png"
+}

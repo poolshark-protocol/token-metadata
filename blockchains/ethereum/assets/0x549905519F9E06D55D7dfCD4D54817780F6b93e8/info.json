@@ -1,0 +1,11 @@
+{
+    "name": "TouchCon",
+    "symbol": "TOC",
+    "id": "0x549905519F9E06D55D7dfCD4D54817780F6b93e8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/touchcon",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 53756,
+    "public_notice": "TouchCon has migrated to new contract address. For more details, please read: https://twitter.com/Mercatox_info/status/1422905884657733634",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x549905519F9E06D55D7dfCD4D54817780F6b93e8/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "AIWORK",
+    "symbol": "AWO",
+    "id": "0x68C85B9f78F30A0df5aC5723e4e700037f185415",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aiwork",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 635073,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68C85B9f78F30A0df5aC5723e4e700037f185415/logo.png"
+}

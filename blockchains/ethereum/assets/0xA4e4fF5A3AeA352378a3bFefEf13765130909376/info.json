@@ -1,0 +1,10 @@
+{
+    "name": "Alien Clock",
+    "symbol": "CLOCK",
+    "id": "0xA4e4fF5A3AeA352378a3bFefEf13765130909376",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/clock-vault-nftx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA4e4fF5A3AeA352378a3bFefEf13765130909376/logo.png"
+}

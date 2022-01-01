@@ -1,0 +1,10 @@
+{
+    "name": "BlackPool Token",
+    "symbol": "BPT",
+    "id": "0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blackpool-token",
+    "market_cap_rank": 900,
+    "24_hr_volume_usd": 98829,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da/logo.png"
+}

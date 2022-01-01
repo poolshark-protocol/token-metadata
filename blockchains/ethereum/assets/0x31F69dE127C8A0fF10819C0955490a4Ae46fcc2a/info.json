@@ -1,0 +1,11 @@
+{
+    "name": "Imported GBYTE",
+    "symbol": "GBYTE",
+    "id": "0x31F69dE127C8A0fF10819C0955490a4Ae46fcc2a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/byteball",
+    "market_cap_rank": 1037,
+    "24_hr_volume_usd": 32928,
+    "public_notice": "Byteball rebranded as Obyte: https://medium.com/byteball/byteball-rebrand-the-next-step-to-real-world-adoption-6a0a924390de",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31F69dE127C8A0fF10819C0955490a4Ae46fcc2a/logo.png"
+}

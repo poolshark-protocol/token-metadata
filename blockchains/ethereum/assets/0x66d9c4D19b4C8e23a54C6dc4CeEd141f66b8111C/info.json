@@ -1,0 +1,10 @@
+{
+    "name": "Fountain 2",
+    "symbol": "FTN",
+    "id": "0x66d9c4D19b4C8e23a54C6dc4CeEd141f66b8111C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fountain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 80283,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x66d9c4D19b4C8e23a54C6dc4CeEd141f66b8111C/logo.png"
+}

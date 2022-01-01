@@ -1,0 +1,10 @@
+{
+    "name": "CARBON",
+    "symbol": "CRB",
+    "id": "0x2fd8BC03D9e827F77faC20B5130eE98B7F80149d",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crb-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3810.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2fd8BC03D9e827F77faC20B5130eE98B7F80149d/logo.png"
+}

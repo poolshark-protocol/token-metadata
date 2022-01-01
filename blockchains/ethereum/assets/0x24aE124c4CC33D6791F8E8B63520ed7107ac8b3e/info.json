@@ -1,0 +1,11 @@
+{
+    "name": "Empty Set Share",
+    "symbol": "ESS",
+    "id": "0x24aE124c4CC33D6791F8E8B63520ed7107ac8b3e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/empty-set-share",
+    "market_cap_rank": 2990,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Empty Set Dollar(ESD) will be migrating to Empty Set Share(ESS). https://docs.emptyset.finance/how-to/migrate-from-v1",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x24aE124c4CC33D6791F8E8B63520ed7107ac8b3e/logo.png"
+}

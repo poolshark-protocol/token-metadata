@@ -1,0 +1,10 @@
+{
+    "name": "Mission Helios",
+    "symbol": "HELIOS",
+    "id": "0xC6d1f1D5a46de07E73091f1c8793293B203f01a1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mission-helios",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 32596,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC6d1f1D5a46de07E73091f1c8793293B203f01a1/logo.png"
+}

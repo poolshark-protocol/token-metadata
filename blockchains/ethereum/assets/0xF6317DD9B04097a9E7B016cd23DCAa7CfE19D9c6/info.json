@@ -1,0 +1,10 @@
+{
+    "name": "TOPBTC TOKEN",
+    "symbol": "TOPB",
+    "id": "0xF6317DD9B04097a9E7B016cd23DCAa7CfE19D9c6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/topb",
+    "market_cap_rank": 2832,
+    "24_hr_volume_usd": 15650238,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF6317DD9B04097a9E7B016cd23DCAa7CfE19D9c6/logo.png"
+}

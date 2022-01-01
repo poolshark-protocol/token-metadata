@@ -1,0 +1,10 @@
+{
+    "name": "Universal Protocol Token",
+    "symbol": "UPT",
+    "id": "0x6CA88Cc8D9288f5cAD825053B6A1B179B05c76fC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/universal-protocol-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 743.32,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6CA88Cc8D9288f5cAD825053B6A1B179B05c76fC/logo.png"
+}

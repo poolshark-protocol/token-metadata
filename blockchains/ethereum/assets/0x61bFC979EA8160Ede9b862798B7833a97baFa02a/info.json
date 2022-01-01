@@ -1,0 +1,10 @@
+{
+    "name": "RELEASE COIN",
+    "symbol": "REL",
+    "id": "0x61bFC979EA8160Ede9b862798B7833a97baFa02a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/release-ico-project",
+    "market_cap_rank": 2655,
+    "24_hr_volume_usd": 88560,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x61bFC979EA8160Ede9b862798B7833a97baFa02a/logo.png"
+}

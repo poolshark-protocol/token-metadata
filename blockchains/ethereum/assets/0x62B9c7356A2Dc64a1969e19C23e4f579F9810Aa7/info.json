@@ -1,0 +1,10 @@
+{
+    "name": "Convex CRV",
+    "symbol": "cvxCRV",
+    "id": "0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/convex-crv",
+    "market_cap_rank": 123,
+    "24_hr_volume_usd": 590566,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7/logo.png"
+}

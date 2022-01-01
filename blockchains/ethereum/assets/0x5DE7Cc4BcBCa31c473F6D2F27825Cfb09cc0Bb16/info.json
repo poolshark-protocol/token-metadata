@@ -1,0 +1,10 @@
+{
+    "name": "XBE",
+    "symbol": "XBE",
+    "id": "0x5DE7Cc4BcBCa31c473F6D2F27825Cfb09cc0Bb16",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xbe-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 162036,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5DE7Cc4BcBCa31c473F6D2F27825Cfb09cc0Bb16/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Moneynet Coin",
+    "symbol": "MNC",
+    "id": "0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moneynet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 58.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31/logo.png"
+}

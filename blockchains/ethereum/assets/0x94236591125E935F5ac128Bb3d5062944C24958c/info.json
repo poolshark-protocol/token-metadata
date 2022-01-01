@@ -1,0 +1,10 @@
+{
+    "name": "VegaWallet",
+    "symbol": "VGW",
+    "id": "0x94236591125E935F5ac128Bb3d5062944C24958c",
+    "decimals": 5,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vegawallet-token",
+    "market_cap_rank": 2646,
+    "24_hr_volume_usd": 7.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x94236591125E935F5ac128Bb3d5062944C24958c/logo.png"
+}

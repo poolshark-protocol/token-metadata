@@ -1,0 +1,10 @@
+{
+    "name": "DEI",
+    "symbol": "DEI",
+    "id": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dei-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18989.66,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3/logo.png"
+}

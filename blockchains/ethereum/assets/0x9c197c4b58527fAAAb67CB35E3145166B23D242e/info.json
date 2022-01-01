@@ -1,0 +1,10 @@
+{
+    "name": "HashNet BitEco",
+    "symbol": "HNB",
+    "id": "0x9c197c4b58527fAAAb67CB35E3145166B23D242e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hashnet-biteco",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 234.39,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9c197c4b58527fAAAb67CB35E3145166B23D242e/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "BiLira",
+    "symbol": "TRYB",
+    "id": "0x2C537E5624e4af88A7ae4060C022609376C8D0EB",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bilira",
+    "market_cap_rank": 529,
+    "24_hr_volume_usd": 2714744,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C537E5624e4af88A7ae4060C022609376C8D0EB/logo.png"
+}

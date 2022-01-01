@@ -1,0 +1,10 @@
+{
+    "name": "Quasacoin",
+    "symbol": "QUA",
+    "id": "0x4dAeb4a06F70f4b1A5C329115731fE4b89C0B227",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/quasacoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 145382,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4dAeb4a06F70f4b1A5C329115731fE4b89C0B227/logo.png"
+}

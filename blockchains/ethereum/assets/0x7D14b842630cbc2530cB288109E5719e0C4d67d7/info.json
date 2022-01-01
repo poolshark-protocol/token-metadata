@@ -1,0 +1,10 @@
+{
+    "name": "IBP Token",
+    "symbol": "IBP",
+    "id": "0x7D14b842630cbc2530cB288109E5719e0C4d67d7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/innovation-blockchain-payment",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 340582,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7D14b842630cbc2530cB288109E5719e0C4d67d7/logo.png"
+}

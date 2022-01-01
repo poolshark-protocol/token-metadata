@@ -1,0 +1,10 @@
+{
+    "name": "divinedao",
+    "symbol": "DIVINE",
+    "id": "0xB5e09e6Bf6a5E96934B3fd99a40F7EDACa1173Ed",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/divine-dao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 595.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB5e09e6Bf6a5E96934B3fd99a40F7EDACa1173Ed/logo.png"
+}

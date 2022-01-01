@@ -1,0 +1,10 @@
+{
+    "name": "UniCrypt",
+    "symbol": "UNCX",
+    "id": "0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unicrypt-2",
+    "market_cap_rank": 967,
+    "24_hr_volume_usd": 74724,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaDB2437e6F65682B85F814fBc12FeC0508A7B1D0/logo.png"
+}

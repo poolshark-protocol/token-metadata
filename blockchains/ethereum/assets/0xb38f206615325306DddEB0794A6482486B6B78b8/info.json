@@ -1,0 +1,10 @@
+{
+    "name": " 1X Short EOS Token",
+    "symbol": "EOSHEDGE",
+    "id": "0xb38f206615325306DddEB0794A6482486B6B78b8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/1x-short-eos-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 121.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb38f206615325306DddEB0794A6482486B6B78b8/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "SACKS",
+    "symbol": "SACKS",
+    "id": "0xa6610Ed604047e7B76C1DA288172D15BcdA57596",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sacks",
+    "market_cap_rank": 2684,
+    "24_hr_volume_usd": 1837.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa6610Ed604047e7B76C1DA288172D15BcdA57596/logo.png"
+}

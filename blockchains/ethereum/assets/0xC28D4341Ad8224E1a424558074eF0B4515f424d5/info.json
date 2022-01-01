@@ -1,0 +1,10 @@
+{
+    "name": "Datbit Token",
+    "symbol": "DBT",
+    "id": "0xC28D4341Ad8224E1a424558074eF0B4515f424d5",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/datbit",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4475969,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC28D4341Ad8224E1a424558074eF0B4515f424d5/logo.png"
+}

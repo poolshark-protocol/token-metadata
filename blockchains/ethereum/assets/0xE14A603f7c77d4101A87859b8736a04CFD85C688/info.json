@@ -1,0 +1,10 @@
+{
+    "name": "TENA",
+    "symbol": "TENA",
+    "id": "0xE14A603f7c77d4101A87859b8736a04CFD85C688",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tena",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 14629.43,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE14A603f7c77d4101A87859b8736a04CFD85C688/logo.png"
+}

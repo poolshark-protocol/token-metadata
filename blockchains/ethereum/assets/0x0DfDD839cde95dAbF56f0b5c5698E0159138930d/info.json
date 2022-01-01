@@ -1,0 +1,10 @@
+{
+    "name": "MyFiChain",
+    "symbol": "myfi",
+    "id": "0x0DfDD839cde95dAbF56f0b5c5698E0159138930d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/myfichain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 28.76,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0DfDD839cde95dAbF56f0b5c5698E0159138930d/logo.png"
+}

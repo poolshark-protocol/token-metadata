@@ -1,0 +1,10 @@
+{
+    "name": "Tycoon Token",
+    "symbol": "TYC",
+    "id": "0x3A82D3111aB5faF39d847D46023d9090261A658F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tycoon",
+    "market_cap_rank": 1682,
+    "24_hr_volume_usd": 104248,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3A82D3111aB5faF39d847D46023d9090261A658F/logo.png"
+}

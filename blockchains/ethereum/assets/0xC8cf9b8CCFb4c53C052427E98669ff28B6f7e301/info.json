@@ -1,0 +1,10 @@
+{
+    "name": "SUPER MARIO",
+    "symbol": "MARIO",
+    "id": "0xC8cf9b8CCFb4c53C052427E98669ff28B6f7e301",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/super-mario",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 141.5,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC8cf9b8CCFb4c53C052427E98669ff28B6f7e301/logo.png"
+}

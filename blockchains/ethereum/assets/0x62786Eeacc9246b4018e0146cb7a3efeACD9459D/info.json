@@ -1,0 +1,10 @@
+{
+    "name": "LessToken",
+    "symbol": "LESS",
+    "id": "0x62786Eeacc9246b4018e0146cb7a3efeACD9459D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/less-network",
+    "market_cap_rank": 2063,
+    "24_hr_volume_usd": 609.92,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x62786Eeacc9246b4018e0146cb7a3efeACD9459D/logo.png"
+}

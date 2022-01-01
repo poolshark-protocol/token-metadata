@@ -1,0 +1,11 @@
+{
+    "name": "Nahmii",
+    "symbol": "NII",
+    "id": "0x7c8155909cd385F120A56eF90728dD50F9CcbE52",
+    "decimals": 15,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nahmii",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 41636,
+    "public_notice": "Contract address has changed from 0xac4f2f204b38390b92d0540908447d5ed352799a to 0x7c8155909cd385F120A56eF90728dD50F9CcbE52",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7c8155909cd385F120A56eF90728dD50F9CcbE52/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Sentiment Token",
+    "symbol": "SENT",
+    "id": "0x97AbEe33Cd075c58BFdd174e0885e08E8f03556F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sentiment-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 11436.92,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x97AbEe33Cd075c58BFdd174e0885e08E8f03556F/logo.png"
+}

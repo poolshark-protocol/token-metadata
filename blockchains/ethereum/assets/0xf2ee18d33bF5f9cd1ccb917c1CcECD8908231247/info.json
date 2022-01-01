@@ -1,0 +1,10 @@
+{
+    "name": "ParaInu Token",
+    "symbol": "PARAINU",
+    "id": "0xf2ee18d33bF5f9cd1ccb917c1CcECD8908231247",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/parainu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7405766,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf2ee18d33bF5f9cd1ccb917c1CcECD8908231247/logo.png"
+}

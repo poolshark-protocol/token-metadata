@@ -1,0 +1,10 @@
+{
+    "name": "Truebit",
+    "symbol": "TRU",
+    "id": "0xf65B5C5104c4faFD4b709d9D60a185eAE063276c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/truebit-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4263838,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf65B5C5104c4faFD4b709d9D60a185eAE063276c/logo.png"
+}

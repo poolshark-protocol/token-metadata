@@ -1,0 +1,10 @@
+{
+    "name": "Universal Gold",
+    "symbol": "UPXAU",
+    "id": "0x0557Df767419296474C3f551Bb0A0ED4c2DD3380",
+    "decimals": 5,
+    "coingecko_url": "https://www.coingecko.com/en/coins/universal-gold",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 232.42,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0557Df767419296474C3f551Bb0A0ED4c2DD3380/logo.png"
+}

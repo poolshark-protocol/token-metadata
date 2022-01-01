@@ -1,0 +1,10 @@
+{
+    "name": "Vortex DeFi",
+    "symbol": "VTX",
+    "id": "0xceb286C9604c542d3cc08b41AA6C9675B078A832",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vortex-defi",
+    "market_cap_rank": 2659,
+    "24_hr_volume_usd": 2538.2,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xceb286C9604c542d3cc08b41AA6C9675B078A832/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Spectre.ai D-Token",
+    "symbol": "SXDT",
+    "id": "0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/spectre-dividend-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 17.39,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Lendroid Support Token",
+    "symbol": "LST",
+    "id": "0x4de2573e27E648607B50e1Cfff921A33E4A34405",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lendroid-support-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 193.14,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4de2573e27E648607B50e1Cfff921A33E4A34405/logo.png"
+}

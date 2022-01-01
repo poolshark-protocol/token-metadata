@@ -1,0 +1,10 @@
+{
+    "name": "Zin Finance",
+    "symbol": "Zin",
+    "id": "0x033e223870f766644f7f7a4B7dc2E91573707d06",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.31,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x033e223870f766644f7f7a4B7dc2E91573707d06/logo.png"
+}

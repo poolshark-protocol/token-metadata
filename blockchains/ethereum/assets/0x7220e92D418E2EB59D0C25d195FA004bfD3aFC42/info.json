@@ -1,0 +1,10 @@
+{
+    "name": "Ad Flex",
+    "symbol": "ADF",
+    "id": "0x7220e92D418E2EB59D0C25d195FA004bfD3aFC42",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ad-flex-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 19525.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7220e92D418E2EB59D0C25d195FA004bfD3aFC42/logo.png"
+}

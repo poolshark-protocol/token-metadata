@@ -1,0 +1,10 @@
+{
+    "name": "gm Coin",
+    "symbol": "gm",
+    "id": "0x73b8726618f53F84eEb860FD50AB217fdf30dEa0",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gm-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2359.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x73b8726618f53F84eEb860FD50AB217fdf30dEa0/logo.png"
+}

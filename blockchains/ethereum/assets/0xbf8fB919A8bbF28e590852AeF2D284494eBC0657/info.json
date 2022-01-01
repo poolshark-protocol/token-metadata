@@ -1,0 +1,10 @@
+{
+    "name": "ABCC Token",
+    "symbol": "AT",
+    "id": "0xbf8fB919A8bbF28e590852AeF2D284494eBC0657",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/abcc-token",
+    "market_cap_rank": 1975,
+    "24_hr_volume_usd": 90.68,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbf8fB919A8bbF28e590852AeF2D284494eBC0657/logo.png"
+}

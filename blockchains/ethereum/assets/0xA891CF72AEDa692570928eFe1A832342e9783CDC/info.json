@@ -1,0 +1,10 @@
+{
+    "name": "Interfinex Bills",
+    "symbol": "IFEX",
+    "id": "0xA891CF72AEDa692570928eFe1A832342e9783CDC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/interfinex-bills",
+    "market_cap_rank": 3296,
+    "24_hr_volume_usd": 101.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA891CF72AEDa692570928eFe1A832342e9783CDC/logo.png"
+}

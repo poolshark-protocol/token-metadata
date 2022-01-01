@@ -1,0 +1,10 @@
+{
+    "name": "Nftfy Token",
+    "symbol": "NFTFY",
+    "id": "0xBf6Ff49FfD3d104302Ef0AB0F10f5a84324c091c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nftfy",
+    "market_cap_rank": 2139,
+    "24_hr_volume_usd": 2507.33,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBf6Ff49FfD3d104302Ef0AB0F10f5a84324c091c/logo.png"
+}

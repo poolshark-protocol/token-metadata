@@ -1,0 +1,10 @@
+{
+    "name": "Block 18",
+    "symbol": "18T",
+    "id": "0x5A9bF6bADCd24Fe0d58E1087290c2FE2c728736a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/block-18",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1824.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5A9bF6bADCd24Fe0d58E1087290c2FE2c728736a/logo.png"
+}

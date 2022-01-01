@@ -1,0 +1,10 @@
+{
+    "name": "Identity",
+    "symbol": "IDTT",
+    "id": "0x6fB1E018f107d3352506c23777e4cd62e063584a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/identity",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6049.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6fB1E018f107d3352506c23777e4cd62e063584a/logo.png"
+}

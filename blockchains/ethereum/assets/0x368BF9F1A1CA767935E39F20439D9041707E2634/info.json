@@ -1,0 +1,10 @@
+{
+    "name": "CHAINFLIX",
+    "symbol": "CFXT",
+    "id": "0x368BF9F1A1CA767935E39F20439D9041707E2634",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chainflix",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 105590,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x368BF9F1A1CA767935E39F20439D9041707E2634/logo.png"
+}

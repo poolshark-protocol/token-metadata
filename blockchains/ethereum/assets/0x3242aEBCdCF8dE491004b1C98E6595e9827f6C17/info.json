@@ -1,0 +1,10 @@
+{
+    "name": "Global USD Token",
+    "symbol": "GUSDT",
+    "id": "0x3242aEBCdCF8dE491004b1C98E6595e9827f6C17",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gusd-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 199464,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3242aEBCdCF8dE491004b1C98E6595e9827f6C17/logo.png"
+}

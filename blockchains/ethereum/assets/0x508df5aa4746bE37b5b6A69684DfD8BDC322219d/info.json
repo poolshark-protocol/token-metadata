@@ -1,0 +1,10 @@
+{
+    "name": "Crafting Finance",
+    "symbol": "CRF",
+    "id": "0x508df5aa4746bE37b5b6A69684DfD8BDC322219d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crafting-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 648668,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x508df5aa4746bE37b5b6A69684DfD8BDC322219d/logo.png"
+}

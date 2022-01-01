@@ -1,0 +1,10 @@
+{
+    "name": "Cryptyk Tokens",
+    "symbol": "CTK",
+    "id": "0x42a501903AFaa1086B5975773375c80E363f4063",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptyk",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 36343,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x42a501903AFaa1086B5975773375c80E363f4063/logo.png"
+}

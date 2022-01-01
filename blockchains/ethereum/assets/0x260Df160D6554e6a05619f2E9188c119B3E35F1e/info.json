@@ -1,0 +1,11 @@
+{
+    "name": "HLTH Token",
+    "symbol": "HLTH",
+    "id": "0x260Df160D6554e6a05619f2E9188c119B3E35F1e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hlth-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 246605,
+    "public_notice": "HLTH has migrated from the <a href=\"https://snowtrace.io/token/0x0342993a0a3bcff7668578082c3ad17b5277d97d\">old contract</a> on Avalanche\u00a0to a <a href=\"https://etherscan.io/token/0x260df160d6554e6a05619f2e9188c119b3e35f1e\">new one</a> on Ethereum. Find out more on their Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x260Df160D6554e6a05619f2E9188c119B3E35F1e/logo.png"
+}

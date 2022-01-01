@@ -1,0 +1,10 @@
+{
+    "name": "DMME",
+    "symbol": "DMME",
+    "id": "0x9556f8ee795D991fF371F547162D5efB2769425F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dmme-app",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0019942,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9556f8ee795D991fF371F547162D5efB2769425F/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Eristica TOKEN",
+    "symbol": "ERT",
+    "id": "0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eristica",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92A5B04D0ED5D94D7a193d1d334D3D16996f4E13/logo.png"
+}

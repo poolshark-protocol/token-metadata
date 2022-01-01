@@ -1,0 +1,10 @@
+{
+    "name": "CheeseFry",
+    "symbol": "CHEESE",
+    "id": "0x332E824e46FcEeB9E59ba9491B80d3e6d42B0B59",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cheesefry",
+    "market_cap_rank": 2850,
+    "24_hr_volume_usd": 17950.76,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x332E824e46FcEeB9E59ba9491B80d3e6d42B0B59/logo.png"
+}

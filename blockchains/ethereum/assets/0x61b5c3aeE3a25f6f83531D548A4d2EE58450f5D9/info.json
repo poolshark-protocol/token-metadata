@@ -1,0 +1,10 @@
+{
+    "name": "Probably Nothing",
+    "symbol": "PN",
+    "id": "0x61b5c3aeE3a25f6f83531D548A4d2EE58450f5D9",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/probably-nothing",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 444615,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x61b5c3aeE3a25f6f83531D548A4d2EE58450f5D9/logo.png"
+}

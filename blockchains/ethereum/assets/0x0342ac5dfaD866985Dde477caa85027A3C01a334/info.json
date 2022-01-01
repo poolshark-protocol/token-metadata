@@ -1,0 +1,10 @@
+{
+    "name": "Alpha Wolf",
+    "symbol": "AWF",
+    "id": "0x0342ac5dfaD866985Dde477caa85027A3C01a334",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alpha-wolf",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 63.31,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0342ac5dfaD866985Dde477caa85027A3C01a334/logo.png"
+}

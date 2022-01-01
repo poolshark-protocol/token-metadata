@@ -1,0 +1,10 @@
+{
+    "name": "MOAR Finance",
+    "symbol": "MOAR",
+    "id": "0x187Eff9690E1F1A61d578C7c492296eaAB82701a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moar",
+    "market_cap_rank": 2360,
+    "24_hr_volume_usd": 4704.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x187Eff9690E1F1A61d578C7c492296eaAB82701a/logo.png"
+}

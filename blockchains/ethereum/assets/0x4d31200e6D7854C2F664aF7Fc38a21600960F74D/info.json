@@ -1,0 +1,10 @@
+{
+    "name": "Bit Financial",
+    "symbol": "BFC",
+    "id": "0x4d31200e6D7854C2F664aF7Fc38a21600960F74D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bit_financial",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5614.31,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4d31200e6D7854C2F664aF7Fc38a21600960F74D/logo.png"
+}

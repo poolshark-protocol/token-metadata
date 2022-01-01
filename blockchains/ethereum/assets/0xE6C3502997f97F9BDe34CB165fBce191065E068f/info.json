@@ -1,0 +1,10 @@
+{
+    "name": "KBTC",
+    "symbol": "KBTC",
+    "id": "0xE6C3502997f97F9BDe34CB165fBce191065E068f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/klondike-btc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 314.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE6C3502997f97F9BDe34CB165fBce191065E068f/logo.png"
+}

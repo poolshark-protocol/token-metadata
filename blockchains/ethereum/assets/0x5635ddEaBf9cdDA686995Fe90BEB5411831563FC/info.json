@@ -1,0 +1,10 @@
+{
+    "name": "TravelNote",
+    "symbol": "TVNT",
+    "id": "0x5635ddEaBf9cdDA686995Fe90BEB5411831563FC",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/travelnote",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5635ddEaBf9cdDA686995Fe90BEB5411831563FC/logo.png"
+}

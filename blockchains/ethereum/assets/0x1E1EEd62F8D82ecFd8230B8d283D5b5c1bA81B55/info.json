@@ -1,0 +1,10 @@
+{
+    "name": "Gamma Token",
+    "symbol": "GAMMA",
+    "id": "0x1E1EEd62F8D82ecFd8230B8d283D5b5c1bA81B55",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gamma",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 21803,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1E1EEd62F8D82ecFd8230B8d283D5b5c1bA81B55/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "SoMee.Social",
+    "symbol": "SOMEE",
+    "id": "0x65F9A292f1AEED5D755Aa2fD2Fb17AB2E9431447",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/somee-social",
+    "market_cap_rank": 2091,
+    "24_hr_volume_usd": 33234,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x65F9A292f1AEED5D755Aa2fD2Fb17AB2E9431447/logo.png"
+}

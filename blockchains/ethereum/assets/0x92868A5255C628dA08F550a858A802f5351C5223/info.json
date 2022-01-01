@@ -1,0 +1,10 @@
+{
+    "name": "Cross-Chain Bridge Token",
+    "symbol": "BRIDGE",
+    "id": "0x92868A5255C628dA08F550a858A802f5351C5223",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cross-chain-bridge-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 11023.11,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92868A5255C628dA08F550a858A802f5351C5223/logo.png"
+}

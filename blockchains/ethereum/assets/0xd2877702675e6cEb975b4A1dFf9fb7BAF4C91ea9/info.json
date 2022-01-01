@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped LUNA Token",
+    "symbol": "LUNA",
+    "id": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-terra",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 31169834,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9/logo.png"
+}

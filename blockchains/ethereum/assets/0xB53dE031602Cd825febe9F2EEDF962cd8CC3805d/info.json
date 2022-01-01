@@ -1,0 +1,10 @@
+{
+    "name": "ZKCHAOS",
+    "symbol": "CHAOS",
+    "id": "0xB53dE031602Cd825febe9F2EEDF962cd8CC3805d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zkchaos",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB53dE031602Cd825febe9F2EEDF962cd8CC3805d/logo.png"
+}

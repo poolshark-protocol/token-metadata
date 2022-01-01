@@ -1,0 +1,10 @@
+{
+    "name": "FohoCoin",
+    "symbol": "FOHO",
+    "id": "0xDd2e93924BDD4E20C3CF4A8736E5955224FA450E",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fohocoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 429.18,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDd2e93924BDD4E20C3CF4A8736E5955224FA450E/logo.png"
+}

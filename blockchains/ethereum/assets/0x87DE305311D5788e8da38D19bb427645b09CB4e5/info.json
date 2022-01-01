@@ -1,0 +1,10 @@
+{
+    "name": "Verox",
+    "symbol": "VRX",
+    "id": "0x87DE305311D5788e8da38D19bb427645b09CB4e5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/verox",
+    "market_cap_rank": 1597,
+    "24_hr_volume_usd": 1026565,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87DE305311D5788e8da38D19bb427645b09CB4e5/logo.png"
+}

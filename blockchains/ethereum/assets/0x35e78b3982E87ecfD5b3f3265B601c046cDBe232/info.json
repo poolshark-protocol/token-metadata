@@ -1,0 +1,10 @@
+{
+    "name": "SideShift Token",
+    "symbol": "XAI",
+    "id": "0x35e78b3982E87ecfD5b3f3265B601c046cDBe232",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sideshift-token",
+    "market_cap_rank": 1371,
+    "24_hr_volume_usd": 24817,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x35e78b3982E87ecfD5b3f3265B601c046cDBe232/logo.png"
+}

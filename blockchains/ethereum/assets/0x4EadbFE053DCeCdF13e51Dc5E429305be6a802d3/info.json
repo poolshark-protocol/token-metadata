@@ -1,0 +1,10 @@
+{
+    "name": "Lets Go Farming Token",
+    "symbol": "LGF",
+    "id": "0x4EadbFE053DCeCdF13e51Dc5E429305be6a802d3",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lets-go-farming",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4641.54,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4EadbFE053DCeCdF13e51Dc5E429305be6a802d3/logo.png"
+}

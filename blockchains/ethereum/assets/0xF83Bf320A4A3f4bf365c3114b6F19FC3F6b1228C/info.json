@@ -1,0 +1,10 @@
+{
+    "name": "FXT TOKEN",
+    "symbol": "FXT",
+    "id": "0xF83Bf320A4A3f4bf365c3114b6F19FC3F6b1228C",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fxt-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 293.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF83Bf320A4A3f4bf365c3114b6F19FC3F6b1228C/logo.png"
+}

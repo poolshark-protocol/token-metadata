@@ -1,0 +1,10 @@
+{
+    "name": "Zombie Inu",
+    "symbol": "ZINU",
+    "id": "0xc50EF449171a51FbeAFd7c562b064B6471C36caA",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zombie-inu",
+    "market_cap_rank": 480,
+    "24_hr_volume_usd": 1696506,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc50EF449171a51FbeAFd7c562b064B6471C36caA/logo.png"
+}

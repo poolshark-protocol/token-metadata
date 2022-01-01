@@ -1,0 +1,10 @@
+{
+    "name": "Kripton",
+    "symbol": "LPK",
+    "id": "0x2cc71c048A804Da930e28E93F3211dC03c702995",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/l-pesa",
+    "market_cap_rank": 3034,
+    "24_hr_volume_usd": 229.08,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2cc71c048A804Da930e28E93F3211dC03c702995/logo.png"
+}

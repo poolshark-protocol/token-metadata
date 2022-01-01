@@ -1,0 +1,10 @@
+{
+    "name": "HeavensGate",
+    "symbol": "HATE",
+    "id": "0x054bD236b42385c938357112F419dC5943687886",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/heavens-gate",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x054bD236b42385c938357112F419dC5943687886/logo.png"
+}

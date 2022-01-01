@@ -1,0 +1,10 @@
+{
+    "name": "Z.com USD",
+    "symbol": "ZUSD",
+    "id": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zusd",
+    "market_cap_rank": 1965,
+    "24_hr_volume_usd": 90288,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA/logo.png"
+}

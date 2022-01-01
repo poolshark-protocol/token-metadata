@@ -1,0 +1,10 @@
+{
+    "name": "Polkadomain Token",
+    "symbol": "NAME",
+    "id": "0xe1A4c5BBb704a92599FEdB191f451E0d3a1ed842",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polkadomain",
+    "market_cap_rank": 2085,
+    "24_hr_volume_usd": 11242.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe1A4c5BBb704a92599FEdB191f451E0d3a1ed842/logo.png"
+}

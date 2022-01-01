@@ -1,0 +1,10 @@
+{
+    "name": "Ichigo Inu",
+    "symbol": "Ichigo",
+    "id": "0x8254C1C134436F74047F79eaAeA97E3324eF78B5",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ichigo-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 47.3,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8254C1C134436F74047F79eaAeA97E3324eF78B5/logo.png"
+}

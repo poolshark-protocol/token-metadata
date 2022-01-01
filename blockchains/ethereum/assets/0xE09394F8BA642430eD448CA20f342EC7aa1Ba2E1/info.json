@@ -1,0 +1,10 @@
+{
+    "name": "FESS",
+    "symbol": "FESS",
+    "id": "0xE09394F8BA642430eD448CA20f342EC7aa1Ba2E1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fess-chain",
+    "market_cap_rank": 3505,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE09394F8BA642430eD448CA20f342EC7aa1Ba2E1/logo.png"
+}

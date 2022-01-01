@@ -1,0 +1,10 @@
+{
+    "name": "Synth sDOT",
+    "symbol": "sDOT",
+    "id": "0x1715AC0743102BF5Cd58EfBB6Cf2dC2685d967b6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sdot",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 30617,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1715AC0743102BF5Cd58EfBB6Cf2dC2685d967b6/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Nitro",
+    "symbol": "NITRO",
+    "id": "0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nitro-league",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 73514,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0335A7610D817aeCA1bEBbEfbd392ecC2eD587B8/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Iron Bank AUD",
+    "symbol": "ibAUD",
+    "id": "0xFAFdF0C4c1CB09d430Bf88c75D88BB46DAe09967",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ibaud",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 163489,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFAFdF0C4c1CB09d430Bf88c75D88BB46DAe09967/logo.png"
+}

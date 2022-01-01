@@ -1,0 +1,10 @@
+{
+    "name": "XBlock",
+    "symbol": "IX",
+    "id": "0x53f0C9F1b6e283A59bCD672e80e2222b97E534Cb",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/x-block",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 35222,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x53f0C9F1b6e283A59bCD672e80e2222b97E534Cb/logo.png"
+}

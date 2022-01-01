@@ -1,0 +1,10 @@
+{
+    "name": "MCF token",
+    "symbol": "MCF",
+    "id": "0xE33AE4E795114279721047484E5ad5cc7DF24fcB",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mcfinance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 78429,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE33AE4E795114279721047484E5ad5cc7DF24fcB/logo.png"
+}

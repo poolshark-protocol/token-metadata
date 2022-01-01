@@ -1,0 +1,10 @@
+{
+    "name": "BitBoost Tokens",
+    "symbol": "BBT",
+    "id": "0x1500205f50bf3FD976466d0662905c9ff254fc9c",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitboost",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7124.12,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1500205f50bf3FD976466d0662905c9ff254fc9c/logo.png"
+}

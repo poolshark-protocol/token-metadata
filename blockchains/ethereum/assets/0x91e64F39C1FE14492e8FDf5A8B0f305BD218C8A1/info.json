@@ -1,0 +1,10 @@
+{
+    "name": "Vodi X",
+    "symbol": "VDX",
+    "id": "0x91e64F39C1FE14492e8FDf5A8B0f305BD218C8A1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vodi-x",
+    "market_cap_rank": 2638,
+    "24_hr_volume_usd": 319.17,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x91e64F39C1FE14492e8FDf5A8B0f305BD218C8A1/logo.png"
+}

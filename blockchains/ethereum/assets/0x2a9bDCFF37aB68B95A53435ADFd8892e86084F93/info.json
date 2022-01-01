@@ -1,0 +1,10 @@
+{
+    "name": "Alpha Quark Token",
+    "symbol": "AQT",
+    "id": "0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alpha-quark-token",
+    "market_cap_rank": 479,
+    "24_hr_volume_usd": 7918951,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2a9bDCFF37aB68B95A53435ADFd8892e86084F93/logo.png"
+}

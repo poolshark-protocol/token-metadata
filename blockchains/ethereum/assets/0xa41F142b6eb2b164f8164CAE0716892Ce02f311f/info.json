@@ -1,0 +1,11 @@
+{
+    "name": "Avocado DAO Token",
+    "symbol": "AVG",
+    "id": "0xa41F142b6eb2b164f8164CAE0716892Ce02f311f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/avaocado-dao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9844902,
+    "public_notice": "There is currently no $AVG on Binance Smart Chain (BSC), the correct contract is https://etherscan.io/token/0xa41f142b6eb2b164f8164cae0716892ce02f311f. Please practice caution and DYOR.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa41F142b6eb2b164f8164CAE0716892Ce02f311f/logo.png"
+}

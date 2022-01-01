@@ -1,0 +1,10 @@
+{
+    "name": "STONER DOGE",
+    "symbol": "STOGE",
+    "id": "0x1296A923Cd4f39116e0297D921fE25Fe228552c6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stoner-doge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1296A923Cd4f39116e0297D921fE25Fe228552c6/logo.png"
+}

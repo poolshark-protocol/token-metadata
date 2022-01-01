@@ -1,0 +1,10 @@
+{
+    "name": "DAISY",
+    "symbol": "DAISY",
+    "id": "0x40955D77F87123b71b145098358A60573ac7BE96",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/daisy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 81599,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x40955D77F87123b71b145098358A60573ac7BE96/logo.png"
+}

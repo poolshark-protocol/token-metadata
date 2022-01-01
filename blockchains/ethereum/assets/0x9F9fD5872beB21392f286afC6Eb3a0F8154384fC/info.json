@@ -1,0 +1,10 @@
+{
+    "name": "Floki Gold",
+    "symbol": "FLOKI GOLD",
+    "id": "0x9F9fD5872beB21392f286afC6Eb3a0F8154384fC",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/floki-gold",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1662.34,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9F9fD5872beB21392f286afC6Eb3a0F8154384fC/logo.png"
+}

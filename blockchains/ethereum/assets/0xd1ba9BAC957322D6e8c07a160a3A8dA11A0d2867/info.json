@@ -1,0 +1,10 @@
+{
+    "name": "Human Token",
+    "symbol": "HMT",
+    "id": "0xd1ba9BAC957322D6e8c07a160a3A8dA11A0d2867",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/human-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 96561,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd1ba9BAC957322D6e8c07a160a3A8dA11A0d2867/logo.png"
+}

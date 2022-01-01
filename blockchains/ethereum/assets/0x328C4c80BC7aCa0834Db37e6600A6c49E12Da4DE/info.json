@@ -1,0 +1,10 @@
+{
+    "name": "Aave Interest bearing SNX",
+    "symbol": "aSNX",
+    "id": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-snx-v1",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 55.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE/logo.png"
+}

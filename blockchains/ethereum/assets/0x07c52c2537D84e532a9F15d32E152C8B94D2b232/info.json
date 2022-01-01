@@ -1,0 +1,10 @@
+{
+    "name": "zkTube",
+    "symbol": "ZKT",
+    "id": "0x07c52c2537D84e532a9F15d32E152C8B94D2b232",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zktube",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1520326,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x07c52c2537D84e532a9F15d32E152C8B94D2b232/logo.png"
+}

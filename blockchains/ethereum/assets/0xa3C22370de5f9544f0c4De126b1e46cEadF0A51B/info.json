@@ -1,0 +1,10 @@
+{
+    "name": "WrappedStrax",
+    "symbol": "WSTRAX",
+    "id": "0xa3C22370de5f9544f0c4De126b1e46cEadF0A51B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stratis",
+    "market_cap_rank": 331,
+    "24_hr_volume_usd": 5429918,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa3C22370de5f9544f0c4De126b1e46cEadF0A51B/logo.png"
+}

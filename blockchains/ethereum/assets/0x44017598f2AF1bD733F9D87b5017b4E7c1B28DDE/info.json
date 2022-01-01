@@ -1,0 +1,10 @@
+{
+    "name": "pSTAKE Staked ATOM",
+    "symbol": "stkATOM",
+    "id": "0x44017598f2AF1bD733F9D87b5017b4E7c1B28DDE",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pstake-staked-atom",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13699.21,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x44017598f2AF1bD733F9D87b5017b4E7c1B28DDE/logo.png"
+}

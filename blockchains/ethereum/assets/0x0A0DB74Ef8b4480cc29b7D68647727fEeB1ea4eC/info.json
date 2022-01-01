@@ -1,0 +1,10 @@
+{
+    "name": "GLEXtoken",
+    "symbol": "GLEX",
+    "id": "0x0A0DB74Ef8b4480cc29b7D68647727fEeB1ea4eC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/glex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3973.67,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0A0DB74Ef8b4480cc29b7D68647727fEeB1ea4eC/logo.png"
+}

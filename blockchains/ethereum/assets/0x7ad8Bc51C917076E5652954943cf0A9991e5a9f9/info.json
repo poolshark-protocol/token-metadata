@@ -1,0 +1,10 @@
+{
+    "name": "Chow Inu",
+    "symbol": "CHOW",
+    "id": "0x7ad8Bc51C917076E5652954943cf0A9991e5a9f9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chow-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8650.12,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7ad8Bc51C917076E5652954943cf0A9991e5a9f9/logo.png"
+}

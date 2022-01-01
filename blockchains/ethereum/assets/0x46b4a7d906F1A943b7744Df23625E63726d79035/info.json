@@ -1,0 +1,10 @@
+{
+    "name": "CODEO TOKEN",
+    "symbol": "CODEO",
+    "id": "0x46b4a7d906F1A943b7744Df23625E63726d79035",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/codeo-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00019453,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x46b4a7d906F1A943b7744Df23625E63726d79035/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "GameCity",
+    "symbol": "GMCI",
+    "id": "0x5Dc74029509752F4ed9A609C2bb52216275E4c1D",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/game-city",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 914.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5Dc74029509752F4ed9A609C2bb52216275E4c1D/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "tokenAsset",
+    "symbol": "NTB",
+    "id": "0xbE393AA534F82c0ffAC31BF06A23e283AcB3352B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tokenasset",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 38444,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbE393AA534F82c0ffAC31BF06A23e283AcB3352B/logo.png"
+}

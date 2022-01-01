@@ -1,0 +1,10 @@
+{
+    "name": "AGPC",
+    "symbol": "AGPC",
+    "id": "0x19fdC290974B574065Ff8db4303a0b76AECf223E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/agpc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1592781,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x19fdC290974B574065Ff8db4303a0b76AECf223E/logo.png"
+}

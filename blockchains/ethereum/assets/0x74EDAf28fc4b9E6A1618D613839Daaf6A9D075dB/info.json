@@ -1,0 +1,10 @@
+{
+    "name": "G.O.A.T Token",
+    "symbol": "G.O.A.T",
+    "id": "0x74EDAf28fc4b9E6A1618D613839Daaf6A9D075dB",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/g-o-a-t-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 189165,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x74EDAf28fc4b9E6A1618D613839Daaf6A9D075dB/logo.png"
+}

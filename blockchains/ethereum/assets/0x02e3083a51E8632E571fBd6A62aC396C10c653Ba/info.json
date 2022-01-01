@@ -1,0 +1,10 @@
+{
+    "name": "EplusCoin",
+    "symbol": "EPLUS",
+    "id": "0x02e3083a51E8632E571fBd6A62aC396C10c653Ba",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/epluscoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 512.36,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x02e3083a51E8632E571fBd6A62aC396C10c653Ba/logo.png"
+}

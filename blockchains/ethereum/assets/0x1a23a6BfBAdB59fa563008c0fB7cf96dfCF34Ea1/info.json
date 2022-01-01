@@ -1,0 +1,10 @@
+{
+    "name": "CoFi Token",
+    "symbol": "CoFi",
+    "id": "0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cofix",
+    "market_cap_rank": 2047,
+    "24_hr_volume_usd": 534.08,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1a23a6BfBAdB59fa563008c0fB7cf96dfCF34Ea1/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ZEON",
+    "symbol": "ZEON",
+    "id": "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zeon",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 25622,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ElectricArena",
+    "symbol": "eArena",
+    "id": "0xc30590A879C7Dd78bCd9A18E48de446A3c7c98b8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/electric-arena",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc30590A879C7Dd78bCd9A18E48de446A3c7c98b8/logo.png"
+}

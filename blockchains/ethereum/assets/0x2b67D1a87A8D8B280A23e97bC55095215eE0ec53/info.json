@@ -1,0 +1,10 @@
+{
+    "name": "Crypto Price Index",
+    "symbol": "CPI",
+    "id": "0x2b67D1a87A8D8B280A23e97bC55095215eE0ec53",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crypto-price-index",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2b67D1a87A8D8B280A23e97bC55095215eE0ec53/logo.png"
+}

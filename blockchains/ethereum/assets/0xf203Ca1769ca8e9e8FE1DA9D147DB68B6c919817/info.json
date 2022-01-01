@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped NCG",
+    "symbol": "WNCG",
+    "id": "0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-ncg",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4883503,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817/logo.png"
+}

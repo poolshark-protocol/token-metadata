@@ -1,0 +1,10 @@
+{
+    "name": "Moonbase",
+    "symbol": "mbBASED",
+    "id": "0x26cF82e4aE43D31eA51e72B663d26e26a75AF729",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moonbase",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5113.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26cF82e4aE43D31eA51e72B663d26e26a75AF729/logo.png"
+}

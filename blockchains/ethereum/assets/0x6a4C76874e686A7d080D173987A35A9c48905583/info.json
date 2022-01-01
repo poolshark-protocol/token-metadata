@@ -1,0 +1,10 @@
+{
+    "name": "Luxurious Pro Network Token",
+    "symbol": "LPNT",
+    "id": "0x6a4C76874e686A7d080D173987A35A9c48905583",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/luxurious-pro-network-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 332858,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6a4C76874e686A7d080D173987A35A9c48905583/logo.png"
+}

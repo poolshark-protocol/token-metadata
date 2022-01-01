@@ -1,0 +1,10 @@
+{
+    "name": "ETHPAD.network",
+    "symbol": "ETHPAD",
+    "id": "0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethpad",
+    "market_cap_rank": 1307,
+    "24_hr_volume_usd": 399358,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8dB1D28Ee0d822367aF8d220C0dc7cB6fe9DC442/logo.png"
+}

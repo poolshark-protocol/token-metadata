@@ -1,0 +1,10 @@
+{
+    "name": "Natmin",
+    "symbol": "NAT",
+    "id": "0x90D46A9636B973f18186541d1B04ed3621a49Cb0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/natmin-pure-escrow",
+    "market_cap_rank": 3217,
+    "24_hr_volume_usd": 45.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x90D46A9636B973f18186541d1B04ed3621a49Cb0/logo.png"
+}

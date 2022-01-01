@@ -1,0 +1,10 @@
+{
+    "name": "Quid Ika",
+    "symbol": "QUID",
+    "id": "0x9d38F670D15C14716BE1F109a4F453E966A2B6D4",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/quid-ika",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 21021,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d38F670D15C14716BE1F109a4F453E966A2B6D4/logo.png"
+}

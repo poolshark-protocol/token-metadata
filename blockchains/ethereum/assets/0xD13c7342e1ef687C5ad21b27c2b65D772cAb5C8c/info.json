@@ -1,0 +1,10 @@
+{
+    "name": "Ultra Token",
+    "symbol": "UOS",
+    "id": "0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ultra",
+    "market_cap_rank": 197,
+    "24_hr_volume_usd": 8833640,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD13c7342e1ef687C5ad21b27c2b65D772cAb5C8c/logo.png"
+}

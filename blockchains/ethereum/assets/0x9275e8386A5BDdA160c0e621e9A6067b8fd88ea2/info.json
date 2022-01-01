@@ -1,0 +1,10 @@
+{
+    "name": "NOBUNAGA",
+    "symbol": "NBNG",
+    "id": "0x9275e8386A5BDdA160c0e621e9A6067b8fd88ea2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nobunaga",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5945.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9275e8386A5BDdA160c0e621e9A6067b8fd88ea2/logo.png"
+}

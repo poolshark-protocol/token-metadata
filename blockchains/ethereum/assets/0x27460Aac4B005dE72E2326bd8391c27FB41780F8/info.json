@@ -1,0 +1,10 @@
+{
+    "name": "JustBet",
+    "symbol": "WINR",
+    "id": "0x27460Aac4B005dE72E2326bd8391c27FB41780F8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/justbet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1499.68,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x27460Aac4B005dE72E2326bd8391c27FB41780F8/logo.png"
+}

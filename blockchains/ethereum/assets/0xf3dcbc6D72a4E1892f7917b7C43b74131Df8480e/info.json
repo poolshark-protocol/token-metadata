@@ -1,0 +1,10 @@
+{
+    "name": "BDPToken",
+    "symbol": "BDP",
+    "id": "0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/big-data-protocol",
+    "market_cap_rank": 1777,
+    "24_hr_volume_usd": 3490853,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf3dcbc6D72a4E1892f7917b7C43b74131Df8480e/logo.png"
+}

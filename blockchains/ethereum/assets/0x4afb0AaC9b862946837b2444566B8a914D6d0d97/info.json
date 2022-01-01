@@ -1,0 +1,10 @@
+{
+    "name": "simian.finance",
+    "symbol": "SIFI",
+    "id": "0x4afb0AaC9b862946837b2444566B8a914D6d0d97",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/simian-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4afb0AaC9b862946837b2444566B8a914D6d0d97/logo.png"
+}

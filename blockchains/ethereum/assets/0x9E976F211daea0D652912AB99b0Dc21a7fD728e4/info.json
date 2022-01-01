@@ -1,0 +1,11 @@
+{
+    "name": "MAP Protocol",
+    "symbol": "MAP",
+    "id": "0x9E976F211daea0D652912AB99b0Dc21a7fD728e4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/marcopolo",
+    "market_cap_rank": 792,
+    "24_hr_volume_usd": 485728,
+    "public_notice": "Contract address has changed from 0x49229c3902d49be6443e01c0251b02780397ab1a to 0x9e976f211daea0d652912ab99b0dc21a7fd728e4 ",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9E976F211daea0D652912AB99b0Dc21a7fD728e4/logo.png"
+}

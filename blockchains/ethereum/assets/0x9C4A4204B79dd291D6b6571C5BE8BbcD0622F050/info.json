@@ -1,0 +1,10 @@
+{
+    "name": "Tracer",
+    "symbol": "TCR",
+    "id": "0x9C4A4204B79dd291D6b6571C5BE8BbcD0622F050",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tracer-dao",
+    "market_cap_rank": 994,
+    "24_hr_volume_usd": 2537717,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9C4A4204B79dd291D6b6571C5BE8BbcD0622F050/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "GOLDEN TOKEN",
+    "symbol": "GOLD",
+    "id": "0x34D6A0F5C2f5D0082141fE73d93B9dd00ca7CE11",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/golden-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 143644,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x34D6A0F5C2f5D0082141fE73d93B9dd00ca7CE11/logo.png"
+}

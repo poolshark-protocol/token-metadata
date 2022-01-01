@@ -1,0 +1,10 @@
+{
+    "name": "iTrust Governance Token",
+    "symbol": "$ITG",
+    "id": "0xF88b137cfa667065955ABD17525e89EDCF4D6426",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/itrust-governance-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 81923,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF88b137cfa667065955ABD17525e89EDCF4D6426/logo.png"
+}

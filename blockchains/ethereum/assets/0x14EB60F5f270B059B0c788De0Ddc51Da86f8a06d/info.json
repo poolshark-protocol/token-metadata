@@ -1,0 +1,10 @@
+{
+    "name": "Phantasma Energy",
+    "symbol": "KCAL",
+    "id": "0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/phantasma-energy",
+    "market_cap_rank": 1298,
+    "24_hr_volume_usd": 127573,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d/logo.png"
+}

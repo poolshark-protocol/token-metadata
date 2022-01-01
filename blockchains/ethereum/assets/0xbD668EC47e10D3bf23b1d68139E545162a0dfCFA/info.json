@@ -1,0 +1,10 @@
+{
+    "name": "GRANX CHAIN",
+    "symbol": "GRANX",
+    "id": "0xbD668EC47e10D3bf23b1d68139E545162a0dfCFA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cranx-chain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7461.39,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbD668EC47e10D3bf23b1d68139E545162a0dfCFA/logo.png"
+}

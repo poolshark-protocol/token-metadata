@@ -1,0 +1,10 @@
+{
+    "name": "bitgrit token",
+    "symbol": "BGR",
+    "id": "0x986303C398DBf3295FA4aD98274aD20cFcF80C08",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitgrit",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x986303C398DBf3295FA4aD98274aD20cFcF80C08/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "EtherPay",
+    "symbol": "ETHPY",
+    "id": "0x601938988f0FDd937373Ea185c33751462B1d194",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/etherpay",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 20.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x601938988f0FDd937373Ea185c33751462B1d194/logo.png"
+}

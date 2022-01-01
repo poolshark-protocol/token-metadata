@@ -1,0 +1,10 @@
+{
+    "name": "Disbalancer",
+    "symbol": "DDOS",
+    "id": "0x7FBEC0bb6A7152e77C30D005B5D49cbC08A602C3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/disbalancer",
+    "market_cap_rank": 1652,
+    "24_hr_volume_usd": 254471,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7FBEC0bb6A7152e77C30D005B5D49cbC08A602C3/logo.png"
+}

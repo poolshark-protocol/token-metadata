@@ -1,0 +1,10 @@
+{
+    "name": "Neural Protocol",
+    "symbol": "NRP",
+    "id": "0x3918C42F14F2eB1168365F911f63E540E5A306b5",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/neural-protocol",
+    "market_cap_rank": 3040,
+    "24_hr_volume_usd": 1174.55,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3918C42F14F2eB1168365F911f63E540E5A306b5/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ZyxToken",
+    "symbol": "ZYX",
+    "id": "0xf974b5f9Ac9c6632FeE8b76C61B0242ce69C839D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zyx",
+    "market_cap_rank": 2332,
+    "24_hr_volume_usd": 2229.92,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf974b5f9Ac9c6632FeE8b76C61B0242ce69C839D/logo.png"
+}

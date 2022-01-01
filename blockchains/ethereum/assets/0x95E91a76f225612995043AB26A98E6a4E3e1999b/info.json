@@ -1,0 +1,10 @@
+{
+    "name": "Japanese Yen",
+    "symbol": "JPYN",
+    "id": "0x95E91a76f225612995043AB26A98E6a4E3e1999b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wenwen-jpyn",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95E91a76f225612995043AB26A98E6a4E3e1999b/logo.png"
+}

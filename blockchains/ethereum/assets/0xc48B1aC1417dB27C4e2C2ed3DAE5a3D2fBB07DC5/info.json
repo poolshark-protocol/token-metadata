@@ -1,0 +1,10 @@
+{
+    "name": "StarBlock",
+    "symbol": "STB",
+    "id": "0xc48B1aC1417dB27C4e2C2ed3DAE5a3D2fBB07DC5",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/starblock",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.02393623,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc48B1aC1417dB27C4e2C2ed3DAE5a3D2fBB07DC5/logo.png"
+}

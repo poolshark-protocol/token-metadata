@@ -1,0 +1,10 @@
+{
+    "name": "TAIYO",
+    "symbol": "TAIYO",
+    "id": "0x13dB9034C9CA6cb739887288fcE790544a476f8c",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/taiyo",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x13dB9034C9CA6cb739887288fcE790544a476f8c/logo.png"
+}

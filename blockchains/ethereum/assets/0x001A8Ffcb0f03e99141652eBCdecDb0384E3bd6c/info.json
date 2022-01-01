@@ -1,0 +1,10 @@
+{
+    "name": "POLKER",
+    "symbol": "PKR",
+    "id": "0x001A8Ffcb0f03e99141652eBCdecDb0384E3bd6c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polker",
+    "market_cap_rank": 1408,
+    "24_hr_volume_usd": 509437,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x001A8Ffcb0f03e99141652eBCdecDb0384E3bd6c/logo.png"
+}

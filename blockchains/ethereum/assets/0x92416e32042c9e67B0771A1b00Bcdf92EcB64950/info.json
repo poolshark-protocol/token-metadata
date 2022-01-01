@@ -1,0 +1,10 @@
+{
+    "name": "BULLDOG",
+    "symbol": "BDOG",
+    "id": "0x92416e32042c9e67B0771A1b00Bcdf92EcB64950",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bulldog-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9.76,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92416e32042c9e67B0771A1b00Bcdf92EcB64950/logo.png"
+}

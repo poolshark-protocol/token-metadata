@@ -1,0 +1,10 @@
+{
+    "name": "Bean",
+    "symbol": "BEAN",
+    "id": "0xDC59ac4FeFa32293A95889Dc396682858d52e5Db",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bean",
+    "market_cap_rank": 710,
+    "24_hr_volume_usd": 91695,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDC59ac4FeFa32293A95889Dc396682858d52e5Db/logo.png"
+}

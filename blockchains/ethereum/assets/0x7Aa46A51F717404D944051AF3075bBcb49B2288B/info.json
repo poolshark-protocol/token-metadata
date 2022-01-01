@@ -1,0 +1,10 @@
+{
+    "name": "GENEBANK Token",
+    "symbol": "GNBT",
+    "id": "0x7Aa46A51F717404D944051AF3075bBcb49B2288B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/genebank-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 16.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7Aa46A51F717404D944051AF3075bBcb49B2288B/logo.png"
+}

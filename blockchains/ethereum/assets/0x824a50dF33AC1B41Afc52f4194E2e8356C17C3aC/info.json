@@ -1,0 +1,11 @@
+{
+    "name": "KickToken",
+    "symbol": "KICK",
+    "id": "0x824a50dF33AC1B41Afc52f4194E2e8356C17C3aC",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kick",
+    "market_cap_rank": 1562,
+    "24_hr_volume_usd": 217919,
+    "public_notice": "Token Swap has been deployed and Contract Address has Migrated. Read more in this <a href=\"https://kickecosystem.medium.com/swap-and-burn-74c9f7197a3a\">Article</a>",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x824a50dF33AC1B41Afc52f4194E2e8356C17C3aC/logo.png"
+}

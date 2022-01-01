@@ -1,0 +1,10 @@
+{
+    "name": "Lightcoin",
+    "symbol": "LHC",
+    "id": "0x320d31183100280CcdF69366CD56180Ea442A3E8",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lightcoin",
+    "market_cap_rank": 2053,
+    "24_hr_volume_usd": 221.68,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x320d31183100280CcdF69366CD56180Ea442A3E8/logo.png"
+}

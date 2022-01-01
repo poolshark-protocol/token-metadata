@@ -1,0 +1,10 @@
+{
+    "name": "HaraToken",
+    "symbol": "HART",
+    "id": "0x52928C95C4C7e934E0EfcfAB08853A0E4558861d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hara-token",
+    "market_cap_rank": 1464,
+    "24_hr_volume_usd": 2689.41,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x52928C95C4C7e934E0EfcfAB08853A0E4558861d/logo.png"
+}

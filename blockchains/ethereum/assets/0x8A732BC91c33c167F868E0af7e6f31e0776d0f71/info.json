@@ -1,0 +1,10 @@
+{
+    "name": "Litecoin Token",
+    "symbol": "LTK",
+    "id": "0x8A732BC91c33c167F868E0af7e6f31e0776d0f71",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/litecoin-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7.12,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8A732BC91c33c167F868E0af7e6f31e0776d0f71/logo.png"
+}

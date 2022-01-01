@@ -1,0 +1,10 @@
+{
+    "name": "Yearn Finance Passive Income",
+    "symbol": "YFPI",
+    "id": "0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yearn-finance-passive-income",
+    "market_cap_rank": 3404,
+    "24_hr_volume_usd": 438.09,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5/logo.png"
+}

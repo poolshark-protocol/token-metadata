@@ -1,0 +1,10 @@
+{
+    "name": "OBIC COIN",
+    "symbol": "OBIC",
+    "id": "0xa8b6d0bD067ce5B2e4E9e225b2e0fF5eb74DEd8A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/obic",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.848433,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa8b6d0bD067ce5B2e4E9e225b2e0fF5eb74DEd8A/logo.png"
+}

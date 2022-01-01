@@ -1,0 +1,10 @@
+{
+    "name": "UNIFI",
+    "symbol": "UNIFI",
+    "id": "0x0eF3b2024ae079e6dBC2b37435cE30d2731F0101",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unifi-defi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10543.43,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0eF3b2024ae079e6dBC2b37435cE30d2731F0101/logo.png"
+}

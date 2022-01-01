@@ -1,0 +1,10 @@
+{
+    "name": "BitoPro Coin",
+    "symbol": "BITO",
+    "id": "0x93b1E78a3e652cd2e71C4a767595B77282344932",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bito-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 28182,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93b1E78a3e652cd2e71C4a767595B77282344932/logo.png"
+}

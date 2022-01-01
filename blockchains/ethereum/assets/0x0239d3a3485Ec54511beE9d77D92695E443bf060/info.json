@@ -1,0 +1,10 @@
+{
+    "name": "Billion",
+    "symbol": "BILL",
+    "id": "0x0239d3a3485Ec54511beE9d77D92695E443bf060",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bill-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 436.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0239d3a3485Ec54511beE9d77D92695E443bf060/logo.png"
+}

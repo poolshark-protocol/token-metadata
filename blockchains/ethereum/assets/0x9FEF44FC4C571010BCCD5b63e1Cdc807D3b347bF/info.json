@@ -1,0 +1,10 @@
+{
+    "name": "RealToken S 15095 Hartwell St Detroit MI",
+    "symbol": "REALTOKEN-S-15095-HARTWELL-ST-DETROIT-MI",
+    "id": "0x9FEF44FC4C571010BCCD5b63e1Cdc807D3b347bF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/15095-hartwell",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.795115,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9FEF44FC4C571010BCCD5b63e1Cdc807D3b347bF/logo.png"
+}

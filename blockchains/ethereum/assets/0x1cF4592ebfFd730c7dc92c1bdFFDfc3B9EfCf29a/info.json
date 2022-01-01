@@ -1,0 +1,10 @@
+{
+    "name": "WAVES",
+    "symbol": "WAVES",
+    "id": "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/waves",
+    "market_cap_rank": 94,
+    "24_hr_volume_usd": 70213361,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a/logo.png"
+}

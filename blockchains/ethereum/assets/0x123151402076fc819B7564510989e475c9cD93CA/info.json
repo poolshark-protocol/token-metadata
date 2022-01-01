@@ -1,0 +1,10 @@
+{
+    "name": "wrapped-DGLD",
+    "symbol": "wDGLD",
+    "id": "0x123151402076fc819B7564510989e475c9cD93CA",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-dgld",
+    "market_cap_rank": 2062,
+    "24_hr_volume_usd": 75177,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x123151402076fc819B7564510989e475c9cD93CA/logo.png"
+}

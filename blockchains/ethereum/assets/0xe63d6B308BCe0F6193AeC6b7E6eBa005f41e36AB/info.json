@@ -1,0 +1,10 @@
+{
+    "name": "Stone Token",
+    "symbol": "STN",
+    "id": "0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stone-token",
+    "market_cap_rank": 1776,
+    "24_hr_volume_usd": 75201,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe63d6B308BCe0F6193AeC6b7E6eBa005f41e36AB/logo.png"
+}

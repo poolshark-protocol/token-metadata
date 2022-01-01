@@ -1,0 +1,10 @@
+{
+    "name": "E$P Token",
+    "symbol": "E$P",
+    "id": "0xEbD880564D73566B7479801eD6c17D1c395deCB4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/e-p",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1722.77,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEbD880564D73566B7479801eD6c17D1c395deCB4/logo.png"
+}

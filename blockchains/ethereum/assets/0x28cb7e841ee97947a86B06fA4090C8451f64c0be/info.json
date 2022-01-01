@@ -1,0 +1,11 @@
+{
+    "name": "YFLink",
+    "symbol": "YFL",
+    "id": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yflink",
+    "market_cap_rank": 1336,
+    "24_hr_volume_usd": 3747.38,
+    "public_notice": "$YFL is migrating to a new ticker $VRN. https://blog.yflink.io/we-are-migrating/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x28cb7e841ee97947a86B06fA4090C8451f64c0be/logo.png"
+}

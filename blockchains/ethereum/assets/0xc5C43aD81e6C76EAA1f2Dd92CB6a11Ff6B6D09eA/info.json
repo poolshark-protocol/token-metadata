@@ -1,0 +1,10 @@
+{
+    "name": "Shiba Cosmos",
+    "symbol": "SHIBCO",
+    "id": "0xc5C43aD81e6C76EAA1f2Dd92CB6a11Ff6B6D09eA",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shiba-cosmos",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc5C43aD81e6C76EAA1f2Dd92CB6a11Ff6B6D09eA/logo.png"
+}

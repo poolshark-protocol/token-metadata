@@ -1,0 +1,10 @@
+{
+    "name": "GUESS",
+    "symbol": "GUESS",
+    "id": "0xBDCFbf5C4D91Abc0bC9709C7286d00063c0e6F22",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/peerguess",
+    "market_cap_rank": 3475,
+    "24_hr_volume_usd": 2.11,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBDCFbf5C4D91Abc0bC9709C7286d00063c0e6F22/logo.png"
+}

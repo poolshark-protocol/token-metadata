@@ -1,0 +1,10 @@
+{
+    "name": "NFTY Token",
+    "symbol": "NFTY",
+    "id": "0xE1D7C7a4596B038CEd2A84bF65B8647271C53208",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nfty-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1016601,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE1D7C7a4596B038CEd2A84bF65B8647271C53208/logo.png"
+}

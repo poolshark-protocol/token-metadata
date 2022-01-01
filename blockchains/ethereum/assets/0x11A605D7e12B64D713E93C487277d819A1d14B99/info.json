@@ -1,0 +1,10 @@
+{
+    "name": "Safe Shield",
+    "symbol": "SFSHLD",
+    "id": "0x11A605D7e12B64D713E93C487277d819A1d14B99",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/safe-shield",
+    "market_cap_rank": 2883,
+    "24_hr_volume_usd": 13232.54,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x11A605D7e12B64D713E93C487277d819A1d14B99/logo.png"
+}

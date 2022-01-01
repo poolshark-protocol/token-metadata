@@ -1,0 +1,10 @@
+{
+    "name": "Zippie",
+    "symbol": "ZIPT",
+    "id": "0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zippie",
+    "market_cap_rank": 2214,
+    "24_hr_volume_usd": 0.00187665,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEDD7c94FD7B4971b916d15067Bc454b9E1bAD980/logo.png"
+}

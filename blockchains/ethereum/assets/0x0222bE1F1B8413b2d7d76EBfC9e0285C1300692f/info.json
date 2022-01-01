@@ -1,0 +1,10 @@
+{
+    "name": "Glox Finance",
+    "symbol": "GLOX",
+    "id": "0x0222bE1F1B8413b2d7d76EBfC9e0285C1300692f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/glox-finance",
+    "market_cap_rank": 3110,
+    "24_hr_volume_usd": 1.69,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0222bE1F1B8413b2d7d76EBfC9e0285C1300692f/logo.png"
+}

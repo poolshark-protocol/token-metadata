@@ -1,0 +1,10 @@
+{
+    "name": "dFund",
+    "symbol": "DFND",
+    "id": "0xd2adC1C84443Ad06f0017aDCa346Bd9b6fc52CaB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dfund",
+    "market_cap_rank": 2480,
+    "24_hr_volume_usd": 17162.67,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd2adC1C84443Ad06f0017aDCa346Bd9b6fc52CaB/logo.png"
+}

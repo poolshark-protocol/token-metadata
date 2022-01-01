@@ -1,0 +1,10 @@
+{
+    "name": "PKG Token",
+    "symbol": "PKG",
+    "id": "0x02F2D4a04E6E01aCE88bD2Cd632875543b2eF577",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pkg-token",
+    "market_cap_rank": 2979,
+    "24_hr_volume_usd": 2784.96,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x02F2D4a04E6E01aCE88bD2Cd632875543b2eF577/logo.png"
+}

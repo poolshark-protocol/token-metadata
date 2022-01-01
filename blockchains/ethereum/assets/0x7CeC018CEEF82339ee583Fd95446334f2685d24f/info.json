@@ -1,0 +1,10 @@
+{
+    "name": "Viral Ethereum",
+    "symbol": "eViral \ud83e\uddec",
+    "id": "0x7CeC018CEEF82339ee583Fd95446334f2685d24f",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/viral-ethereum",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1021.86,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7CeC018CEEF82339ee583Fd95446334f2685d24f/logo.png"
+}

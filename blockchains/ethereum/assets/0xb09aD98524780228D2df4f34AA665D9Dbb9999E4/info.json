@@ -1,0 +1,10 @@
+{
+    "name": "TradCoin",
+    "symbol": "TRADCoin",
+    "id": "0xb09aD98524780228D2df4f34AA665D9Dbb9999E4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tradcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 11.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb09aD98524780228D2df4f34AA665D9Dbb9999E4/logo.png"
+}

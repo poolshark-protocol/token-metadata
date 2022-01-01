@@ -1,0 +1,10 @@
+{
+    "name": "Smart Marketing Token",
+    "symbol": "SMT",
+    "id": "0x76dbCba41e11784BFA95cE30e529fA533C3fA4aD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/smart-marketing-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 179.18,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x76dbCba41e11784BFA95cE30e529fA533C3fA4aD/logo.png"
+}

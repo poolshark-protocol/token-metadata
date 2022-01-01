@@ -1,0 +1,10 @@
+{
+    "name": "Decent.Bet Token",
+    "symbol": "DBET",
+    "id": "0x9b68bFaE21DF5A510931A262CECf63f41338F264",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/decentbet",
+    "market_cap_rank": 3302,
+    "24_hr_volume_usd": 465.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b68bFaE21DF5A510931A262CECf63f41338F264/logo.png"
+}

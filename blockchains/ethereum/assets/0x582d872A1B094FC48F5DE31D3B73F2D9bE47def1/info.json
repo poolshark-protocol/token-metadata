@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped TON Coin",
+    "symbol": "TONCOIN",
+    "id": "0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-open-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3046060,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x582d872A1B094FC48F5DE31D3B73F2D9bE47def1/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Worldpet Token",
+    "symbol": "WPT",
+    "id": "0xe04491D64Eaa464Ec8Fdf53c7a4C92BF5B2278Cd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/worldpet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 68.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe04491D64Eaa464Ec8Fdf53c7a4C92BF5B2278Cd/logo.png"
+}

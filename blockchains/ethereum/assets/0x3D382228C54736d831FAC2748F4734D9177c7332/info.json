@@ -1,0 +1,10 @@
+{
+    "name": "ANIVERSE",
+    "symbol": "ANV",
+    "id": "0x3D382228C54736d831FAC2748F4734D9177c7332",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aniverse",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2826292,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3D382228C54736d831FAC2748F4734D9177c7332/logo.png"
+}

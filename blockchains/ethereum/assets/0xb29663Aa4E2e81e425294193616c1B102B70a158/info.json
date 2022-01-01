@@ -1,0 +1,10 @@
+{
+    "name": "Ludena Protocol",
+    "symbol": "LDN",
+    "id": "0xb29663Aa4E2e81e425294193616c1B102B70a158",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ludena-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 66825,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb29663Aa4E2e81e425294193616c1B102B70a158/logo.png"
+}

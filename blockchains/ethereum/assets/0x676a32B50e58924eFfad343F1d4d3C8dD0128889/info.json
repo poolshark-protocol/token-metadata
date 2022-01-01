@@ -1,0 +1,10 @@
+{
+    "name": "7Plus Coin",
+    "symbol": "SV7",
+    "id": "0x676a32B50e58924eFfad343F1d4d3C8dD0128889",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/7plus-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x676a32B50e58924eFfad343F1d4d3C8dD0128889/logo.png"
+}

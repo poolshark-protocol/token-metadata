@@ -1,0 +1,10 @@
+{
+    "name": "Sandclock",
+    "symbol": "QUARTZ",
+    "id": "0xbA8A621b4a54e61C442F5Ec623687e2a942225ef",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sandclock",
+    "market_cap_rank": 634,
+    "24_hr_volume_usd": 1884244,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbA8A621b4a54e61C442F5Ec623687e2a942225ef/logo.png"
+}

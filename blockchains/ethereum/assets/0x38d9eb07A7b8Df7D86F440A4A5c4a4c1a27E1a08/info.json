@@ -1,0 +1,10 @@
+{
+    "name": "bloXmove Token",
+    "symbol": "BLXM",
+    "id": "0x38d9eb07A7b8Df7D86F440A4A5c4a4c1a27E1a08",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bloxmove-erc20",
+    "market_cap_rank": 1799,
+    "24_hr_volume_usd": 542380,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x38d9eb07A7b8Df7D86F440A4A5c4a4c1a27E1a08/logo.png"
+}

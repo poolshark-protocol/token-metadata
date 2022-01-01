@@ -1,0 +1,10 @@
+{
+    "name": "Winry Inu",
+    "symbol": "WINRY",
+    "id": "0x1a87077C4F834884691B8ba4fc808D2eC93A9F30",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/winry-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 36907,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1a87077C4F834884691B8ba4fc808D2eC93A9F30/logo.png"
+}

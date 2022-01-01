@@ -1,0 +1,10 @@
+{
+    "name": "Blind Boxes Token",
+    "symbol": "BLES",
+    "id": "0xE796d6ca1ceb1b022EcE5296226BF784110031Cd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blind-boxes",
+    "market_cap_rank": 2250,
+    "24_hr_volume_usd": 72498,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE796d6ca1ceb1b022EcE5296226BF784110031Cd/logo.png"
+}

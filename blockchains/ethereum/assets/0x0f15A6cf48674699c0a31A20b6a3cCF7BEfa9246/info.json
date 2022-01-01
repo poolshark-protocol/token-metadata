@@ -1,0 +1,10 @@
+{
+    "name": "Appa Inu",
+    "symbol": "Appa",
+    "id": "0x0f15A6cf48674699c0a31A20b6a3cCF7BEfa9246",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/appa-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 49.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f15A6cf48674699c0a31A20b6a3cCF7BEfa9246/logo.png"
+}

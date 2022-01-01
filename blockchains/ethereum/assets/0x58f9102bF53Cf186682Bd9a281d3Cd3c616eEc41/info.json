@@ -1,0 +1,10 @@
+{
+    "name": "Triall",
+    "symbol": "TRL",
+    "id": "0x58f9102bF53Cf186682Bd9a281d3Cd3c616eEc41",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/triall",
+    "market_cap_rank": 2406,
+    "24_hr_volume_usd": 8557.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x58f9102bF53Cf186682Bd9a281d3Cd3c616eEc41/logo.png"
+}

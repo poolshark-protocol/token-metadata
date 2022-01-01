@@ -1,0 +1,10 @@
+{
+    "name": "GROM",
+    "symbol": "GR",
+    "id": "0xcE593a29905951E8Fc579bC092ecA72577dA575c",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/grom",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcE593a29905951E8Fc579bC092ecA72577dA575c/logo.png"
+}

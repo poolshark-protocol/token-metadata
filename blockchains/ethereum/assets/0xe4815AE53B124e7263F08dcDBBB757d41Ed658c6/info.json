@@ -1,0 +1,10 @@
+{
+    "name": "Zks",
+    "symbol": "ZKS",
+    "id": "0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zkswap",
+    "market_cap_rank": 519,
+    "24_hr_volume_usd": 3425840,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6/logo.png"
+}

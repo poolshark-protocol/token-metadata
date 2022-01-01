@@ -1,0 +1,10 @@
+{
+    "name": "MT Token",
+    "symbol": "MT",
+    "id": "0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mytoken",
+    "market_cap_rank": 3013,
+    "24_hr_volume_usd": 26896,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b4e2B4B13d125238Aa0480dD42B4f6fC71b37CC/logo.png"
+}

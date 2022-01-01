@@ -1,0 +1,10 @@
+{
+    "name": "JDCOIN",
+    "symbol": "JDC",
+    "id": "0x2fe39f22EAC6d3c1C86DD9D143640EbB94609FCE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jd-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 63054,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2fe39f22EAC6d3c1C86DD9D143640EbB94609FCE/logo.png"
+}

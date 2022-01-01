@@ -1,0 +1,10 @@
+{
+    "name": "1X Short BNB Token",
+    "symbol": "BNBHEDGE",
+    "id": "0x2840aD41cf25Ad58303Ba24C416E79dCe4161b4F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/1x-short-bnb-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 26.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2840aD41cf25Ad58303Ba24C416E79dCe4161b4F/logo.png"
+}

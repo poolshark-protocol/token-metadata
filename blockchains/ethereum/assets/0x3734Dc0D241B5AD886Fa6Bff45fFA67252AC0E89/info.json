@@ -1,0 +1,10 @@
+{
+    "name": "Capital Aggregator Token",
+    "symbol": "CAT",
+    "id": "0x3734Dc0D241B5AD886Fa6Bff45fFA67252AC0E89",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/capital-aggregator-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6191.92,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3734Dc0D241B5AD886Fa6Bff45fFA67252AC0E89/logo.png"
+}

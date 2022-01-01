@@ -1,0 +1,10 @@
+{
+    "name": "ETH/BTC Ratio 26 EMA Crossover",
+    "symbol": "ETHBTC26EMACO",
+    "id": "0xB9FfE0b8Ee2d1Af94202FFED366520300748A4d8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eth-btc-ema-ratio-trading-set",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 479.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB9FfE0b8Ee2d1Af94202FFED366520300748A4d8/logo.png"
+}

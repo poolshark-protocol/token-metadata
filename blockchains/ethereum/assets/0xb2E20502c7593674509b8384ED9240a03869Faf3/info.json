@@ -1,0 +1,10 @@
+{
+    "name": "Shiba Ramen",
+    "symbol": "SHIBRAMEN\ud83c\udf5c",
+    "id": "0xb2E20502c7593674509b8384ED9240a03869Faf3",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shiba-ramen",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb2E20502c7593674509b8384ED9240a03869Faf3/logo.png"
+}

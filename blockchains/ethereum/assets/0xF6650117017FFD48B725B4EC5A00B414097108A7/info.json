@@ -1,0 +1,10 @@
+{
+    "name": "XIDO FINANCE",
+    "symbol": "XIDO",
+    "id": "0xF6650117017FFD48B725B4EC5A00B414097108A7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xido-finance",
+    "market_cap_rank": 309,
+    "24_hr_volume_usd": 1861085,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF6650117017FFD48B725B4EC5A00B414097108A7/logo.png"
+}

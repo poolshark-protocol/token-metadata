@@ -1,0 +1,10 @@
+{
+    "name": "ROBOSHIB",
+    "symbol": "ROBOSHIB",
+    "id": "0x0B48a744669767a3478293FD4eECB8fDc5d33CDA",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/roboshib",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 333.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0B48a744669767a3478293FD4eECB8fDc5d33CDA/logo.png"
+}

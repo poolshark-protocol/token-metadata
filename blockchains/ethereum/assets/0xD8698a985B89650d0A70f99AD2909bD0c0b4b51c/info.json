@@ -1,0 +1,10 @@
+{
+    "name": "Consentium Coin",
+    "symbol": "CSM",
+    "id": "0xD8698a985B89650d0A70f99AD2909bD0c0b4b51c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/consentium",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 373.4,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD8698a985B89650d0A70f99AD2909bD0c0b4b51c/logo.png"
+}

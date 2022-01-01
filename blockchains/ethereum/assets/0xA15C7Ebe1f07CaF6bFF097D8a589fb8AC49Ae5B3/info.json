@@ -1,0 +1,11 @@
+{
+    "name": "Pundi X Token",
+    "symbol": "NPXS",
+    "id": "0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pundi-x",
+    "market_cap_rank": 291,
+    "24_hr_volume_usd": 4369.71,
+    "public_notice": "Notice : Token redomination of 1000 NPXS to 1 PUNDIX has taken place.<br> Read more at : https://medium.com/pundix/npxs-will-be-pundix-894c0bde4275",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA15C7Ebe1f07CaF6bFF097D8a589fb8AC49Ae5B3/logo.png"
+}

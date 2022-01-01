@@ -1,0 +1,10 @@
+{
+    "name": "SheBollETH Commerce",
+    "symbol": "SBECOM",
+    "id": "0x888E88E71378133b7ADa5A90c08Bc97D772A0A28",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shebolleth-commerce",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2734.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x888E88E71378133b7ADa5A90c08Bc97D772A0A28/logo.png"
+}

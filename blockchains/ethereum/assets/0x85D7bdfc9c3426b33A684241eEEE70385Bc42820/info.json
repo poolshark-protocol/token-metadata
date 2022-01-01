@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Kadena",
+    "symbol": "WKDA",
+    "id": "0x85D7bdfc9c3426b33A684241eEEE70385Bc42820",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-kadena",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 17670.63,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x85D7bdfc9c3426b33A684241eEEE70385Bc42820/logo.png"
+}

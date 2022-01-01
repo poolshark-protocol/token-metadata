@@ -1,0 +1,10 @@
+{
+    "name": "ETH2SOCKS",
+    "symbol": "ETH2SOCKS",
+    "id": "0xd80776BBF68CDE466900a7214C772A7D179C420F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/etherean-socks",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 959.54,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd80776BBF68CDE466900a7214C772A7D179C420F/logo.png"
+}

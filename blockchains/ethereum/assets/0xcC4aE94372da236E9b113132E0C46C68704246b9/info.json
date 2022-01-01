@@ -1,0 +1,11 @@
+{
+    "name": "TAGBOND",
+    "symbol": "TAG",
+    "id": "0xcC4aE94372da236E9b113132E0C46C68704246b9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tagbond",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Tagcoin ERC-20 has rebranded as Tagbond and expanded to Polygon. Find out more in their Telegram group.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcC4aE94372da236E9b113132E0C46C68704246b9/logo.png"
+}

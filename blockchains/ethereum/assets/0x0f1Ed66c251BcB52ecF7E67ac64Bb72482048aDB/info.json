@@ -1,0 +1,10 @@
+{
+    "name": "SEER-ERC20-Token",
+    "symbol": "SEER",
+    "id": "0x0f1Ed66c251BcB52ecF7E67ac64Bb72482048aDB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/seer",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 67561,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f1Ed66c251BcB52ecF7E67ac64Bb72482048aDB/logo.png"
+}

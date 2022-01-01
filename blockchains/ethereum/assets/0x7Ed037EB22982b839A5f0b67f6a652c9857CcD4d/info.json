@@ -1,0 +1,10 @@
+{
+    "name": "MultiStakeCapital",
+    "symbol": "MSC",
+    "id": "0x7Ed037EB22982b839A5f0b67f6a652c9857CcD4d",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/multi-stake-capital",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.21,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7Ed037EB22982b839A5f0b67f6a652c9857CcD4d/logo.png"
+}

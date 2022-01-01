@@ -1,0 +1,10 @@
+{
+    "name": "Xfinance",
+    "symbol": "XFI",
+    "id": "0x5BEfBB272290dD5b8521D4a938f6c4757742c430",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xfinance",
+    "market_cap_rank": 2152,
+    "24_hr_volume_usd": 5973.48,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5BEfBB272290dD5b8521D4a938f6c4757742c430/logo.png"
+}

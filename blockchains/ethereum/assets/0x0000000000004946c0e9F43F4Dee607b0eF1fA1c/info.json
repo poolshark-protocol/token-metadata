@@ -1,0 +1,10 @@
+{
+    "name": "Chi Gastoken by 1inch",
+    "symbol": "CHI",
+    "id": "0x0000000000004946c0e9F43F4Dee607b0eF1fA1c",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chi-gastoken",
+    "market_cap_rank": 2701,
+    "24_hr_volume_usd": 72155,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0000000000004946c0e9F43F4Dee607b0eF1fA1c/logo.png"
+}

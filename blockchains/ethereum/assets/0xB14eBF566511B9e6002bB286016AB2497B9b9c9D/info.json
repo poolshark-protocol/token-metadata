@@ -1,0 +1,10 @@
+{
+    "name": "Hypersign Identity Token",
+    "symbol": "HID",
+    "id": "0xB14eBF566511B9e6002bB286016AB2497B9b9c9D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hypersign-identity-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 128187,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB14eBF566511B9e6002bB286016AB2497B9b9c9D/logo.png"
+}

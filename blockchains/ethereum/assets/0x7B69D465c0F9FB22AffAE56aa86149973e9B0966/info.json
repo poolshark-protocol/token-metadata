@@ -1,0 +1,10 @@
+{
+    "name": "Protocol Finance",
+    "symbol": "PFI",
+    "id": "0x7B69D465c0F9FB22AffAE56aa86149973e9B0966",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/protocol-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.575026,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7B69D465c0F9FB22AffAE56aa86149973e9B0966/logo.png"
+}

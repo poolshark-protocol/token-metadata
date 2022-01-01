@@ -1,0 +1,10 @@
+{
+    "name": "CryptoTankz",
+    "symbol": "TANKZ",
+    "id": "0xc0dbB6B1Bd7E574Eb45Fc78eCc2aFaD57D9623fE",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptotankz",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc0dbB6B1Bd7E574Eb45Fc78eCc2aFaD57D9623fE/logo.png"
+}

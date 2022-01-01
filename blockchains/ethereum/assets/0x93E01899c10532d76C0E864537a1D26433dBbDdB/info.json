@@ -1,0 +1,10 @@
+{
+    "name": "ETH RSI 60/40 Crossover Set",
+    "symbol": "ETHRSI6040",
+    "id": "0x93E01899c10532d76C0E864537a1D26433dBbDdB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eth-rsi-60-40-crossover-set",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 415.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93E01899c10532d76C0E864537a1D26433dBbDdB/logo.png"
+}

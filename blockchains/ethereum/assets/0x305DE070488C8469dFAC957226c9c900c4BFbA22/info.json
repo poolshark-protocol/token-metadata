@@ -1,0 +1,10 @@
+{
+    "name": "MORE",
+    "symbol": "MORE",
+    "id": "0x305DE070488C8469dFAC957226c9c900c4BFbA22",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/legends-room",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 479.27,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x305DE070488C8469dFAC957226c9c900c4BFbA22/logo.png"
+}

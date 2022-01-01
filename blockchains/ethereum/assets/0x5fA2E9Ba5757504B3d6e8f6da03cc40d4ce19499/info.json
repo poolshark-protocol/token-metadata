@@ -1,0 +1,10 @@
+{
+    "name": "NFT.TECH",
+    "symbol": "NFTT",
+    "id": "0x5fA2E9Ba5757504B3d6e8f6da03cc40d4ce19499",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nft-tech",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 989.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5fA2E9Ba5757504B3d6e8f6da03cc40d4ce19499/logo.png"
+}

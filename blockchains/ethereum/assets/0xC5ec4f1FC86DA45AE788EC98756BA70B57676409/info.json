@@ -1,0 +1,10 @@
+{
+    "name": "OJE Token",
+    "symbol": "OJE",
+    "id": "0xC5ec4f1FC86DA45AE788EC98756BA70B57676409",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/oje-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 409.36,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC5ec4f1FC86DA45AE788EC98756BA70B57676409/logo.png"
+}

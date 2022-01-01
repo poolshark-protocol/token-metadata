@@ -1,0 +1,10 @@
+{
+    "name": "EDDA",
+    "symbol": "EDDA",
+    "id": "0xFbbE9b1142C699512545f47937Ee6fae0e4B0aA9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eddaswap",
+    "market_cap_rank": 1947,
+    "24_hr_volume_usd": 160609,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFbbE9b1142C699512545f47937Ee6fae0e4B0aA9/logo.png"
+}

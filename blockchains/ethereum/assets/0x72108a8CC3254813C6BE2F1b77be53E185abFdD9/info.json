@@ -1,0 +1,11 @@
+{
+    "name": "EraSwap",
+    "symbol": "ES",
+    "id": "0x72108a8CC3254813C6BE2F1b77be53E185abFdD9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/era-swap-token",
+    "market_cap_rank": 818,
+    "24_hr_volume_usd": 343741,
+    "public_notice": "Contract address has been migrated from 0xef1344bdf80bef3ff4428d8becec3eea4a2cf574 to 0x72108a8CC3254813C6BE2F1b77be53E185abFdD9",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72108a8CC3254813C6BE2F1b77be53E185abFdD9/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "TORChain",
+    "symbol": "TOR",
+    "id": "0x4f5f2EEA4ED3485E5e23a39704d5fD9d0A423886",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/torchain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 283.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4f5f2EEA4ED3485E5e23a39704d5fD9d0A423886/logo.png"
+}

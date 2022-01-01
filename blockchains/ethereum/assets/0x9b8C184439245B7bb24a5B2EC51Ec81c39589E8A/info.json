@@ -1,0 +1,10 @@
+{
+    "name": "KIMEX",
+    "symbol": "KMX",
+    "id": "0x9b8C184439245B7bb24a5B2EC51Ec81c39589E8A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kimex",
+    "market_cap_rank": 3411,
+    "24_hr_volume_usd": 1.11,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b8C184439245B7bb24a5B2EC51Ec81c39589E8A/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Digies Coin",
+    "symbol": "DIGS",
+    "id": "0x7333Cbf5B0b843B4129e234f791b0058347F671a",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/digies-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7333Cbf5B0b843B4129e234f791b0058347F671a/logo.png"
+}

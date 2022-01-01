@@ -1,0 +1,10 @@
+{
+    "name": "United States dollar",
+    "symbol": "USDN",
+    "id": "0x4bC831111B480f07b7F74DBE90726f3b11201033",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wenwen-usdn",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4bC831111B480f07b7F74DBE90726f3b11201033/logo.png"
+}

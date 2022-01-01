@@ -1,0 +1,10 @@
+{
+    "name": "libartysharetoken",
+    "symbol": "LST",
+    "id": "0x355376d6471E09A4FfCA8790F50DA625630c5270",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/libartysharetoken",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 202.39,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x355376d6471E09A4FfCA8790F50DA625630c5270/logo.png"
+}

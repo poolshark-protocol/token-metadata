@@ -1,0 +1,10 @@
+{
+    "name": "DEOR",
+    "symbol": "DEOR",
+    "id": "0x63726dAe7C57d25e90ec829ce9a5C745Ffd984d3",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/decentralized-oracle",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 477.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x63726dAe7C57d25e90ec829ce9a5C745Ffd984d3/logo.png"
+}

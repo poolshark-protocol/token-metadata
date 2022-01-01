@@ -1,0 +1,10 @@
+{
+    "name": "Solareum",
+    "symbol": "SLRM",
+    "id": "0x56eE8C9BD1d445a3324ad83E86D8be309Db8f85d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/solareum",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.01020193,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x56eE8C9BD1d445a3324ad83E86D8be309Db8f85d/logo.png"
+}

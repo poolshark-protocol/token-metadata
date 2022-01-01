@@ -1,0 +1,10 @@
+{
+    "name": "Trade Butler Bot",
+    "symbol": "TBB",
+    "id": "0x4A7AdCB083fE5E3d6b58EDc3d260e2E61668e7a2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/trade-butler-bot",
+    "market_cap_rank": 3060,
+    "24_hr_volume_usd": 84.14,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4A7AdCB083fE5E3d6b58EDc3d260e2E61668e7a2/logo.png"
+}

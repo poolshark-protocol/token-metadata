@@ -1,0 +1,10 @@
+{
+    "name": "MemeCoinUniverse",
+    "symbol": "MCU",
+    "id": "0xe0AeE745b22c522DE621F826a9453f534808DFD0",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/memecoinuniverse",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6653.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe0AeE745b22c522DE621F826a9453f534808DFD0/logo.png"
+}

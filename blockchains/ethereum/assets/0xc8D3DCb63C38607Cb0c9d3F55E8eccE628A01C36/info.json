@@ -1,0 +1,10 @@
+{
+    "name": "MatrixSwapToken",
+    "symbol": "MATRIX",
+    "id": "0xc8D3DCb63C38607Cb0c9d3F55E8eccE628A01C36",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/matrixswap",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 15873.29,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc8D3DCb63C38607Cb0c9d3F55E8eccE628A01C36/logo.png"
+}

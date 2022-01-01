@@ -1,0 +1,10 @@
+{
+    "name": "United Doge Finance ",
+    "symbol": "UDOG",
+    "id": "0x4a9D8B8FCe0B6ec033932B13c4e24d24Dc4113cd",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/united-doge-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 241.86,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4a9D8B8FCe0B6ec033932B13c4e24d24Dc4113cd/logo.png"
+}

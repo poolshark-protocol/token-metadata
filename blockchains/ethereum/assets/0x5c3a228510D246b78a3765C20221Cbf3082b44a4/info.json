@@ -1,0 +1,11 @@
+{
+    "name": "Storiqa Token",
+    "symbol": "STQ",
+    "id": "0x5c3a228510D246b78a3765C20221Cbf3082b44a4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/storiqa",
+    "market_cap_rank": 3153,
+    "24_hr_volume_usd": 1.36,
+    "public_notice": "Merger into SWYFT network - https://irishtechnews.ie/swyft-and-stq-merger-update-november-2019/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5c3a228510D246b78a3765C20221Cbf3082b44a4/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Mozik Token",
+    "symbol": "MOZ",
+    "id": "0x7BD82B320EbC28D8EB3C4F5Fa2af7B14dA5b90C3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mozik",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12087.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7BD82B320EbC28D8EB3C4F5Fa2af7B14dA5b90C3/logo.png"
+}

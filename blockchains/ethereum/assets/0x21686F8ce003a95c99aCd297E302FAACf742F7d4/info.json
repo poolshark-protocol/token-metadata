@@ -1,0 +1,10 @@
+{
+    "name": "Conceal - Wrapped CCX ",
+    "symbol": "wCCX",
+    "id": "0x21686F8ce003a95c99aCd297E302FAACf742F7d4",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-conceal",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 561.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x21686F8ce003a95c99aCd297E302FAACf742F7d4/logo.png"
+}

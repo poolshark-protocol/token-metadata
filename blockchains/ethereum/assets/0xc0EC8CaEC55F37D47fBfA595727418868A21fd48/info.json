@@ -1,0 +1,10 @@
+{
+    "name": "EcoG9Coin",
+    "symbol": "EGC",
+    "id": "0xc0EC8CaEC55F37D47fBfA595727418868A21fd48",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ecog9coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 361.48,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc0EC8CaEC55F37D47fBfA595727418868A21fd48/logo.png"
+}

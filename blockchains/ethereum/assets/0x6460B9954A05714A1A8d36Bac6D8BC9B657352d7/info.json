@@ -1,0 +1,10 @@
+{
+    "name": "The Rare Antiquities Token",
+    "symbol": "RAT",
+    "id": "0x6460B9954A05714A1A8d36Bac6D8BC9B657352d7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-rare-antiquities-token",
+    "market_cap_rank": 1796,
+    "24_hr_volume_usd": 17624.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6460B9954A05714A1A8d36Bac6D8BC9B657352d7/logo.png"
+}

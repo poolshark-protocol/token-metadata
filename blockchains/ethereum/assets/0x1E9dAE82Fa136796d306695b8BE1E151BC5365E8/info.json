@@ -1,0 +1,10 @@
+{
+    "name": "Tetsu Inu",
+    "symbol": "TETSU",
+    "id": "0x1E9dAE82Fa136796d306695b8BE1E151BC5365E8",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tetsu-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1E9dAE82Fa136796d306695b8BE1E151BC5365E8/logo.png"
+}

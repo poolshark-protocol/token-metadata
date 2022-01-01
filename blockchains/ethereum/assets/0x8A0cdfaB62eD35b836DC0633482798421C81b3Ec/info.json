@@ -1,0 +1,10 @@
+{
+    "name": "Spherium Token",
+    "symbol": "SPHRI",
+    "id": "0x8A0cdfaB62eD35b836DC0633482798421C81b3Ec",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/spherium",
+    "market_cap_rank": 1906,
+    "24_hr_volume_usd": 18719.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8A0cdfaB62eD35b836DC0633482798421C81b3Ec/logo.png"
+}

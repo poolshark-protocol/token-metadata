@@ -1,0 +1,10 @@
+{
+    "name": "KOK Coin",
+    "symbol": "KOK",
+    "id": "0x7BD6a4E7DB3A34c485A8DD02b30B6565e3bbC633",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kok-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7462040,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7BD6a4E7DB3A34c485A8DD02b30B6565e3bbC633/logo.png"
+}

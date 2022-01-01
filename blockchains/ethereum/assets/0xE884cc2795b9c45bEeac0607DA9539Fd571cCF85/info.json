@@ -1,0 +1,10 @@
+{
+    "name": "Ultiledger",
+    "symbol": "ULT",
+    "id": "0xE884cc2795b9c45bEeac0607DA9539Fd571cCF85",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ultiledger",
+    "market_cap_rank": 834,
+    "24_hr_volume_usd": 38565,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE884cc2795b9c45bEeac0607DA9539Fd571cCF85/logo.png"
+}

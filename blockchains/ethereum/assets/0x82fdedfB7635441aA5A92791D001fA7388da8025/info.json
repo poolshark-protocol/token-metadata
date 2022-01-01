@@ -1,0 +1,10 @@
+{
+    "name": "DigitalTicks",
+    "symbol": "DTX",
+    "id": "0x82fdedfB7635441aA5A92791D001fA7388da8025",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/digital-ticks",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 30744,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x82fdedfB7635441aA5A92791D001fA7388da8025/logo.png"
+}

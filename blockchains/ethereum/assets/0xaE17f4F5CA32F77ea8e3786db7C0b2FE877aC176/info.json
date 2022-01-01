@@ -1,0 +1,10 @@
+{
+    "name": "BCC",
+    "symbol": "BCC",
+    "id": "0xaE17f4F5CA32F77ea8e3786db7C0b2FE877aC176",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/basis-coin-cash",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaE17f4F5CA32F77ea8e3786db7C0b2FE877aC176/logo.png"
+}

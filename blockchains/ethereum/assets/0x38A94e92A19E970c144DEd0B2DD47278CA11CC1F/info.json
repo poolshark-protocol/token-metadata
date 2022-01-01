@@ -1,0 +1,10 @@
+{
+    "name": "Falcon 9",
+    "symbol": "F9",
+    "id": "0x38A94e92A19E970c144DEd0B2DD47278CA11CC1F",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/falcon-nine",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 416834,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x38A94e92A19E970c144DEd0B2DD47278CA11CC1F/logo.png"
+}

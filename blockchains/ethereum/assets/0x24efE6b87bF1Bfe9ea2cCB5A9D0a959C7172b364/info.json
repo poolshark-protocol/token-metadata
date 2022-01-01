@@ -1,0 +1,11 @@
+{
+    "name": "Global AEX Token",
+    "symbol": "GAT",
+    "id": "0x24efE6b87bF1Bfe9ea2cCB5A9D0a959C7172b364",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/global-aex-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 42368175,
+    "public_notice": "GAT exists on both BitShares and Ethereum chain",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x24efE6b87bF1Bfe9ea2cCB5A9D0a959C7172b364/logo.png"
+}

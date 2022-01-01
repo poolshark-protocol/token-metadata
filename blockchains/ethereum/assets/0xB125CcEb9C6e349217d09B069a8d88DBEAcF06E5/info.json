@@ -1,0 +1,10 @@
+{
+    "name": "AnimalHouse",
+    "symbol": "AHouse",
+    "id": "0xB125CcEb9C6e349217d09B069a8d88DBEAcF06E5",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/animal-house",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB125CcEb9C6e349217d09B069a8d88DBEAcF06E5/logo.png"
+}

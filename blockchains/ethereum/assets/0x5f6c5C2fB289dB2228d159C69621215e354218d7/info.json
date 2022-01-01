@@ -1,0 +1,10 @@
+{
+    "name": "Demodyfi Token",
+    "symbol": "DMOD",
+    "id": "0x5f6c5C2fB289dB2228d159C69621215e354218d7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/demodyfi",
+    "market_cap_rank": 2539,
+    "24_hr_volume_usd": 195.79,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5f6c5C2fB289dB2228d159C69621215e354218d7/logo.png"
+}

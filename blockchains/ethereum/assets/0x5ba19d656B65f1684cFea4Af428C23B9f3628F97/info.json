@@ -1,0 +1,10 @@
+{
+    "name": "AAG",
+    "symbol": "AAG",
+    "id": "0x5ba19d656B65f1684cFea4Af428C23B9f3628F97",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aag-ventures",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 91325,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5ba19d656B65f1684cFea4Af428C23B9f3628F97/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Aave AMM Market UniSNXWETH",
+    "symbol": "aAmmUniSNXWETH",
+    "id": "0x38E491A71291CD43E8DE63b7253E482622184894",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-amm-unisnxweth",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x38E491A71291CD43E8DE63b7253E482622184894/logo.png"
+}

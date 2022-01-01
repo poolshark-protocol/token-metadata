@@ -1,0 +1,10 @@
+{
+    "name": "Worldcore",
+    "symbol": "WRC",
+    "id": "0x72aDadb447784dd7AB1F472467750fC485e4cb2d",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/worldcore",
+    "market_cap_rank": 3170,
+    "24_hr_volume_usd": 0.01351474,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72aDadb447784dd7AB1F472467750fC485e4cb2d/logo.png"
+}

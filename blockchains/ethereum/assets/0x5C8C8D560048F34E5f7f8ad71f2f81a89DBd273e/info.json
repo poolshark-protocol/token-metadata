@@ -1,0 +1,10 @@
+{
+    "name": "CryptoArt.Ai",
+    "symbol": "CART",
+    "id": "0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptoart-ai",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 626537,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5C8C8D560048F34E5f7f8ad71f2f81a89DBd273e/logo.png"
+}

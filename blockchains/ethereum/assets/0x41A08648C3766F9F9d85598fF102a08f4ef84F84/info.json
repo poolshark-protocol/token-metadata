@@ -1,0 +1,10 @@
+{
+    "name": "Aave Balance Pool Token",
+    "symbol": "ABPT",
+    "id": "0x41A08648C3766F9F9d85598fF102a08f4ef84F84",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-balancer-pool-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x41A08648C3766F9F9d85598fF102a08f4ef84F84/logo.png"
+}

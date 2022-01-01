@@ -1,0 +1,10 @@
+{
+    "name": "Zebi Coin",
+    "symbol": "ZCO",
+    "id": "0x2008e3057BD734e10AD13c9EAe45Ff132aBc1722",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zebi",
+    "market_cap_rank": 2754,
+    "24_hr_volume_usd": 6449.79,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2008e3057BD734e10AD13c9EAe45Ff132aBc1722/logo.png"
+}

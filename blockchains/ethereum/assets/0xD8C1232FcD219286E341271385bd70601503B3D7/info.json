@@ -1,0 +1,11 @@
+{
+    "name": "Dogira",
+    "symbol": "DOGIRA",
+    "id": "0xD8C1232FcD219286E341271385bd70601503B3D7",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dogira",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 67560,
+    "public_notice": "Dogira has migrated to Polygon Network. Total Supply was rebased to a factor of 1:10 during the contract migration. Read more at: https://dogira-team.medium.com/september-medium-update-fe4a891f8bb9",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD8C1232FcD219286E341271385bd70601503B3D7/logo.png"
+}

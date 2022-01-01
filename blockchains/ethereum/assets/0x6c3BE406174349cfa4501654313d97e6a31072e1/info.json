@@ -1,0 +1,10 @@
+{
+    "name": "Crypto Neo-value Neural System",
+    "symbol": "CNNS",
+    "id": "0x6c3BE406174349cfa4501654313d97e6a31072e1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cnns",
+    "market_cap_rank": 1845,
+    "24_hr_volume_usd": 92285,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6c3BE406174349cfa4501654313d97e6a31072e1/logo.png"
+}

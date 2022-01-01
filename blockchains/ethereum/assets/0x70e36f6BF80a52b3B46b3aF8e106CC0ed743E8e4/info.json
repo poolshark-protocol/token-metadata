@@ -1,0 +1,10 @@
+{
+    "name": "Compound Collateral",
+    "symbol": "cCOMP",
+    "id": "0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ccomp",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 137903,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4/logo.png"
+}

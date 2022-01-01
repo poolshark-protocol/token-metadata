@@ -1,0 +1,10 @@
+{
+    "name": "IBIZA Token",
+    "symbol": "IBZ",
+    "id": "0x5AA7C403c7dE4B3bb0cc07079a03e389671a4771",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ibiza-token",
+    "market_cap_rank": 1473,
+    "24_hr_volume_usd": 1201.89,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5AA7C403c7dE4B3bb0cc07079a03e389671a4771/logo.png"
+}

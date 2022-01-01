@@ -1,0 +1,10 @@
+{
+    "name": "Candela Coin",
+    "symbol": "CLA",
+    "id": "0xF7269a10E85d4aa8282529516cf86847748Da2Bf",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/candela-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 46.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF7269a10E85d4aa8282529516cf86847748Da2Bf/logo.png"
+}

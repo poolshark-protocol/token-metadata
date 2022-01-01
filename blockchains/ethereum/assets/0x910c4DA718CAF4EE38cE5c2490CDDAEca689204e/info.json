@@ -1,0 +1,10 @@
+{
+    "name": "Waste Coin",
+    "symbol": "WaCo",
+    "id": "0x910c4DA718CAF4EE38cE5c2490CDDAEca689204e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/waste-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 55444,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x910c4DA718CAF4EE38cE5c2490CDDAEca689204e/logo.png"
+}

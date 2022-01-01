@@ -1,0 +1,10 @@
+{
+    "name": "EvrynetToken",
+    "symbol": "EVRY",
+    "id": "0xd7DCd9B99787C619b4D57979521258D1A7267ad7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/evrynet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 220586,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd7DCd9B99787C619b4D57979521258D1A7267ad7/logo.png"
+}

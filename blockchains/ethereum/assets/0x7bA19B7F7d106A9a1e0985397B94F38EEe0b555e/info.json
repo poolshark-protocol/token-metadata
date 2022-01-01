@@ -1,0 +1,10 @@
+{
+    "name": "Wixlar",
+    "symbol": "WIX",
+    "id": "0x7bA19B7F7d106A9a1e0985397B94F38EEe0b555e",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wixlar",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00188608,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7bA19B7F7d106A9a1e0985397B94F38EEe0b555e/logo.png"
+}

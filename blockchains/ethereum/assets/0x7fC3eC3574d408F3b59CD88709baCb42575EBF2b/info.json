@@ -1,0 +1,11 @@
+{
+    "name": "POP!",
+    "symbol": "POP!",
+    "id": "0x7fC3eC3574d408F3b59CD88709baCb42575EBF2b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pop",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10199.62,
+    "public_notice": "POP! has redeployed its contract recently. New contract - 0x7fC3eC3574d408F3b59CD88709baCb42575EBF2b. Old contract - 0x98629512Ed2239974e169341be5b920EA4dcdB21. For more information, refer to this announcement https://poptownplatform.medium.com/pop-token-migration-to-v3-92fbbf2614d1",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7fC3eC3574d408F3b59CD88709baCb42575EBF2b/logo.png"
+}

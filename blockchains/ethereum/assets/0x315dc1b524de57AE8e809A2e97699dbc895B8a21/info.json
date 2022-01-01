@@ -1,0 +1,10 @@
+{
+    "name": "PIST TRUST",
+    "symbol": "PIST",
+    "id": "0x315dc1b524de57AE8e809A2e97699dbc895B8a21",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pist-trust",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 157429,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x315dc1b524de57AE8e809A2e97699dbc895B8a21/logo.png"
+}

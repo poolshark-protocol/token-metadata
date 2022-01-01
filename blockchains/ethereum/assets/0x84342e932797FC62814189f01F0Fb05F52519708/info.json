@@ -1,0 +1,10 @@
+{
+    "name": "Neighbourhoods Token",
+    "symbol": "NHT",
+    "id": "0x84342e932797FC62814189f01F0Fb05F52519708",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/neighbourhoods",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5484.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x84342e932797FC62814189f01F0Fb05F52519708/logo.png"
+}

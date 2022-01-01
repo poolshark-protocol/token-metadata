@@ -1,0 +1,10 @@
+{
+    "name": "KNX",
+    "symbol": "KNX",
+    "id": "0xe93a27d4ED64F44a2B356d78C06115e5C9D97DA0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/knoxedge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3782.4,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe93a27d4ED64F44a2B356d78C06115e5C9D97DA0/logo.png"
+}

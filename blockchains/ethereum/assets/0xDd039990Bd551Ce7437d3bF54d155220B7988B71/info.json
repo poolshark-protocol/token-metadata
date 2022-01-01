@@ -1,0 +1,10 @@
+{
+    "name": "Degens Token",
+    "symbol": "DEGENS",
+    "id": "0xDd039990Bd551Ce7437d3bF54d155220B7988B71",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/degens",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4991.77,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDd039990Bd551Ce7437d3bF54d155220B7988B71/logo.png"
+}

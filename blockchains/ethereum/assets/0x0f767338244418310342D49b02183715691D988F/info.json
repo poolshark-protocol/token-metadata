@@ -1,0 +1,10 @@
+{
+    "name": "Genesis",
+    "symbol": "GENT",
+    "id": "0x0f767338244418310342D49b02183715691D988F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/genesis-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 350.82,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f767338244418310342D49b02183715691D988F/logo.png"
+}

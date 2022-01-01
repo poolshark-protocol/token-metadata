@@ -1,0 +1,11 @@
+{
+    "name": "archangel",
+    "symbol": "ARCHA",
+    "id": "0x36E43065e977bC72CB86Dbd8405fae7057CDC7fD",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/archangel-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 38664,
+    "public_notice": "ArchAngel has migrated to the new token contract (0x36e43065e977bc72cb86dbd8405fae7057cdc7fd). For detailed information, please read https://archangeltoken.com/2021/12/15/migrated/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x36E43065e977bC72CB86Dbd8405fae7057CDC7fD/logo.png"
+}

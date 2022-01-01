@@ -1,0 +1,10 @@
+{
+    "name": "Adventure Inu",
+    "symbol": "ADINU",
+    "id": "0x2F9f363685fFecc8d7BEd0486d8C2b21232BDC5a",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/adventure-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2F9f363685fFecc8d7BEd0486d8C2b21232BDC5a/logo.png"
+}

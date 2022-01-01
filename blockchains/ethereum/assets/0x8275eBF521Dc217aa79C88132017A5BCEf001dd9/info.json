@@ -1,0 +1,10 @@
+{
+    "name": "Jewel",
+    "symbol": "JWL",
+    "id": "0x8275eBF521Dc217aa79C88132017A5BCEf001dd9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jewel",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 781.81,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8275eBF521Dc217aa79C88132017A5BCEf001dd9/logo.png"
+}

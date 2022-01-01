@@ -1,0 +1,10 @@
+{
+    "name": "GoldexToken",
+    "symbol": "GLDX",
+    "id": "0xC631120155621Ee625835ec810B9885cDd764cd6",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/goldex-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 126296,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC631120155621Ee625835ec810B9885cDd764cd6/logo.png"
+}

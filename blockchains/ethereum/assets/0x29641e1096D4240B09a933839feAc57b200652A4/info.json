@@ -1,0 +1,10 @@
+{
+    "name": "BIOP",
+    "symbol": "BIOP",
+    "id": "0x29641e1096D4240B09a933839feAc57b200652A4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/biopset",
+    "market_cap_rank": 3405,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x29641e1096D4240B09a933839feAc57b200652A4/logo.png"
+}

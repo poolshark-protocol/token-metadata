@@ -1,0 +1,10 @@
+{
+    "name": "APE STAX",
+    "symbol": "ASTAX \ud83e\udd8d",
+    "id": "0x0f8C793DbC30A185138d5Da00f106290B26E36C5",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ape-stax",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f8C793DbC30A185138d5Da00f106290B26E36C5/logo.png"
+}

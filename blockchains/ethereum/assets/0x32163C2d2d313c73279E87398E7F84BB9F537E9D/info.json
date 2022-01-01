@@ -1,0 +1,11 @@
+{
+    "name": "ETOR",
+    "symbol": "ETOR",
+    "id": "0x32163C2d2d313c73279E87398E7F84BB9F537E9D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/etor",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.84,
+    "public_notice": "Contract address has changed from 0x1d8f5b2bd72a7db787e4f42cce6be8474389353d to 0x32163c2d2d313c73279e87398e7f84bb9f537e9d",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x32163C2d2d313c73279E87398E7F84BB9F537E9D/logo.png"
+}

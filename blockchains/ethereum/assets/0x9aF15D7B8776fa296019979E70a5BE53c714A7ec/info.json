@@ -1,0 +1,10 @@
+{
+    "name": "Evn Token",
+    "symbol": "EVN",
+    "id": "0x9aF15D7B8776fa296019979E70a5BE53c714A7ec",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/evolution-finance",
+    "market_cap_rank": 1042,
+    "24_hr_volume_usd": 37673,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9aF15D7B8776fa296019979E70a5BE53c714A7ec/logo.png"
+}

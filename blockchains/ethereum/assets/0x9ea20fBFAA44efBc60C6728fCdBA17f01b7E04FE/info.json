@@ -1,0 +1,10 @@
+{
+    "name": "Torex",
+    "symbol": "TOR",
+    "id": "0x9ea20fBFAA44efBc60C6728fCdBA17f01b7E04FE",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/torex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 21.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9ea20fBFAA44efBc60C6728fCdBA17f01b7E04FE/logo.png"
+}

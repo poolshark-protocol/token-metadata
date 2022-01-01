@@ -1,0 +1,10 @@
+{
+    "name": "SaitamaX",
+    "symbol": "SaitaX",
+    "id": "0xC795fBa221f7920F1C6ac0f1598886742D8Ea661",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/saitamax",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1515.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC795fBa221f7920F1C6ac0f1598886742D8Ea661/logo.png"
+}

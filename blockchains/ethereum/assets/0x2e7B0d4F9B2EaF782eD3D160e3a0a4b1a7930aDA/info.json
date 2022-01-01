@@ -1,0 +1,10 @@
+{
+    "name": "Ceres",
+    "symbol": "CERES",
+    "id": "0x2e7B0d4F9B2EaF782eD3D160e3a0a4b1a7930aDA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ceres",
+    "market_cap_rank": 1660,
+    "24_hr_volume_usd": 287410,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2e7B0d4F9B2EaF782eD3D160e3a0a4b1a7930aDA/logo.png"
+}

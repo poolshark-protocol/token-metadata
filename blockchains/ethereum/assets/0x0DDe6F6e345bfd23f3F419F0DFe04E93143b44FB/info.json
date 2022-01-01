@@ -1,0 +1,10 @@
+{
+    "name": "SOTA",
+    "symbol": "SOTA",
+    "id": "0x0DDe6F6e345bfd23f3F419F0DFe04E93143b44FB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sota-finance",
+    "market_cap_rank": 2905,
+    "24_hr_volume_usd": 3435.89,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0DDe6F6e345bfd23f3F419F0DFe04E93143b44FB/logo.png"
+}

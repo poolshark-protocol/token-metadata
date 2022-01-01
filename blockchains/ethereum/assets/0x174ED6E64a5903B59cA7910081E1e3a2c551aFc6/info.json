@@ -1,0 +1,10 @@
+{
+    "name": "SpaceBalls",
+    "symbol": "Balls",
+    "id": "0x174ED6E64a5903B59cA7910081E1e3a2c551aFc6",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/spaceballs",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 313.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x174ED6E64a5903B59cA7910081E1e3a2c551aFc6/logo.png"
+}

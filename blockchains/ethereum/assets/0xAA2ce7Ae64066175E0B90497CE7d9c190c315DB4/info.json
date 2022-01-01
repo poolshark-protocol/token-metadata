@@ -1,0 +1,11 @@
+{
+    "name": "Suterusu",
+    "symbol": "Suter",
+    "id": "0xAA2ce7Ae64066175E0B90497CE7d9c190c315DB4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/suterusu",
+    "market_cap_rank": 945,
+    "24_hr_volume_usd": 990326,
+    "public_notice": "SUTER went to a hardfork and migrated their contract address from 0xba8c0244fbdeb10f19f6738750daeedf7a5081eb to 0xAA2ce7Ae64066175E0B90497CE7d9c190c315DB4. See https://twitter.com/suterusu_io/status/1316316042956664832",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAA2ce7Ae64066175E0B90497CE7d9c190c315DB4/logo.png"
+}

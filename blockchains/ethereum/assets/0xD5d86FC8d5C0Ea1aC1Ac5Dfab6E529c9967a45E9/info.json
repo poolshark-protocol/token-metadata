@@ -1,0 +1,10 @@
+{
+    "name": "NFT Worlds",
+    "symbol": "WRLD",
+    "id": "0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nft-worlds",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 575309,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9/logo.png"
+}

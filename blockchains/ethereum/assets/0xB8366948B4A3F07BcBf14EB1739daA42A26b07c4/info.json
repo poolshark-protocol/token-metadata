@@ -1,0 +1,10 @@
+{
+    "name": "VALOBIT",
+    "symbol": "VBIT",
+    "id": "0xB8366948B4A3F07BcBf14EB1739daA42A26b07c4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/valobit",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 112242,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB8366948B4A3F07BcBf14EB1739daA42A26b07c4/logo.png"
+}

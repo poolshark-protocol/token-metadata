@@ -1,0 +1,10 @@
+{
+    "name": "Efficient Transaction Token",
+    "symbol": "ETT",
+    "id": "0x1212b68d8555Cf0B08f3371b926b3E1148B520F1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/efficient-transaction-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1212b68d8555Cf0B08f3371b926b3E1148B520F1/logo.png"
+}

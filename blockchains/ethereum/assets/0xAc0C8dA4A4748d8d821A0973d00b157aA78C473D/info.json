@@ -1,0 +1,10 @@
+{
+    "name": "YFIONE",
+    "symbol": "YFO",
+    "id": "0xAc0C8dA4A4748d8d821A0973d00b157aA78C473D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfione",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 236850,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAc0C8dA4A4748d8d821A0973d00b157aA78C473D/logo.png"
+}

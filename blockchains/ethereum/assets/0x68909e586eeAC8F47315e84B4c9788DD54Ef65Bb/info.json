@@ -1,0 +1,10 @@
+{
+    "name": "EvenCoin",
+    "symbol": "EVN",
+    "id": "0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/evencoin",
+    "market_cap_rank": 3371,
+    "24_hr_volume_usd": 5481.82,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb/logo.png"
+}

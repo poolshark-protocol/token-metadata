@@ -1,0 +1,10 @@
+{
+    "name": "New Energy",
+    "symbol": "NSS",
+    "id": "0x4E3Bddd468AbfC6C88bc25dAA5d894380CEd5bc8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nss-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 83535,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4E3Bddd468AbfC6C88bc25dAA5d894380CEd5bc8/logo.png"
+}

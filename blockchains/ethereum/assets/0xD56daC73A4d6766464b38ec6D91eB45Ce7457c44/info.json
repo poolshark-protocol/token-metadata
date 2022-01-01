@@ -1,0 +1,10 @@
+{
+    "name": "Panvala pan",
+    "symbol": "PAN",
+    "id": "0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/panvala-pan",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD56daC73A4d6766464b38ec6D91eB45Ce7457c44/logo.png"
+}

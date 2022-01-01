@@ -1,0 +1,10 @@
+{
+    "name": "Va Na Su",
+    "symbol": "VNS",
+    "id": "0x97941Ff1962026955852E9609E202D1058BC0f48",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/va-na-su",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 90059,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x97941Ff1962026955852E9609E202D1058BC0f48/logo.png"
+}

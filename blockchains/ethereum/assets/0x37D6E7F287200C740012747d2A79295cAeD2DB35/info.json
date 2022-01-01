@@ -1,0 +1,10 @@
+{
+    "name": "ALP Coin",
+    "symbol": "ALP",
+    "id": "0x37D6E7F287200C740012747d2A79295cAeD2DB35",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alp-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10.02,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37D6E7F287200C740012747d2A79295cAeD2DB35/logo.png"
+}

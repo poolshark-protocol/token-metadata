@@ -1,0 +1,10 @@
+{
+    "name": "KStarCoin",
+    "symbol": "KSC",
+    "id": "0x990E081A7B7d3Ccba26a2f49746A68CC4fF73280",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kstarcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10158063,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x990E081A7B7d3Ccba26a2f49746A68CC4fF73280/logo.png"
+}

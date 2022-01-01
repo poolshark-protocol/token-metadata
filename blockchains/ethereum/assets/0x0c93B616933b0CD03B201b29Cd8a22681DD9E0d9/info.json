@@ -1,0 +1,10 @@
+{
+    "name": "HGOLD",
+    "symbol": "HGOLD",
+    "id": "0x0c93B616933b0CD03B201b29Cd8a22681DD9E0d9",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hollygold",
+    "market_cap_rank": 1776,
+    "24_hr_volume_usd": 33507,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0c93B616933b0CD03B201b29Cd8a22681DD9E0d9/logo.png"
+}

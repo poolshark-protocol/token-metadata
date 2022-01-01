@@ -1,0 +1,10 @@
+{
+    "name": "Oviex.com Token",
+    "symbol": "OVI",
+    "id": "0x6B3760FACDEb7F798Cd13c0aF2e4cd9dDc085122",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/oviex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8.15,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6B3760FACDEb7F798Cd13c0aF2e4cd9dDc085122/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "FomoETH",
+    "symbol": "FomoETH",
+    "id": "0x8A65B987D9813f0a97446eDa0dE918b2573Ae406",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fomoeth",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 128583,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8A65B987D9813f0a97446eDa0dE918b2573Ae406/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "I Bet You",
+    "symbol": "IBY",
+    "id": "0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ibetyou",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 346.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B/logo.png"
+}

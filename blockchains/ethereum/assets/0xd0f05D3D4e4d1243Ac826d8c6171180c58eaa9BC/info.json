@@ -1,0 +1,10 @@
+{
+    "name": "Value Network Token",
+    "symbol": "VNTW",
+    "id": "0xd0f05D3D4e4d1243Ac826d8c6171180c58eaa9BC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/value-network-token",
+    "market_cap_rank": 2367,
+    "24_hr_volume_usd": 5367.53,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd0f05D3D4e4d1243Ac826d8c6171180c58eaa9BC/logo.png"
+}

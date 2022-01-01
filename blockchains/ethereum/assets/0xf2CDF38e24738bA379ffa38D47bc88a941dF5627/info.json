@@ -1,0 +1,10 @@
+{
+    "name": "ALLY",
+    "symbol": "ALY",
+    "id": "0xf2CDF38e24738bA379ffa38D47bc88a941dF5627",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ally",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 55598,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf2CDF38e24738bA379ffa38D47bc88a941dF5627/logo.png"
+}

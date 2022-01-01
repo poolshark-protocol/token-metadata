@@ -1,0 +1,11 @@
+{
+    "name": "PYLNT",
+    "symbol": "PYLNT",
+    "id": "0xD8924385CD46e6AF6F377871C732BDe2F8e9dD18",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pylon-network",
+    "market_cap_rank": 2864,
+    "24_hr_volume_usd": 0.671517,
+    "public_notice": "Notice : Pylon has changed its smart contract from 0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e to 0xd8924385cd46e6af6f377871c732bde2f8e9dd18",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD8924385CD46e6AF6F377871C732BDe2F8e9dD18/logo.png"
+}

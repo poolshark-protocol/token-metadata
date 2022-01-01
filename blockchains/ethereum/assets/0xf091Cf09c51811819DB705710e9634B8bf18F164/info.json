@@ -1,0 +1,10 @@
+{
+    "name": "Couchain",
+    "symbol": "COU",
+    "id": "0xf091Cf09c51811819DB705710e9634B8bf18F164",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/couchain",
+    "market_cap_rank": 3402,
+    "24_hr_volume_usd": 875.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf091Cf09c51811819DB705710e9634B8bf18F164/logo.png"
+}

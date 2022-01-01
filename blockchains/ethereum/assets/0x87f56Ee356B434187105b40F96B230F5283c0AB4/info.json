@@ -1,0 +1,10 @@
+{
+    "name": "PITCH",
+    "symbol": "PITCH",
+    "id": "0x87f56Ee356B434187105b40F96B230F5283c0AB4",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pitch",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.35,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87f56Ee356B434187105b40F96B230F5283c0AB4/logo.png"
+}

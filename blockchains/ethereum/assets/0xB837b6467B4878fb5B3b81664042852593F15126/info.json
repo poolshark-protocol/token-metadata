@@ -1,0 +1,10 @@
+{
+    "name": "BitValve",
+    "symbol": "BTV",
+    "id": "0xB837b6467B4878fb5B3b81664042852593F15126",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitvalve-2",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12.54,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB837b6467B4878fb5B3b81664042852593F15126/logo.png"
+}

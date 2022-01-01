@@ -1,0 +1,10 @@
+{
+    "name": "Kitsune Inu",
+    "symbol": "KITSU",
+    "id": "0x6D645193001e674e62aAa0eaC5d56E4D21BBCCeF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kitsune-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 537.69,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6D645193001e674e62aAa0eaC5d56E4D21BBCCeF/logo.png"
+}

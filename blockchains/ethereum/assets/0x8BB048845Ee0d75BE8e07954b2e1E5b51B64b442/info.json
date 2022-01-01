@@ -1,0 +1,10 @@
+{
+    "name": "Kaiba Inu",
+    "symbol": "KAIBA",
+    "id": "0x8BB048845Ee0d75BE8e07954b2e1E5b51B64b442",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kaiba-inu",
+    "market_cap_rank": 2047,
+    "24_hr_volume_usd": 22372,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8BB048845Ee0d75BE8e07954b2e1E5b51B64b442/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "yRise.Finance",
+    "symbol": "yRise",
+    "id": "0x6051C1354Ccc51b4d561e43b02735DEaE64768B8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yrise-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8999.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6051C1354Ccc51b4d561e43b02735DEaE64768B8/logo.png"
+}

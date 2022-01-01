@@ -1,0 +1,10 @@
+{
+    "name": "NFT WARS",
+    "symbol": "WAR",
+    "id": "0x4d75D9e37667a2d4677Ec3d74bDD9049326Ad8d6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nft-wars",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 686.19,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4d75D9e37667a2d4677Ec3d74bDD9049326Ad8d6/logo.png"
+}

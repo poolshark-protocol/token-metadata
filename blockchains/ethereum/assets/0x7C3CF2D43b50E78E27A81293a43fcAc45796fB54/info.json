@@ -1,0 +1,10 @@
+{
+    "name": "kongdefi.finance",
+    "symbol": "KONG",
+    "id": "0x7C3CF2D43b50E78E27A81293a43fcAc45796fB54",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kong-defi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7C3CF2D43b50E78E27A81293a43fcAc45796fB54/logo.png"
+}

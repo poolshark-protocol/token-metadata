@@ -1,0 +1,10 @@
+{
+    "name": "CVNToken",
+    "symbol": "CVNT",
+    "id": "0x6400B5522f8D448C0803e6245436DD1c81dF09ce",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/content-value-network",
+    "market_cap_rank": 889,
+    "24_hr_volume_usd": 156929,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6400B5522f8D448C0803e6245436DD1c81dF09ce/logo.png"
+}

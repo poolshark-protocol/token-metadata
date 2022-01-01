@@ -1,0 +1,10 @@
+{
+    "name": "RapDoge",
+    "symbol": "RAPDOGE",
+    "id": "0xD8dae35B487E3453CFFD998c6754713c81B0f200",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rapdoge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD8dae35B487E3453CFFD998c6754713c81B0f200/logo.png"
+}

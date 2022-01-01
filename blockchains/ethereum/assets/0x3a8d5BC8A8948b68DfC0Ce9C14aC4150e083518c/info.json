@@ -1,0 +1,10 @@
+{
+    "name": "Paralink Network",
+    "symbol": "PARA",
+    "id": "0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/paralink-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 37959,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3a8d5BC8A8948b68DfC0Ce9C14aC4150e083518c/logo.png"
+}

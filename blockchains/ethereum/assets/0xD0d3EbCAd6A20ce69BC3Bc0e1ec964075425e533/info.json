@@ -1,0 +1,10 @@
+{
+    "name": "Ethereum Stake",
+    "symbol": "ETHYS",
+    "id": "0xD0d3EbCAd6A20ce69BC3Bc0e1ec964075425e533",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-stake",
+    "market_cap_rank": 2853,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD0d3EbCAd6A20ce69BC3Bc0e1ec964075425e533/logo.png"
+}

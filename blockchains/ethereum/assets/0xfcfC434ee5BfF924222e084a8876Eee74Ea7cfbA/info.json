@@ -1,0 +1,10 @@
+{
+    "name": "Rebasing Liquidity Token - DELTA.financial",
+    "symbol": "DELTA rLP",
+    "id": "0xfcfC434ee5BfF924222e084a8876Eee74Ea7cfbA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rebasing-liquidity",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 20262,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfcfC434ee5BfF924222e084a8876Eee74Ea7cfbA/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Governance OHM",
+    "symbol": "gOHM",
+    "id": "0x0ab87046fBb341D058F17CBC4c1133F25a20a52f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/governance-ohm",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7938206,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0ab87046fBb341D058F17CBC4c1133F25a20a52f/logo.png"
+}

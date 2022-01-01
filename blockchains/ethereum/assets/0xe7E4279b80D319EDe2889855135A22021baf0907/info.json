@@ -1,0 +1,10 @@
+{
+    "name": "ZeusNetwork",
+    "symbol": "ZEUS",
+    "id": "0xe7E4279b80D319EDe2889855135A22021baf0907",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zuescrowdfunding",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.39,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe7E4279b80D319EDe2889855135A22021baf0907/logo.png"
+}

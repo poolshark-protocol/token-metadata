@@ -1,0 +1,10 @@
+{
+    "name": "VENT",
+    "symbol": "VENT",
+    "id": "0x5F0bc16D50F72d10b719dBF6845DE2E599eb5624",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vent-finance",
+    "market_cap_rank": 973,
+    "24_hr_volume_usd": 189941,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5F0bc16D50F72d10b719dBF6845DE2E599eb5624/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "CrystalToken",
+    "symbol": "CYL",
+    "id": "0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crystal-token",
+    "market_cap_rank": 3145,
+    "24_hr_volume_usd": 170320,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47/logo.png"
+}

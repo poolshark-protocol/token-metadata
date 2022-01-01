@@ -1,0 +1,10 @@
+{
+    "name": "ShieldEX",
+    "symbol": "SLD",
+    "id": "0x1ef6A7e2c966fb7C5403EFEFdE38338b1a95a084",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shield-dao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13508.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1ef6A7e2c966fb7C5403EFEFdE38338b1a95a084/logo.png"
+}

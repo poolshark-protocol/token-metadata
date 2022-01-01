@@ -1,0 +1,10 @@
+{
+    "name": "Mondo Community Coin",
+    "symbol": "MNDCC",
+    "id": "0xCDb9D30a3BA48CdfCB0EcbE19317E6cf783672f1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mondo-community-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 665.09,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCDb9D30a3BA48CdfCB0EcbE19317E6cf783672f1/logo.png"
+}

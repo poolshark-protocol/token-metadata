@@ -1,0 +1,10 @@
+{
+    "name": "Robo Token",
+    "symbol": "ROBO",
+    "id": "0x6FC2f1044A3b9bB3e43A43EC8F840843Ed753061",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/robo-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 662.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6FC2f1044A3b9bB3e43A43EC8F840843Ed753061/logo.png"
+}

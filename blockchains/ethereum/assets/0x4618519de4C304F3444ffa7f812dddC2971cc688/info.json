@@ -1,0 +1,10 @@
+{
+    "name": "Kind Ads Token",
+    "symbol": "KIND",
+    "id": "0x4618519de4C304F3444ffa7f812dddC2971cc688",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kind-ads-token",
+    "market_cap_rank": 3347,
+    "24_hr_volume_usd": 20.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4618519de4C304F3444ffa7f812dddC2971cc688/logo.png"
+}

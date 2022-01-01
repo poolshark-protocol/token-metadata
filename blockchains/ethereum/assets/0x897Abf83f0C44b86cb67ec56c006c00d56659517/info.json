@@ -1,0 +1,10 @@
+{
+    "name": "Arteon",
+    "symbol": "ARTEON",
+    "id": "0x897Abf83f0C44b86cb67ec56c006c00d56659517",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arteon",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x897Abf83f0C44b86cb67ec56c006c00d56659517/logo.png"
+}

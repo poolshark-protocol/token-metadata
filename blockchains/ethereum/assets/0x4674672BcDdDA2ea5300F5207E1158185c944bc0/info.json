@@ -1,0 +1,11 @@
+{
+    "name": "Gem Exchange and Trading",
+    "symbol": "GXT",
+    "id": "0x4674672BcDdDA2ea5300F5207E1158185c944bc0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gem-exchange-and-trading",
+    "market_cap_rank": 794,
+    "24_hr_volume_usd": 10001534,
+    "public_notice": "Gem Exchange And Trading has migrated from the <a href=\"https://etherscan.io/token/0x28d3E409bb9bC58F1ca6E009f8fC78A1db85e6b7\">old contract</a> to a <a href=\"https://etherscan.io/token/0x4674672bcddda2ea5300f5207e1158185c944bc0\">new one</a>. Read more at their <a href=\"https://twitter.com/GXT25075644/status/1458320034560757765\">Twitter</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4674672BcDdDA2ea5300F5207E1158185c944bc0/logo.png"
+}

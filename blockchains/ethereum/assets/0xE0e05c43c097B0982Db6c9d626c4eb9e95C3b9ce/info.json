@@ -1,0 +1,10 @@
+{
+    "name": "Unslashed Finance Governance Token",
+    "symbol": "USF",
+    "id": "0xE0e05c43c097B0982Db6c9d626c4eb9e95C3b9ce",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unslashed-finance",
+    "market_cap_rank": 1549,
+    "24_hr_volume_usd": 120092,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE0e05c43c097B0982Db6c9d626c4eb9e95C3b9ce/logo.png"
+}

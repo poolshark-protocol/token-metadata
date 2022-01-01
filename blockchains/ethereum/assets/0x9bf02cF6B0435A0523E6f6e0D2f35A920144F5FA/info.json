@@ -1,0 +1,10 @@
+{
+    "name": "DeFi11",
+    "symbol": "D11",
+    "id": "0x9bf02cF6B0435A0523E6f6e0D2f35A920144F5FA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defi11",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 117226,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9bf02cF6B0435A0523E6f6e0D2f35A920144F5FA/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "SMSCodes",
+    "symbol": "SMSCT",
+    "id": "0x668f7dfb8c8D716839fa5dBEa317D8723Ebe6110",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/smscodes",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.44,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x668f7dfb8c8D716839fa5dBEa317D8723Ebe6110/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "SATOPAY YIELD",
+    "symbol": "SPY",
+    "id": "0xe4883Bcb919386Bb5f48EF59B7C31C1D93A51A57",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/satopay-yield-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 107.39,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe4883Bcb919386Bb5f48EF59B7C31C1D93A51A57/logo.png"
+}

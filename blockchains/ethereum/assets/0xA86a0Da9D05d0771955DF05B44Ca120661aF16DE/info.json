@@ -1,0 +1,10 @@
+{
+    "name": "OTCBTC Token",
+    "symbol": "OTB",
+    "id": "0xA86a0Da9D05d0771955DF05B44Ca120661aF16DE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/otcbtc-token",
+    "market_cap_rank": 2502,
+    "24_hr_volume_usd": 8700.95,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA86a0Da9D05d0771955DF05B44Ca120661aF16DE/logo.png"
+}

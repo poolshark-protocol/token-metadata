@@ -1,0 +1,10 @@
+{
+    "name": "Aave AMM Market DAI",
+    "symbol": "aAmmDAI",
+    "id": "0x79bE75FFC64DD58e66787E4Eae470c8a1FD08ba4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-amm-dai",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x79bE75FFC64DD58e66787E4Eae470c8a1FD08ba4/logo.png"
+}

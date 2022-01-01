@@ -1,0 +1,10 @@
+{
+    "name": "Lotto Nation Token",
+    "symbol": "LNT",
+    "id": "0x3a73F6156C4fBC71B8fDF38090A9D99401163644",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lottonation",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 14.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3a73F6156C4fBC71B8fDF38090A9D99401163644/logo.png"
+}

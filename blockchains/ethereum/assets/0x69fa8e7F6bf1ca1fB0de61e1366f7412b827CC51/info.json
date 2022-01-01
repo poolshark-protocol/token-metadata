@@ -1,0 +1,10 @@
+{
+    "name": "EnreachDAO",
+    "symbol": "NRCH",
+    "id": "0x69fa8e7F6bf1ca1fB0de61e1366f7412b827CC51",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/enreachdao",
+    "market_cap_rank": 1416,
+    "24_hr_volume_usd": 1095.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69fa8e7F6bf1ca1fB0de61e1366f7412b827CC51/logo.png"
+}

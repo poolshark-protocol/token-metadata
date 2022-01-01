@@ -1,0 +1,10 @@
+{
+    "name": "BLOCKMASON LINK TOKEN",
+    "symbol": "BLINK",
+    "id": "0x42BEdD647E387daBeC65A7dc3A3bAbCc68BB664d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blockmason-link",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1536.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x42BEdD647E387daBeC65A7dc3A3bAbCc68BB664d/logo.png"
+}

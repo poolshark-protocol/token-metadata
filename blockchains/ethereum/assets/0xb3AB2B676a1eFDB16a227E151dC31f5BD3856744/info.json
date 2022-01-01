@@ -1,0 +1,10 @@
+{
+    "name": "CRIPTORO COIN",
+    "symbol": "CTRO",
+    "id": "0xb3AB2B676a1eFDB16a227E151dC31f5BD3856744",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/criptoro-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 39.11,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb3AB2B676a1eFDB16a227E151dC31f5BD3856744/logo.png"
+}

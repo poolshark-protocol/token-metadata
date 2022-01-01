@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped ETHO",
+    "symbol": "ETHO",
+    "id": "0x99676c9fA4c77848aEb2383fCFbD7e980dC25027",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ether-1",
+    "market_cap_rank": 1676,
+    "24_hr_volume_usd": 324747,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x99676c9fA4c77848aEb2383fCFbD7e980dC25027/logo.png"
+}

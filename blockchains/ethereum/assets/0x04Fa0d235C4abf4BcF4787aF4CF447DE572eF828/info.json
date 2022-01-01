@@ -1,0 +1,10 @@
+{
+    "name": "UMA Voting Token v1",
+    "symbol": "UMA",
+    "id": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/uma",
+    "market_cap_rank": 164,
+    "24_hr_volume_usd": 22243348,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
+}

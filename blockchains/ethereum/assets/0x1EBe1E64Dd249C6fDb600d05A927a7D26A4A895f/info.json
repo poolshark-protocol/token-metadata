@@ -1,0 +1,10 @@
+{
+    "name": "Ethereum Supreme",
+    "symbol": "eSUPREME",
+    "id": "0x1EBe1E64Dd249C6fDb600d05A927a7D26A4A895f",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-supreme",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1EBe1E64Dd249C6fDb600d05A927a7D26A4A895f/logo.png"
+}

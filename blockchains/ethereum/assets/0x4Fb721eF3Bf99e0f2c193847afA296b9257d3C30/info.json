@@ -1,0 +1,10 @@
+{
+    "name": "TOK",
+    "symbol": "TOK",
+    "id": "0x4Fb721eF3Bf99e0f2c193847afA296b9257d3C30",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tokenplace",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2725918,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Fb721eF3Bf99e0f2c193847afA296b9257d3C30/logo.png"
+}

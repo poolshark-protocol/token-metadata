@@ -1,0 +1,10 @@
+{
+    "name": "TacoToken",
+    "symbol": "TACO",
+    "id": "0x41C028a4C1F461eBFC3af91619b240004ebAD216",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tacotoken",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x41C028a4C1F461eBFC3af91619b240004ebAD216/logo.png"
+}

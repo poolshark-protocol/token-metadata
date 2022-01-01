@@ -1,0 +1,10 @@
+{
+    "name": "Centralex Token",
+    "symbol": "CenX",
+    "id": "0x504cDe95dBC5d90d09B802F43B371971adbEcf79",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/centralex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1875.2,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x504cDe95dBC5d90d09B802F43B371971adbEcf79/logo.png"
+}

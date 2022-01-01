@@ -1,0 +1,10 @@
+{
+    "name": "Oms",
+    "symbol": "OMS",
+    "id": "0x3d1e3C5f658D74c585267350cac22Fd44e8D951c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/open-monetary-system",
+    "market_cap_rank": 1979,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3d1e3C5f658D74c585267350cac22Fd44e8D951c/logo.png"
+}

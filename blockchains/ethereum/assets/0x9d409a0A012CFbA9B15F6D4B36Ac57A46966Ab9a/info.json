@@ -1,0 +1,10 @@
+{
+    "name": "Yearn Compounding veCRV yVault",
+    "symbol": "yvBOOST",
+    "id": "0x9d409a0A012CFbA9B15F6D4B36Ac57A46966Ab9a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yvboost",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 113344,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d409a0A012CFbA9B15F6D4B36Ac57A46966Ab9a/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "UniDex",
+    "symbol": "UNIDX",
+    "id": "0x95b3497bBcCcc46a8F45F5Cf54b0878b39f8D96C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unidex",
+    "market_cap_rank": 1558,
+    "24_hr_volume_usd": 18788.39,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95b3497bBcCcc46a8F45F5Cf54b0878b39f8D96C/logo.png"
+}

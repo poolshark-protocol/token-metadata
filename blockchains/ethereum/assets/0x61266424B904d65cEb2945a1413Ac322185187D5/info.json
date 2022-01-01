@@ -1,0 +1,10 @@
+{
+    "name": "YFIDapp",
+    "symbol": "YFID",
+    "id": "0x61266424B904d65cEb2945a1413Ac322185187D5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfidapp",
+    "market_cap_rank": 3462,
+    "24_hr_volume_usd": 3.65,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x61266424B904d65cEb2945a1413Ac322185187D5/logo.png"
+}

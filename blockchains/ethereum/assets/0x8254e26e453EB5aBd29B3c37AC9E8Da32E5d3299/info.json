@@ -1,0 +1,10 @@
+{
+    "name": "RBX",
+    "symbol": "RBX",
+    "id": "0x8254e26e453EB5aBd29B3c37AC9E8Da32E5d3299",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rbx-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12339.37,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8254e26e453EB5aBd29B3c37AC9E8Da32E5d3299/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "RealToken S 18466 Fielding St Detroit MI",
+    "symbol": "REALTOKEN-S-18466-FIELDING-ST-DETROIT-MI",
+    "id": "0x9A99f283e1F6c3b7F24901995624Ef7b78E94471",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/18466-fielding",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.998726,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9A99f283e1F6c3b7F24901995624Ef7b78E94471/logo.png"
+}

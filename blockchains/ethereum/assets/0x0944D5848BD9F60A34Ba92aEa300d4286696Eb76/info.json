@@ -1,0 +1,10 @@
+{
+    "name": "Palette Token",
+    "symbol": "PLT",
+    "id": "0x0944D5848BD9F60A34Ba92aEa300d4286696Eb76",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/palette",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 538526,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0944D5848BD9F60A34Ba92aEa300d4286696Eb76/logo.png"
+}

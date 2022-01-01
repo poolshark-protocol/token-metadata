@@ -1,0 +1,10 @@
+{
+    "name": "Shinjutsu",
+    "symbol": "SHINJUTSU",
+    "id": "0x6e6c6b24371D2EE18FC39B4bc534B4344d2Bbd61",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shinjutsu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 11685.66,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6e6c6b24371D2EE18FC39B4bc534B4344d2Bbd61/logo.png"
+}

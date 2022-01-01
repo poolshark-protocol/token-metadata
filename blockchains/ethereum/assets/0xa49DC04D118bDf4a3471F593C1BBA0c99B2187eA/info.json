@@ -1,0 +1,10 @@
+{
+    "name": "odius.ai",
+    "symbol": "ODI",
+    "id": "0xa49DC04D118bDf4a3471F593C1BBA0c99B2187eA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/odius",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa49DC04D118bDf4a3471F593C1BBA0c99B2187eA/logo.png"
+}

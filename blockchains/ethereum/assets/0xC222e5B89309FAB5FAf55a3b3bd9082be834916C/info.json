@@ -1,0 +1,10 @@
+{
+    "name": "BITCOIVA",
+    "symbol": "BCA",
+    "id": "0xC222e5B89309FAB5FAf55a3b3bd9082be834916C",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitcoiva",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 297262,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC222e5B89309FAB5FAf55a3b3bd9082be834916C/logo.png"
+}

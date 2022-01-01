@@ -1,0 +1,10 @@
+{
+    "name": "First Eleven",
+    "symbol": "F11",
+    "id": "0x309c1b3282c49E4dC6796644417f8c76b7C8233C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/first-eleven",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4556.68,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x309c1b3282c49E4dC6796644417f8c76b7C8233C/logo.png"
+}

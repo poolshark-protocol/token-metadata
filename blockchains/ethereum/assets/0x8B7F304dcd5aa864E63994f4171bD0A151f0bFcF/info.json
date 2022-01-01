@@ -1,0 +1,10 @@
+{
+    "name": "SER",
+    "symbol": "SER",
+    "id": "0x8B7F304dcd5aa864E63994f4171bD0A151f0bFcF",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ser",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8B7F304dcd5aa864E63994f4171bD0A151f0bFcF/logo.png"
+}

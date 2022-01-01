@@ -1,0 +1,10 @@
+{
+    "name": "Pixel Inu",
+    "symbol": "PIXU",
+    "id": "0xAd4c6Ad1F02Def1710a2d06C875A31D4868bD70A",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pixel-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAd4c6Ad1F02Def1710a2d06C875A31D4868bD70A/logo.png"
+}

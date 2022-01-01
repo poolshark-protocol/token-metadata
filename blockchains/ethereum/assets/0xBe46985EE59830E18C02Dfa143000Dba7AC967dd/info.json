@@ -1,0 +1,10 @@
+{
+    "name": "BabyPenguins",
+    "symbol": "bPENG",
+    "id": "0xBe46985EE59830E18C02Dfa143000Dba7AC967dd",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/babypenguin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBe46985EE59830E18C02Dfa143000Dba7AC967dd/logo.png"
+}

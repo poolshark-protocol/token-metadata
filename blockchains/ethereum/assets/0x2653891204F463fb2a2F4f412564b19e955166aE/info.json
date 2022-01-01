@@ -1,0 +1,10 @@
+{
+    "name": "Gold Fever Native Gold",
+    "symbol": "NGL",
+    "id": "0x2653891204F463fb2a2F4f412564b19e955166aE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gold-fever-native-gold",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 934348,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2653891204F463fb2a2F4f412564b19e955166aE/logo.png"
+}

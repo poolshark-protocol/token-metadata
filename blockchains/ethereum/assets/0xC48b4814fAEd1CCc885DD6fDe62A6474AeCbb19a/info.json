@@ -1,0 +1,11 @@
+{
+    "name": "Coin Merge",
+    "symbol": "CMERGE",
+    "id": "0xC48b4814fAEd1CCc885DD6fDe62A6474AeCbb19a",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coinmerge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 240238,
+    "public_notice": "CoinMerge has recently migrated from their <a href=\"https://etherscan.io/token/0x1190074795dad0e61b61270de48e108427f8f817\">old contract</a> to a <a href=\"https://etherscan.io/token/0xc48b4814faed1ccc885dd6fde62a6474aecbb19a\">new one</a>. For more information, visit https://twitter.com/coinmerge/status/1449500818756063235",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC48b4814fAEd1CCc885DD6fDe62A6474AeCbb19a/logo.png"
+}

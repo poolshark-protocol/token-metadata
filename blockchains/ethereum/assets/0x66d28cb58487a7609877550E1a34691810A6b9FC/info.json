@@ -1,0 +1,10 @@
+{
+    "name": "Koinos",
+    "symbol": "KOIN",
+    "id": "0x66d28cb58487a7609877550E1a34691810A6b9FC",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/koinos",
+    "market_cap_rank": 552,
+    "24_hr_volume_usd": 23394,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x66d28cb58487a7609877550E1a34691810A6b9FC/logo.png"
+}

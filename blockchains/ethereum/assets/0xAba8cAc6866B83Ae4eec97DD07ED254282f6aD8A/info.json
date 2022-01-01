@@ -1,0 +1,11 @@
+{
+    "name": "YAMv2",
+    "symbol": "YAMv2",
+    "id": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
+    "decimals": 24,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yam-v2",
+    "market_cap_rank": 3151,
+    "24_hr_volume_usd": 5.5,
+    "public_notice": "YAMv2 will be deprecated soon. Please migration to YAM v3 as soon as possible. You may refer to https://medium.com/yam-finance/yam-replanting-migration-and-launch-997b4848b8d8 for details on the migration process. To migrate, visit https://yam.finance/migrate. For YAM v3 market data refer to https://www.coingecko.com/en/coins/yam",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A/logo.png"
+}

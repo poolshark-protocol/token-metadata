@@ -1,0 +1,10 @@
+{
+    "name": "CAT.trade",
+    "symbol": "CATX",
+    "id": "0xC7743bf0B300Ec041E704Cc34d4f43050942099E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cat-trade-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 172.51,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC7743bf0B300Ec041E704Cc34d4f43050942099E/logo.png"
+}

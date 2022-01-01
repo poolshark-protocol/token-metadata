@@ -1,0 +1,10 @@
+{
+    "name": "520 Token",
+    "symbol": "520T",
+    "id": "0x62d75A2a10f755104bd1024d997141ce793Cf585",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/520",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4035.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x62d75A2a10f755104bd1024d997141ce793Cf585/logo.png"
+}

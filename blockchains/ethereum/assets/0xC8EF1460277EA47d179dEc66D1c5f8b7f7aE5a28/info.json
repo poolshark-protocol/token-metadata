@@ -1,0 +1,10 @@
+{
+    "name": "Rikkei Finance",
+    "symbol": "RIFI",
+    "id": "0xC8EF1460277EA47d179dEc66D1c5f8b7f7aE5a28",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rikkei-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3954253,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC8EF1460277EA47d179dEc66D1c5f8b7f7aE5a28/logo.png"
+}

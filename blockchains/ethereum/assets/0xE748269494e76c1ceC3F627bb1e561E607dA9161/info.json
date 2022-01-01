@@ -1,0 +1,10 @@
+{
+    "name": "Xels Token",
+    "symbol": "XELS",
+    "id": "0xE748269494e76c1ceC3F627bb1e561E607dA9161",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xels",
+    "market_cap_rank": 848,
+    "24_hr_volume_usd": 2610719,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE748269494e76c1ceC3F627bb1e561E607dA9161/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Fluffy Inu",
+    "symbol": "FLUFFY",
+    "id": "0xde74BB5A16000DeEA9Eb26Ef3941344325dbDb8C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fluffy-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3516.24,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xde74BB5A16000DeEA9Eb26Ef3941344325dbDb8C/logo.png"
+}

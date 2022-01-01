@@ -1,0 +1,10 @@
+{
+    "name": "Virtue Player Points",
+    "symbol": "VPP",
+    "id": "0x5EeAA2DCb23056F4E8654a349E57eBE5e76b5e6e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/virtue-poker",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 102162,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5EeAA2DCb23056F4E8654a349E57eBE5e76b5e6e/logo.png"
+}

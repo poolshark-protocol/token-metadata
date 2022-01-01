@@ -1,0 +1,10 @@
+{
+    "name": "3X Long Exchange Token Index Token",
+    "symbol": "EXCHBULL",
+    "id": "0x592ef68C18F05A22C5890263DEa5D952dd140d2A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/3x-long-exchange-token-index-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2751.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x592ef68C18F05A22C5890263DEa5D952dd140d2A/logo.png"
+}

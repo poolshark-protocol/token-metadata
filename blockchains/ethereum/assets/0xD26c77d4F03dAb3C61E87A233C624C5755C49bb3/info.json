@@ -1,0 +1,10 @@
+{
+    "name": "RatRace",
+    "symbol": "RatRace",
+    "id": "0xD26c77d4F03dAb3C61E87A233C624C5755C49bb3",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ratrace",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 809.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD26c77d4F03dAb3C61E87A233C624C5755C49bb3/logo.png"
+}

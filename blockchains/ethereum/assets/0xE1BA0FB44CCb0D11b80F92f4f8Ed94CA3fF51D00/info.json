@@ -1,0 +1,10 @@
+{
+    "name": "Aave Interest bearing BAT",
+    "symbol": "aBAT",
+    "id": "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-bat-v1",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6.19,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00/logo.png"
+}

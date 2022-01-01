@@ -1,0 +1,11 @@
+{
+    "name": "Rizen Coin",
+    "symbol": "RZN",
+    "id": "0xd8c82FbC4D8Ed0644a7eC04cF973e84c6153c1d7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rizen-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 99.23,
+    "public_notice": "This page refers to the old Rizen (ERC20) token page which is no longer the official Rizen token as Rizen has recently undergone a chain migration to BSC network. More information at https://coinrizen.medium.com/introducing-rizencoin-into-binance-smart-chain-f8b99d6f5279",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd8c82FbC4D8Ed0644a7eC04cF973e84c6153c1d7/logo.png"
+}

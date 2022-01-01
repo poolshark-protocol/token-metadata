@@ -1,0 +1,10 @@
+{
+    "name": "3X Long LEO Token",
+    "symbol": "LEOBULL",
+    "id": "0xC2685307Ef2B8842fbf3DeF432408C46Bd0420fd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/3x-long-leo-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 123.92,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC2685307Ef2B8842fbf3DeF432408C46Bd0420fd/logo.png"
+}

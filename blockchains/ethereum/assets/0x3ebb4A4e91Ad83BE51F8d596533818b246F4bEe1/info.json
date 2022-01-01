@@ -1,0 +1,10 @@
+{
+    "name": "Signata",
+    "symbol": "SATA",
+    "id": "0x3ebb4A4e91Ad83BE51F8d596533818b246F4bEe1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/signata",
+    "market_cap_rank": 1464,
+    "24_hr_volume_usd": 589252,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3ebb4A4e91Ad83BE51F8d596533818b246F4bEe1/logo.png"
+}

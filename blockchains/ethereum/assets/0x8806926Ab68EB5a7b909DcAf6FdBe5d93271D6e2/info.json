@@ -1,0 +1,11 @@
+{
+    "name": "Uquid Coin",
+    "symbol": "UQC",
+    "id": "0x8806926Ab68EB5a7b909DcAf6FdBe5d93271D6e2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/uquid-coin",
+    "market_cap_rank": 388,
+    "24_hr_volume_usd": 5594477,
+    "public_notice": "Contract address has changed from 0xd01db73e047855efb414e6202098c4be4cd2423b to 0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2. Refer to https://medium.com/@uquidcoin/uquid-uqc-hard-fork-schedule-ahead-8c31c7a813ab",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8806926Ab68EB5a7b909DcAf6FdBe5d93271D6e2/logo.png"
+}

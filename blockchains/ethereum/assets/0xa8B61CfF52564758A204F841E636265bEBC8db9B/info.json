@@ -1,0 +1,10 @@
+{
+    "name": "Yield Protocol",
+    "symbol": "YIELD",
+    "id": "0xa8B61CfF52564758A204F841E636265bEBC8db9B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yield-protocol",
+    "market_cap_rank": 2284,
+    "24_hr_volume_usd": 10924.35,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa8B61CfF52564758A204F841E636265bEBC8db9B/logo.png"
+}

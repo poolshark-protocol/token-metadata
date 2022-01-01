@@ -1,0 +1,10 @@
+{
+    "name": "Payship.org",
+    "symbol": "PSHP",
+    "id": "0x88D59Ba796fDf639dEd3b5E720988D59fDb71Eb8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/payship",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x88D59Ba796fDf639dEd3b5E720988D59fDb71Eb8/logo.png"
+}

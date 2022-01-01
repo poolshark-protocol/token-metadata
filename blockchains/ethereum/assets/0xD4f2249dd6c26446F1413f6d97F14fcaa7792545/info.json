@@ -1,0 +1,10 @@
+{
+    "name": "Genesis MoonCats",
+    "symbol": "uGMC",
+    "id": "0xD4f2249dd6c26446F1413f6d97F14fcaa7792545",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unicly-genesis-mooncats-collection",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD4f2249dd6c26446F1413f6d97F14fcaa7792545/logo.png"
+}

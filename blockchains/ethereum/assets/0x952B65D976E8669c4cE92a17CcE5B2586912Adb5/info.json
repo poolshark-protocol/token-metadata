@@ -1,0 +1,10 @@
+{
+    "name": "ETRADE TOKEN",
+    "symbol": "ETT",
+    "id": "0x952B65D976E8669c4cE92a17CcE5B2586912Adb5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/etrade",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 24.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x952B65D976E8669c4cE92a17CcE5B2586912Adb5/logo.png"
+}

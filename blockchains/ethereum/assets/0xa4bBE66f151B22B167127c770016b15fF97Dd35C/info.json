@@ -1,0 +1,10 @@
+{
+    "name": "UmbriaToken",
+    "symbol": "UMBR",
+    "id": "0xa4bBE66f151B22B167127c770016b15fF97Dd35C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/umbra-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 416.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa4bBE66f151B22B167127c770016b15fF97Dd35C/logo.png"
+}

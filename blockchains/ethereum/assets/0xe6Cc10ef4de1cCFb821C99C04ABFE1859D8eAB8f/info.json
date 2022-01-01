@@ -1,0 +1,10 @@
+{
+    "name": "ExenToken",
+    "symbol": "EXEN",
+    "id": "0xe6Cc10ef4de1cCFb821C99C04ABFE1859D8eAB8f",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/exentoken",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 109303,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe6Cc10ef4de1cCFb821C99C04ABFE1859D8eAB8f/logo.png"
+}

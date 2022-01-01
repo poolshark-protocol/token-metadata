@@ -1,0 +1,10 @@
+{
+    "name": "Banana",
+    "symbol": "BANANA",
+    "id": "0xE2311ae37502105b442bBef831E9b53c5d2e9B3b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/banana",
+    "market_cap_rank": 2001,
+    "24_hr_volume_usd": 190294,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE2311ae37502105b442bBef831E9b53c5d2e9B3b/logo.png"
+}

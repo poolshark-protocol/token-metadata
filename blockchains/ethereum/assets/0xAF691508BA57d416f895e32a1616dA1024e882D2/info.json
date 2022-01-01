@@ -1,0 +1,10 @@
+{
+    "name": "Pinknode Token",
+    "symbol": "PNODE",
+    "id": "0xAF691508BA57d416f895e32a1616dA1024e882D2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pinknode",
+    "market_cap_rank": 1354,
+    "24_hr_volume_usd": 43962,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAF691508BA57d416f895e32a1616dA1024e882D2/logo.png"
+}

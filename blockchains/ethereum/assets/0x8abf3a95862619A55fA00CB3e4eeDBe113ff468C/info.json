@@ -1,0 +1,10 @@
+{
+    "name": "Money Printer Go Brrr",
+    "symbol": "BRRR",
+    "id": "0x8abf3a95862619A55fA00CB3e4eeDBe113ff468C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/money-printer-go-brrr-set",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 657.65,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8abf3a95862619A55fA00CB3e4eeDBe113ff468C/logo.png"
+}

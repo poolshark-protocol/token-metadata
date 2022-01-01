@@ -1,0 +1,10 @@
+{
+    "name": "Yearn Lazy Ape Index",
+    "symbol": "YLA",
+    "id": "0x9ba60bA98413A60dB4C651D4afE5C937bbD8044B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yearn-lazy-ape",
+    "market_cap_rank": 1189,
+    "24_hr_volume_usd": 2144.29,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9ba60bA98413A60dB4C651D4afE5C937bbD8044B/logo.png"
+}

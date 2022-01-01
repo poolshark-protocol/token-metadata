@@ -1,0 +1,10 @@
+{
+    "name": "ATIS Token",
+    "symbol": "ATIS",
+    "id": "0x821144518dfE9e7b44fCF4d0824e15e8390d4637",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/atlantis-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x821144518dfE9e7b44fCF4d0824e15e8390d4637/logo.png"
+}

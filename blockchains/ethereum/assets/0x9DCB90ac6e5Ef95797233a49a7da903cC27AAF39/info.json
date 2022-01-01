@@ -1,0 +1,10 @@
+{
+    "name": "SantaCapital",
+    "symbol": "SC",
+    "id": "0x9DCB90ac6e5Ef95797233a49a7da903cC27AAF39",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/santa-capital",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 386.41,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9DCB90ac6e5Ef95797233a49a7da903cC27AAF39/logo.png"
+}

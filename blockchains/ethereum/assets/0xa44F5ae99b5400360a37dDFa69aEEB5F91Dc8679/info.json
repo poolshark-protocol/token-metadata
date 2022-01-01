@@ -1,0 +1,10 @@
+{
+    "name": "Baby Satoshi",
+    "symbol": "bSATOSHI",
+    "id": "0xa44F5ae99b5400360a37dDFa69aEEB5F91Dc8679",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/babysatoshi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa44F5ae99b5400360a37dDFa69aEEB5F91Dc8679/logo.png"
+}

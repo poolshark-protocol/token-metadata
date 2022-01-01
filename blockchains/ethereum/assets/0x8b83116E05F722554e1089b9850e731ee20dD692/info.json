@@ -1,0 +1,10 @@
+{
+    "name": "Zcnox Coin",
+    "symbol": "ZCNOX",
+    "id": "0x8b83116E05F722554e1089b9850e731ee20dD692",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zcnox-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00698769,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8b83116E05F722554e1089b9850e731ee20dD692/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Wifi Coin",
+    "symbol": "WIFI",
+    "id": "0xe202873079913858f9Ba8795BA957A4Ad561ca24",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wifi-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 134.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe202873079913858f9Ba8795BA957A4Ad561ca24/logo.png"
+}

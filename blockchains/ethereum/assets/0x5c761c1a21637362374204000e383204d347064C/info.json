@@ -1,0 +1,10 @@
+{
+    "name": "SRSC Chiz Token",
+    "symbol": "CHIZ",
+    "id": "0x5c761c1a21637362374204000e383204d347064C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sewer-rat-social-club-chiz-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5c761c1a21637362374204000e383204d347064C/logo.png"
+}

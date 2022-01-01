@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped JAXNET",
+    "symbol": "WJXN",
+    "id": "0xcA1262e77Fb25c0a4112CFc9bad3ff54F617f2e6",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jax-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 261.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcA1262e77Fb25c0a4112CFc9bad3ff54F617f2e6/logo.png"
+}

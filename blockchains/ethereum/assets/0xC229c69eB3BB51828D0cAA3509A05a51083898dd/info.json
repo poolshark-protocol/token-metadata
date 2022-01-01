@@ -1,0 +1,10 @@
+{
+    "name": "Pintu Token",
+    "symbol": "PTU",
+    "id": "0xC229c69eB3BB51828D0cAA3509A05a51083898dd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pintu-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 77998,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC229c69eB3BB51828D0cAA3509A05a51083898dd/logo.png"
+}

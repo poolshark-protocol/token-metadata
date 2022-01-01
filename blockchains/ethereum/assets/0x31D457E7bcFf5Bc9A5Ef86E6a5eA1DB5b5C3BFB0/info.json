@@ -1,0 +1,10 @@
+{
+    "name": "Star Foxx",
+    "symbol": "FOXX",
+    "id": "0x31D457E7bcFf5Bc9A5Ef86E6a5eA1DB5b5C3BFB0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/star-foxx",
+    "market_cap_rank": 2814,
+    "24_hr_volume_usd": 328.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31D457E7bcFf5Bc9A5Ef86E6a5eA1DB5b5C3BFB0/logo.png"
+}

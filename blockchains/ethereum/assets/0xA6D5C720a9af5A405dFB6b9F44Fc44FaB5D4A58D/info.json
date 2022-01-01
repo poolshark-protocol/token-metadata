@@ -1,0 +1,10 @@
+{
+    "name": "EZYSTAYZ TOKEN",
+    "symbol": "EZY",
+    "id": "0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ezystayz",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 23022,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA6D5C720a9af5A405dFB6b9F44Fc44FaB5D4A58D/logo.png"
+}

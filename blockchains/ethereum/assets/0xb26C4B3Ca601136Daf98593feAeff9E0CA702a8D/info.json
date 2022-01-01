@@ -1,0 +1,10 @@
+{
+    "name": "Aladdin Token",
+    "symbol": "ALD",
+    "id": "0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aladdin-dao",
+    "market_cap_rank": 1972,
+    "24_hr_volume_usd": 125051,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D/logo.png"
+}

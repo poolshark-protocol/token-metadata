@@ -1,0 +1,10 @@
+{
+    "name": "Kounotori",
+    "symbol": "KTO",
+    "id": "0x616ef40D55C0D2c506f4d6873Bda8090b79BF8fC",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kounotori",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 24299,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x616ef40D55C0D2c506f4d6873Bda8090b79BF8fC/logo.png"
+}

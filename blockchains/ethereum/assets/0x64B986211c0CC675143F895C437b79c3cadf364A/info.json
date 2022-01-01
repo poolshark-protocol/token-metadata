@@ -1,0 +1,10 @@
+{
+    "name": "GRAPEFRUIT",
+    "symbol": "GRPFT",
+    "id": "0x64B986211c0CC675143F895C437b79c3cadf364A",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/grapefruit-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 252.18,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x64B986211c0CC675143F895C437b79c3cadf364A/logo.png"
+}

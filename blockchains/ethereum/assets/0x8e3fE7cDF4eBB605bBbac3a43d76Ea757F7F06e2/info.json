@@ -1,0 +1,10 @@
+{
+    "name": "NarakaToken",
+    "symbol": "NT",
+    "id": "0x8e3fE7cDF4eBB605bBbac3a43d76Ea757F7F06e2",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/naraka-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18521.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8e3fE7cDF4eBB605bBbac3a43d76Ea757F7F06e2/logo.png"
+}

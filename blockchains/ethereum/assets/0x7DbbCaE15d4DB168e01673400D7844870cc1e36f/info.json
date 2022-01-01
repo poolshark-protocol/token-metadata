@@ -1,0 +1,10 @@
+{
+    "name": "WOLFYCOIN",
+    "symbol": "WOLFY",
+    "id": "0x7DbbCaE15d4DB168e01673400D7844870cc1e36f",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wolfy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1044.51,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7DbbCaE15d4DB168e01673400D7844870cc1e36f/logo.png"
+}

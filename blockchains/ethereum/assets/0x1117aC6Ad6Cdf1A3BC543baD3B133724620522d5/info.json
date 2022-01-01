@@ -1,0 +1,10 @@
+{
+    "name": "moda",
+    "symbol": "MODA",
+    "id": "0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moda-dao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 60616,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1117aC6Ad6Cdf1A3BC543baD3B133724620522d5/logo.png"
+}

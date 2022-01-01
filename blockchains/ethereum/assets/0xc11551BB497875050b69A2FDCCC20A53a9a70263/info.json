@@ -1,0 +1,10 @@
+{
+    "name": "TenXcoin",
+    "symbol": "TXC",
+    "id": "0xc11551BB497875050b69A2FDCCC20A53a9a70263",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tenxcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 245.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc11551BB497875050b69A2FDCCC20A53a9a70263/logo.png"
+}

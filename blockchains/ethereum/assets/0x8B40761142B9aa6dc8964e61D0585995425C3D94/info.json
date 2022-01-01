@@ -1,0 +1,10 @@
+{
+    "name": "Tripio Token",
+    "symbol": "TRIO",
+    "id": "0x8B40761142B9aa6dc8964e61D0585995425C3D94",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tripio",
+    "market_cap_rank": 2232,
+    "24_hr_volume_usd": 77850,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8B40761142B9aa6dc8964e61D0585995425C3D94/logo.png"
+}

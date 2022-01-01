@@ -1,0 +1,11 @@
+{
+    "name": "DAOventuresDeFi",
+    "symbol": "DVD",
+    "id": "0x77dcE26c03a9B833fc2D7C31C22Da4f42e9d9582",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/daoventures",
+    "market_cap_rank": 2561,
+    "24_hr_volume_usd": 10474.12,
+    "public_notice": "DAOventures have upgraded their smart contract from the old smart contract (0x51e00a95748dbd2a3f47bc5c3b3e7b3f0fea666c) to the new smart contract (0x77dce26c03a9b833fc2d7c31c22da4f42e9d9582). For further details, read https://twitter.com/VenturesDao/status/1416038607501004804",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77dcE26c03a9B833fc2D7C31C22Da4f42e9d9582/logo.png"
+}

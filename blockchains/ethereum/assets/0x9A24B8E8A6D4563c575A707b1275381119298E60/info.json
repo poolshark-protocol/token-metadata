@@ -1,0 +1,10 @@
+{
+    "name": "EVNY Token",
+    "symbol": "EVNY",
+    "id": "0x9A24B8E8A6D4563c575A707b1275381119298E60",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/evny-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 76860,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9A24B8E8A6D4563c575A707b1275381119298E60/logo.png"
+}

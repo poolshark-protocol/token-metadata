@@ -1,0 +1,10 @@
+{
+    "name": "Opennity Token",
+    "symbol": "OPNN",
+    "id": "0xA829F97373069ee5d23175e4105dF8fD49238Be7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/opennity",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6.68,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA829F97373069ee5d23175e4105dF8fD49238Be7/logo.png"
+}

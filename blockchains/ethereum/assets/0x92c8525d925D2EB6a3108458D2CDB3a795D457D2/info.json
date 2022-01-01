@@ -1,0 +1,10 @@
+{
+    "name": "Holographic Doge",
+    "symbol": "HODO",
+    "id": "0x92c8525d925D2EB6a3108458D2CDB3a795D457D2",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/holographic-doge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92c8525d925D2EB6a3108458D2CDB3a795D457D2/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Meme Games",
+    "symbol": "MGAMES",
+    "id": "0x311f809F14Cc30eC50570C59DdC708c0d69b8634",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/meme-games",
+    "market_cap_rank": 3506,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x311f809F14Cc30eC50570C59DdC708c0d69b8634/logo.png"
+}

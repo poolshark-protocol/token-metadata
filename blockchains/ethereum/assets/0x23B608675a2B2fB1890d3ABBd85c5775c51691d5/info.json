@@ -1,0 +1,10 @@
+{
+    "name": "Unisocks Edition 0",
+    "symbol": "SOCKS",
+    "id": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unisocks",
+    "market_cap_rank": 822,
+    "24_hr_volume_usd": 9843.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x23B608675a2B2fB1890d3ABBd85c5775c51691d5/logo.png"
+}

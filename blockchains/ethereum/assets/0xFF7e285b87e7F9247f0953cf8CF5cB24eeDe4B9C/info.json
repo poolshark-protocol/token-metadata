@@ -1,0 +1,10 @@
+{
+    "name": "STIMMY",
+    "symbol": "STIMMY",
+    "id": "0xFF7e285b87e7F9247f0953cf8CF5cB24eeDe4B9C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stimmy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 111.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFF7e285b87e7F9247f0953cf8CF5cB24eeDe4B9C/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Cogecoin",
+    "symbol": "COGE",
+    "id": "0xC382e04099A435439725BB40647e2B32dC136806",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cogecoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 51922,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC382e04099A435439725BB40647e2B32dC136806/logo.png"
+}

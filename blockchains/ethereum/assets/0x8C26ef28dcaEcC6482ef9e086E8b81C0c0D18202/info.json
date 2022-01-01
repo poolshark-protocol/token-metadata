@@ -1,0 +1,10 @@
+{
+    "name": "PixelGas",
+    "symbol": "PixelGas",
+    "id": "0x8C26ef28dcaEcC6482ef9e086E8b81C0c0D18202",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pixelgas",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1023.14,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8C26ef28dcaEcC6482ef9e086E8b81C0c0D18202/logo.png"
+}

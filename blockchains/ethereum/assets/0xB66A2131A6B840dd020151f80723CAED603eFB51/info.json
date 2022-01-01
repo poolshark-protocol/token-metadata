@@ -1,0 +1,10 @@
+{
+    "name": "NNB Token",
+    "symbol": "NNB",
+    "id": "0xB66A2131A6B840dd020151f80723CAED603eFB51",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nnb-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 26864,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB66A2131A6B840dd020151f80723CAED603eFB51/logo.png"
+}

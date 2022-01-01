@@ -1,0 +1,10 @@
+{
+    "name": "ZeuxCoin",
+    "symbol": "ZUC",
+    "id": "0x6b4689E4514957699eDeB2Ee91C947F18E439806",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zeuxcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 24.46,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6b4689E4514957699eDeB2Ee91C947F18E439806/logo.png"
+}

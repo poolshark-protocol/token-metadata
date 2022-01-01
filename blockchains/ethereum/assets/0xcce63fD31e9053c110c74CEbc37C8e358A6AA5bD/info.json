@@ -1,0 +1,10 @@
+{
+    "name": "Bitriver",
+    "symbol": "BTR",
+    "id": "0xcce63fD31e9053c110c74CEbc37C8e358A6AA5bD",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitriver",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 219227,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcce63fD31e9053c110c74CEbc37C8e358A6AA5bD/logo.png"
+}

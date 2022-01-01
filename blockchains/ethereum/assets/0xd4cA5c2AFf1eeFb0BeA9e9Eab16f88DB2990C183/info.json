@@ -1,0 +1,11 @@
+{
+    "name": "XRP CLASSIC",
+    "symbol": "XRPC",
+    "id": "0xd4cA5c2AFf1eeFb0BeA9e9Eab16f88DB2990C183",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xrp-classic",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 427.56,
+    "public_notice": "We have received numerous reports raising red flags regarding the actions of certain parties tied to XRP Classic. Please trade/deal with caution and verify all related news that you receive.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd4cA5c2AFf1eeFb0BeA9e9Eab16f88DB2990C183/logo.png"
+}

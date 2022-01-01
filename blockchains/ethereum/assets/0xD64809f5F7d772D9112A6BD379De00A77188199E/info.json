@@ -1,0 +1,10 @@
+{
+    "name": "Lyfe Silver",
+    "symbol": "LSILVER",
+    "id": "0xD64809f5F7d772D9112A6BD379De00A77188199E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lyfe-silver",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4930.39,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD64809f5F7d772D9112A6BD379De00A77188199E/logo.png"
+}

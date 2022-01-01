@@ -1,0 +1,10 @@
+{
+    "name": "Ethix",
+    "symbol": "ETHIX",
+    "id": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethichub",
+    "market_cap_rank": 1771,
+    "24_hr_volume_usd": 12643.51,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFd09911130e6930Bf87F2B0554c44F400bD80D3e/logo.png"
+}

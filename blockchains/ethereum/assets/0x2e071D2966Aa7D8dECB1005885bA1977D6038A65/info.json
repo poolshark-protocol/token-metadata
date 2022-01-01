@@ -1,0 +1,10 @@
+{
+    "name": "DICE",
+    "symbol": "ROL",
+    "id": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
+    "decimals": 16,
+    "coingecko_url": "https://www.coingecko.com/en/coins/etheroll",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.61,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2e071D2966Aa7D8dECB1005885bA1977D6038A65/logo.png"
+}

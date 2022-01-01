@@ -1,0 +1,10 @@
+{
+    "name": "Tokamak Network Token",
+    "symbol": "TON",
+    "id": "0x2be5e8c109e2197D077D13A82dAead6a9b3433C5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tokamak-network",
+    "market_cap_rank": 299,
+    "24_hr_volume_usd": 2544409,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2be5e8c109e2197D077D13A82dAead6a9b3433C5/logo.png"
+}

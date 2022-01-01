@@ -1,0 +1,10 @@
+{
+    "name": "TudaToken",
+    "symbol": "TUDA",
+    "id": "0x5E3002dff591C5e75Bb9DEdae268049742E6b13a",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tutors-diary",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 49.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5E3002dff591C5e75Bb9DEdae268049742E6b13a/logo.png"
+}

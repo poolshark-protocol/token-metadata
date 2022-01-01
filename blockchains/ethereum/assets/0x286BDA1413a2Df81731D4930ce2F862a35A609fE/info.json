@@ -1,0 +1,10 @@
+{
+    "name": "WaBi",
+    "symbol": "WaBi",
+    "id": "0x286BDA1413a2Df81731D4930ce2F862a35A609fE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wabi",
+    "market_cap_rank": 1188,
+    "24_hr_volume_usd": 1687515,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x286BDA1413a2Df81731D4930ce2F862a35A609fE/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "NFTLAUNCH.network",
+    "symbol": "NFTL",
+    "id": "0xe7F72Bc0252cA7B16dBb72eEee1AfcDb2429F2DD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nftlaunch",
+    "market_cap_rank": 954,
+    "24_hr_volume_usd": 568475,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe7F72Bc0252cA7B16dBb72eEee1AfcDb2429F2DD/logo.png"
+}

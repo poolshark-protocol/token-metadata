@@ -1,0 +1,10 @@
+{
+    "name": "NameChangeToken",
+    "symbol": "NCT",
+    "id": "0x8A9c4dfe8b9D8962B31e4e16F8321C44d48e246E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/name-changing-token",
+    "market_cap_rank": 2491,
+    "24_hr_volume_usd": 1692.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8A9c4dfe8b9D8962B31e4e16F8321C44d48e246E/logo.png"
+}

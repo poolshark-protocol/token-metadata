@@ -1,0 +1,10 @@
+{
+    "name": "Iron Bank KRW",
+    "symbol": "ibKRW",
+    "id": "0x95dFDC8161832e4fF7816aC4B6367CE201538253",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ibkrw",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3069.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95dFDC8161832e4fF7816aC4B6367CE201538253/logo.png"
+}

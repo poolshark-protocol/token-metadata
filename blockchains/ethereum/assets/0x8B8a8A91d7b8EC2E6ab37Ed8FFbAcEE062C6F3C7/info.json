@@ -1,0 +1,11 @@
+{
+    "name": "Epay Coin Plus",
+    "symbol": "ECP+",
+    "id": "0x8B8a8A91d7b8EC2E6ab37Ed8FFbAcEE062C6F3C7",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ecp-technology",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.135499,
+    "public_notice": "Updated its smart contract to https://etherscan.io/token/0x8b8a8a91d7b8ec2e6ab37ed8ffbacee062c6f3c7",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8B8a8A91d7b8EC2E6ab37Ed8FFbAcEE062C6F3C7/logo.png"
+}

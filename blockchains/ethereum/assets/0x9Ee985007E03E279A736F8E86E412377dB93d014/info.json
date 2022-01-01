@@ -1,0 +1,10 @@
+{
+    "name": "KibaStableCapital",
+    "symbol": "KSC",
+    "id": "0x9Ee985007E03E279A736F8E86E412377dB93d014",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kibastablecapital",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 275.51,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9Ee985007E03E279A736F8E86E412377dB93d014/logo.png"
+}

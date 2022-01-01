@@ -1,0 +1,10 @@
+{
+    "name": "TornadoCORE",
+    "symbol": "TCORE",
+    "id": "0x7A3D5d49D64E57DBd6FBB21dF7202bD3EE7A2253",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tornadocore",
+    "market_cap_rank": 2719,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7A3D5d49D64E57DBd6FBB21dF7202bD3EE7A2253/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Upper Libra",
+    "symbol": "GBPU",
+    "id": "0x27ed129C298c5Df130364083F491e2920E5A2f29",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/upper-pound",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5312387,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x27ed129C298c5Df130364083F491e2920E5A2f29/logo.png"
+}

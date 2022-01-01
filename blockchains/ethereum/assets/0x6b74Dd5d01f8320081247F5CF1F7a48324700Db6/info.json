@@ -1,0 +1,10 @@
+{
+    "name": "UBU",
+    "symbol": "UBU",
+    "id": "0x6b74Dd5d01f8320081247F5CF1F7a48324700Db6",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ubu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 615390,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6b74Dd5d01f8320081247F5CF1F7a48324700Db6/logo.png"
+}

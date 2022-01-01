@@ -1,0 +1,10 @@
+{
+    "name": "RARE.UNIQUE",
+    "symbol": "RARE",
+    "id": "0x93dfaf57D986B9cA77Df9376c50878E013D9c7C8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unique-one",
+    "market_cap_rank": 2895,
+    "24_hr_volume_usd": 208.92,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93dfaf57D986B9cA77Df9376c50878E013D9c7C8/logo.png"
+}

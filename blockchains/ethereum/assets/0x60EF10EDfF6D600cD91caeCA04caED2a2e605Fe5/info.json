@@ -1,0 +1,10 @@
+{
+    "name": "Mochi Inu",
+    "symbol": "MOCHI",
+    "id": "0x60EF10EDfF6D600cD91caeCA04caED2a2e605Fe5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mochi-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 24138,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x60EF10EDfF6D600cD91caeCA04caED2a2e605Fe5/logo.png"
+}

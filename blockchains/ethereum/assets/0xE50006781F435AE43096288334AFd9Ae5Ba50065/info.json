@@ -1,0 +1,10 @@
+{
+    "name": "Corgi Inu",
+    "symbol": "CORGI",
+    "id": "0xE50006781F435AE43096288334AFd9Ae5Ba50065",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/corgi-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 164.97,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE50006781F435AE43096288334AFd9Ae5Ba50065/logo.png"
+}

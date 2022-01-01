@@ -1,0 +1,10 @@
+{
+    "name": "Sunrise Token",
+    "symbol": "SUNC",
+    "id": "0x692aCCdD8b86692427E0aa4752AE917Df01CC56F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sunrise",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12144.89,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x692aCCdD8b86692427E0aa4752AE917Df01CC56F/logo.png"
+}

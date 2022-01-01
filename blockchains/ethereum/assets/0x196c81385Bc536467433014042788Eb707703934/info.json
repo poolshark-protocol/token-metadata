@@ -1,0 +1,10 @@
+{
+    "name": "CTASK Token",
+    "symbol": "CTASK",
+    "id": "0x196c81385Bc536467433014042788Eb707703934",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptotask-2",
+    "market_cap_rank": 2688,
+    "24_hr_volume_usd": 5781.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x196c81385Bc536467433014042788Eb707703934/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "BTC RSI Crossover Yield Set",
+    "symbol": "BTCRSIAPY",
+    "id": "0x924E26fEe8E10c20726006CC2Bd307A538B0eBE5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/btc-rsi-crossover-yield-set",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 958.73,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x924E26fEe8E10c20726006CC2Bd307A538B0eBE5/logo.png"
+}

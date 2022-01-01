@@ -1,0 +1,10 @@
+{
+    "name": "EQIFi Token",
+    "symbol": "EQX",
+    "id": "0xBd3de9a069648c84d27d74d701C9fa3253098B15",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eqifi",
+    "market_cap_rank": 900,
+    "24_hr_volume_usd": 430617,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBd3de9a069648c84d27d74d701C9fa3253098B15/logo.png"
+}

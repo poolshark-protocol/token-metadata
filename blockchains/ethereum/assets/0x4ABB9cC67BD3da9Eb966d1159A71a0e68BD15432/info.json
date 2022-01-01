@@ -1,0 +1,10 @@
+{
+    "name": "KelVpn Token",
+    "symbol": "KEL",
+    "id": "0x4ABB9cC67BD3da9Eb966d1159A71a0e68BD15432",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kelvpn",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 40758,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4ABB9cC67BD3da9Eb966d1159A71a0e68BD15432/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Jejudoge",
+    "symbol": "JEJUDOGE",
+    "id": "0x939A7A577D93ad29B64C1595B1284ce660A479B9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jejudoge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6778.62,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x939A7A577D93ad29B64C1595B1284ce660A479B9/logo.png"
+}

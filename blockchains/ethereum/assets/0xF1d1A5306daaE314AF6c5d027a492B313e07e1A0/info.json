@@ -1,0 +1,10 @@
+{
+    "name": "ENVOY",
+    "symbol": "ENV",
+    "id": "0xF1d1A5306daaE314AF6c5d027a492B313e07e1A0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/envoy-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 245314,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF1d1A5306daaE314AF6c5d027a492B313e07e1A0/logo.png"
+}

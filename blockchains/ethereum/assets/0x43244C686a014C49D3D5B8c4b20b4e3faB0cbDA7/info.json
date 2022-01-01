@@ -1,0 +1,10 @@
+{
+    "name": "KXUSD",
+    "symbol": "KXUSD",
+    "id": "0x43244C686a014C49D3D5B8c4b20b4e3faB0cbDA7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kxusd",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x43244C686a014C49D3D5B8c4b20b4e3faB0cbDA7/logo.png"
+}

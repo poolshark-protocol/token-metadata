@@ -1,0 +1,10 @@
+{
+    "name": "WHEN Token",
+    "symbol": "WHEN",
+    "id": "0xF4FE95603881D0e07954fD7605E0e9a916e42C44",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/when-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8.99,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF4FE95603881D0e07954fD7605E0e9a916e42C44/logo.png"
+}

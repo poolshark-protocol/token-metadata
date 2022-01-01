@@ -1,0 +1,10 @@
+{
+    "name": "GeroWallet",
+    "symbol": "GERO",
+    "id": "0x3431F91b3a388115F00C5Ba9FdB899851D005Fb5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gerowallet",
+    "market_cap_rank": 1154,
+    "24_hr_volume_usd": 292069,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3431F91b3a388115F00C5Ba9FdB899851D005Fb5/logo.png"
+}

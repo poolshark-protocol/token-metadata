@@ -1,0 +1,10 @@
+{
+    "name": "Handy Token",
+    "symbol": "HANDY",
+    "id": "0x8bbe1a2961B41340468D0548c2cd5B7DFA9b684c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/handy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 81359,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8bbe1a2961B41340468D0548c2cd5B7DFA9b684c/logo.png"
+}

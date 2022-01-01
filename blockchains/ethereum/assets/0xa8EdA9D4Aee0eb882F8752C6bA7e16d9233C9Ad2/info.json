@@ -1,0 +1,10 @@
+{
+    "name": "LevelApp Token",
+    "symbol": "LVL",
+    "id": "0xa8EdA9D4Aee0eb882F8752C6bA7e16d9233C9Ad2",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/levelapp",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10.6,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa8EdA9D4Aee0eb882F8752C6bA7e16d9233C9Ad2/logo.png"
+}

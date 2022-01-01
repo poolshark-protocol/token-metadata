@@ -1,0 +1,10 @@
+{
+    "name": "Merculet",
+    "symbol": "MVP",
+    "id": "0x432A2C54de2DDE941A36d2EB8c424Ed666F74Aef",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/merculet",
+    "market_cap_rank": 2032,
+    "24_hr_volume_usd": 104247,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x432A2C54de2DDE941A36d2EB8c424Ed666F74Aef/logo.png"
+}

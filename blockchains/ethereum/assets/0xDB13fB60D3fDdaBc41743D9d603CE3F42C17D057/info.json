@@ -1,0 +1,10 @@
+{
+    "name": "Baby Token",
+    "symbol": "BABY",
+    "id": "0xDB13fB60D3fDdaBc41743D9d603CE3F42C17D057",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/baby-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDB13fB60D3fDdaBc41743D9d603CE3F42C17D057/logo.png"
+}

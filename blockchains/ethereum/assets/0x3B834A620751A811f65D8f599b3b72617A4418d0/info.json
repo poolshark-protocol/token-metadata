@@ -1,0 +1,10 @@
+{
+    "name": "3X Short Cosmos Token",
+    "symbol": "ATOMBEAR",
+    "id": "0x3B834A620751A811f65D8f599b3b72617A4418d0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/3x-short-cosmos-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6.43,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3B834A620751A811f65D8f599b3b72617A4418d0/logo.png"
+}

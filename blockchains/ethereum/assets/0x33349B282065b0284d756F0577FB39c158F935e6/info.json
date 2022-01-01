@@ -1,0 +1,10 @@
+{
+    "name": "Maple Token",
+    "symbol": "MPL",
+    "id": "0x33349B282065b0284d756F0577FB39c158F935e6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/maple",
+    "market_cap_rank": 625,
+    "24_hr_volume_usd": 580426,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x33349B282065b0284d756F0577FB39c158F935e6/logo.png"
+}

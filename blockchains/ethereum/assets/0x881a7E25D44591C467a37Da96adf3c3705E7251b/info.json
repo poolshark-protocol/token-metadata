@@ -1,0 +1,10 @@
+{
+    "name": "ELYX",
+    "symbol": "ELYX",
+    "id": "0x881a7E25D44591C467a37Da96adf3c3705E7251b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/elynet-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12459.96,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x881a7E25D44591C467a37Da96adf3c3705E7251b/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Arbismart Token",
+    "symbol": "RBIS",
+    "id": "0xf34B1Db61ACa1a371fE97BAd2606c9f534fb9D7D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbismart-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 66276,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf34B1Db61ACa1a371fE97BAd2606c9f534fb9D7D/logo.png"
+}

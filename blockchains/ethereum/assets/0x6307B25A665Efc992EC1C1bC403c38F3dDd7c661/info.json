@@ -1,0 +1,10 @@
+{
+    "name": "Global Coin Research",
+    "symbol": "GCR",
+    "id": "0x6307B25A665Efc992EC1C1bC403c38F3dDd7c661",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/global-coin-research",
+    "market_cap_rank": 1002,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6307B25A665Efc992EC1C1bC403c38F3dDd7c661/logo.png"
+}

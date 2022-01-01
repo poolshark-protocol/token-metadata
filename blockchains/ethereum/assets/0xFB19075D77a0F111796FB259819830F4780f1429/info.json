@@ -1,0 +1,10 @@
+{
+    "name": "Fenerbahce Token",
+    "symbol": "FB",
+    "id": "0xFB19075D77a0F111796FB259819830F4780f1429",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fenerbahce-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 392352,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFB19075D77a0F111796FB259819830F4780f1429/logo.png"
+}

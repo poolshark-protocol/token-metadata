@@ -1,0 +1,10 @@
+{
+    "name": "Substratum",
+    "symbol": "SUB",
+    "id": "0x8D75959f1E61EC2571aa72798237101F084DE63a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/substratum",
+    "market_cap_rank": 2531,
+    "24_hr_volume_usd": 8028.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8D75959f1E61EC2571aa72798237101F084DE63a/logo.png"
+}

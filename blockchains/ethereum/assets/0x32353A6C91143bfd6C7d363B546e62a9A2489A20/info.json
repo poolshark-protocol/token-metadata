@@ -1,0 +1,10 @@
+{
+    "name": "Adventure Gold",
+    "symbol": "AGLD",
+    "id": "0x32353A6C91143bfd6C7d363B546e62a9A2489A20",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/adventure-gold",
+    "market_cap_rank": 418,
+    "24_hr_volume_usd": 11572749,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x32353A6C91143bfd6C7d363B546e62a9A2489A20/logo.png"
+}

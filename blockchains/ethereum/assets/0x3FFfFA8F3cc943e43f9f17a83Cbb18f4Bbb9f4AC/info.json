@@ -1,0 +1,10 @@
+{
+    "name": "rewardiqa",
+    "symbol": "REW",
+    "id": "0x3FFfFA8F3cc943e43f9f17a83Cbb18f4Bbb9f4AC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rewardiqa",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10618.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3FFfFA8F3cc943e43f9f17a83Cbb18f4Bbb9f4AC/logo.png"
+}

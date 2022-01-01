@@ -1,0 +1,10 @@
+{
+    "name": "YYFI.Protocol",
+    "symbol": "YYFI",
+    "id": "0xaF20b44C1C651D1d29cFB916eE2A0630B828Eb7A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yyfi-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaF20b44C1C651D1d29cFB916eE2A0630B828Eb7A/logo.png"
+}

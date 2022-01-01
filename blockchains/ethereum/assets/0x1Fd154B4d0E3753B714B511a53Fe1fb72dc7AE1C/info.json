@@ -1,0 +1,10 @@
+{
+    "name": "SW DAO",
+    "symbol": "SWD",
+    "id": "0x1Fd154B4d0E3753B714B511a53Fe1fb72dc7AE1C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sw-dao",
+    "market_cap_rank": 1875,
+    "24_hr_volume_usd": 12064.54,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1Fd154B4d0E3753B714B511a53Fe1fb72dc7AE1C/logo.png"
+}

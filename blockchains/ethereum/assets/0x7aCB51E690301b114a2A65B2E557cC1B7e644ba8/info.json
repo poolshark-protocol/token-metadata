@@ -1,0 +1,10 @@
+{
+    "name": "Online Expo",
+    "symbol": "EXPO",
+    "id": "0x7aCB51E690301b114a2A65B2E557cC1B7e644ba8",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/online-expo",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 68.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7aCB51E690301b114a2A65B2E557cC1B7e644ba8/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "BYTEDEX",
+    "symbol": "BEXT",
+    "id": "0xE22c4E46C6f54e72315CA6eDA934e7b766b0173D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bytedex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1461.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE22c4E46C6f54e72315CA6eDA934e7b766b0173D/logo.png"
+}

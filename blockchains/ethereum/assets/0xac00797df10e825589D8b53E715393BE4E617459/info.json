@@ -1,0 +1,10 @@
+{
+    "name": "BUBBLE",
+    "symbol": "BBL",
+    "id": "0xac00797df10e825589D8b53E715393BE4E617459",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bubble-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18547.52,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xac00797df10e825589D8b53E715393BE4E617459/logo.png"
+}

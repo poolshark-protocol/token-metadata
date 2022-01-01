@@ -1,0 +1,10 @@
+{
+    "name": "ALOHA",
+    "symbol": "ALOHA",
+    "id": "0x455F7Ef6D8BCfc35f9337e85aEe1B0600a59FabE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aloha",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 44099,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x455F7Ef6D8BCfc35f9337e85aEe1B0600a59FabE/logo.png"
+}

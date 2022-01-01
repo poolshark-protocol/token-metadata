@@ -1,0 +1,10 @@
+{
+    "name": "BXA",
+    "symbol": "BXA",
+    "id": "0x98d8d146e644171Cd47fF8588987B7bdeEF72A87",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blockchain-exchange-alliance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 439.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x98d8d146e644171Cd47fF8588987B7bdeEF72A87/logo.png"
+}

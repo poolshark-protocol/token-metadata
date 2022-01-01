@@ -1,0 +1,10 @@
+{
+    "name": "TERRAN",
+    "symbol": "TRR",
+    "id": "0x490e3f4af13e1616EC97A8C6600c1061a8D0253e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/terran-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2880248,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x490e3f4af13e1616EC97A8C6600c1061a8D0253e/logo.png"
+}

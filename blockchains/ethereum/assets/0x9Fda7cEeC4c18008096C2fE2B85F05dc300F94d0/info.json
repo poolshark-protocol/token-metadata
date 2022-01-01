@@ -1,0 +1,10 @@
+{
+    "name": "PolyGaj Token",
+    "symbol": "GAJ",
+    "id": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gaj",
+    "market_cap_rank": 2986,
+    "24_hr_volume_usd": 3500.18,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0/logo.png"
+}

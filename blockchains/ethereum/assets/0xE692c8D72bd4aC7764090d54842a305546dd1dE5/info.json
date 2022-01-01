@@ -1,0 +1,10 @@
+{
+    "name": "ANY Blocknet",
+    "symbol": "aBLOCK",
+    "id": "0xE692c8D72bd4aC7764090d54842a305546dd1dE5",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/any-blocknet",
+    "market_cap_rank": 1436,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE692c8D72bd4aC7764090d54842a305546dd1dE5/logo.png"
+}

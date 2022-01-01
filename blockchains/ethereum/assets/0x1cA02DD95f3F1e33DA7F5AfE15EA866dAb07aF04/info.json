@@ -1,0 +1,10 @@
+{
+    "name": "King Arthur",
+    "symbol": "BKING",
+    "id": "0x1cA02DD95f3F1e33DA7F5AfE15EA866dAb07aF04",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/king-arthur",
+    "market_cap_rank": 3161,
+    "24_hr_volume_usd": 6228.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1cA02DD95f3F1e33DA7F5AfE15EA866dAb07aF04/logo.png"
+}

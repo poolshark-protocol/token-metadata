@@ -1,0 +1,11 @@
+{
+    "name": "VideoCoin",
+    "symbol": "VID",
+    "id": "0x2C9023bBc572ff8dc1228c7858A280046Ea8C9E5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/videocoin",
+    "market_cap_rank": 616,
+    "24_hr_volume_usd": 113502,
+    "public_notice": "KuCoin Will List VideoCoin (VID) on August 27th. Trading: 18:00 on August 27, 2019 (UTC+8)",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C9023bBc572ff8dc1228c7858A280046Ea8C9E5/logo.png"
+}

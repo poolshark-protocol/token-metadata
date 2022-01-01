@@ -1,0 +1,10 @@
+{
+    "name": "MilliMeter",
+    "symbol": "MM",
+    "id": "0xC3c221fE28c33814c28c822b631fd76047eF1a63",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/millimeter",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1252004,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC3c221fE28c33814c28c822b631fd76047eF1a63/logo.png"
+}

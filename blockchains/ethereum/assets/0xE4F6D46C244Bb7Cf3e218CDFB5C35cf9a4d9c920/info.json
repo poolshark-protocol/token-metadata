@@ -1,0 +1,10 @@
+{
+    "name": "Donkey",
+    "symbol": "DONK",
+    "id": "0xE4F6D46C244Bb7Cf3e218CDFB5C35cf9a4d9c920",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/donkey",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1367.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE4F6D46C244Bb7Cf3e218CDFB5C35cf9a4d9c920/logo.png"
+}

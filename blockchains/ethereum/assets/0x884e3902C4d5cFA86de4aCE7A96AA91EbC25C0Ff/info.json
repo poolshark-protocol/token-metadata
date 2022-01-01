@@ -1,0 +1,10 @@
+{
+    "name": "Jbox",
+    "symbol": "JBX",
+    "id": "0x884e3902C4d5cFA86de4aCE7A96AA91EbC25C0Ff",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jboxcoin",
+    "market_cap_rank": 3405,
+    "24_hr_volume_usd": 0.02065791,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x884e3902C4d5cFA86de4aCE7A96AA91EbC25C0Ff/logo.png"
+}

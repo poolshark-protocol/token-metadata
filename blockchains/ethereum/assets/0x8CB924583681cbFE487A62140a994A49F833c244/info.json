@@ -1,0 +1,10 @@
+{
+    "name": "Swapp Token",
+    "symbol": "SWAPP",
+    "id": "0x8CB924583681cbFE487A62140a994A49F833c244",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/swapp",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13751.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8CB924583681cbFE487A62140a994A49F833c244/logo.png"
+}

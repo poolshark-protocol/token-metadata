@@ -1,0 +1,10 @@
+{
+    "name": "TRYC",
+    "symbol": "TRYC",
+    "id": "0x0000000005c6B7C1fd10915a05f034F90d524D6E",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tryc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 211933,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0000000005c6B7C1fd10915a05f034F90d524D6E/logo.png"
+}

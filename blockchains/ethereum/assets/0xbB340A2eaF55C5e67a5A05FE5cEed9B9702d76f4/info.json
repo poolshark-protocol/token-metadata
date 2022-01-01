@@ -1,0 +1,10 @@
+{
+    "name": "BolttCoin",
+    "symbol": "BOLTT",
+    "id": "0xbB340A2eaF55C5e67a5A05FE5cEed9B9702d76f4",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/boltt-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.082632,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbB340A2eaF55C5e67a5A05FE5cEed9B9702d76f4/logo.png"
+}

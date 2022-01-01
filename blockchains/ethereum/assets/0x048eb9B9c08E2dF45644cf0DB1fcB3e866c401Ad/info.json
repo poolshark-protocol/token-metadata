@@ -1,0 +1,10 @@
+{
+    "name": "Live Swap Coin",
+    "symbol": "LSC",
+    "id": "0x048eb9B9c08E2dF45644cf0DB1fcB3e866c401Ad",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/live-swap-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2389.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x048eb9B9c08E2dF45644cf0DB1fcB3e866c401Ad/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ONC",
+    "symbol": "ONC",
+    "id": "0xD90E69f67203EBE02c917B5128629E77B4cd92dc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/one-cash",
+    "market_cap_rank": 2836,
+    "24_hr_volume_usd": 127.25,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD90E69f67203EBE02c917B5128629E77B4cd92dc/logo.png"
+}

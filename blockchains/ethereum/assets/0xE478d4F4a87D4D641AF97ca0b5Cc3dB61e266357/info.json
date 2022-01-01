@@ -1,0 +1,10 @@
+{
+    "name": "LUCKY",
+    "symbol": "LUCKY",
+    "id": "0xE478d4F4a87D4D641AF97ca0b5Cc3dB61e266357",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lucky-2",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2590.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE478d4F4a87D4D641AF97ca0b5Cc3dB61e266357/logo.png"
+}

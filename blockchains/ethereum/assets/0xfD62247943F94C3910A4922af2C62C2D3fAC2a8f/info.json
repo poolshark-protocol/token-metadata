@@ -1,0 +1,10 @@
+{
+    "name": "BTEcoin",
+    "symbol": "BTE",
+    "id": "0xfD62247943F94C3910A4922af2C62C2D3fAC2a8f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/btecoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 148.32,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfD62247943F94C3910A4922af2C62C2D3fAC2a8f/logo.png"
+}

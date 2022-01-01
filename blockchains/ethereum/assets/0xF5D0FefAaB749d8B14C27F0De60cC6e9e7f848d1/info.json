@@ -1,0 +1,10 @@
+{
+    "name": "YFarmToken",
+    "symbol": "YFARM",
+    "id": "0xF5D0FefAaB749d8B14C27F0De60cC6e9e7f848d1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfarm-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF5D0FefAaB749d8B14C27F0De60cC6e9e7f848d1/logo.png"
+}

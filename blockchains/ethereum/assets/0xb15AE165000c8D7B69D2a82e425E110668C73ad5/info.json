@@ -1,0 +1,10 @@
+{
+    "name": "Linkbased",
+    "symbol": "LBD",
+    "id": "0xb15AE165000c8D7B69D2a82e425E110668C73ad5",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/linkbased",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb15AE165000c8D7B69D2a82e425E110668C73ad5/logo.png"
+}

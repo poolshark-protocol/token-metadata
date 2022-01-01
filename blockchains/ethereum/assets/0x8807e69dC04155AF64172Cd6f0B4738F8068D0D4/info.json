@@ -1,0 +1,10 @@
+{
+    "name": "Meta Network",
+    "symbol": "Meta",
+    "id": "0x8807e69dC04155AF64172Cd6f0B4738F8068D0D4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/meta-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 107.56,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8807e69dC04155AF64172Cd6f0B4738F8068D0D4/logo.png"
+}

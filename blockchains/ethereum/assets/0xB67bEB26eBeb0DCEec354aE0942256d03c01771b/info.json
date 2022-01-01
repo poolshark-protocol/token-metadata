@@ -1,0 +1,10 @@
+{
+    "name": "DS Token",
+    "symbol": "DS",
+    "id": "0xB67bEB26eBeb0DCEec354aE0942256d03c01771b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/destorage",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 86643,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB67bEB26eBeb0DCEec354aE0942256d03c01771b/logo.png"
+}

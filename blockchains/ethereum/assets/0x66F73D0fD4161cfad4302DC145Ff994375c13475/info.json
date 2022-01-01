@@ -1,0 +1,10 @@
+{
+    "name": "DEXGame",
+    "symbol": "DXGM",
+    "id": "0x66F73D0fD4161cfad4302DC145Ff994375c13475",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dex-game",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3165825,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x66F73D0fD4161cfad4302DC145Ff994375c13475/logo.png"
+}

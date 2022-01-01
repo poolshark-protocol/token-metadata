@@ -1,0 +1,10 @@
+{
+    "name": "Attrace",
+    "symbol": "ATTR",
+    "id": "0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/attrace",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 35657,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A/logo.png"
+}

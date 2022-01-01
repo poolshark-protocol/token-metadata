@@ -1,0 +1,10 @@
+{
+    "name": "MFI_ERC20",
+    "symbol": "MFI",
+    "id": "0xEaDC218Ac4cB7895a5A56e6484646b48f841C45a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metafinance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 32944,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEaDC218Ac4cB7895a5A56e6484646b48f841C45a/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Lympo Market Token",
+    "symbol": "LMT",
+    "id": "0x327673aE6B33Bd3d90f0096870059994f30Dc8AF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lympo-market-token",
+    "market_cap_rank": 1247,
+    "24_hr_volume_usd": 84163,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x327673aE6B33Bd3d90f0096870059994f30Dc8AF/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Baby Akita",
+    "symbol": "BKITA",
+    "id": "0x0D6F6a130C3046713cBA425f41a65C17205dF6B5",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/baby-akita",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0D6F6a130C3046713cBA425f41a65C17205dF6B5/logo.png"
+}

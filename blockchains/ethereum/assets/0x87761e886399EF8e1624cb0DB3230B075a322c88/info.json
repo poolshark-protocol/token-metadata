@@ -1,0 +1,10 @@
+{
+    "name": "CBK",
+    "symbol": "CBK",
+    "id": "0x87761e886399EF8e1624cb0DB3230B075a322c88",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crossing-the-yellow-blocks",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 961.67,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87761e886399EF8e1624cb0DB3230B075a322c88/logo.png"
+}

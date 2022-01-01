@@ -1,0 +1,10 @@
+{
+    "name": "DONA",
+    "symbol": "DONA",
+    "id": "0x058bC8Ef040bD3971418E36aA88b64899378CcF4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dona",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 932.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x058bC8Ef040bD3971418E36aA88b64899378CcF4/logo.png"
+}

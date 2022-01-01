@@ -1,0 +1,10 @@
+{
+    "name": "XTRD",
+    "symbol": "XTRD",
+    "id": "0x9c794f933b4DD8B49031A79b0f924D68BEF43992",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xtrade",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 109.54,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9c794f933b4DD8B49031A79b0f924D68BEF43992/logo.png"
+}

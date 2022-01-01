@@ -1,0 +1,10 @@
+{
+    "name": "HONEY TOKEN",
+    "symbol": "SWEET",
+    "id": "0x1fa9F1CbF8c9a4fb3431a5809f31723038ed291B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/honey-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 169.21,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1fa9F1CbF8c9a4fb3431a5809f31723038ed291B/logo.png"
+}

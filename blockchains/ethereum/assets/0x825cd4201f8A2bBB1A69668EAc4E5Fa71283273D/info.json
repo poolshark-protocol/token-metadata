@@ -1,0 +1,10 @@
+{
+    "name": "Zort Coin",
+    "symbol": "ZORT",
+    "id": "0x825cd4201f8A2bBB1A69668EAc4E5Fa71283273D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zort",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1347211,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x825cd4201f8A2bBB1A69668EAc4E5Fa71283273D/logo.png"
+}

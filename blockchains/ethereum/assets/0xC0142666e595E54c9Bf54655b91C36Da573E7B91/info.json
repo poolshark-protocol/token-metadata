@@ -1,0 +1,10 @@
+{
+    "name": "Bunny Farm Token",
+    "symbol": "BNF",
+    "id": "0xC0142666e595E54c9Bf54655b91C36Da573E7B91",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bunny-farm",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC0142666e595E54c9Bf54655b91C36Da573E7B91/logo.png"
+}

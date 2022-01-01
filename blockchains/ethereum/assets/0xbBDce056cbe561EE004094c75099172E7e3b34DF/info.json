@@ -1,0 +1,10 @@
+{
+    "name": "BeNative Digital Voucher",
+    "symbol": "BNV",
+    "id": "0xbBDce056cbe561EE004094c75099172E7e3b34DF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/benative",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.42,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbBDce056cbe561EE004094c75099172E7e3b34DF/logo.png"
+}

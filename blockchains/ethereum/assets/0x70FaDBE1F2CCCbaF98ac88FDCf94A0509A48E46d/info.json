@@ -1,0 +1,10 @@
+{
+    "name": "Green Light ERC20",
+    "symbol": "GL",
+    "id": "0x70FaDBE1F2CCCbaF98ac88FDCf94A0509A48E46d",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/green-light",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 24.56,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x70FaDBE1F2CCCbaF98ac88FDCf94A0509A48E46d/logo.png"
+}

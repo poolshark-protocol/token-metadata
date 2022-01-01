@@ -1,0 +1,10 @@
+{
+    "name": "WFAIR Token",
+    "symbol": "WFAIR",
+    "id": "0xC6065B9fc8171Ad3D29bad510709249681758972",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wallfair",
+    "market_cap_rank": 2674,
+    "24_hr_volume_usd": 36797,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC6065B9fc8171Ad3D29bad510709249681758972/logo.png"
+}

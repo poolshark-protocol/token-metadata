@@ -1,0 +1,10 @@
+{
+    "name": "Iron Bank GBP",
+    "symbol": "ibGBP",
+    "id": "0x69681f8fde45345C3870BCD5eaf4A05a60E7D227",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/iron-bank-gbp",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 95197,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69681f8fde45345C3870BCD5eaf4A05a60E7D227/logo.png"
+}

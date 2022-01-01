@@ -1,0 +1,10 @@
+{
+    "name": "Block Duelers",
+    "symbol": "BDT",
+    "id": "0x7BCe667EF12023dc5f8577D015a2F09d99a5ef58",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/block-duelers",
+    "market_cap_rank": 2829,
+    "24_hr_volume_usd": 2827.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7BCe667EF12023dc5f8577D015a2F09d99a5ef58/logo.png"
+}

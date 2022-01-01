@@ -1,0 +1,10 @@
+{
+    "name": "FileCoin standard Full hashrate Token",
+    "symbol": "SFIL",
+    "id": "0x965b85D4674F64422c4898C8F8083187f02B32C0",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/filecoin-standard-full-hashrate",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 35280,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x965b85D4674F64422c4898C8F8083187f02B32C0/logo.png"
+}

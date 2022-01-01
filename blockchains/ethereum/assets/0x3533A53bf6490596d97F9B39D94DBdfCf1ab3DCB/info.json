@@ -1,0 +1,10 @@
+{
+    "name": "Gold Sonic",
+    "symbol": "GSonic",
+    "id": "0x3533A53bf6490596d97F9B39D94DBdfCf1ab3DCB",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gold-sonic",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3533A53bf6490596d97F9B39D94DBdfCf1ab3DCB/logo.png"
+}

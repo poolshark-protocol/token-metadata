@@ -1,0 +1,10 @@
+{
+    "name": "Alkimi Exchange",
+    "symbol": "$ADS",
+    "id": "0x3106a0a076BeDAE847652F42ef07FD58589E001f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alkimi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 406949,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3106a0a076BeDAE847652F42ef07FD58589E001f/logo.png"
+}

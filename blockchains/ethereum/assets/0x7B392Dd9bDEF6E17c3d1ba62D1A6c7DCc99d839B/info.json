@@ -1,0 +1,10 @@
+{
+    "name": "Garfield Token",
+    "symbol": "GARFIELD",
+    "id": "0x7B392Dd9bDEF6E17c3d1ba62D1A6c7DCc99d839B",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/garfield-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 826.52,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7B392Dd9bDEF6E17c3d1ba62D1A6c7DCc99d839B/logo.png"
+}

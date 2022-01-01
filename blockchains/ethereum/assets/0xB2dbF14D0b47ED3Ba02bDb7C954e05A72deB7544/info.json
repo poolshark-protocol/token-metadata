@@ -1,0 +1,10 @@
+{
+    "name": "MobiFi",
+    "symbol": "MoFi",
+    "id": "0xB2dbF14D0b47ED3Ba02bDb7C954e05A72deB7544",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mobifi",
+    "market_cap_rank": 1756,
+    "24_hr_volume_usd": 102656,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB2dbF14D0b47ED3Ba02bDb7C954e05A72deB7544/logo.png"
+}

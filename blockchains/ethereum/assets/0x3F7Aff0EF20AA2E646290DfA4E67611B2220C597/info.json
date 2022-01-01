@@ -1,0 +1,10 @@
+{
+    "name": "Volt Inu",
+    "symbol": "VOLT",
+    "id": "0x3F7Aff0EF20AA2E646290DfA4E67611B2220C597",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/volt-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 451416,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3F7Aff0EF20AA2E646290DfA4E67611B2220C597/logo.png"
+}

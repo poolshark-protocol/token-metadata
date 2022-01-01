@@ -1,0 +1,10 @@
+{
+    "name": "Zipper",
+    "symbol": "ZIP",
+    "id": "0xA9d2927d3a04309E008B6af6E2e282AE2952e7fD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zip",
+    "market_cap_rank": 3098,
+    "24_hr_volume_usd": 0.04465817,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA9d2927d3a04309E008B6af6E2e282AE2952e7fD/logo.png"
+}

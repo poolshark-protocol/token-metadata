@@ -1,0 +1,10 @@
+{
+    "name": "Kwikswap",
+    "symbol": "KWIK",
+    "id": "0x286C0936c7Eaf6651099Ab5DAb9ee5A6cB5d229D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kwikswap-protocol",
+    "market_cap_rank": 2781,
+    "24_hr_volume_usd": 5883.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x286C0936c7Eaf6651099Ab5DAb9ee5A6cB5d229D/logo.png"
+}

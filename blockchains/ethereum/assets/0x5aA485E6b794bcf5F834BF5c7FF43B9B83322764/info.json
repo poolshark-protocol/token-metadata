@@ -1,0 +1,10 @@
+{
+    "name": "Mandi",
+    "symbol": "Mandi",
+    "id": "0x5aA485E6b794bcf5F834BF5c7FF43B9B83322764",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mandi-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.866501,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5aA485E6b794bcf5F834BF5c7FF43B9B83322764/logo.png"
+}

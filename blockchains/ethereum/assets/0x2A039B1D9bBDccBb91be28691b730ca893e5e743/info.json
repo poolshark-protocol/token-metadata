@@ -1,0 +1,10 @@
+{
+    "name": "Rentible",
+    "symbol": "RNB",
+    "id": "0x2A039B1D9bBDccBb91be28691b730ca893e5e743",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rentible",
+    "market_cap_rank": 1963,
+    "24_hr_volume_usd": 76639,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2A039B1D9bBDccBb91be28691b730ca893e5e743/logo.png"
+}

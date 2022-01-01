@@ -1,0 +1,10 @@
+{
+    "name": "My DeFi Pet Token",
+    "symbol": "DPET",
+    "id": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/my-defi-pet",
+    "market_cap_rank": 1026,
+    "24_hr_volume_usd": 1749125,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfb62AE373acA027177D1c18Ee0862817f9080d08/logo.png"
+}

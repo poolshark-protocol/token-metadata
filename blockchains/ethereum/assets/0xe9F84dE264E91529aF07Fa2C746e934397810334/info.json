@@ -1,0 +1,10 @@
+{
+    "name": "Sake",
+    "symbol": "SAK3",
+    "id": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sak3",
+    "market_cap_rank": 2282,
+    "24_hr_volume_usd": 21775,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe9F84dE264E91529aF07Fa2C746e934397810334/logo.png"
+}

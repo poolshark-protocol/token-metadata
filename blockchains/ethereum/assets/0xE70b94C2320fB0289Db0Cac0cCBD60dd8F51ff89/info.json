@@ -1,0 +1,11 @@
+{
+    "name": "Rezerve",
+    "symbol": "RZRV",
+    "id": "0xE70b94C2320fB0289Db0Cac0cCBD60dd8F51ff89",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rezerve",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1005.95,
+    "public_notice": "Rezerve has recently completed a fork from <a href=\"https://etherscan.io/token/0x23b8b512175590a76fff32c6f06a7ef1ce4724c7\">RZRV V1</a> to <a href=\"https://etherscan.io/token/0xE70b94C2320fB0289Db0Cac0cCBD60dd8F51ff89\">RZRV V2</a>. For more information, visit https://medium.com/@RezerveRZRV/re-the-upcoming-rzrv-fork-20f8fe07530c",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE70b94C2320fB0289Db0Cac0cCBD60dd8F51ff89/logo.png"
+}

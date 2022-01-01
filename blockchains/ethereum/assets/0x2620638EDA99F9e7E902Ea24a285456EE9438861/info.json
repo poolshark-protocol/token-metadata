@@ -1,0 +1,10 @@
+{
+    "name": "Crust Storage Market",
+    "symbol": "CSM",
+    "id": "0x2620638EDA99F9e7E902Ea24a285456EE9438861",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crust-storage-market",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8356.5,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2620638EDA99F9e7E902Ea24a285456EE9438861/logo.png"
+}

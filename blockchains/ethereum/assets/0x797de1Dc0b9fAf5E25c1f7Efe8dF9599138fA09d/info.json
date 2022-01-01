@@ -1,0 +1,10 @@
+{
+    "name": "Genesis Pool",
+    "symbol": "GPOOL",
+    "id": "0x797de1Dc0b9fAf5E25c1f7Efe8dF9599138fA09d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/genesis-pool",
+    "market_cap_rank": 1182,
+    "24_hr_volume_usd": 33926,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x797de1Dc0b9fAf5E25c1f7Efe8dF9599138fA09d/logo.png"
+}

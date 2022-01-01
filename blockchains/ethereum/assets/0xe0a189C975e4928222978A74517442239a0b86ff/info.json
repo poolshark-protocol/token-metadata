@@ -1,0 +1,10 @@
+{
+    "name": "Keys",
+    "symbol": "KEYS",
+    "id": "0xe0a189C975e4928222978A74517442239a0b86ff",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/keys-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 133277,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe0a189C975e4928222978A74517442239a0b86ff/logo.png"
+}

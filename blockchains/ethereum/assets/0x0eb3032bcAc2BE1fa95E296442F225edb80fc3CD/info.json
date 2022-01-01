@@ -1,0 +1,10 @@
+{
+    "name": "ASTER COIN",
+    "symbol": "ATC",
+    "id": "0x0eb3032bcAc2BE1fa95E296442F225edb80fc3CD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aster",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 730.31,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0eb3032bcAc2BE1fa95E296442F225edb80fc3CD/logo.png"
+}

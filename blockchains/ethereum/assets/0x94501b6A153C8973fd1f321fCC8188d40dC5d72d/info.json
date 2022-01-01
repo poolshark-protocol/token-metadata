@@ -1,0 +1,10 @@
+{
+    "name": "DigiDinar Token",
+    "symbol": "DDRT",
+    "id": "0x94501b6A153C8973fd1f321fCC8188d40dC5d72d",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/digidinar-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 52.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x94501b6A153C8973fd1f321fCC8188d40dC5d72d/logo.png"
+}

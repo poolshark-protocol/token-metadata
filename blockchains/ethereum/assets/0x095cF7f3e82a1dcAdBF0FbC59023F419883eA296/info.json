@@ -1,0 +1,10 @@
+{
+    "name": "PocketArena",
+    "symbol": "POC",
+    "id": "0x095cF7f3e82a1dcAdBF0FbC59023F419883eA296",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pocket-arena",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 26072,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x095cF7f3e82a1dcAdBF0FbC59023F419883eA296/logo.png"
+}

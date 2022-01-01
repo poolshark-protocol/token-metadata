@@ -1,0 +1,10 @@
+{
+    "name": "Touch Smart Token",
+    "symbol": "TST",
+    "id": "0xD9baE39c725A1864b1133Ad0eF1640d02f79B78c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/touch-social",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD9baE39c725A1864b1133Ad0eF1640d02f79B78c/logo.png"
+}

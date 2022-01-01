@@ -1,0 +1,10 @@
+{
+    "name": "GamerCoin",
+    "symbol": "GHX",
+    "id": "0x728f30fa2f100742C7949D1961804FA8E0B1387d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gamercoin",
+    "market_cap_rank": 853,
+    "24_hr_volume_usd": 1567529,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x728f30fa2f100742C7949D1961804FA8E0B1387d/logo.png"
+}

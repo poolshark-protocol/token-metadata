@@ -1,0 +1,10 @@
+{
+    "name": "FIAT DAO Token",
+    "symbol": "FDT",
+    "id": "0xEd1480d12bE41d92F36f5f7bDd88212E381A3677",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fiat-dao-token",
+    "market_cap_rank": 1295,
+    "24_hr_volume_usd": 330516,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEd1480d12bE41d92F36f5f7bDd88212E381A3677/logo.png"
+}

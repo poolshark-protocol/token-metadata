@@ -1,0 +1,10 @@
+{
+    "name": "Communifty",
+    "symbol": "CNFT",
+    "id": "0x8e2B4badaC15a4ec8c56020f4Ce60faa7558c052",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/communifty",
+    "market_cap_rank": 1907,
+    "24_hr_volume_usd": 2256.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8e2B4badaC15a4ec8c56020f4Ce60faa7558c052/logo.png"
+}

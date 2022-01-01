@@ -1,0 +1,10 @@
+{
+    "name": "Lemon Bet",
+    "symbol": "LBET",
+    "id": "0x932d447274dCFfB4Aea4f0944d3C804e88056416",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lemon-bet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5402.19,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x932d447274dCFfB4Aea4f0944d3C804e88056416/logo.png"
+}

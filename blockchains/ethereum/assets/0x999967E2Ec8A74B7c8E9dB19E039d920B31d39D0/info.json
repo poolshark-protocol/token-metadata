@@ -1,0 +1,10 @@
+{
+    "name": "TieToken",
+    "symbol": "TIE",
+    "id": "0x999967E2Ec8A74B7c8E9dB19E039d920B31d39D0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ties-network",
+    "market_cap_rank": 2847,
+    "24_hr_volume_usd": 0.745836,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x999967E2Ec8A74B7c8E9dB19E039d920B31d39D0/logo.png"
+}

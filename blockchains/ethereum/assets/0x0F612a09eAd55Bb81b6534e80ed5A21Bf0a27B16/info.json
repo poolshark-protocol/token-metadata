@@ -1,0 +1,10 @@
+{
+    "name": "EUNOMIA",
+    "symbol": "ENTS",
+    "id": "0x0F612a09eAd55Bb81b6534e80ed5A21Bf0a27B16",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eunomia",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1497.29,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0F612a09eAd55Bb81b6534e80ed5A21Bf0a27B16/logo.png"
+}

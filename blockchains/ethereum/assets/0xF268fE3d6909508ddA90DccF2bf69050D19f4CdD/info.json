@@ -1,0 +1,10 @@
+{
+    "name": "Grow Token",
+    "symbol": "GROW",
+    "id": "0xF268fE3d6909508ddA90DccF2bf69050D19f4CdD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/grow-token-2",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 226.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF268fE3d6909508ddA90DccF2bf69050D19f4CdD/logo.png"
+}

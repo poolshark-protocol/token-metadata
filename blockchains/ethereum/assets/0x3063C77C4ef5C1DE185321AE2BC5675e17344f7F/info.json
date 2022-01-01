@@ -1,0 +1,10 @@
+{
+    "name": "Megaweapon",
+    "symbol": "$WEAPON",
+    "id": "0x3063C77C4ef5C1DE185321AE2BC5675e17344f7F",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/megaweapon",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 66144,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3063C77C4ef5C1DE185321AE2BC5675e17344f7F/logo.png"
+}

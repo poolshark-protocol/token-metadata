@@ -1,0 +1,10 @@
+{
+    "name": "KLAYGAMES",
+    "symbol": "KLAYG",
+    "id": "0x2FDe5357c4715b12e754aAF2b85722ef803cB0B9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/klaygames",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 571.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2FDe5357c4715b12e754aAF2b85722ef803cB0B9/logo.png"
+}

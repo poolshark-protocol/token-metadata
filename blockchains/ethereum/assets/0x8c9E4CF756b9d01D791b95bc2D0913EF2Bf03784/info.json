@@ -1,0 +1,11 @@
+{
+    "name": "AeroToken",
+    "symbol": "AET",
+    "id": "0x8c9E4CF756b9d01D791b95bc2D0913EF2Bf03784",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aerotoken",
+    "market_cap_rank": 3468,
+    "24_hr_volume_usd": 0.00012659,
+    "public_notice": "Contract updated - https://medium.com/@aerotoken328/smart-contract-upgraded-2c1bd801527f",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8c9E4CF756b9d01D791b95bc2D0913EF2Bf03784/logo.png"
+}

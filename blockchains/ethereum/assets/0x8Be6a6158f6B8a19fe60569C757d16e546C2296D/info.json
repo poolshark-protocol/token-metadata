@@ -1,0 +1,10 @@
+{
+    "name": "yff.finance",
+    "symbol": "YFF",
+    "id": "0x8Be6a6158f6B8a19fe60569C757d16e546C2296D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yff-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8Be6a6158f6B8a19fe60569C757d16e546C2296D/logo.png"
+}

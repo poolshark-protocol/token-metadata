@@ -1,0 +1,10 @@
+{
+    "name": "CyberKongz",
+    "symbol": "KONGZ20",
+    "id": "0x9d59eba4DEAeE09466Ba9d4073BF912Bc72982B0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cyberkongz",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3924.14,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d59eba4DEAeE09466Ba9d4073BF912Bc72982B0/logo.png"
+}

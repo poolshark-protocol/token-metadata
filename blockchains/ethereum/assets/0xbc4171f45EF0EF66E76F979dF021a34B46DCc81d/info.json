@@ -1,0 +1,10 @@
+{
+    "name": "Dorayaki",
+    "symbol": "DORA",
+    "id": "0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dora-factory",
+    "market_cap_rank": 707,
+    "24_hr_volume_usd": 12819749,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped HNS",
+    "symbol": "WHNS",
+    "id": "0xA771b49064Da011DF051052848477f18DbA1d2Ac",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/handshake",
+    "market_cap_rank": 412,
+    "24_hr_volume_usd": 556494,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA771b49064Da011DF051052848477f18DbA1d2Ac/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "MindCell",
+    "symbol": "MDC",
+    "id": "0x9e6C59321CEB205d5d3BC6c539c017aF6159B16c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mindcell",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9e6C59321CEB205d5d3BC6c539c017aF6159B16c/logo.png"
+}

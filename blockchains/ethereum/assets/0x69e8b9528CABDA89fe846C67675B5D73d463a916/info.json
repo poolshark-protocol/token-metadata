@@ -1,0 +1,10 @@
+{
+    "name": "OPEN Governance Token",
+    "symbol": "OPEN",
+    "id": "0x69e8b9528CABDA89fe846C67675B5D73d463a916",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/open-governance-token",
+    "market_cap_rank": 2252,
+    "24_hr_volume_usd": 25167,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69e8b9528CABDA89fe846C67675B5D73d463a916/logo.png"
+}

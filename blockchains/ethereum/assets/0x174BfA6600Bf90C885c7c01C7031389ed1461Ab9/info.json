@@ -1,0 +1,10 @@
+{
+    "name": "More Gold Coin",
+    "symbol": "MGC",
+    "id": "0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mgc-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 32574,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9/logo.png"
+}

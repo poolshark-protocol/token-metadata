@@ -1,0 +1,10 @@
+{
+    "name": "Lite Gold",
+    "symbol": "LTG",
+    "id": "0xb4C9abc8a74Bd2E0E0b7AC5ecE30792e65D86c59",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/litegold",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 57.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb4C9abc8a74Bd2E0E0b7AC5ecE30792e65D86c59/logo.png"
+}

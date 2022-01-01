@@ -1,0 +1,10 @@
+{
+    "name": "Kayserispor Token",
+    "symbol": "KYSR",
+    "id": "0x5fC251C13c4ef172D87a32aB082897132B49435C",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kayserispor",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 52768,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5fC251C13c4ef172D87a32aB082897132B49435C/logo.png"
+}

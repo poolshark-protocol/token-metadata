@@ -1,0 +1,10 @@
+{
+    "name": "Asuna Inu",
+    "symbol": "AsunaInu",
+    "id": "0xC656B2279B0FdF761e832133B06CE607fBBcbceb",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/asuna-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1413.15,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC656B2279B0FdF761e832133B06CE607fBBcbceb/logo.png"
+}

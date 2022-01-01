@@ -1,0 +1,10 @@
+{
+    "name": "Celeb Plus",
+    "symbol": "CELEB",
+    "id": "0xA3e53fe692eEda3502cf5CcfD8a535E1f93d23Dd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/celeb",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9032003,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA3e53fe692eEda3502cf5CcfD8a535E1f93d23Dd/logo.png"
+}

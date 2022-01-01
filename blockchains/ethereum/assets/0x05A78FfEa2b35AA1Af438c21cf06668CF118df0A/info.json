@@ -1,0 +1,10 @@
+{
+    "name": "Migranet Token",
+    "symbol": "MIG",
+    "id": "0x05A78FfEa2b35AA1Af438c21cf06668CF118df0A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/migranet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.895107,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x05A78FfEa2b35AA1Af438c21cf06668CF118df0A/logo.png"
+}

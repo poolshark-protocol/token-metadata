@@ -1,0 +1,10 @@
+{
+    "name": "Botto",
+    "symbol": "BOTTO",
+    "id": "0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/botto",
+    "market_cap_rank": 1286,
+    "24_hr_volume_usd": 441399,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9DFAD1b7102D46b1b197b90095B5c4E9f5845BBA/logo.png"
+}

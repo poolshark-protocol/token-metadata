@@ -1,0 +1,10 @@
+{
+    "name": "Exgold",
+    "symbol": "EXG",
+    "id": "0x2a1174d1Cd4348Cb1EAeC3f00310908ca289E5be",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/exgold",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12.79,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2a1174d1Cd4348Cb1EAeC3f00310908ca289E5be/logo.png"
+}

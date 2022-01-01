@@ -1,0 +1,10 @@
+{
+    "name": "Psyche",
+    "symbol": "USD1",
+    "id": "0xf6c0aA7eBFE9992200C67E5388E4F42da49E1783",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/psyche",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.090602,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf6c0aA7eBFE9992200C67E5388E4F42da49E1783/logo.png"
+}

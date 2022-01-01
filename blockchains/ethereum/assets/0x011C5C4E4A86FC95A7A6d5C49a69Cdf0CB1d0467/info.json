@@ -1,0 +1,10 @@
+{
+    "name": "HK Coin",
+    "symbol": "HKC",
+    "id": "0x011C5C4E4A86FC95A7A6d5C49a69Cdf0CB1d0467",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hk-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 236678,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x011C5C4E4A86FC95A7A6d5C49a69Cdf0CB1d0467/logo.png"
+}

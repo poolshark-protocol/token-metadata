@@ -1,0 +1,10 @@
+{
+    "name": "CPUcoin",
+    "symbol": "CPU",
+    "id": "0x6D52DfeFb16BB9Cdc78bfCA09061e44574886626",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cpucoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6189.06,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6D52DfeFb16BB9Cdc78bfCA09061e44574886626/logo.png"
+}

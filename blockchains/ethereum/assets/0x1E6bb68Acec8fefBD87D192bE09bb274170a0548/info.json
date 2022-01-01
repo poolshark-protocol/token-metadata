@@ -1,0 +1,10 @@
+{
+    "name": "Aave interest bearing AMPL",
+    "symbol": "aAMPL",
+    "id": "0x1E6bb68Acec8fefBD87D192bE09bb274170a0548",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-interest-bearing-ampl",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3559.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1E6bb68Acec8fefBD87D192bE09bb274170a0548/logo.png"
+}

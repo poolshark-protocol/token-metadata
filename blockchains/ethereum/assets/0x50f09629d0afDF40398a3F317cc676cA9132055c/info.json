@@ -1,0 +1,10 @@
+{
+    "name": "EVAI.IO",
+    "symbol": "EVAI",
+    "id": "0x50f09629d0afDF40398a3F317cc676cA9132055c",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/evai",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 76914,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x50f09629d0afDF40398a3F317cc676cA9132055c/logo.png"
+}

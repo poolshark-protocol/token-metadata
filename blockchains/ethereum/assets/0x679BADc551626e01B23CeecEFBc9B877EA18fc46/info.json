@@ -1,0 +1,10 @@
+{
+    "name": "Ccore Token",
+    "symbol": "CCO",
+    "id": "0x679BADc551626e01B23CeecEFBc9B877EA18fc46",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ccore",
+    "market_cap_rank": 3239,
+    "24_hr_volume_usd": 180.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x679BADc551626e01B23CeecEFBc9B877EA18fc46/logo.png"
+}

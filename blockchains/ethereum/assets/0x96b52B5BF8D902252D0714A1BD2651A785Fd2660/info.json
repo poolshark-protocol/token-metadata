@@ -1,0 +1,10 @@
+{
+    "name": "EtherBone",
+    "symbol": "ETHBN",
+    "id": "0x96b52B5BF8D902252D0714A1BD2651A785Fd2660",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/etherbone",
+    "market_cap_rank": 3465,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x96b52B5BF8D902252D0714A1BD2651A785Fd2660/logo.png"
+}

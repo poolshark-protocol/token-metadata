@@ -1,0 +1,10 @@
+{
+    "name": "Game",
+    "symbol": "Game",
+    "id": "0x882e5b370D595E50c24b2a0e7a94e87Cc32ADdA1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/x-consoles",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 44494,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x882e5b370D595E50c24b2a0e7a94e87Cc32ADdA1/logo.png"
+}

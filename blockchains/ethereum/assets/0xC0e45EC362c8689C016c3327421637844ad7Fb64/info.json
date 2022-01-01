@@ -1,0 +1,10 @@
+{
+    "name": "BULL Inu",
+    "symbol": "BULL",
+    "id": "0xC0e45EC362c8689C016c3327421637844ad7Fb64",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bull-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 97.65,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC0e45EC362c8689C016c3327421637844ad7Fb64/logo.png"
+}

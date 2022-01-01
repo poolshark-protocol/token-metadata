@@ -1,0 +1,11 @@
+{
+    "name": "Cover Protocol Governance Token",
+    "symbol": "COVER",
+    "id": "0x4688a8b1F292FDaB17E9a90c8Bc379dC1DBd8713",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cover-protocol",
+    "market_cap_rank": 1834,
+    "24_hr_volume_usd": 353493,
+    "public_notice": "(5th Sept 2021) Cover Protocol will be shut down following the sudden departure of the core developers. For more information please read: https://defited.medium.com/project-shutdown-cover-ruler-bb2df50e2a95",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4688a8b1F292FDaB17E9a90c8Bc379dC1DBd8713/logo.png"
+}

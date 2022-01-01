@@ -1,0 +1,10 @@
+{
+    "name": "SPECTRUM",
+    "symbol": "SPT",
+    "id": "0x01cC4151fe5f00EfB8dF2F90ff833725d3a482a3",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/spectrum",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 88.51,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x01cC4151fe5f00EfB8dF2F90ff833725d3a482a3/logo.png"
+}

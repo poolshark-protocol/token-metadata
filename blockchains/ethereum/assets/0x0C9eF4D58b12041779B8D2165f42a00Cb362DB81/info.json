@@ -1,0 +1,10 @@
+{
+    "name": "Super Saiyan Blue",
+    "symbol": "SSB",
+    "id": "0x0C9eF4D58b12041779B8D2165f42a00Cb362DB81",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/super-saiyan-blue",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0C9eF4D58b12041779B8D2165f42a00Cb362DB81/logo.png"
+}

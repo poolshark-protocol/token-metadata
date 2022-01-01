@@ -1,0 +1,11 @@
+{
+    "name": "OrbicularV2",
+    "symbol": "ORBIv2",
+    "id": "0x2De27D3432d3188b53B02137E07B47896D347D45",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/orbicular",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Orbicular has upgraded the contract from v1 (0x11a2ab94ade17e96197c78f9d5f057332a19a0b9) to v2 (0x2de27d3432d3188b53b02137e07b47896d347d45)",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2De27D3432d3188b53B02137E07B47896D347D45/logo.png"
+}

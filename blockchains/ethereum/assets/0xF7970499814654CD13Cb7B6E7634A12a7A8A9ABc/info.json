@@ -1,0 +1,10 @@
+{
+    "name": "TOM",
+    "symbol": "TOM",
+    "id": "0xF7970499814654CD13Cb7B6E7634A12a7A8A9ABc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tom-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 144404,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF7970499814654CD13Cb7B6E7634A12a7A8A9ABc/logo.png"
+}

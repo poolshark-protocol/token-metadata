@@ -1,0 +1,10 @@
+{
+    "name": "mStable BTC",
+    "symbol": "mBTC",
+    "id": "0x945Facb997494CC2570096c74b5F66A3507330a1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mstable-btc",
+    "market_cap_rank": 1372,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x945Facb997494CC2570096c74b5F66A3507330a1/logo.png"
+}

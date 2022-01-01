@@ -1,0 +1,10 @@
+{
+    "name": "SOLARITE",
+    "symbol": "SOLARITE",
+    "id": "0x930eD81ad809603baf727117385D01f04354612E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/solarite",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x930eD81ad809603baf727117385D01f04354612E/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ruler Protocol",
+    "symbol": "RULER",
+    "id": "0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ruler-protocol",
+    "market_cap_rank": 3241,
+    "24_hr_volume_usd": 98.69,
+    "public_notice": "(5th Sept 2021) RULER Protocol will be shut down following the sudden departure of the core developers. For more information please read: https://defited.medium.com/project-shutdown-cover-ruler-bb2df50e2a95",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8/logo.png"
+}

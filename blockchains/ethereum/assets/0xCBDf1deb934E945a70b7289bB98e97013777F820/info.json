@@ -1,0 +1,10 @@
+{
+    "name": "Doge of Woof Street",
+    "symbol": "WSDOGE",
+    "id": "0xCBDf1deb934E945a70b7289bB98e97013777F820",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/doge-of-woof-street",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCBDf1deb934E945a70b7289bB98e97013777F820/logo.png"
+}

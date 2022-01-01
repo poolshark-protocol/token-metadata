@@ -1,0 +1,10 @@
+{
+    "name": "InfinityGaming",
+    "symbol": "PLAY",
+    "id": "0x95b4e47025372Ded4B73F9b5F0671B94a81445bC",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/infinitygaming",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 14412.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95b4e47025372Ded4B73F9b5F0671B94a81445bC/logo.png"
+}

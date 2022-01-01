@@ -1,0 +1,10 @@
+{
+    "name": "RNTB Token",
+    "symbol": "RNTB",
+    "id": "0x1FE70bE734e473e5721ea57C8B5B01e6Caa52686",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitrent",
+    "market_cap_rank": 3362,
+    "24_hr_volume_usd": 0.193644,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1FE70bE734e473e5721ea57C8B5B01e6Caa52686/logo.png"
+}

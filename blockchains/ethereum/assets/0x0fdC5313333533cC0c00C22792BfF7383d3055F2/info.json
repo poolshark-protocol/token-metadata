@@ -1,0 +1,10 @@
+{
+    "name": "YFPRO.FINANCE",
+    "symbol": "YFPRO",
+    "id": "0x0fdC5313333533cC0c00C22792BfF7383d3055F2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfpro-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1405.88,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0fdC5313333533cC0c00C22792BfF7383d3055F2/logo.png"
+}

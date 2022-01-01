@@ -1,0 +1,11 @@
+{
+    "name": "CryptoTwitter",
+    "symbol": "CT",
+    "id": "0x2E9CcE8C3Bf731f9bfC39e3D345A70907f454d40",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crypto-twitter",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1516.92,
+    "public_notice": "Kindly note that there are multiple, distinct projects that share variations of the moniker \"Crypto Twitter\". Users are advised to DYOR.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2E9CcE8C3Bf731f9bfC39e3D345A70907f454d40/logo.png"
+}

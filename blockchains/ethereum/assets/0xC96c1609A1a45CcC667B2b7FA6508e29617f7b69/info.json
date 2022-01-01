@@ -1,0 +1,10 @@
+{
+    "name": "2GT_token",
+    "symbol": "2GT",
+    "id": "0xC96c1609A1a45CcC667B2b7FA6508e29617f7b69",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/2gether-2",
+    "market_cap_rank": 2368,
+    "24_hr_volume_usd": 87.37,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC96c1609A1a45CcC667B2b7FA6508e29617f7b69/logo.png"
+}

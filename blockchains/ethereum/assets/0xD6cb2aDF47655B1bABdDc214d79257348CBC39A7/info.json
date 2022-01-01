@@ -1,0 +1,10 @@
+{
+    "name": "Oracle Top 5 Tokens Index",
+    "symbol": "ORCL5",
+    "id": "0xD6cb2aDF47655B1bABdDc214d79257348CBC39A7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/oracle-top-5",
+    "market_cap_rank": 3107,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD6cb2aDF47655B1bABdDc214d79257348CBC39A7/logo.png"
+}

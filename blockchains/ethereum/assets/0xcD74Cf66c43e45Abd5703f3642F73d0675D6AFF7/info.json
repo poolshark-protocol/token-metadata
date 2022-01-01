@@ -1,0 +1,10 @@
+{
+    "name": "erugo world coin",
+    "symbol": "EWC",
+    "id": "0xcD74Cf66c43e45Abd5703f3642F73d0675D6AFF7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/erugo-world-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4599650,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcD74Cf66c43e45Abd5703f3642F73d0675D6AFF7/logo.png"
+}

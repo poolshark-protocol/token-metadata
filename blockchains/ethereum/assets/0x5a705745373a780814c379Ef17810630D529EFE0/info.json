@@ -1,0 +1,10 @@
+{
+    "name": "ProjectSenpai",
+    "symbol": "SENPAI",
+    "id": "0x5a705745373a780814c379Ef17810630D529EFE0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/project-senpai",
+    "market_cap_rank": 3283,
+    "24_hr_volume_usd": 388.32,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5a705745373a780814c379Ef17810630D529EFE0/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "EnkronosToken",
+    "symbol": "ENK",
+    "id": "0x92B914f1DDcBb1D117a718E83C9ED7eB32fc44d1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/enkronos",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92B914f1DDcBb1D117a718E83C9ED7eB32fc44d1/logo.png"
+}

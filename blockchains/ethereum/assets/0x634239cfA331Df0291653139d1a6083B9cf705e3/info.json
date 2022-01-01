@@ -1,0 +1,10 @@
+{
+    "name": "DeSpace Protocol",
+    "symbol": "DES",
+    "id": "0x634239cfA331Df0291653139d1a6083B9cf705e3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/despace-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 304204,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x634239cfA331Df0291653139d1a6083B9cf705e3/logo.png"
+}

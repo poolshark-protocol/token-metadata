@@ -1,0 +1,10 @@
+{
+    "name": "WenMoon",
+    "symbol": "WM",
+    "id": "0x750c83707112E9aCc452692c190cB55E30f42510",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wenmoon",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 919.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x750c83707112E9aCc452692c190cB55E30f42510/logo.png"
+}

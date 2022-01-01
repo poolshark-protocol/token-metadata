@@ -1,0 +1,10 @@
+{
+    "name": "VUSD",
+    "symbol": "VUSD",
+    "id": "0x677ddbd918637E5F2c79e164D402454dE7dA8619",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vesper-vdollar",
+    "market_cap_rank": 3122,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x677ddbd918637E5F2c79e164D402454dE7dA8619/logo.png"
+}

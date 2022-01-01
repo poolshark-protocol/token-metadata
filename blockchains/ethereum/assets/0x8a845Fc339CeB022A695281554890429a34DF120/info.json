@@ -1,0 +1,10 @@
+{
+    "name": "MangoChain",
+    "symbol": "MGP",
+    "id": "0x8a845Fc339CeB022A695281554890429a34DF120",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mangochain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00406516,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8a845Fc339CeB022A695281554890429a34DF120/logo.png"
+}

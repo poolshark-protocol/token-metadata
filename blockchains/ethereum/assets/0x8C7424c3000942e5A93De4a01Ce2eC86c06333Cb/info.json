@@ -1,0 +1,10 @@
+{
+    "name": "ROCK3T 3t.finance",
+    "symbol": "R3T",
+    "id": "0x8C7424c3000942e5A93De4a01Ce2eC86c06333Cb",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rock3t",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 69.02,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8C7424c3000942e5A93De4a01Ce2eC86c06333Cb/logo.png"
+}

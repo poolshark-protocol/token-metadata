@@ -1,0 +1,11 @@
+{
+    "name": "TRUST DAO",
+    "symbol": "TRUST",
+    "id": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/trust",
+    "market_cap_rank": 3035,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "$TRUST tokens have been collected from holders to TrustDAO and will no longer have any utility.<br>For more info, please refer to https://medium.com/@TrustDAO/trust-tokens-collected-from-holders-and-usdt-distributed-back-to-them-respectively-adc9c2271607",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x57700244B20f84799a31c6C96DadFF373ca9D6c5/logo.png"
+}

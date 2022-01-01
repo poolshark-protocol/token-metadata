@@ -1,0 +1,10 @@
+{
+    "name": "StartFiToken",
+    "symbol": "STFI",
+    "id": "0xFD9cd8c0D18cD7e06958F3055e0Ec3ADbdba0B17",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/startfi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 163766,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFD9cd8c0D18cD7e06958F3055e0Ec3ADbdba0B17/logo.png"
+}

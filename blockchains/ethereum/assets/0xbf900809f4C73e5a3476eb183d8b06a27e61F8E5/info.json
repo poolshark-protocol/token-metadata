@@ -1,0 +1,10 @@
+{
+    "name": "Vanilla",
+    "symbol": "VNL",
+    "id": "0xbf900809f4C73e5a3476eb183d8b06a27e61F8E5",
+    "decimals": 12,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vanilla",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1882.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbf900809f4C73e5a3476eb183d8b06a27e61F8E5/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "DeFi.ch",
+    "symbol": "DFCH",
+    "id": "0xA92cDf011c895780733b2a6A6e15C4c1ed836148",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defi-ch",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5057.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA92cDf011c895780733b2a6A6e15C4c1ed836148/logo.png"
+}

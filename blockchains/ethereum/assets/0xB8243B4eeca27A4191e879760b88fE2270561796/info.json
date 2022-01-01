@@ -1,0 +1,10 @@
+{
+    "name": "ETHUSD ADL 4H Set",
+    "symbol": "ETHUSDADL4",
+    "id": "0xB8243B4eeca27A4191e879760b88fE2270561796",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethusd-adl-4h-set",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3870.2,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB8243B4eeca27A4191e879760b88fE2270561796/logo.png"
+}

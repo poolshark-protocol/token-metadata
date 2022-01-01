@@ -1,0 +1,10 @@
+{
+    "name": "Compound USDT",
+    "symbol": "cUSDT",
+    "id": "0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/compound-usdt",
+    "market_cap_rank": 134,
+    "24_hr_volume_usd": 13833813,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf650C3d88D12dB855b8bf7D11Be6C55A4e07dCC9/logo.png"
+}

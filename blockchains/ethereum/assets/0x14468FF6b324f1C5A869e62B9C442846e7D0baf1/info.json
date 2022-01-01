@@ -1,0 +1,10 @@
+{
+    "name": "Maya Coin",
+    "symbol": "MAYA",
+    "id": "0x14468FF6b324f1C5A869e62B9C442846e7D0baf1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/maya-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.262402,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x14468FF6b324f1C5A869e62B9C442846e7D0baf1/logo.png"
+}

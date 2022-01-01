@@ -1,0 +1,10 @@
+{
+    "name": "Privatix",
+    "symbol": "PRIX",
+    "id": "0x3ADfc4999F77D04c8341BAC5F3A76f58DfF5B37A",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/privatix",
+    "market_cap_rank": 3252,
+    "24_hr_volume_usd": 29788,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3ADfc4999F77D04c8341BAC5F3A76f58DfF5B37A/logo.png"
+}

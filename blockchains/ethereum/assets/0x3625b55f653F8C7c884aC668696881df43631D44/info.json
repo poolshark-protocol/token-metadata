@@ -1,0 +1,10 @@
+{
+    "name": "Arti Project",
+    "symbol": "ARTI",
+    "id": "0x3625b55f653F8C7c884aC668696881df43631D44",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arti-project",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 71781,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3625b55f653F8C7c884aC668696881df43631D44/logo.png"
+}

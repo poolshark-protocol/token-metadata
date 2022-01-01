@@ -1,0 +1,10 @@
+{
+    "name": "shinechain",
+    "symbol": "SHE",
+    "id": "0x9064c91e51d7021A85AD96817e1432aBf6624470",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shinechain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7986.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9064c91e51d7021A85AD96817e1432aBf6624470/logo.png"
+}

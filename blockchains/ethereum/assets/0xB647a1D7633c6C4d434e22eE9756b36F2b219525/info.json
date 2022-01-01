@@ -1,0 +1,10 @@
+{
+    "name": "ETH 20 MA Crossover Yield II",
+    "symbol": "ETHMACOAPY",
+    "id": "0xB647a1D7633c6C4d434e22eE9756b36F2b219525",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eth-20-ma-crossover-yield-set-ii",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6556.61,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB647a1D7633c6C4d434e22eE9756b36F2b219525/logo.png"
+}

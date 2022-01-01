@@ -1,0 +1,10 @@
+{
+    "name": "xINCH",
+    "symbol": "xINCHa",
+    "id": "0x8F6A193C8B3c949E1046f1547C3A3f0836944E4b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xincha",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2664.12,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8F6A193C8B3c949E1046f1547C3A3f0836944E4b/logo.png"
+}

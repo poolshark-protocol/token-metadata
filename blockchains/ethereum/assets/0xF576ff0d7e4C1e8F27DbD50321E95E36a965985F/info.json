@@ -1,0 +1,10 @@
+{
+    "name": "Apiary Fund Coin",
+    "symbol": "AFC",
+    "id": "0xF576ff0d7e4C1e8F27DbD50321E95E36a965985F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apiary-fund-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 60.3,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF576ff0d7e4C1e8F27DbD50321E95E36a965985F/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Ispolink Token",
+    "symbol": "ISP",
+    "id": "0xC8807f0f5BA3fa45FfBdc66928d71c5289249014",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ispolink",
+    "market_cap_rank": 1147,
+    "24_hr_volume_usd": 4604887,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC8807f0f5BA3fa45FfBdc66928d71c5289249014/logo.png"
+}

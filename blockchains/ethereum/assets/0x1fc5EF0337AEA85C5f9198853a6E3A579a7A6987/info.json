@@ -1,0 +1,10 @@
+{
+    "name": "ReapChain",
+    "symbol": "REAP",
+    "id": "0x1fc5EF0337AEA85C5f9198853a6E3A579a7A6987",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/reapchain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 929381,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1fc5EF0337AEA85C5f9198853a6E3A579a7A6987/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "FastSwapToken",
+    "symbol": "FAST",
+    "id": "0xC888A0Ab4831A29e6cA432BaBf52E353D23Db3c2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fastswap",
+    "market_cap_rank": 3477,
+    "24_hr_volume_usd": 1455.78,
+    "public_notice": "Fastswap will be migrating to <a href=\"https://www.coingecko.com/en/coins/fastswap-bsc?locale=en\">Fastswap BSC</a>. For more information, visit their Twitter page.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC888A0Ab4831A29e6cA432BaBf52E353D23Db3c2/logo.png"
+}

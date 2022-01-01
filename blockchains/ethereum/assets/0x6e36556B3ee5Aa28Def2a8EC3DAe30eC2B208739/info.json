@@ -1,0 +1,10 @@
+{
+    "name": "BUILD Finance",
+    "symbol": "BUILD",
+    "id": "0x6e36556B3ee5Aa28Def2a8EC3DAe30eC2B208739",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/build-finance",
+    "market_cap_rank": 2368,
+    "24_hr_volume_usd": 61105,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6e36556B3ee5Aa28Def2a8EC3DAe30eC2B208739/logo.png"
+}

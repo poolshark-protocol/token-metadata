@@ -1,0 +1,10 @@
+{
+    "name": "NFTX",
+    "symbol": "NFTX",
+    "id": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nftx",
+    "market_cap_rank": 753,
+    "24_hr_volume_usd": 455256,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776/logo.png"
+}

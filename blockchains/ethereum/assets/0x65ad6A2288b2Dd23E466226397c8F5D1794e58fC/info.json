@@ -1,0 +1,11 @@
+{
+    "name": "GamyFi",
+    "symbol": "GFX",
+    "id": "0x65ad6A2288b2Dd23E466226397c8F5D1794e58fC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gamyfi-token",
+    "market_cap_rank": 1963,
+    "24_hr_volume_usd": 14565.46,
+    "public_notice": "Gamyfi has upgraded its smart contract from 0xe4fa3c576c31696322e8d7165c5965d5a1f6a1a5 to 0x65ad6a2288b2dd23e466226397c8f5d1794e58fc. For more information: https://gamyfi.medium.com/gamyfi-token-gfx-contract-upgrade-is-here-swap-to-new-token-now-f1afcec5ed5",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x65ad6A2288b2Dd23E466226397c8F5D1794e58fC/logo.png"
+}

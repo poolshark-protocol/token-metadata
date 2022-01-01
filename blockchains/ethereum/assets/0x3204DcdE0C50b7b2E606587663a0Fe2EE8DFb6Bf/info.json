@@ -1,0 +1,10 @@
+{
+    "name": "THEX-THOREExchange",
+    "symbol": "THE",
+    "id": "0x3204DcdE0C50b7b2E606587663a0Fe2EE8DFb6Bf",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/thore-exchange",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.482171,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3204DcdE0C50b7b2E606587663a0Fe2EE8DFb6Bf/logo.png"
+}

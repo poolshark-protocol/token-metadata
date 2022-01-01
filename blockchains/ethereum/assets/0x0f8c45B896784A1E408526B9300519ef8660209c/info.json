@@ -1,0 +1,10 @@
+{
+    "name": "XMAX",
+    "symbol": "XMX",
+    "id": "0x0f8c45B896784A1E408526B9300519ef8660209c",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xmax",
+    "market_cap_rank": 2062,
+    "24_hr_volume_usd": 40424,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f8c45B896784A1E408526B9300519ef8660209c/logo.png"
+}

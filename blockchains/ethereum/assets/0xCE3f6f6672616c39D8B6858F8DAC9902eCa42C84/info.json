@@ -1,0 +1,10 @@
+{
+    "name": "DAO1",
+    "symbol": "DAO1",
+    "id": "0xCE3f6f6672616c39D8B6858F8DAC9902eCa42C84",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dao1",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3179.51,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCE3f6f6672616c39D8B6858F8DAC9902eCa42C84/logo.png"
+}

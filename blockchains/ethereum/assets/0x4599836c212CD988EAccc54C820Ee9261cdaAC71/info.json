@@ -1,0 +1,10 @@
+{
+    "name": "Cryptid",
+    "symbol": "CID",
+    "id": "0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptid",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18.03,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4599836c212CD988EAccc54C820Ee9261cdaAC71/logo.png"
+}

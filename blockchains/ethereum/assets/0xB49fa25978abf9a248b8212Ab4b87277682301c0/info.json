@@ -1,0 +1,11 @@
+{
+    "name": "Rai.Finance",
+    "symbol": "SOFI",
+    "id": "0xB49fa25978abf9a248b8212Ab4b87277682301c0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rai-finance",
+    "market_cap_rank": 549,
+    "24_hr_volume_usd": 763167,
+    "public_notice": "Rai Finance has rebranded their ticker symbol as SOFI and migrated from the <a href=\"https://etherscan.io/token/0xf30547ff2Df1F1CBE5C8DD758B3dd098C856e38f\">old contract</a> to a <a href=\"https://etherscan.io/token/0xb49fa25978abf9a248b8212ab4b87277682301c0\">new one</a>. Read more at their <a href=\"https://medium.com/rai-finance/the-swap-from-rai-to-sofi-is-officially-live-supported-by-rai-finance-official-website-and-3b208cc664de\">Medium</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB49fa25978abf9a248b8212Ab4b87277682301c0/logo.png"
+}

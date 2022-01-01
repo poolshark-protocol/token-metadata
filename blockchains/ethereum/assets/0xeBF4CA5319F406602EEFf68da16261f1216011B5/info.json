@@ -1,0 +1,10 @@
+{
+    "name": "Yo Token",
+    "symbol": "YOT",
+    "id": "0xeBF4CA5319F406602EEFf68da16261f1216011B5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yobit-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 318647,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeBF4CA5319F406602EEFf68da16261f1216011B5/logo.png"
+}

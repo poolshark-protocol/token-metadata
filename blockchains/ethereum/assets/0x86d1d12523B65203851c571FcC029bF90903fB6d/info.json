@@ -1,0 +1,11 @@
+{
+    "name": "Bintex Futures",
+    "symbol": "BNTX",
+    "id": "0x86d1d12523B65203851c571FcC029bF90903fB6d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bintex-futures",
+    "market_cap_rank": 2599,
+    "24_hr_volume_usd": 41356,
+    "public_notice": "BintexFutures has undergone a contract migration from <a href=\"https://etherscan.io/token/0x499f434458F62a1e76974fCe5eFcE9DD6B31D4f2\">0x499f434458F62a1e76974fCe5eFcE9DD6B31D4f2 </a> to <a href=\"https://etherscan.io/token/0x86d1d12523B65203851c571FcC029bF90903fB6d\">0x86d1d12523B65203851c571FcC029bF90903fB6d</a>, for more information, please visit https://bintexfutures.medium.com/dear-bintex-futures-users-af60673e39ef",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x86d1d12523B65203851c571FcC029bF90903fB6d/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Coinnec",
+    "symbol": "COI",
+    "id": "0x8a1a9477a710D470575b1Da335e524b27e8091ab",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coinnec",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.638738,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8a1a9477a710D470575b1Da335e524b27e8091ab/logo.png"
+}

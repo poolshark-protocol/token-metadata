@@ -1,0 +1,10 @@
+{
+    "name": "eSOV",
+    "symbol": "eSOV",
+    "id": "0xbdab72602e9AD40FC6a6852CAf43258113B8F7a5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sovryn",
+    "market_cap_rank": 344,
+    "24_hr_volume_usd": 656040,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbdab72602e9AD40FC6a6852CAf43258113B8F7a5/logo.png"
+}

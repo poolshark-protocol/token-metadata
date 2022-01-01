@@ -1,0 +1,10 @@
+{
+    "name": "Rammus",
+    "symbol": "Rammus",
+    "id": "0xA4fABD195f6245437Ab459F7597bFa4F9112ec9e",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rammus",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 353.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA4fABD195f6245437Ab459F7597bFa4F9112ec9e/logo.png"
+}

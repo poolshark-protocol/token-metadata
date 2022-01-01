@@ -1,0 +1,10 @@
+{
+    "name": "Memecoin",
+    "symbol": "MEM",
+    "id": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/memecoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 78957,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758/logo.png"
+}

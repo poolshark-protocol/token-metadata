@@ -1,0 +1,10 @@
+{
+    "name": "SoftChainCoin",
+    "symbol": "SCC",
+    "id": "0x86696431D6ACA9bae5CE6536ECF5D437F2e6Dba2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/softchain",
+    "market_cap_rank": 3413,
+    "24_hr_volume_usd": 1126.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x86696431D6ACA9bae5CE6536ECF5D437F2e6Dba2/logo.png"
+}

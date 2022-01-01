@@ -1,0 +1,11 @@
+{
+    "name": "Eden",
+    "symbol": "EDEN",
+    "id": "0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eden",
+    "market_cap_rank": 517,
+    "24_hr_volume_usd": 3702745,
+    "public_notice": "<a href=\"https://www.coingecko.com/en/coins/archer-dao-governance-token?locale=en\">ARCH</a> is currently undergoing migration to EDEN. For more information, visit https://medium.com/archer-dao/arch-token-migration-915e6af976c6.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "MARS Context Network",
+    "symbol": "MARS",
+    "id": "0xEDD8DA5C20EB014E550008DF3304213ddE5e29F0",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mar-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1065.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEDD8DA5C20EB014E550008DF3304213ddE5e29F0/logo.png"
+}

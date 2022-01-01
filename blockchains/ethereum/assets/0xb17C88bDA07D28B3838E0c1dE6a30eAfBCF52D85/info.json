@@ -1,0 +1,11 @@
+{
+    "name": "Shyft [ Wrapped ]",
+    "symbol": "SHFT",
+    "id": "0xb17C88bDA07D28B3838E0c1dE6a30eAfBCF52D85",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shyft-network-2",
+    "market_cap_rank": 600,
+    "24_hr_volume_usd": 263500,
+    "public_notice": "Contract updated from 0xcba3eae7f55d0f423af43cc85e67ab0fbf87b61c to 0xb17C88bDA07D28B3838E0c1dE6a30eAfBCF52D85. Read more at https://shyftnetwork.medium.com/shyft-network-v-2-ethereum-contract-upgrade-38f09b59bc1e",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb17C88bDA07D28B3838E0c1dE6a30eAfBCF52D85/logo.png"
+}

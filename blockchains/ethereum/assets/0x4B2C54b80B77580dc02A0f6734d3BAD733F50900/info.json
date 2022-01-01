@@ -1,0 +1,10 @@
+{
+    "name": "Kiba Inu",
+    "symbol": "KIBA",
+    "id": "0x4B2C54b80B77580dc02A0f6734d3BAD733F50900",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kiba-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1081934,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4B2C54b80B77580dc02A0f6734d3BAD733F50900/logo.png"
+}

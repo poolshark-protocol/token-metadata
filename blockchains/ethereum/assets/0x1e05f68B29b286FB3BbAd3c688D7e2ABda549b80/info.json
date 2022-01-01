@@ -1,0 +1,10 @@
+{
+    "name": "PICIPO",
+    "symbol": "PICIPO",
+    "id": "0x1e05f68B29b286FB3BbAd3c688D7e2ABda549b80",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/picipo",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4249.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1e05f68B29b286FB3BbAd3c688D7e2ABda549b80/logo.png"
+}

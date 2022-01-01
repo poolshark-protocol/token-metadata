@@ -1,0 +1,10 @@
+{
+    "name": "fetish coin",
+    "symbol": "FET",
+    "id": "0xeFCec6d87e3ce625c90865a49f2b7482963D73fE",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fetish-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00678757,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeFCec6d87e3ce625c90865a49f2b7482963D73fE/logo.png"
+}

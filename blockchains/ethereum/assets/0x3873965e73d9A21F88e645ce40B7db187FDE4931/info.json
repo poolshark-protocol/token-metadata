@@ -1,0 +1,10 @@
+{
+    "name": "Plethori",
+    "symbol": "PLE",
+    "id": "0x3873965e73d9A21F88e645ce40B7db187FDE4931",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/plethori",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 852925,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3873965e73d9A21F88e645ce40B7db187FDE4931/logo.png"
+}

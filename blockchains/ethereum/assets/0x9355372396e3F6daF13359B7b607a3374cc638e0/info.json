@@ -1,0 +1,10 @@
+{
+    "name": "WHALE",
+    "symbol": "WHALE",
+    "id": "0x9355372396e3F6daF13359B7b607a3374cc638e0",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/whale",
+    "market_cap_rank": 470,
+    "24_hr_volume_usd": 1452116,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9355372396e3F6daF13359B7b607a3374cc638e0/logo.png"
+}

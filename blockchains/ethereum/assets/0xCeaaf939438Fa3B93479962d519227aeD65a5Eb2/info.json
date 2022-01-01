@@ -1,0 +1,10 @@
+{
+    "name": "Shiba Mongoose",
+    "symbol": "SHIBMONG",
+    "id": "0xCeaaf939438Fa3B93479962d519227aeD65a5Eb2",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shiba-mongoose",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 194364,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCeaaf939438Fa3B93479962d519227aeD65a5Eb2/logo.png"
+}

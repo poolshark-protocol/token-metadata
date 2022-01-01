@@ -1,0 +1,11 @@
+{
+    "name": "Waves Ducks",
+    "symbol": "EGG",
+    "id": "0xC2708A3A4ba7F64bddc1A49F92f941Bc77Cad23a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/waves-ducks",
+    "market_cap_rank": 938,
+    "24_hr_volume_usd": 177594,
+    "public_notice": "Notice: $EGG is currently undergoing a contract migration. Read more at: https://medium.com/wavesprotocol/egg-will-be-born-again-on-september-15-96b47f07c0ef. Users can migrate their tokens at: https://wavesducks.com/swap",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC2708A3A4ba7F64bddc1A49F92f941Bc77Cad23a/logo.png"
+}

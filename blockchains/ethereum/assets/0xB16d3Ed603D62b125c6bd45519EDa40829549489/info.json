@@ -1,0 +1,10 @@
+{
+    "name": "Insureum Token",
+    "symbol": "ISR",
+    "id": "0xB16d3Ed603D62b125c6bd45519EDa40829549489",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/insureum",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 176901,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB16d3Ed603D62b125c6bd45519EDa40829549489/logo.png"
+}

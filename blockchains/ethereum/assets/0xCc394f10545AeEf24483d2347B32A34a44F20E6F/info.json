@@ -1,0 +1,10 @@
+{
+    "name": "Vault Guardian Token",
+    "symbol": "VGT",
+    "id": "0xCc394f10545AeEf24483d2347B32A34a44F20E6F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vault12",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCc394f10545AeEf24483d2347B32A34a44F20E6F/logo.png"
+}

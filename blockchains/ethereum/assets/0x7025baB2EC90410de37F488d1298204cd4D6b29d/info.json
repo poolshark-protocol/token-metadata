@@ -1,0 +1,10 @@
+{
+    "name": "MasterXriba",
+    "symbol": "XRA",
+    "id": "0x7025baB2EC90410de37F488d1298204cd4D6b29d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xriba",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10548.12,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7025baB2EC90410de37F488d1298204cd4D6b29d/logo.png"
+}

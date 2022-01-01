@@ -1,0 +1,10 @@
+{
+    "name": "agEUR",
+    "symbol": "agEUR",
+    "id": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ageur",
+    "market_cap_rank": 340,
+    "24_hr_volume_usd": 2077385,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8/logo.png"
+}

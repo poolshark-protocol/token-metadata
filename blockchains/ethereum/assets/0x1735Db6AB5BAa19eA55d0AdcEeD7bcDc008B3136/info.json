@@ -1,0 +1,10 @@
+{
+    "name": "UREEQA Token",
+    "symbol": "URQA",
+    "id": "0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ureeqa",
+    "market_cap_rank": 1379,
+    "24_hr_volume_usd": 29339,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1735Db6AB5BAa19eA55d0AdcEeD7bcDc008B3136/logo.png"
+}

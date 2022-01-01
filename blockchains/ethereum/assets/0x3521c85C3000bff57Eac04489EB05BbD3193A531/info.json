@@ -1,0 +1,10 @@
+{
+    "name": "METAWHALE BTC",
+    "symbol": "mwBTC",
+    "id": "0x3521c85C3000bff57Eac04489EB05BbD3193A531",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metawhale-btc",
+    "market_cap_rank": 3423,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3521c85C3000bff57Eac04489EB05BbD3193A531/logo.png"
+}

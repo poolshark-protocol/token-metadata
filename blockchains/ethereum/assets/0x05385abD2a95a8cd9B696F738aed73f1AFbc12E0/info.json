@@ -1,0 +1,10 @@
+{
+    "name": "Fompound",
+    "symbol": "FOMP",
+    "id": "0x05385abD2a95a8cd9B696F738aed73f1AFbc12E0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fompound",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8072.86,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x05385abD2a95a8cd9B696F738aed73f1AFbc12E0/logo.png"
+}

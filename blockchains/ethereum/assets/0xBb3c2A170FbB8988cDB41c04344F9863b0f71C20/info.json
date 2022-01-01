@@ -1,0 +1,10 @@
+{
+    "name": "CarbonEco",
+    "symbol": "c0",
+    "id": "0xBb3c2A170FbB8988cDB41c04344F9863b0f71C20",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/carboneco",
+    "market_cap_rank": 1415,
+    "24_hr_volume_usd": 455.52,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBb3c2A170FbB8988cDB41c04344F9863b0f71C20/logo.png"
+}

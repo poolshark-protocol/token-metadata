@@ -1,0 +1,11 @@
+{
+    "name": "CryptoPing",
+    "symbol": "PING",
+    "id": "0x21cD6Af01383651ed10554394C0497f9dB5e5dbC",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptoping",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 93.96,
+    "public_notice": "CryptoPing has underwent a token migration to the Ethereum Blockchain, for more info: https://twitter.com/cryptoping/status/1351898880217067523?s=20",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x21cD6Af01383651ed10554394C0497f9dB5e5dbC/logo.png"
+}

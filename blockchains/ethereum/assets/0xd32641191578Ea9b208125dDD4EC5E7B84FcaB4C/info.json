@@ -1,0 +1,10 @@
+{
+    "name": "TMED Token",
+    "symbol": "TMED",
+    "id": "0xd32641191578Ea9b208125dDD4EC5E7B84FcaB4C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mdsquare",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3883.67,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd32641191578Ea9b208125dDD4EC5E7B84FcaB4C/logo.png"
+}

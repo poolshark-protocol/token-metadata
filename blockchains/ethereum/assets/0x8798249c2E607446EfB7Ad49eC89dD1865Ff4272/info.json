@@ -1,0 +1,10 @@
+{
+    "name": "SushiBar",
+    "symbol": "xSUSHI",
+    "id": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xsushi",
+    "market_cap_rank": 153,
+    "24_hr_volume_usd": 1278325,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "PayFair Token",
+    "symbol": "PFR",
+    "id": "0x6353EaDF8D1D4421002332BB9074222b14d54881",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/payfair",
+    "market_cap_rank": 3245,
+    "24_hr_volume_usd": 31.42,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6353EaDF8D1D4421002332BB9074222b14d54881/logo.png"
+}

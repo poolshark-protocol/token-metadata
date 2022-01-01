@@ -1,0 +1,10 @@
+{
+    "name": "Vera",
+    "symbol": "Vera",
+    "id": "0x166F1a7eCAe00bd43876A25B10a63C575e05c0e7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vera-exchange",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00179456,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x166F1a7eCAe00bd43876A25B10a63C575e05c0e7/logo.png"
+}

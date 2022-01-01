@@ -1,0 +1,10 @@
+{
+    "name": "Alpha Brain Capital",
+    "symbol": "ABC",
+    "id": "0x5B4e9a810321E168989802474f689269EC442681",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alpha-brain-capital",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 27142,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5B4e9a810321E168989802474f689269EC442681/logo.png"
+}

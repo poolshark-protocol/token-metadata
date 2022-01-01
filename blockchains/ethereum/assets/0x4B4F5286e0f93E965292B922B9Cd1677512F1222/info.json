@@ -1,0 +1,11 @@
+{
+    "name": "YUNo.finance",
+    "symbol": "YUNO",
+    "id": "0x4B4F5286e0f93E965292B922B9Cd1677512F1222",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yuno-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Notice: We've received allegations that the team has abandoned the project. Please proceed with caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4B4F5286e0f93E965292B922B9Cd1677512F1222/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "SuperBrain Capital Dao",
+    "symbol": "$SBC",
+    "id": "0x2f02bE0C4021022b59E9436f335d69DF95E5222a",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/superbrain-capital-dao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 28.55,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2f02bE0C4021022b59E9436f335d69DF95E5222a/logo.png"
+}

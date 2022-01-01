@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped BUY Token",
+    "symbol": "WBUY",
+    "id": "0x396eC402B42066864C406d1ac3bc86B575003ed8",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/buying",
+    "market_cap_rank": 1921,
+    "24_hr_volume_usd": 236504,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x396eC402B42066864C406d1ac3bc86B575003ed8/logo.png"
+}

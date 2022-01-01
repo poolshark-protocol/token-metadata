@@ -1,0 +1,10 @@
+{
+    "name": "LITHERIUM",
+    "symbol": "LITH",
+    "id": "0x388226dAFee360055d725003D8CA2e7b09B0A955",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/litherium",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1800.42,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x388226dAFee360055d725003D8CA2e7b09B0A955/logo.png"
+}

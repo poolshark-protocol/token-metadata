@@ -1,0 +1,10 @@
+{
+    "name": "Whiteheart Token",
+    "symbol": "WHITE",
+    "id": "0x5F0E628B693018f639D10e4A4F59BD4d8B2B6B44",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/whiteheart",
+    "market_cap_rank": 1613,
+    "24_hr_volume_usd": 50194,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5F0E628B693018f639D10e4A4F59BD4d8B2B6B44/logo.png"
+}

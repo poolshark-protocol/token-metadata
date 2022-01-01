@@ -1,0 +1,10 @@
+{
+    "name": "Chatcoin",
+    "symbol": "CHAT",
+    "id": "0x442Bc47357919446eAbC18C7211E57a13d983469",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/beechat",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12175.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x442Bc47357919446eAbC18C7211E57a13d983469/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "APE",
+    "symbol": "APE",
+    "id": "0x40E0a6eF9DbADfc83C5e0d15262FEB4638588D77",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ape",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1709.92,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x40E0a6eF9DbADfc83C5e0d15262FEB4638588D77/logo.png"
+}

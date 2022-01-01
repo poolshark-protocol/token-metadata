@@ -1,0 +1,10 @@
+{
+    "name": "Investment Token",
+    "symbol": "DINT",
+    "id": "0x1d00A0587F178bEf239C8AAe93dF734d1e70C579",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dint-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 30.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1d00A0587F178bEf239C8AAe93dF734d1e70C579/logo.png"
+}

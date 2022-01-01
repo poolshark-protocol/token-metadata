@@ -1,0 +1,11 @@
+{
+    "name": "MIS3",
+    "symbol": "MIS3",
+    "id": "0x024B6e7DC26F4d5579bDD936F8d7BC31f2339999",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mithril-share",
+    "market_cap_rank": 3026,
+    "24_hr_volume_usd": 35308,
+    "public_notice": "MIS is now migrating to v3 (0x024b6e7dc26f4d5579bdd936f8d7bc31f2339999). For more info: https://aramis7.medium.com/mis3-migration-guide-ad94beead8a1 -- [OLD] MIS V1 (0x4b4d2e899658fb59b1d518b68fe836b100ee8958) is migrating to V2 (0xb58dfbb72e648a0b035b8c85b3628123cc9bb881). For more information, please refer to https://mithcash.medium.com/mith-cash-v2-is-here-89302b948320",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x024B6e7DC26F4d5579bDD936F8d7BC31f2339999/logo.png"
+}

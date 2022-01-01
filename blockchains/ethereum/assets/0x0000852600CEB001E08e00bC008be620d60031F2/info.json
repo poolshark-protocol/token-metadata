@@ -1,0 +1,10 @@
+{
+    "name": "TrueHKD",
+    "symbol": "THKD",
+    "id": "0x0000852600CEB001E08e00bC008be620d60031F2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/truehkd",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0000852600CEB001E08e00bC008be620d60031F2/logo.png"
+}

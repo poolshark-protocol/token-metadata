@@ -1,0 +1,10 @@
+{
+    "name": "ePlatinum",
+    "symbol": "ePLAT",
+    "id": "0x57b3140F522a3eF2F98C046F78e0D03075908591",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-platinum",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 552.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x57b3140F522a3eF2F98C046F78e0D03075908591/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Ubiner Token",
+    "symbol": "UBIN",
+    "id": "0xb9EcEb9F717852Ad0D936B46155cB0c0f43cBE8E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ubiner",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9.65,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb9EcEb9F717852Ad0D936B46155cB0c0f43cBE8E/logo.png"
+}

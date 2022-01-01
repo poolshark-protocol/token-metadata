@@ -1,0 +1,11 @@
+{
+    "name": "REAL ESTATE COINS",
+    "symbol": "SYBC",
+    "id": "0xB74755f2896e088790f81205F7f3746e2a4b358B",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sybc-coin",
+    "market_cap_rank": 3027,
+    "24_hr_volume_usd": 0.01496705,
+    "public_notice": "SYBC Coin (SYBC) will be swapping from their <a href=\"https://etherscan.io/token/0x69428BB4272e3181dE9E3caB461e19b0131855c8\">old contract</a> to a <a href=\"https://etherscan.io/token/0xB74755f2896e088790f81205F7f3746e2a4b358B\">new one</a>. For more information, please view this <a href=\"https://mobile.twitter.com/real_syb/status/1452758119633899528\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB74755f2896e088790f81205F7f3746e2a4b358B/logo.png"
+}

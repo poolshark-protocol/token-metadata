@@ -1,0 +1,10 @@
+{
+    "name": "Bowl A Coin",
+    "symbol": "BAC",
+    "id": "0x062e3Be6a7C56A395b1881A0cD69A4923Ade4fa2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bowl-a-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x062e3Be6a7C56A395b1881A0cD69A4923Ade4fa2/logo.png"
+}

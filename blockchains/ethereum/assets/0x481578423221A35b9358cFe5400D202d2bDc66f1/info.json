@@ -1,0 +1,10 @@
+{
+    "name": "Cyber Doge",
+    "symbol": "CyberD",
+    "id": "0x481578423221A35b9358cFe5400D202d2bDc66f1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cyber-doge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x481578423221A35b9358cFe5400D202d2bDc66f1/logo.png"
+}

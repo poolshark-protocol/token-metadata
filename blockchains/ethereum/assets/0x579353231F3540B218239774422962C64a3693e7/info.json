@@ -1,0 +1,10 @@
+{
+    "name": "Bitcratic Revenue",
+    "symbol": "BCTR",
+    "id": "0x579353231F3540B218239774422962C64a3693e7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitcratic-revenue",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x579353231F3540B218239774422962C64a3693e7/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "VLX",
+    "symbol": "VLX",
+    "id": "0x8C543AED163909142695f2d2aCd0D55791a9Edb9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/velas",
+    "market_cap_rank": 135,
+    "24_hr_volume_usd": 3942571,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8C543AED163909142695f2d2aCd0D55791a9Edb9/logo.png"
+}

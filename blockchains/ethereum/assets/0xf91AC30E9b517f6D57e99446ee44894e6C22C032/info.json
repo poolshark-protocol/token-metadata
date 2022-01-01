@@ -1,0 +1,10 @@
+{
+    "name": "LOL",
+    "symbol": "LOL",
+    "id": "0xf91AC30E9b517f6D57e99446ee44894e6C22C032",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 42128,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf91AC30E9b517f6D57e99446ee44894e6C22C032/logo.png"
+}

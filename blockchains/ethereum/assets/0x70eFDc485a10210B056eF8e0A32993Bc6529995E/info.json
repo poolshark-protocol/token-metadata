@@ -1,0 +1,11 @@
+{
+    "name": "Blaze Network",
+    "symbol": "BLZN",
+    "id": "0x70eFDc485a10210B056eF8e0A32993Bc6529995E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blaze-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.05,
+    "public_notice": "Website updated from https://www.blazenetwork.info/ to https://www.blazenetwork.online/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x70eFDc485a10210B056eF8e0A32993Bc6529995E/logo.png"
+}

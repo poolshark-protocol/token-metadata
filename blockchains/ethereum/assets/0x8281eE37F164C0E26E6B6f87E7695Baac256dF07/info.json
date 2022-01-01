@@ -1,0 +1,10 @@
+{
+    "name": "DegenArts.com Coin",
+    "symbol": "DAC",
+    "id": "0x8281eE37F164C0E26E6B6f87E7695Baac256dF07",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/degen-arts",
+    "market_cap_rank": 2899,
+    "24_hr_volume_usd": 2323.24,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8281eE37F164C0E26E6B6f87E7695Baac256dF07/logo.png"
+}

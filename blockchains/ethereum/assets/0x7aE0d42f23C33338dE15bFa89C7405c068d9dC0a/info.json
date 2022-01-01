@@ -1,0 +1,10 @@
+{
+    "name": "Shibaverse",
+    "symbol": "VERSE",
+    "id": "0x7aE0d42f23C33338dE15bFa89C7405c068d9dC0a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shibaverse",
+    "market_cap_rank": 1008,
+    "24_hr_volume_usd": 88000,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7aE0d42f23C33338dE15bFa89C7405c068d9dC0a/logo.png"
+}

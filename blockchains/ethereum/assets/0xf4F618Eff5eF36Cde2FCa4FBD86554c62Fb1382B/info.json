@@ -1,0 +1,10 @@
+{
+    "name": "Astra Guild Ventures Token",
+    "symbol": "AGV",
+    "id": "0xf4F618Eff5eF36Cde2FCa4FBD86554c62Fb1382B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/astra-guild-ventures",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1846626,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf4F618Eff5eF36Cde2FCa4FBD86554c62Fb1382B/logo.png"
+}

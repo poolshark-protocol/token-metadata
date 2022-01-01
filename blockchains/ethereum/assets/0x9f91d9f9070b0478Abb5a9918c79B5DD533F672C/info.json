@@ -1,0 +1,10 @@
+{
+    "name": "Centurion Inu",
+    "symbol": "CENT",
+    "id": "0x9f91d9f9070b0478Abb5a9918c79B5DD533F672C",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/centurion-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1651.53,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9f91d9f9070b0478Abb5a9918c79B5DD533F672C/logo.png"
+}

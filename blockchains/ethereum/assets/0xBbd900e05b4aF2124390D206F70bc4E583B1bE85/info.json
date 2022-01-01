@@ -1,0 +1,10 @@
+{
+    "name": "MintySwap",
+    "symbol": "MINTYS",
+    "id": "0xBbd900e05b4aF2124390D206F70bc4E583B1bE85",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mintyswap",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 96380,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBbd900e05b4aF2124390D206F70bc4E583B1bE85/logo.png"
+}

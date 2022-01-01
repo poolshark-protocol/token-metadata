@@ -1,0 +1,10 @@
+{
+    "name": "Kranz Token",
+    "symbol": "KRZ",
+    "id": "0xf54B304e2e4b28c7E46619D1A340F9b2B72383D7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kranz-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 400.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf54B304e2e4b28c7E46619D1A340F9b2B72383D7/logo.png"
+}

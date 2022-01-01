@@ -1,0 +1,10 @@
+{
+    "name": "Tokemak",
+    "symbol": "TOKE",
+    "id": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tokemak",
+    "market_cap_rank": 226,
+    "24_hr_volume_usd": 12787331,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2e9d63788249371f1DFC918a52f8d799F4a38C94/logo.png"
+}

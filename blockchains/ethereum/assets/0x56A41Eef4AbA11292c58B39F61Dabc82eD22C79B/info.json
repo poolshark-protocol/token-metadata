@@ -1,0 +1,10 @@
+{
+    "name": "Space Link",
+    "symbol": "SPLINK",
+    "id": "0x56A41Eef4AbA11292c58B39F61Dabc82eD22C79B",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/space-link",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8463.55,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x56A41Eef4AbA11292c58B39F61Dabc82eD22C79B/logo.png"
+}

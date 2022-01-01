@@ -1,0 +1,10 @@
+{
+    "name": "Serenity",
+    "symbol": "SRNT",
+    "id": "0xBC7942054F77b82e8A71aCE170E4B00ebAe67eB6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/serenity",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBC7942054F77b82e8A71aCE170E4B00ebAe67eB6/logo.png"
+}

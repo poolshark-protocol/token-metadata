@@ -1,0 +1,10 @@
+{
+    "name": "Sesamechain",
+    "symbol": "LSC",
+    "id": "0xc77D7E0dD7b2A01B990e866FeB21d031f1418c2E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/littlesesame",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 15.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc77D7E0dD7b2A01B990e866FeB21d031f1418c2E/logo.png"
+}

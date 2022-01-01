@@ -1,0 +1,10 @@
+{
+    "name": "NCDToken",
+    "symbol": "NCDT",
+    "id": "0xE0C8b298db4cfFE05d1bEA0bb1BA414522B33C1B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nuco-cloud",
+    "market_cap_rank": 2322,
+    "24_hr_volume_usd": 16979.34,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE0C8b298db4cfFE05d1bEA0bb1BA414522B33C1B/logo.png"
+}

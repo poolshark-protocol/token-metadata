@@ -1,0 +1,10 @@
+{
+    "name": "Puppy Token",
+    "symbol": "Puppy",
+    "id": "0x94E25FC8960DcE26823AfEebf8a82eBc13c8e439",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/puppy-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 110.6,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x94E25FC8960DcE26823AfEebf8a82eBc13c8e439/logo.png"
+}

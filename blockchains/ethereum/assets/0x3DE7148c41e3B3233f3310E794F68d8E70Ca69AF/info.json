@@ -1,0 +1,10 @@
+{
+    "name": "ShibaLink",
+    "symbol": "SLINK",
+    "id": "0x3DE7148c41e3B3233f3310E794F68d8E70Ca69AF",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shiba-link",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3DE7148c41e3B3233f3310E794F68d8E70Ca69AF/logo.png"
+}

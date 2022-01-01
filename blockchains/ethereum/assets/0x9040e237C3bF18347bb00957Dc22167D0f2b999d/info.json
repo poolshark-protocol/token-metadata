@@ -1,0 +1,10 @@
+{
+    "name": "Standard",
+    "symbol": "STND",
+    "id": "0x9040e237C3bF18347bb00957Dc22167D0f2b999d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/standard-protocol",
+    "market_cap_rank": 1228,
+    "24_hr_volume_usd": 3995746,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9040e237C3bF18347bb00957Dc22167D0f2b999d/logo.png"
+}

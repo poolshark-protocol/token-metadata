@@ -1,0 +1,10 @@
+{
+    "name": "SCARDust",
+    "symbol": "SCARD",
+    "id": "0xC10b30820F793E24733dC80da12C798dfbFF0fFf",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/scardust",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 151627,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC10b30820F793E24733dC80da12C798dfbFF0fFf/logo.png"
+}

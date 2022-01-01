@@ -1,0 +1,11 @@
+{
+    "name": "TENSHI v2",
+    "symbol": "TENSHI",
+    "id": "0x52662717e448be36Cb54588499D5A8328BD95292",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tenshi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 182438,
+    "public_notice": "Tenshi 2.0 is being airdropped to Tenshi 1.0 holders due to migration. https://kishuinu.medium.com/the-reawakening-tenshi-2-0-cc9063f59987",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x52662717e448be36Cb54588499D5A8328BD95292/logo.png"
+}

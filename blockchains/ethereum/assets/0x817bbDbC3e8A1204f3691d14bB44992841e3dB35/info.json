@@ -1,0 +1,10 @@
+{
+    "name": "CudosToken",
+    "symbol": "CUDOS",
+    "id": "0x817bbDbC3e8A1204f3691d14bB44992841e3dB35",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cudos",
+    "market_cap_rank": 547,
+    "24_hr_volume_usd": 680528,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x817bbDbC3e8A1204f3691d14bB44992841e3dB35/logo.png"
+}

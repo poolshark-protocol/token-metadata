@@ -1,0 +1,10 @@
+{
+    "name": "Nabox Token",
+    "symbol": "NABOX",
+    "id": "0x03D1E72765545729A035e909eDd9371a405f77Fb",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nabox",
+    "market_cap_rank": 1223,
+    "24_hr_volume_usd": 334709,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x03D1E72765545729A035e909eDd9371a405f77Fb/logo.png"
+}

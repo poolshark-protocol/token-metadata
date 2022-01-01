@@ -1,0 +1,10 @@
+{
+    "name": "MyCryptoPlay",
+    "symbol": "MCP",
+    "id": "0x2186Ecb39f1B765bA7d78f1C43c2E9D7Fc0C1eca",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/my-crypto-play",
+    "market_cap_rank": 3497,
+    "24_hr_volume_usd": 0.372629,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2186Ecb39f1B765bA7d78f1C43c2E9D7Fc0C1eca/logo.png"
+}

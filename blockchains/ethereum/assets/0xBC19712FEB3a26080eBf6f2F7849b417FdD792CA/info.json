@@ -1,0 +1,11 @@
+{
+    "name": "BoringDAO",
+    "symbol": "BORING",
+    "id": "0xBC19712FEB3a26080eBf6f2F7849b417FdD792CA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/boringdao",
+    "market_cap_rank": 583,
+    "24_hr_volume_usd": 2182402,
+    "public_notice": "BoringDAO(BOR) has undergone a 1:10000 Token Split to $BORING. Read more <a href=\"https://docs.boringdao.com/tutorials/how-to-split-1-bor-into-10-000-boring\">in this article</a>",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBC19712FEB3a26080eBf6f2F7849b417FdD792CA/logo.png"
+}

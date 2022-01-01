@@ -1,0 +1,10 @@
+{
+    "name": "Metadium",
+    "symbol": "META",
+    "id": "0xDE2F7766C8BF14CA67193128535E5c7454f8387C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metadium",
+    "market_cap_rank": 353,
+    "24_hr_volume_usd": 6412007,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDE2F7766C8BF14CA67193128535E5c7454f8387C/logo.png"
+}

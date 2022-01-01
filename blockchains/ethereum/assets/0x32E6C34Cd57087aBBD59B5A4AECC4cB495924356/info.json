@@ -1,0 +1,10 @@
+{
+    "name": "BitBase",
+    "symbol": "BTBS",
+    "id": "0x32E6C34Cd57087aBBD59B5A4AECC4cB495924356",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitbase-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5333.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x32E6C34Cd57087aBBD59B5A4AECC4cB495924356/logo.png"
+}

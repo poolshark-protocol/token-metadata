@@ -1,0 +1,10 @@
+{
+    "name": "Nuvo Cash",
+    "symbol": "NUVO",
+    "id": "0xE2Db94E8D4E4144c336e45668a792D17D48a482c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nuvo-cash",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13.99,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE2Db94E8D4E4144c336e45668a792D17D48a482c/logo.png"
+}

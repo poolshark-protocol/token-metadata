@@ -1,0 +1,10 @@
+{
+    "name": "GoonRich",
+    "symbol": "GOON",
+    "id": "0xb0302D59237e6104c3f0D145996302F044797Ca5",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/goonrich",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 324.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb0302D59237e6104c3f0D145996302F044797Ca5/logo.png"
+}

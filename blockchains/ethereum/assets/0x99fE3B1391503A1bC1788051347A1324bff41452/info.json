@@ -1,0 +1,10 @@
+{
+    "name": "SportX",
+    "symbol": "SX",
+    "id": "0x99fE3B1391503A1bC1788051347A1324bff41452",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sx-network",
+    "market_cap_rank": 687,
+    "24_hr_volume_usd": 327174,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x99fE3B1391503A1bC1788051347A1324bff41452/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "StiB",
+    "symbol": "sti",
+    "id": "0xB52BBD3D5BfA3836bF2b55fE3B7467219280bc2e",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stib-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB52BBD3D5BfA3836bF2b55fE3B7467219280bc2e/logo.png"
+}

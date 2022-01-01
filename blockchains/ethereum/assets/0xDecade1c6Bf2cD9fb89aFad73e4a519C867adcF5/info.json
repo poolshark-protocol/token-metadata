@@ -1,0 +1,10 @@
+{
+    "name": "Experty Wisdom Token",
+    "symbol": "WIS",
+    "id": "0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/experty-wisdom-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5717.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5/logo.png"
+}

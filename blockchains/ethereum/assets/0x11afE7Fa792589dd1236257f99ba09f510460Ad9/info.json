@@ -1,0 +1,10 @@
+{
+    "name": "LNKO Token",
+    "symbol": "LNKO",
+    "id": "0x11afE7Fa792589dd1236257f99ba09f510460Ad9",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lnko-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4953.06,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x11afE7Fa792589dd1236257f99ba09f510460Ad9/logo.png"
+}

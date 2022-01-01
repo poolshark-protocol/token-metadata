@@ -1,0 +1,10 @@
+{
+    "name": "EVERY GAME",
+    "symbol": "EGAME",
+    "id": "0x62d3c05b9C3d916FBC111819bbD3CEE52906C1Ae",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/every-game",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 49482,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x62d3c05b9C3d916FBC111819bbD3CEE52906C1Ae/logo.png"
+}

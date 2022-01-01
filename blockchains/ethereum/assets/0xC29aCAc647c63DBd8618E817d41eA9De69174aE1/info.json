@@ -1,0 +1,10 @@
+{
+    "name": "ENERGY",
+    "symbol": "NRGY",
+    "id": "0xC29aCAc647c63DBd8618E817d41eA9De69174aE1",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nrgy-defi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12599.61,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC29aCAc647c63DBd8618E817d41eA9De69174aE1/logo.png"
+}

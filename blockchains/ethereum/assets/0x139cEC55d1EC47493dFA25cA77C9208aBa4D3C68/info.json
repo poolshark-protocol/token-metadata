@@ -1,0 +1,10 @@
+{
+    "name": "ASET",
+    "symbol": "ASET",
+    "id": "0x139cEC55d1EC47493dFA25cA77C9208aBa4D3C68",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/parasset",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13777.71,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x139cEC55d1EC47493dFA25cA77C9208aBa4D3C68/logo.png"
+}

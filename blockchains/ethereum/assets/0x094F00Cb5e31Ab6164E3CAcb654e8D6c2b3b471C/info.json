@@ -1,0 +1,10 @@
+{
+    "name": "ProSwap",
+    "symbol": "PROS",
+    "id": "0x094F00Cb5e31Ab6164E3CAcb654e8D6c2b3b471C",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/proswap",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 238458,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x094F00Cb5e31Ab6164E3CAcb654e8D6c2b3b471C/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "8PAY Network",
+    "symbol": "8PAY",
+    "id": "0xFeea0bDd3D07eb6FE305938878C0caDBFa169042",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/8pay",
+    "market_cap_rank": 1710,
+    "24_hr_volume_usd": 121781,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFeea0bDd3D07eb6FE305938878C0caDBFa169042/logo.png"
+}

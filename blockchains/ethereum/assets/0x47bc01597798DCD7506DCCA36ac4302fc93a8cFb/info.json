@@ -1,0 +1,10 @@
+{
+    "name": "Crowd Machine Compute Token",
+    "symbol": "CMCT",
+    "id": "0x47bc01597798DCD7506DCCA36ac4302fc93a8cFb",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crowd-machine",
+    "market_cap_rank": 3112,
+    "24_hr_volume_usd": 47.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x47bc01597798DCD7506DCCA36ac4302fc93a8cFb/logo.png"
+}

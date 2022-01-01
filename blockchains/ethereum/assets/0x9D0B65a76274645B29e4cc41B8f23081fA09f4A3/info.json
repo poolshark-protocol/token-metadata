@@ -1,0 +1,10 @@
+{
+    "name": "iMe Lab",
+    "symbol": "LIME",
+    "id": "0x9D0B65a76274645B29e4cc41B8f23081fA09f4A3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ime-lab",
+    "market_cap_rank": 1261,
+    "24_hr_volume_usd": 499921,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9D0B65a76274645B29e4cc41B8f23081fA09f4A3/logo.png"
+}

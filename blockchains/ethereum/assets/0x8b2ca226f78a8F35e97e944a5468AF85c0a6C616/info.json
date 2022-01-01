@@ -1,0 +1,10 @@
+{
+    "name": "BATMAN",
+    "symbol": "BATMAN",
+    "id": "0x8b2ca226f78a8F35e97e944a5468AF85c0a6C616",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/batman",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8.96,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8b2ca226f78a8F35e97e944a5468AF85c0a6C616/logo.png"
+}

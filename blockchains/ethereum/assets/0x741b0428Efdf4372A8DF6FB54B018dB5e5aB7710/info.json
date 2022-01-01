@@ -1,0 +1,10 @@
+{
+    "name": "ARTX Token",
+    "symbol": "ARTX",
+    "id": "0x741b0428Efdf4372A8DF6FB54B018dB5e5aB7710",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/artx",
+    "market_cap_rank": 2945,
+    "24_hr_volume_usd": 739.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x741b0428Efdf4372A8DF6FB54B018dB5e5aB7710/logo.png"
+}

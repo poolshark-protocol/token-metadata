@@ -1,0 +1,10 @@
+{
+    "name": "PLUTO",
+    "symbol": "PLUT",
+    "id": "0xF38011F9153aCFfACa3fBFC42Ddfa766C980d967",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pluto",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5.24,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF38011F9153aCFfACa3fBFC42Ddfa766C980d967/logo.png"
+}

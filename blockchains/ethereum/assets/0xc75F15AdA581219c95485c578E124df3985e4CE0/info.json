@@ -1,0 +1,10 @@
+{
+    "name": "zzz.finance",
+    "symbol": "ZZZ",
+    "id": "0xc75F15AdA581219c95485c578E124df3985e4CE0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zzz-finance",
+    "market_cap_rank": 3431,
+    "24_hr_volume_usd": 1.76,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc75F15AdA581219c95485c578E124df3985e4CE0/logo.png"
+}

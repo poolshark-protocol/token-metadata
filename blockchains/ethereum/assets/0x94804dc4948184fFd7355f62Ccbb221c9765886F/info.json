@@ -1,0 +1,10 @@
+{
+    "name": "RageToken",
+    "symbol": "RAGE",
+    "id": "0x94804dc4948184fFd7355f62Ccbb221c9765886F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rage-fan",
+    "market_cap_rank": 2314,
+    "24_hr_volume_usd": 5396.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x94804dc4948184fFd7355f62Ccbb221c9765886F/logo.png"
+}

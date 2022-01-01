@@ -1,0 +1,10 @@
+{
+    "name": "Cryptex",
+    "symbol": "CTX",
+    "id": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptex-finance",
+    "market_cap_rank": 784,
+    "24_hr_volume_usd": 315177,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x321C2fE4446C7c963dc41Dd58879AF648838f98D/logo.png"
+}

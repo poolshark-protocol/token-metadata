@@ -1,0 +1,10 @@
+{
+    "name": "CoinZoom",
+    "symbol": "ZOOM",
+    "id": "0x69cf3091C91EB72DB05E45C76e58225177dEA742",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coinzoom-token",
+    "market_cap_rank": 952,
+    "24_hr_volume_usd": 36065,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69cf3091C91EB72DB05E45C76e58225177dEA742/logo.png"
+}

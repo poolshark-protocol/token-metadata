@@ -1,0 +1,10 @@
+{
+    "name": "Dunes",
+    "symbol": "Dunes",
+    "id": "0xcbFd3340A21694ecd3812ff6afFc4dec9DC2C6DC",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dunes",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcbFd3340A21694ecd3812ff6afFc4dec9DC2C6DC/logo.png"
+}

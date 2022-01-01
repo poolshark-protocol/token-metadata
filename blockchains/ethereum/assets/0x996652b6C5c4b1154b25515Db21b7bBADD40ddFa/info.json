@@ -1,0 +1,11 @@
+{
+    "name": "Golfro chain",
+    "symbol": "GOLF",
+    "id": "0x996652b6C5c4b1154b25515Db21b7bBADD40ddFa",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/golfrochain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12.12,
+    "public_notice": "Golfrochain is migrating from <a href=\"https://etherscan.io/token/0x996652b6c5c4b1154b25515db21b7bbadd40ddfa\">Ethereum</a> to <a href=\"https://scope.klaytn.com/token/0x83c3b5a9a9d1f1438f2505ba972366eecfc4488e\">Klaytn</a>. For more information, visit their <a href=\"https://blog.naver.com/golfrochain/222602836515\">Blog</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x996652b6C5c4b1154b25515Db21b7bBADD40ddFa/logo.png"
+}

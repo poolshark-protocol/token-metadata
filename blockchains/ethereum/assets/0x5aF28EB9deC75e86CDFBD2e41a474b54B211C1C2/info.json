@@ -1,0 +1,10 @@
+{
+    "name": "Tangle",
+    "symbol": "TNGL",
+    "id": "0x5aF28EB9deC75e86CDFBD2e41a474b54B211C1C2",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tangle",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3352.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5aF28EB9deC75e86CDFBD2e41a474b54B211C1C2/logo.png"
+}

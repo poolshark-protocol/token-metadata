@@ -1,0 +1,10 @@
+{
+    "name": "Carnomaly",
+    "symbol": "CARR",
+    "id": "0x884DDBb5DC6c2cEf77d3E74c6CcCa315797d655B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/carnomaly",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 185287,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x884DDBb5DC6c2cEf77d3E74c6CcCa315797d655B/logo.png"
+}

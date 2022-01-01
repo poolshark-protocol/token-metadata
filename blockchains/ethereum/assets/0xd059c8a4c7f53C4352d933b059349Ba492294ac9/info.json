@@ -1,0 +1,10 @@
+{
+    "name": "APPLE PROTOCOL TOKEN",
+    "symbol": "AAPL",
+    "id": "0xd059c8a4c7f53C4352d933b059349Ba492294ac9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apple-protocol-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 46.63,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd059c8a4c7f53C4352d933b059349Ba492294ac9/logo.png"
+}

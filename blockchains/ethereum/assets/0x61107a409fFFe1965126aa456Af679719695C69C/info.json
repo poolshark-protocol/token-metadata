@@ -1,0 +1,10 @@
+{
+    "name": "UmiToken",
+    "symbol": "UMI",
+    "id": "0x61107a409fFFe1965126aa456Af679719695C69C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/umi-digital",
+    "market_cap_rank": 1898,
+    "24_hr_volume_usd": 33925,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x61107a409fFFe1965126aa456Af679719695C69C/logo.png"
+}

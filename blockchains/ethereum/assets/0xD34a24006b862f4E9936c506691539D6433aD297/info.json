@@ -1,0 +1,10 @@
+{
+    "name": "Aqua Token",
+    "symbol": "AQUA",
+    "id": "0xD34a24006b862f4E9936c506691539D6433aD297",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aquafi",
+    "market_cap_rank": 3278,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD34a24006b862f4E9936c506691539D6433aD297/logo.png"
+}

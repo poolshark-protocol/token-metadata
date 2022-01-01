@@ -1,0 +1,10 @@
+{
+    "name": "Wolves Of Wall Street",
+    "symbol": "WOWS",
+    "id": "0x672EF7E4Fe230B5cA1466C5fDD40588d30FdF90a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wolves-of-wall-street",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4405.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x672EF7E4Fe230B5cA1466C5fDD40588d30FdF90a/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ASTA",
+    "symbol": "ASTA",
+    "id": "0xf2ddae89449b7D26309a5D54614B1FC99C608AF5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/asta",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6439372,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf2ddae89449b7D26309a5D54614B1FC99C608AF5/logo.png"
+}

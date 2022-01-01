@@ -1,0 +1,10 @@
+{
+    "name": "Elon Diamond Hands",
+    "symbol": "EDH",
+    "id": "0x3B046FDE911D3b6f9cAA4759DBcfB034a87648BA",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/elon-diamond-hands",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3B046FDE911D3b6f9cAA4759DBcfB034a87648BA/logo.png"
+}

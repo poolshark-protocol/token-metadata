@@ -1,0 +1,10 @@
+{
+    "name": "EBlockStock",
+    "symbol": "EBSO",
+    "id": "0x866f8a50A64e68ca66E97e032c5Da99538B3F942",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eblockstock",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 21527,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x866f8a50A64e68ca66E97e032c5Da99538B3F942/logo.png"
+}

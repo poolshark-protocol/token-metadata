@@ -1,0 +1,10 @@
+{
+    "name": "Snap Token",
+    "symbol": "SNAP",
+    "id": "0x57cd5A91c18D21DeDd72d3bcf255b60Aef290f53",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/snapex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 149198,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x57cd5A91c18D21DeDd72d3bcf255b60Aef290f53/logo.png"
+}

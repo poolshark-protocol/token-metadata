@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Filecoin",
+    "symbol": "WFIL",
+    "id": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-filecoin",
+    "market_cap_rank": 2814,
+    "24_hr_volume_usd": 476.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6e1A19F235bE7ED8E3369eF73b196C07257494DE/logo.png"
+}

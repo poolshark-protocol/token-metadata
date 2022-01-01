@@ -1,0 +1,10 @@
+{
+    "name": "SPENDERX",
+    "symbol": "SPDX",
+    "id": "0x2C756e74B7309d785b5e2960ef262c4f14a87930",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/spender-x",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.73,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C756e74B7309d785b5e2960ef262c4f14a87930/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "PieDAO DEFI Small Cap",
+    "symbol": "DEFI+S",
+    "id": "0xaD6A626aE2B43DCb1B39430Ce496d2FA0365BA9C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/piedao-defi-small-cap",
+    "market_cap_rank": 2089,
+    "24_hr_volume_usd": 15912.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaD6A626aE2B43DCb1B39430Ce496d2FA0365BA9C/logo.png"
+}

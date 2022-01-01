@@ -1,0 +1,10 @@
+{
+    "name": "BTAP",
+    "symbol": "BTAP",
+    "id": "0x270371C58D9D775ED73971Dd414656107384f235",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bta-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18.6,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x270371C58D9D775ED73971Dd414656107384f235/logo.png"
+}

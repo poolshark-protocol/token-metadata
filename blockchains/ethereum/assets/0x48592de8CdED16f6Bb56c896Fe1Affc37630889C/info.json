@@ -1,0 +1,10 @@
+{
+    "name": "PolkaParty",
+    "symbol": "POLP",
+    "id": "0x48592de8CdED16f6Bb56c896Fe1Affc37630889C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polkaparty",
+    "market_cap_rank": 2117,
+    "24_hr_volume_usd": 4952.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x48592de8CdED16f6Bb56c896Fe1Affc37630889C/logo.png"
+}

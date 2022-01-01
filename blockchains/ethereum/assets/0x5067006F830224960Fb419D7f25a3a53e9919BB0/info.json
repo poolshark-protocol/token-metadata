@@ -1,0 +1,11 @@
+{
+    "name": "PAD",
+    "symbol": "PAD",
+    "id": "0x5067006F830224960Fb419D7f25a3a53e9919BB0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/smartpad",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 128296,
+    "public_notice": "Smartpad has recently expanded to Polygon. For more info, read <a href=\"https://smartpadofficial.medium.com/pad-is-now-available-on-polygon-46aa0e33c887\">here</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5067006F830224960Fb419D7f25a3a53e9919BB0/logo.png"
+}

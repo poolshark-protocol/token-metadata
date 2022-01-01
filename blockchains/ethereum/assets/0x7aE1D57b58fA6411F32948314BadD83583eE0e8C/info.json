@@ -1,0 +1,10 @@
+{
+    "name": "Paper",
+    "symbol": "PAPER",
+    "id": "0x7aE1D57b58fA6411F32948314BadD83583eE0e8C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dope-wars-paper",
+    "market_cap_rank": 1099,
+    "24_hr_volume_usd": 297294,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7aE1D57b58fA6411F32948314BadD83583eE0e8C/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "yfdot.finance",
+    "symbol": "YFDOT",
+    "id": "0x2e6539edc3b76f1E21B71d214527FAbA875F70F3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yearn-finance-dot",
+    "market_cap_rank": 3100,
+    "24_hr_volume_usd": 1.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2e6539edc3b76f1E21B71d214527FAbA875F70F3/logo.png"
+}

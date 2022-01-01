@@ -1,0 +1,10 @@
+{
+    "name": "ZCON Protocol",
+    "symbol": "ZCON",
+    "id": "0x4992D8AC40E55350330102aBf2dEBed8864E7Ba0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zcon-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00885791,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4992D8AC40E55350330102aBf2dEBed8864E7Ba0/logo.png"
+}

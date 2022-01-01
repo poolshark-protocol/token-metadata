@@ -1,0 +1,10 @@
+{
+    "name": "K-Tune Token",
+    "symbol": "KTT",
+    "id": "0x14cC8DfaF2258E1B8B2869300dBa1B734dc0fE43",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/k-tune",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 110126,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x14cC8DfaF2258E1B8B2869300dBa1B734dc0fE43/logo.png"
+}

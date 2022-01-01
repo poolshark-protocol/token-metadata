@@ -1,0 +1,10 @@
+{
+    "name": "GermanCoin",
+    "symbol": "GCX",
+    "id": "0x44A67C8570a61A28bAfd0035042f2F0A73a64428",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/germancoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18.29,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x44A67C8570a61A28bAfd0035042f2F0A73a64428/logo.png"
+}

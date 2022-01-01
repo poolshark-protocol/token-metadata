@@ -1,0 +1,11 @@
+{
+    "name": "BDCC COIN",
+    "symbol": "BDCC",
+    "id": "0x3a3547D62e9f9E76F99d51D5AB4F07AAE0Db2dBb",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitica-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 28.55,
+    "public_notice": "Note: Bitica Contract Address has changed from 0xc87f95aa269dd300d9f1ce49d8e1fd8119a10456 to 0x3a3547d62e9f9e76f99d51d5ab4f07aae0db2dbb, for more information, please refer to https://twitter.com/thebitica/status/1336319797412294656",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3a3547D62e9f9E76F99d51D5AB4F07AAE0Db2dBb/logo.png"
+}

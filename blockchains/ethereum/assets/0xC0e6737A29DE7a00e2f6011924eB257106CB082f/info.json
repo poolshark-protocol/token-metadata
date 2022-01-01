@@ -1,0 +1,10 @@
+{
+    "name": "GLOSFER TOKEN",
+    "symbol": "GLO",
+    "id": "0xC0e6737A29DE7a00e2f6011924eB257106CB082f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/glosfer-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10005.76,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC0e6737A29DE7a00e2f6011924eB257106CB082f/logo.png"
+}

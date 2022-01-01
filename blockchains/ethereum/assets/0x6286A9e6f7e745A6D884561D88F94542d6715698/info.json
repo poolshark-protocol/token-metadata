@@ -1,0 +1,10 @@
+{
+    "name": "Cryptomeda",
+    "symbol": "TECH",
+    "id": "0x6286A9e6f7e745A6D884561D88F94542d6715698",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptomeda",
+    "market_cap_rank": 1890,
+    "24_hr_volume_usd": 37407,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6286A9e6f7e745A6D884561D88F94542d6715698/logo.png"
+}

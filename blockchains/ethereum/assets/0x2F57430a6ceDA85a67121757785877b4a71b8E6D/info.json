@@ -1,0 +1,10 @@
+{
+    "name": "Defi Plaza governance",
+    "symbol": "DFP2",
+    "id": "0x2F57430a6ceDA85a67121757785877b4a71b8E6D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defiplaza",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6661.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2F57430a6ceDA85a67121757785877b4a71b8E6D/logo.png"
+}

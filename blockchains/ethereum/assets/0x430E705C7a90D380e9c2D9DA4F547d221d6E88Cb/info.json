@@ -1,0 +1,10 @@
+{
+    "name": "Upper Swiss Franc",
+    "symbol": "CHFU",
+    "id": "0x430E705C7a90D380e9c2D9DA4F547d221d6E88Cb",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/upper-swiss-franc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1206999,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x430E705C7a90D380e9c2D9DA4F547d221d6E88Cb/logo.png"
+}

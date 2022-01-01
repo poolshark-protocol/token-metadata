@@ -1,0 +1,11 @@
+{
+    "name": "ROCKI",
+    "symbol": "ROCKI",
+    "id": "0xFf44b937788215ecA197BAaf9AF69dbdC214aa04",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rocki",
+    "market_cap_rank": 2067,
+    "24_hr_volume_usd": 268130,
+    "public_notice": "ROCKI has recently migrated from their <a href=\"https://etherscan.io/token/0x92ece48522e1acbcda4aaa8c2fbf2aa9fb15d624\">old contract</a> to a <a href=\"https://etherscan.io/token/0xFf44b937788215ecA197BAaf9AF69dbdC214aa04\">new one</a>. For more information, visit https://medium.com/rockiapp/update-to-the-chainswap-hack-the-new-token-rocki-airdrop-9aa6911458b9",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFf44b937788215ecA197BAaf9AF69dbdC214aa04/logo.png"
+}

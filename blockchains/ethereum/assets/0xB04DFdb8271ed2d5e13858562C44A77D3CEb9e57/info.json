@@ -1,0 +1,10 @@
+{
+    "name": "BuildUP",
+    "symbol": "BUP",
+    "id": "0xB04DFdb8271ed2d5e13858562C44A77D3CEb9e57",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/buildup",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 854.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB04DFdb8271ed2d5e13858562C44A77D3CEb9e57/logo.png"
+}

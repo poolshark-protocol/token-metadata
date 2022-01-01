@@ -1,0 +1,10 @@
+{
+    "name": "FaithCoin",
+    "symbol": "FAITH",
+    "id": "0xE531642e9bb5d027E9C20E03284287B97919a9a5",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/faithcoin",
+    "market_cap_rank": 3478,
+    "24_hr_volume_usd": 0.116679,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE531642e9bb5d027E9C20E03284287B97919a9a5/logo.png"
+}

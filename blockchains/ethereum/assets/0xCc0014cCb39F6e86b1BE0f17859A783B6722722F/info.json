@@ -1,0 +1,10 @@
+{
+    "name": "Showcase Token",
+    "symbol": "SHO",
+    "id": "0xCc0014cCb39F6e86b1BE0f17859A783B6722722F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/showcase-token",
+    "market_cap_rank": 2692,
+    "24_hr_volume_usd": 87834,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCc0014cCb39F6e86b1BE0f17859A783B6722722F/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ShinChan Token",
+    "symbol": "Shinnosuke",
+    "id": "0xBaa9AF8a83500Ac4137C555b9E58CCB3e1f2269D",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shinchan-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3888.9,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBaa9AF8a83500Ac4137C555b9E58CCB3e1f2269D/logo.png"
+}

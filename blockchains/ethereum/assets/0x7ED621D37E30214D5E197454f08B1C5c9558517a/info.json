@@ -1,0 +1,10 @@
+{
+    "name": "DEVA Token",
+    "symbol": "DEVA",
+    "id": "0x7ED621D37E30214D5E197454f08B1C5c9558517a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/deva-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10386.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7ED621D37E30214D5E197454f08B1C5c9558517a/logo.png"
+}

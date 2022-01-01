@@ -1,0 +1,10 @@
+{
+    "name": "TriumphX",
+    "symbol": "TRIX",
+    "id": "0x056354F3Ff20743aa4c0DA365603871c7000b081",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/triumphx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 378709,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x056354F3Ff20743aa4c0DA365603871c7000b081/logo.png"
+}

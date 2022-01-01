@@ -1,0 +1,10 @@
+{
+    "name": "QUINADS",
+    "symbol": "QUIN",
+    "id": "0x86E44543164D9b97B14ef7f6f3aB7bA670CAB346",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/quinads",
+    "market_cap_rank": 3022,
+    "24_hr_volume_usd": 553.9,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x86E44543164D9b97B14ef7f6f3aB7bA670CAB346/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ShibaDoge",
+    "symbol": "ShibDoge",
+    "id": "0x6ADb2E268de2aA1aBF6578E4a8119b960E02928F",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shibadoge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 452150,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6ADb2E268de2aA1aBF6578E4a8119b960E02928F/logo.png"
+}

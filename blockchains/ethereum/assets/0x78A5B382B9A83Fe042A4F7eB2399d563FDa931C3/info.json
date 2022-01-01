@@ -1,0 +1,10 @@
+{
+    "name": "heizuan token",
+    "symbol": "HZT",
+    "id": "0x78A5B382B9A83Fe042A4F7eB2399d563FDa931C3",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/black-diamond-rating",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2166.4,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x78A5B382B9A83Fe042A4F7eB2399d563FDa931C3/logo.png"
+}

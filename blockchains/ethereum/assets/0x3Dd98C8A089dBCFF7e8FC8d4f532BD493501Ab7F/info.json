@@ -1,0 +1,10 @@
+{
+    "name": "TownCoin",
+    "symbol": "TOWN",
+    "id": "0x3Dd98C8A089dBCFF7e8FC8d4f532BD493501Ab7F",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/town-star",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2138078,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3Dd98C8A089dBCFF7e8FC8d4f532BD493501Ab7F/logo.png"
+}

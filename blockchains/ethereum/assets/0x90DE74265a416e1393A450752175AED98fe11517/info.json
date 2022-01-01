@@ -1,0 +1,10 @@
+{
+    "name": "Unlock Discount Token",
+    "symbol": "UDT",
+    "id": "0x90DE74265a416e1393A450752175AED98fe11517",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unlock-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 32949,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x90DE74265a416e1393A450752175AED98fe11517/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ARTII Token",
+    "symbol": "ARTII",
+    "id": "0x07a858fc699f99ddF2b186bf162Fd7f4d42F7f63",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/artii-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 998029,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x07a858fc699f99ddF2b186bf162Fd7f4d42F7f63/logo.png"
+}

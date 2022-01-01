@@ -1,0 +1,10 @@
+{
+    "name": "Amasa Token",
+    "symbol": "AMAS",
+    "id": "0x65a8fbA02F641a13Bb7B01d5E1129b0521004f52",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/amasa",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 30442,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x65a8fbA02F641a13Bb7B01d5E1129b0521004f52/logo.png"
+}

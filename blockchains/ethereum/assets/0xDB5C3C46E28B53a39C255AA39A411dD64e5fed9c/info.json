@@ -1,0 +1,10 @@
+{
+    "name": "Neos Credits",
+    "symbol": "NCR",
+    "id": "0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/neos-credits",
+    "market_cap_rank": 343,
+    "24_hr_volume_usd": 3562421,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c/logo.png"
+}

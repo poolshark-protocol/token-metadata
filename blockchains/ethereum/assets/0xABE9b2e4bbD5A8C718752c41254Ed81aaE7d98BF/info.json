@@ -1,0 +1,10 @@
+{
+    "name": "P2P",
+    "symbol": "P2P",
+    "id": "0xABE9b2e4bbD5A8C718752c41254Ed81aaE7d98BF",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/p2p",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.122145,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xABE9b2e4bbD5A8C718752c41254Ed81aaE7d98BF/logo.png"
+}

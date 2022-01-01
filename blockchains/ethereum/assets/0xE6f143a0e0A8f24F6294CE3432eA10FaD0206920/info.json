@@ -1,0 +1,10 @@
+{
+    "name": "PolkaEx",
+    "symbol": "PKEX",
+    "id": "0xE6f143a0e0A8f24F6294CE3432eA10FaD0206920",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polkaex",
+    "market_cap_rank": 2517,
+    "24_hr_volume_usd": 99101,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE6f143a0e0A8f24F6294CE3432eA10FaD0206920/logo.png"
+}

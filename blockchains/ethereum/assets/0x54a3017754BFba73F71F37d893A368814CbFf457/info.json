@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Widecoin",
+    "symbol": "WWCN",
+    "id": "0x54a3017754BFba73F71F37d893A368814CbFf457",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-widecoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.93,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x54a3017754BFba73F71F37d893A368814CbFf457/logo.png"
+}

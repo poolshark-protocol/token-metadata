@@ -1,0 +1,10 @@
+{
+    "name": "ISTARDUST",
+    "symbol": "ISDT",
+    "id": "0xf2354F740f31704820f6FcfBA70B9dA065459b62",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/istardust",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 142357,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf2354F740f31704820f6FcfBA70B9dA065459b62/logo.png"
+}

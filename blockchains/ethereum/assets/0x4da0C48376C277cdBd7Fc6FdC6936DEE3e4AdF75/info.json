@@ -1,0 +1,10 @@
+{
+    "name": "Epik Prime",
+    "symbol": "EPIK",
+    "id": "0x4da0C48376C277cdBd7Fc6FdC6936DEE3e4AdF75",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/epik-prime",
+    "market_cap_rank": 621,
+    "24_hr_volume_usd": 2894838,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4da0C48376C277cdBd7Fc6FdC6936DEE3e4AdF75/logo.png"
+}

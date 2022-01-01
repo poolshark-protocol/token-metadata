@@ -1,0 +1,10 @@
+{
+    "name": "Marshal Lion Group Coin",
+    "symbol": "MLGC",
+    "id": "0x4534492034a2cd3EAb34C8F357cD139c95b09F52",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/marshal-lion-group-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 17.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4534492034a2cd3EAb34C8F357cD139c95b09F52/logo.png"
+}

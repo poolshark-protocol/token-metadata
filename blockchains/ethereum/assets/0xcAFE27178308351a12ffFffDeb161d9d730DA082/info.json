@@ -1,0 +1,10 @@
+{
+    "name": "HotDollars Token",
+    "symbol": "HDS",
+    "id": "0xcAFE27178308351a12ffFffDeb161d9d730DA082",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hotdollars-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 68429,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcAFE27178308351a12ffFffDeb161d9d730DA082/logo.png"
+}

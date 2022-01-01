@@ -1,0 +1,10 @@
+{
+    "name": "Aave Interest bearing LINK",
+    "symbol": "aLINK",
+    "id": "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-link-v1",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 20.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84/logo.png"
+}

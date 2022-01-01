@@ -1,0 +1,10 @@
+{
+    "name": "PolkaRareToken",
+    "symbol": "PRARE",
+    "id": "0x2C2f7e7C5604D162d75641256b80F1Bf6f4dC796",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polkarare",
+    "market_cap_rank": 1937,
+    "24_hr_volume_usd": 14162.55,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C2f7e7C5604D162d75641256b80F1Bf6f4dC796/logo.png"
+}

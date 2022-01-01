@@ -1,0 +1,10 @@
+{
+    "name": "THANOS",
+    "symbol": "THANOS",
+    "id": "0xDb0c52980E66EF97EE2ab85F57f86cd53928aC93",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/thanos-2",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDb0c52980E66EF97EE2ab85F57f86cd53928aC93/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Agoras Token",
+    "symbol": "AGRS",
+    "id": "0x738865301A9b7Dd80Dc3666dD48cF034ec42bdDa",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/agoras-currency-of-tau",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 45620,
+    "public_notice": "Agoras has been rebranded to Agoras: Currency of Tau. Find out more on their Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x738865301A9b7Dd80Dc3666dD48cF034ec42bdDa/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Olympus",
+    "symbol": "OHM",
+    "id": "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/olympus",
+    "market_cap_rank": 71,
+    "24_hr_volume_usd": 42272962,
+    "public_notice": "Staked Olympus (sOHM): https://www.coingecko.com/en/coins/staked-olympus <br>Wrapped Staked Olympus (wSOHM): https://www.coingecko.com/en/coins/wrapped-staked-olympus <br>Olympus (OHM) has migrated to a v2 contract 0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5. Read more at: https://docs.olympusdao.finance/main/basics/migration. <br>This page refers to Olympus v2. For Olympus v1, refer here: https://www.coingecko.com/en/coins/olympus-v1",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5/logo.png"
+}

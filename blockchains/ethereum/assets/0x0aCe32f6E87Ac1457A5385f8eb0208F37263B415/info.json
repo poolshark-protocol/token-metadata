@@ -1,0 +1,10 @@
+{
+    "name": "Habitat Token",
+    "symbol": "HBT",
+    "id": "0x0aCe32f6E87Ac1457A5385f8eb0208F37263B415",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/habitat",
+    "market_cap_rank": 3271,
+    "24_hr_volume_usd": 170.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0aCe32f6E87Ac1457A5385f8eb0208F37263B415/logo.png"
+}

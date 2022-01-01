@@ -1,0 +1,10 @@
+{
+    "name": "VALID",
+    "symbol": "VLD",
+    "id": "0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/valid",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 175.03,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x922aC473A3cC241fD3a0049Ed14536452D58D73c/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Synth sRUNE",
+    "symbol": "sRUNE",
+    "id": "0x0352557B007A4Aae1511C114409b932F06F9E2f4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/srune",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3067.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0352557B007A4Aae1511C114409b932F06F9E2f4/logo.png"
+}

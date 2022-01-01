@@ -1,0 +1,10 @@
+{
+    "name": "VIXCO",
+    "symbol": "VIX",
+    "id": "0x49Bf0220C9Ce17E52dCcA3d217231746D676085B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vixco",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 92951,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x49Bf0220C9Ce17E52dCcA3d217231746D676085B/logo.png"
+}

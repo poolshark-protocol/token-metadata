@@ -1,0 +1,10 @@
+{
+    "name": "Planet of Apes",
+    "symbol": "POA",
+    "id": "0x8Cd439cB2E0E01DE6AA08C1C5e7f49e8b992De16",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/planet-of-apes",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8Cd439cB2E0E01DE6AA08C1C5e7f49e8b992De16/logo.png"
+}

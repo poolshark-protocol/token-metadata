@@ -1,0 +1,10 @@
+{
+    "name": "Froggies",
+    "symbol": "FROGGIES",
+    "id": "0x7c3fF33c76C919B3F5fddAF7BddDBb20A826DC61",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/froggies-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 58.82,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7c3fF33c76C919B3F5fddAF7BddDBb20A826DC61/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Ixs Token",
+    "symbol": "IXS",
+    "id": "0x73d7c860998CA3c01Ce8c808F5577d94d545d1b4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ix-swap",
+    "market_cap_rank": 1470,
+    "24_hr_volume_usd": 212634,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x73d7c860998CA3c01Ce8c808F5577d94d545d1b4/logo.png"
+}

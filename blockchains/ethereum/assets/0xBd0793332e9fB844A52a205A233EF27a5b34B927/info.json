@@ -1,0 +1,11 @@
+{
+    "name": "ZBToken",
+    "symbol": "ZB",
+    "id": "0xBd0793332e9fB844A52a205A233EF27a5b34B927",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zb-token",
+    "market_cap_rank": 969,
+    "24_hr_volume_usd": 1176807,
+    "public_notice": "ZB moved their coins out of the Ecosystem Fund wallet, causing a spike from 16th July 2018 to 15th Aug 2018. The wallet address has been updated and the market cap will see a drop back to normal levels",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBd0793332e9fB844A52a205A233EF27a5b34B927/logo.png"
+}

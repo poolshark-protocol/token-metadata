@@ -1,0 +1,10 @@
+{
+    "name": "Booleancoin",
+    "symbol": "BOOL",
+    "id": "0x6C929cdE908481F3d1D775008791F42B1B89DBB0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/boolean",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2932.99,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6C929cdE908481F3d1D775008791F42B1B89DBB0/logo.png"
+}

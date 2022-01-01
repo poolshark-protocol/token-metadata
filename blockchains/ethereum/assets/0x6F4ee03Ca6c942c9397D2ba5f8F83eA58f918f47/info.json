@@ -1,0 +1,10 @@
+{
+    "name": "CashBackPro",
+    "symbol": "CBP",
+    "id": "0x6F4ee03Ca6c942c9397D2ba5f8F83eA58f918f47",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cashbackpro",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6F4ee03Ca6c942c9397D2ba5f8F83eA58f918f47/logo.png"
+}

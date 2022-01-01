@@ -1,0 +1,10 @@
+{
+    "name": "Delta Exchange Token",
+    "symbol": "DETO",
+    "id": "0xaB93dF617F51E1E415b5b4f8111f122d6b48e55C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/delta-exchange-token",
+    "market_cap_rank": 974,
+    "24_hr_volume_usd": 11254.25,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaB93dF617F51E1E415b5b4f8111f122d6b48e55C/logo.png"
+}

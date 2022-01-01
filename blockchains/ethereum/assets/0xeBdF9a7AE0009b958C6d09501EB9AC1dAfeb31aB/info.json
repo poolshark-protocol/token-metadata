@@ -1,0 +1,10 @@
+{
+    "name": "REDiToken",
+    "symbol": "REDi",
+    "id": "0xeBdF9a7AE0009b958C6d09501EB9AC1dAfeb31aB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/redi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 457248,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeBdF9a7AE0009b958C6d09501EB9AC1dAfeb31aB/logo.png"
+}

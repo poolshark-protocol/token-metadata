@@ -1,0 +1,10 @@
+{
+    "name": "YFIVE.FINANCE",
+    "symbol": "YFIVE",
+    "id": "0xd3E8695d2Bef061EAb38B5EF526c0f714108119C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfive-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 378.9,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd3E8695d2Bef061EAb38B5EF526c0f714108119C/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "HASH",
+    "symbol": "HASH",
+    "id": "0xEB1112Ac78D537853150E2a07E8b765E29d3F019",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hash-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 19198.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEB1112Ac78D537853150E2a07E8b765E29d3F019/logo.png"
+}

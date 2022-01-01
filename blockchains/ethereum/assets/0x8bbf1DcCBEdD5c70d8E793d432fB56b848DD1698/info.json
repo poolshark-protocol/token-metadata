@@ -1,0 +1,10 @@
+{
+    "name": "Ape In",
+    "symbol": "APEIN",
+    "id": "0x8bbf1DcCBEdD5c70d8E793d432fB56b848DD1698",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ape-in",
+    "market_cap_rank": 2595,
+    "24_hr_volume_usd": 688.71,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8bbf1DcCBEdD5c70d8E793d432fB56b848DD1698/logo.png"
+}

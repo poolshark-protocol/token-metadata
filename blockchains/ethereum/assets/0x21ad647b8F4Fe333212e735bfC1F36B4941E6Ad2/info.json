@@ -1,0 +1,10 @@
+{
+    "name": "Squid",
+    "symbol": "SQUID",
+    "id": "0x21ad647b8F4Fe333212e735bfC1F36B4941E6Ad2",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/squid",
+    "market_cap_rank": 636,
+    "24_hr_volume_usd": 127413,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x21ad647b8F4Fe333212e735bfC1F36B4941E6Ad2/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "AlrightCoin",
+    "symbol": "ALC",
+    "id": "0x95D82bA91256DB995C80BEd690D0A779191aF62b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alrightcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.240716,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95D82bA91256DB995C80BEd690D0A779191aF62b/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "DotOracle",
+    "symbol": "DTO",
+    "id": "0xB57420FaD6731B004309D5a0ec7C6C906Adb8df7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dotoracle",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 87.34,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB57420FaD6731B004309D5a0ec7C6C906Adb8df7/logo.png"
+}

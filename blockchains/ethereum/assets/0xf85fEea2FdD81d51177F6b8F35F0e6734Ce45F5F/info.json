@@ -1,0 +1,10 @@
+{
+    "name": "CyberMiles Token",
+    "symbol": "CMT",
+    "id": "0xf85fEea2FdD81d51177F6b8F35F0e6734Ce45F5F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cybermiles",
+    "market_cap_rank": 1583,
+    "24_hr_volume_usd": 1408057,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf85fEea2FdD81d51177F6b8F35F0e6734Ce45F5F/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "NUM Token",
+    "symbol": "NUM",
+    "id": "0x3496B523e5C00a4b4150D6721320CdDb234c3079",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/numbers-protocol",
+    "market_cap_rank": 678,
+    "24_hr_volume_usd": 2867449,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3496B523e5C00a4b4150D6721320CdDb234c3079/logo.png"
+}

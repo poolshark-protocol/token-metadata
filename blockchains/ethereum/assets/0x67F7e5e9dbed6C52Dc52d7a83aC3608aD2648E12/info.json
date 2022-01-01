@@ -1,0 +1,10 @@
+{
+    "name": "Zenith",
+    "symbol": "ZENX",
+    "id": "0x67F7e5e9dbed6C52Dc52d7a83aC3608aD2648E12",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zenith-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8.61,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x67F7e5e9dbed6C52Dc52d7a83aC3608aD2648E12/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Zeptacoin",
+    "symbol": "ZPTC",
+    "id": "0x39Ae6D231d831756079ec23589D2D37A739F2E89",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zeptagram",
+    "market_cap_rank": 2057,
+    "24_hr_volume_usd": 553087,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x39Ae6D231d831756079ec23589D2D37A739F2E89/logo.png"
+}

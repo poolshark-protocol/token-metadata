@@ -1,0 +1,10 @@
+{
+    "name": "DekuInu",
+    "symbol": "DEKU",
+    "id": "0xA1a88cea335EDAF30ce90F103f1434a773ea46BD",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/deku-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 40745,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA1a88cea335EDAF30ce90F103f1434a773ea46BD/logo.png"
+}

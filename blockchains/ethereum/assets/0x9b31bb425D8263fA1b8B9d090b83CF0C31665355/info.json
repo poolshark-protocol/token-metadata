@@ -1,0 +1,10 @@
+{
+    "name": "Coinspaid",
+    "symbol": "CPD",
+    "id": "0x9b31bb425D8263fA1b8B9d090b83CF0C31665355",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coinspaid",
+    "market_cap_rank": 1585,
+    "24_hr_volume_usd": 51965,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b31bb425D8263fA1b8B9d090b83CF0C31665355/logo.png"
+}

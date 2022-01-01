@@ -1,0 +1,10 @@
+{
+    "name": "0xMonero",
+    "symbol": "0xMR",
+    "id": "0x035dF12E0F3ac6671126525f1015E47D79dFEDDF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/0xmonero",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x035dF12E0F3ac6671126525f1015E47D79dFEDDF/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "stakedXEM",
+    "symbol": "stXEM",
+    "id": "0x0C63cAE5fcC2Ca3dDE60a35e50362220651eBEc8",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stakedxem",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0C63cAE5fcC2Ca3dDE60a35e50362220651eBEc8/logo.png"
+}

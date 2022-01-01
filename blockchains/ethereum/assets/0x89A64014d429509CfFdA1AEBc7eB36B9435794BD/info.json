@@ -1,0 +1,10 @@
+{
+    "name": "LULZ",
+    "symbol": "LULZ",
+    "id": "0x89A64014d429509CfFdA1AEBc7eB36B9435794BD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lulz",
+    "market_cap_rank": 3028,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x89A64014d429509CfFdA1AEBc7eB36B9435794BD/logo.png"
+}

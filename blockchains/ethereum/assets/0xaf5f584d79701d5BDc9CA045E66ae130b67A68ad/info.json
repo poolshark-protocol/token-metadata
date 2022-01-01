@@ -1,0 +1,10 @@
+{
+    "name": "Crybet Token",
+    "symbol": "CBT",
+    "id": "0xaf5f584d79701d5BDc9CA045E66ae130b67A68ad",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crybet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1001.31,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaf5f584d79701d5BDc9CA045E66ae130b67A68ad/logo.png"
+}

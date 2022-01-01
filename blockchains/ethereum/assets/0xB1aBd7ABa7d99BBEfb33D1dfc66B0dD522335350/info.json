@@ -1,0 +1,10 @@
+{
+    "name": "EURO Stable Token",
+    "symbol": "EURST",
+    "id": "0xB1aBd7ABa7d99BBEfb33D1dfc66B0dD522335350",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/euro-stable-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.186982,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB1aBd7ABa7d99BBEfb33D1dfc66B0dD522335350/logo.png"
+}

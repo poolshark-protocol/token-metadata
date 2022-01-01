@@ -1,0 +1,10 @@
+{
+    "name": "Swapr",
+    "symbol": "SWPR",
+    "id": "0x6cAcDB97e3fC8136805a9E7c342d866ab77D0957",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/swapr",
+    "market_cap_rank": 2456,
+    "24_hr_volume_usd": 8691.49,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6cAcDB97e3fC8136805a9E7c342d866ab77D0957/logo.png"
+}

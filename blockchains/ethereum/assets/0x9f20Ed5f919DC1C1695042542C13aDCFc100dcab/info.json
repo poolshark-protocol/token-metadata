@@ -1,0 +1,10 @@
+{
+    "name": "Component",
+    "symbol": "CMP",
+    "id": "0x9f20Ed5f919DC1C1695042542C13aDCFc100dcab",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/component",
+    "market_cap_rank": 2935,
+    "24_hr_volume_usd": 3351.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9f20Ed5f919DC1C1695042542C13aDCFc100dcab/logo.png"
+}

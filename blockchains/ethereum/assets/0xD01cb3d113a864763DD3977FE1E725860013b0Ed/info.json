@@ -1,0 +1,10 @@
+{
+    "name": "StaFi",
+    "symbol": "rATOM",
+    "id": "0xD01cb3d113a864763DD3977FE1E725860013b0Ed",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stafi-ratom",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 40672,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD01cb3d113a864763DD3977FE1E725860013b0Ed/logo.png"
+}

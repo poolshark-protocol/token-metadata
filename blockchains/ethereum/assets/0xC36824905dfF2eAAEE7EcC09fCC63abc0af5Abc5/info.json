@@ -1,0 +1,10 @@
+{
+    "name": "BAB",
+    "symbol": "BAB",
+    "id": "0xC36824905dfF2eAAEE7EcC09fCC63abc0af5Abc5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/basis-bond",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC36824905dfF2eAAEE7EcC09fCC63abc0af5Abc5/logo.png"
+}

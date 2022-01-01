@@ -1,0 +1,10 @@
+{
+    "name": "keyTango Token",
+    "symbol": "TANGO",
+    "id": "0x182F4c4C97cd1c24E1Df8FC4c053E5C47bf53Bef",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/keytango",
+    "market_cap_rank": 2186,
+    "24_hr_volume_usd": 21950,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x182F4c4C97cd1c24E1Df8FC4c053E5C47bf53Bef/logo.png"
+}

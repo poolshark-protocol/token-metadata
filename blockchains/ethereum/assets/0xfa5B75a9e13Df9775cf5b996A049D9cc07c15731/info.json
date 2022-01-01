@@ -1,0 +1,10 @@
+{
+    "name": "28VCK",
+    "symbol": "28VCK",
+    "id": "0xfa5B75a9e13Df9775cf5b996A049D9cc07c15731",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/28vck",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 244681,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfa5B75a9e13Df9775cf5b996A049D9cc07c15731/logo.png"
+}

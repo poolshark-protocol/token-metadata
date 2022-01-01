@@ -1,0 +1,10 @@
+{
+    "name": "Quattro Tech",
+    "symbol": "Qtech",
+    "id": "0x00156E5524f3a53A55a3cC6e95e57397D39DAA49",
+    "decimals": 12,
+    "coingecko_url": "https://www.coingecko.com/en/coins/quattro-tech",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 94.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x00156E5524f3a53A55a3cC6e95e57397D39DAA49/logo.png"
+}

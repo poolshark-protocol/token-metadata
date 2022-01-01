@@ -1,0 +1,10 @@
+{
+    "name": "Fairum Community",
+    "symbol": "FAI",
+    "id": "0xCda2f16C6Aa895D533506B426AFF827b709c87F5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fairum",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 36274,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCda2f16C6Aa895D533506B426AFF827b709c87F5/logo.png"
+}

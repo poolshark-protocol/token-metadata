@@ -1,0 +1,10 @@
+{
+    "name": "Ribbon",
+    "symbol": "RBN",
+    "id": "0x6123B0049F904d730dB3C36a31167D9d4121fA6B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ribbon-finance",
+    "market_cap_rank": 427,
+    "24_hr_volume_usd": 19994882,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6123B0049F904d730dB3C36a31167D9d4121fA6B/logo.png"
+}

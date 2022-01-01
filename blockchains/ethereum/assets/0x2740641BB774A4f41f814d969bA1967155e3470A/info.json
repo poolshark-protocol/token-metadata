@@ -1,0 +1,10 @@
+{
+    "name": "Jpaw Inu",
+    "symbol": "JPAW",
+    "id": "0x2740641BB774A4f41f814d969bA1967155e3470A",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jpaw-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 800.42,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2740641BB774A4f41f814d969bA1967155e3470A/logo.png"
+}

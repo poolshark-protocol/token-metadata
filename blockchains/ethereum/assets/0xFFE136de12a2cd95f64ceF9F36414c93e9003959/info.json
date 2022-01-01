@@ -1,0 +1,10 @@
+{
+    "name": "SupDucks",
+    "symbol": "DUCK",
+    "id": "0xFFE136de12a2cd95f64ceF9F36414c93e9003959",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/duck-vault-nftx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5927.93,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFFE136de12a2cd95f64ceF9F36414c93e9003959/logo.png"
+}

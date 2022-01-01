@@ -1,0 +1,10 @@
+{
+    "name": "AICON",
+    "symbol": "AICO",
+    "id": "0xE7FB3559358A99df54466d0350e4aD6DC7093da3",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aicon",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 16315.46,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE7FB3559358A99df54466d0350e4aD6DC7093da3/logo.png"
+}

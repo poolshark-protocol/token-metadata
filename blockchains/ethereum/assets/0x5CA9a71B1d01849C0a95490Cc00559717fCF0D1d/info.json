@@ -1,0 +1,11 @@
+{
+    "name": "Aeternity",
+    "symbol": "AE",
+    "id": "0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aeternity",
+    "market_cap_rank": 691,
+    "24_hr_volume_usd": 583608,
+    "public_notice": "Mainnet is live. There are still AE tokens on Ethereum, managed by contract 0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d. That contract will expire on September 2, 2019 and all ERC20 AE tokens will become non-transferable. Users must migrate before that date.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5CA9a71B1d01849C0a95490Cc00559717fCF0D1d/logo.png"
+}

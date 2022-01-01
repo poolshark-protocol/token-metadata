@@ -1,0 +1,10 @@
+{
+    "name": "Orion Money Token",
+    "symbol": "ORION",
+    "id": "0x727f064A78DC734D33eEc18d5370aef32Ffd46e4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/orion-money",
+    "market_cap_rank": 839,
+    "24_hr_volume_usd": 851330,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x727f064A78DC734D33eEc18d5370aef32Ffd46e4/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Metafinance",
+    "symbol": "MF",
+    "id": "0x9b5161a41B58498Eb9c5FEBf89d60714089d2253",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/meta_finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 400054,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b5161a41B58498Eb9c5FEBf89d60714089d2253/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "TornadoCash",
+    "symbol": "TORN",
+    "id": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tornado-cash",
+    "market_cap_rank": 502,
+    "24_hr_volume_usd": 2888461,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77777FeDdddFfC19Ff86DB637967013e6C6A116C/logo.png"
+}

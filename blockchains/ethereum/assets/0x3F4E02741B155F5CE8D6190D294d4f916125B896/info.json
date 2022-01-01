@@ -1,0 +1,10 @@
+{
+    "name": "CircleEx",
+    "symbol": "CX",
+    "id": "0x3F4E02741B155F5CE8D6190D294d4f916125B896",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/circleex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3F4E02741B155F5CE8D6190D294d4f916125B896/logo.png"
+}

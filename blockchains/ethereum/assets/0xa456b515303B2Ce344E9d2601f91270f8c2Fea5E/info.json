@@ -1,0 +1,11 @@
+{
+    "name": "Cornichon",
+    "symbol": "CORN",
+    "id": "0xa456b515303B2Ce344E9d2601f91270f8c2Fea5E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cornichon",
+    "market_cap_rank": 2107,
+    "24_hr_volume_usd": 743.6,
+    "public_notice": "Note: Cornichon is created as an IOU for those who lost funds in Pickle's pDAI jar hack. It has no other use cases.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa456b515303B2Ce344E9d2601f91270f8c2Fea5E/logo.png"
+}

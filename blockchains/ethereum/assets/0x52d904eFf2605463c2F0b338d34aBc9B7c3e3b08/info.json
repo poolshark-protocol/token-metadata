@@ -1,0 +1,11 @@
+{
+    "name": "Bitpower",
+    "symbol": "BPP",
+    "id": "0x52d904eFf2605463c2F0b338d34aBc9B7c3e3b08",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitpower",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5760.44,
+    "public_notice": "Bitpower has been acquired by DefHold. For more information: https://defhold.medium.com/defhold-is-acquiring-bitpower-the-birth-of-bit-alliance-dao-b825a5787f3b",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x52d904eFf2605463c2F0b338d34aBc9B7c3e3b08/logo.png"
+}

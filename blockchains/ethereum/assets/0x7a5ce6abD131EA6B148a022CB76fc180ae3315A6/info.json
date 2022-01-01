@@ -1,0 +1,10 @@
+{
+    "name": "bAlpha",
+    "symbol": "bALPHA",
+    "id": "0x7a5ce6abD131EA6B148a022CB76fc180ae3315A6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/balpha",
+    "market_cap_rank": 2405,
+    "24_hr_volume_usd": 327982,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7a5ce6abD131EA6B148a022CB76fc180ae3315A6/logo.png"
+}

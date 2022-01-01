@@ -1,0 +1,10 @@
+{
+    "name": "Onbuff Token",
+    "symbol": "ONIT",
+    "id": "0x410e731c2970Dce3AdD351064AcF5cE9E33FDBf0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/onbuff",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3047528,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x410e731c2970Dce3AdD351064AcF5cE9E33FDBf0/logo.png"
+}

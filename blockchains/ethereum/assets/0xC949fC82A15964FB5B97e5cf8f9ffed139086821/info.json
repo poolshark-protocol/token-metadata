@@ -1,0 +1,10 @@
+{
+    "name": "PGPAY",
+    "symbol": "PGPAY",
+    "id": "0xC949fC82A15964FB5B97e5cf8f9ffed139086821",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/puregold-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1337.44,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC949fC82A15964FB5B97e5cf8f9ffed139086821/logo.png"
+}

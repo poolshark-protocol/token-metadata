@@ -1,0 +1,11 @@
+{
+    "name": "LoomToken",
+    "symbol": "LOOM",
+    "id": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/loom-network",
+    "market_cap_rank": 557,
+    "24_hr_volume_usd": 1677422,
+    "public_notice": "LOOM is migrating to a new address (https://www.coingecko.com/en/coins/loom-network-new). For more information: https://medium.com/loom-network/loom-token-swap-launch-f9257a4ae066",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0/logo.png"
+}

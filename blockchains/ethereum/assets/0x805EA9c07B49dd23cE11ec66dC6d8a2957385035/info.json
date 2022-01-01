@@ -1,0 +1,10 @@
+{
+    "name": "Transient",
+    "symbol": "TSCT",
+    "id": "0x805EA9c07B49dd23cE11ec66dC6d8a2957385035",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/transient",
+    "market_cap_rank": 1479,
+    "24_hr_volume_usd": 17378.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x805EA9c07B49dd23cE11ec66dC6d8a2957385035/logo.png"
+}

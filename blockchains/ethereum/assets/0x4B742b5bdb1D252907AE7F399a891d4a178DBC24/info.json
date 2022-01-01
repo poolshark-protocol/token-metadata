@@ -1,0 +1,10 @@
+{
+    "name": "B One Payment",
+    "symbol": "B1P",
+    "id": "0x4B742b5bdb1D252907AE7F399a891d4a178DBC24",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/b-one-payment",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.43,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4B742b5bdb1D252907AE7F399a891d4a178DBC24/logo.png"
+}

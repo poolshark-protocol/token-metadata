@@ -1,0 +1,10 @@
+{
+    "name": "YFC.Mutualfund",
+    "symbol": "YFC",
+    "id": "0xc6Ff7EaC464C99FF0e1AD8BcFd0aB0ceBe08c9A3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 34.92,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc6Ff7EaC464C99FF0e1AD8BcFd0aB0ceBe08c9A3/logo.png"
+}

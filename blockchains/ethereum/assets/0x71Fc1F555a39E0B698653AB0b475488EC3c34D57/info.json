@@ -1,0 +1,10 @@
+{
+    "name": "Rainmaker Games",
+    "symbol": "RAIN",
+    "id": "0x71Fc1F555a39E0B698653AB0b475488EC3c34D57",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rainmaker-games",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1605708,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x71Fc1F555a39E0B698653AB0b475488EC3c34D57/logo.png"
+}

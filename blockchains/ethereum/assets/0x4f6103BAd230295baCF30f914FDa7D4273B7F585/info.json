@@ -1,0 +1,10 @@
+{
+    "name": "Ki",
+    "symbol": "XKI",
+    "id": "0x4f6103BAd230295baCF30f914FDa7D4273B7F585",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ki",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 78216,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4f6103BAd230295baCF30f914FDa7D4273B7F585/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "IdleUSDC v4 [Best yield]",
+    "symbol": "idleUSDCYield",
+    "id": "0x5274891bEC421B39D23760c04A6755eCB444797C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/idle-usdc-yield",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5274891bEC421B39D23760c04A6755eCB444797C/logo.png"
+}

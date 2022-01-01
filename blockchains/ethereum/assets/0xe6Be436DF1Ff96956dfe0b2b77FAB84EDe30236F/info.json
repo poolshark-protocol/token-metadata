@@ -1,0 +1,10 @@
+{
+    "name": "Revelation Coin",
+    "symbol": "REV",
+    "id": "0xe6Be436DF1Ff96956dfe0b2b77FAB84EDe30236F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/revelation-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe6Be436DF1Ff96956dfe0b2b77FAB84EDe30236F/logo.png"
+}

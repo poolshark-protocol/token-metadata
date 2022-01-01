@@ -1,0 +1,11 @@
+{
+    "name": "MultiGenCapital",
+    "symbol": "MGC",
+    "id": "0x494Cd82786a86eA842f8D80545Ff841Bcbf42dED",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/multigencapital",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1702.37,
+    "public_notice": "Multi Gen Capital has migrated from the <a href=\"https://etherscan.io/token/0x3ed5a70a149f3c758231a2d592c5b5b5aee86e35\">old contract</a> to a <a href=\"https://etherscan.io/token/0x494cd82786a86ea842f8d80545ff841bcbf42ded\">new one</a>. Read more at their <a href=\"https://medium.com/@MultiGenCapital?p=54e1dca1c385\">Medium</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x494Cd82786a86eA842f8D80545Ff841Bcbf42dED/logo.png"
+}

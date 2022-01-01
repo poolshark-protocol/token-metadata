@@ -1,0 +1,10 @@
+{
+    "name": "WPPToken",
+    "symbol": "WPP",
+    "id": "0x1955d744F9435522Be508D1Ba60E3c12D0690B6A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wpp-token",
+    "market_cap_rank": 862,
+    "24_hr_volume_usd": 25753,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1955d744F9435522Be508D1Ba60E3c12D0690B6A/logo.png"
+}

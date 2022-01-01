@@ -1,0 +1,10 @@
+{
+    "name": "Hyper Trust",
+    "symbol": "HPTT",
+    "id": "0xBA711fb93Ca039cb592Ee34c96F4Adf632e5B8E7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hyper-trust",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 288.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBA711fb93Ca039cb592Ee34c96F4Adf632e5B8E7/logo.png"
+}

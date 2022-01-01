@@ -1,0 +1,10 @@
+{
+    "name": "Anchor Neural World Token",
+    "symbol": "ANW",
+    "id": "0x7DbDD9DaFdC4c1c03D67925a4f85daA398aF32B0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/anchor-neural-world-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6011664,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7DbDD9DaFdC4c1c03D67925a4f85daA398aF32B0/logo.png"
+}

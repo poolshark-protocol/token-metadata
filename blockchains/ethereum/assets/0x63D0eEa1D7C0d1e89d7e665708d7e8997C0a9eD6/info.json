@@ -1,0 +1,10 @@
+{
+    "name": "Ethanol",
+    "symbol": "ENOL",
+    "id": "0x63D0eEa1D7C0d1e89d7e665708d7e8997C0a9eD6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethanol",
+    "market_cap_rank": 3122,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x63D0eEa1D7C0d1e89d7e665708d7e8997C0a9eD6/logo.png"
+}

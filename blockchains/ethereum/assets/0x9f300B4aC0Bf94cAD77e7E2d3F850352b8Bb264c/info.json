@@ -1,0 +1,10 @@
+{
+    "name": "TALENT Coin ",
+    "symbol": "TLNT",
+    "id": "0x9f300B4aC0Bf94cAD77e7E2d3F850352b8Bb264c",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/talent-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 565.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9f300B4aC0Bf94cAD77e7E2d3F850352b8Bb264c/logo.png"
+}

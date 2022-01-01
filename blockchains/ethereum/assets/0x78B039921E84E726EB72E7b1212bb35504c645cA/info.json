@@ -1,0 +1,10 @@
+{
+    "name": "Sether",
+    "symbol": "SETH",
+    "id": "0x78B039921E84E726EB72E7b1212bb35504c645cA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sether",
+    "market_cap_rank": 2626,
+    "24_hr_volume_usd": 2313.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x78B039921E84E726EB72E7b1212bb35504c645cA/logo.png"
+}

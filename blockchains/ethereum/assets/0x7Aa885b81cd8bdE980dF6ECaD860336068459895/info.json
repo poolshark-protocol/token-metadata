@@ -1,0 +1,10 @@
+{
+    "name": "ART-NANO",
+    "symbol": "ARNO",
+    "id": "0x7Aa885b81cd8bdE980dF6ECaD860336068459895",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/art-nano",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 229.17,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7Aa885b81cd8bdE980dF6ECaD860336068459895/logo.png"
+}

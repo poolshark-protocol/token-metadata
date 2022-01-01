@@ -1,0 +1,10 @@
+{
+    "name": "AurusSILVER",
+    "symbol": "AWS",
+    "id": "0xb89903ddE3899f0280B99913168Ee833a7896B93",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aurus-silver",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 55.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb89903ddE3899f0280B99913168Ee833a7896B93/logo.png"
+}

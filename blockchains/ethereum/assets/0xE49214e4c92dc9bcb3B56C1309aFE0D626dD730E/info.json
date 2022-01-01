@@ -1,0 +1,10 @@
+{
+    "name": "SynchroCoin",
+    "symbol": "SYC",
+    "id": "0xE49214e4c92dc9bcb3B56C1309aFE0D626dD730E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/synchrolife",
+    "market_cap_rank": 2381,
+    "24_hr_volume_usd": 0.051752,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE49214e4c92dc9bcb3B56C1309aFE0D626dD730E/logo.png"
+}

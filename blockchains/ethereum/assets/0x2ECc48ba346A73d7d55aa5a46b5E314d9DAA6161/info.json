@@ -1,0 +1,10 @@
+{
+    "name": "SafeSwap",
+    "symbol": "SSGT",
+    "id": "0x2ECc48ba346A73d7d55aa5a46b5E314d9DAA6161",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/safeswap",
+    "market_cap_rank": 2216,
+    "24_hr_volume_usd": 10621.53,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2ECc48ba346A73d7d55aa5a46b5E314d9DAA6161/logo.png"
+}

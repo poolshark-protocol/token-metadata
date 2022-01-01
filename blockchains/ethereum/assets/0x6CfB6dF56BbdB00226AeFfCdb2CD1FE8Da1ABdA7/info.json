@@ -1,0 +1,10 @@
+{
+    "name": "Komet",
+    "symbol": "KOMET",
+    "id": "0x6CfB6dF56BbdB00226AeFfCdb2CD1FE8Da1ABdA7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/komet",
+    "market_cap_rank": 2425,
+    "24_hr_volume_usd": 6131.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6CfB6dF56BbdB00226AeFfCdb2CD1FE8Da1ABdA7/logo.png"
+}

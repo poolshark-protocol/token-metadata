@@ -1,0 +1,10 @@
+{
+    "name": "INU",
+    "symbol": "INU",
+    "id": "0x00F29171D7bCDC464a0758cF3217fE83173772b9",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/inu-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13437.52,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x00F29171D7bCDC464a0758cF3217fE83173772b9/logo.png"
+}

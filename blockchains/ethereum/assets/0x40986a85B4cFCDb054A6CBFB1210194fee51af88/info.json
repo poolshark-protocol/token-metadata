@@ -1,0 +1,11 @@
+{
+    "name": "UNIFARM Token",
+    "symbol": "UFARM",
+    "id": "0x40986a85B4cFCDb054A6CBFB1210194fee51af88",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unifarm",
+    "market_cap_rank": 2154,
+    "24_hr_volume_usd": 35.26,
+    "public_notice": "UFARM is conducting token migration, for more information, please read: https://twitter.com/unifarm_/status/1415670711671087109?s=20",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/logo.png"
+}

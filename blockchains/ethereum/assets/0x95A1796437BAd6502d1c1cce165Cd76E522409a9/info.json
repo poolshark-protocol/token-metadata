@@ -1,0 +1,10 @@
+{
+    "name": "Official Crypto Cowboy Token",
+    "symbol": "OCCT",
+    "id": "0x95A1796437BAd6502d1c1cce165Cd76E522409a9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/official-crypto-cowboy-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3529.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95A1796437BAd6502d1c1cce165Cd76E522409a9/logo.png"
+}

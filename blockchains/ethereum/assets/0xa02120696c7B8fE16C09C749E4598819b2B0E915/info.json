@@ -1,0 +1,10 @@
+{
+    "name": "Wirex Token",
+    "symbol": "WXT",
+    "id": "0xa02120696c7B8fE16C09C749E4598819b2B0E915",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wirex",
+    "market_cap_rank": 1335,
+    "24_hr_volume_usd": 342981,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa02120696c7B8fE16C09C749E4598819b2B0E915/logo.png"
+}

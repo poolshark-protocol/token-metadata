@@ -1,0 +1,10 @@
+{
+    "name": "Beatify",
+    "symbol": "SONG",
+    "id": "0xA18A0bE599366C8e2fFfFD83A2418a3cCb825d7f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/beatify",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 460.79,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA18A0bE599366C8e2fFfFD83A2418a3cCb825d7f/logo.png"
+}

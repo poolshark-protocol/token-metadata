@@ -1,0 +1,10 @@
+{
+    "name": "CARD.STARTER",
+    "symbol": "CARDS",
+    "id": "0x3d6F0DEa3AC3C607B3998e6Ce14b6350721752d9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cardstarter",
+    "market_cap_rank": 720,
+    "24_hr_volume_usd": 1724443,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3d6F0DEa3AC3C607B3998e6Ce14b6350721752d9/logo.png"
+}

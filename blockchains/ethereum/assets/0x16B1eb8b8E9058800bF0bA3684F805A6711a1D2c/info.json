@@ -1,0 +1,10 @@
+{
+    "name": "reflector.finance",
+    "symbol": "RFCTR",
+    "id": "0x16B1eb8b8E9058800bF0bA3684F805A6711a1D2c",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/reflector-finance",
+    "market_cap_rank": 3123,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x16B1eb8b8E9058800bF0bA3684F805A6711a1D2c/logo.png"
+}

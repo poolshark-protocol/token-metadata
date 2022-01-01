@@ -1,0 +1,10 @@
+{
+    "name": "UMAD",
+    "symbol": "UMAD",
+    "id": "0x31c2415c946928e9FD1Af83cdFA38d3eDBD4326f",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/madworld",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 60966,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31c2415c946928e9FD1Af83cdFA38d3eDBD4326f/logo.png"
+}

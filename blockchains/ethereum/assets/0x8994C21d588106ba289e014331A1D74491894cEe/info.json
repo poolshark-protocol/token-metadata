@@ -1,0 +1,10 @@
+{
+    "name": "ChainFlowers",
+    "symbol": "CFLO",
+    "id": "0x8994C21d588106ba289e014331A1D74491894cEe",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chain-flowers",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1845.36,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8994C21d588106ba289e014331A1D74491894cEe/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "RickMortyDoxx",
+    "symbol": "RickMortyDoxx",
+    "id": "0x5D29011D843B0b1760C43E10d66F302174bcCd1A",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rickmortydoxx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 29885,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5D29011D843B0b1760C43E10d66F302174bcCd1A/logo.png"
+}

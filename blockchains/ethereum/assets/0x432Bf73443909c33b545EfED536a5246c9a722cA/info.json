@@ -1,0 +1,10 @@
+{
+    "name": "Poverty Eradication Coin",
+    "symbol": "PEC",
+    "id": "0x432Bf73443909c33b545EfED536a5246c9a722cA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/proverty-eradication-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x432Bf73443909c33b545EfED536a5246c9a722cA/logo.png"
+}

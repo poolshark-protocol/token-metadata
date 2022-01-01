@@ -1,0 +1,10 @@
+{
+    "name": "Pakkun Inu",
+    "symbol": "PAKK",
+    "id": "0x4Fb0dDA89Df6D2fD3d291D83e30322C38E830faa",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pakkun-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Fb0dDA89Df6D2fD3d291D83e30322C38E830faa/logo.png"
+}

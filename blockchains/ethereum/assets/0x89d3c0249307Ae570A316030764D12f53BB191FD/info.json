@@ -1,0 +1,10 @@
+{
+    "name": "Xiglute Coin",
+    "symbol": "XGC",
+    "id": "0x89d3c0249307Ae570A316030764D12f53BB191FD",
+    "decimals": 14,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xiglute-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4625.63,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x89d3c0249307Ae570A316030764D12f53BB191FD/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Cornucopias",
+    "symbol": "COPI",
+    "id": "0x42Baf1f659D765C65ADE5BB7E08eb2C680360d9d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cornucopias",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 160016,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x42Baf1f659D765C65ADE5BB7E08eb2C680360d9d/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "XT Token",
+    "symbol": "XT",
+    "id": "0x4BE10dA47A07716af28Ad199FbE020501BddD7aF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xtcom-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5485785,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4BE10dA47A07716af28Ad199FbE020501BddD7aF/logo.png"
+}

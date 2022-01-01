@@ -1,0 +1,10 @@
+{
+    "name": "Thales Token",
+    "symbol": "THALES",
+    "id": "0x03E173Ad8d1581A4802d3B532AcE27a62c5B81dc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/thales",
+    "market_cap_rank": 1092,
+    "24_hr_volume_usd": 70934,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x03E173Ad8d1581A4802d3B532AcE27a62c5B81dc/logo.png"
+}

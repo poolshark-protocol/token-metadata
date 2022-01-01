@@ -1,0 +1,11 @@
+{
+    "name": "NFTrade Token",
+    "symbol": "NFTD",
+    "id": "0x8E0fE2947752BE0d5ACF73aaE77362Daf79cB379",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nftrade",
+    "market_cap_rank": 1073,
+    "24_hr_volume_usd": 630815,
+    "public_notice": "NFTrade (NFTD) has recently migrated from their <a href=\"https://snowtrace.io/token/0x8e0fe2947752be0d5acf73aae77362daf79cb379\">old contract</a> to a <a href=\"https://snowtrace.io/token/0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF\">new one</a> . For more information, please view this <a href=\"https://twitter.com/NFTradeOfficial/status/1467050527762616324\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8E0fE2947752BE0d5ACF73aaE77362Daf79cB379/logo.png"
+}

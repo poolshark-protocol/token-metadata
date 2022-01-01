@@ -1,0 +1,10 @@
+{
+    "name": "EQUUSMiningToken",
+    "symbol": "EQMT",
+    "id": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/equus-mining-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195/logo.png"
+}

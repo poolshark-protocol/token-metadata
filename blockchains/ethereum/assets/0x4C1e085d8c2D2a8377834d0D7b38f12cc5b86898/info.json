@@ -1,0 +1,10 @@
+{
+    "name": "Silkchain Token",
+    "symbol": "SILK",
+    "id": "0x4C1e085d8c2D2a8377834d0D7b38f12cc5b86898",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/silkchain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 116528,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4C1e085d8c2D2a8377834d0D7b38f12cc5b86898/logo.png"
+}

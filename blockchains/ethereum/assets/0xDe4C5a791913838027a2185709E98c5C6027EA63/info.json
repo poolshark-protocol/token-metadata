@@ -1,0 +1,10 @@
+{
+    "name": "XACToken",
+    "symbol": "XAC",
+    "id": "0xDe4C5a791913838027a2185709E98c5C6027EA63",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/general-attention-currency",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4.19,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDe4C5a791913838027a2185709E98c5C6027EA63/logo.png"
+}

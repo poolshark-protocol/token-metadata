@@ -1,0 +1,10 @@
+{
+    "name": "YAPSTONE",
+    "symbol": "YAP",
+    "id": "0x245392ee7Ce736eC6A0908B67dC5d0a218230005",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yap-stone",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2398.51,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x245392ee7Ce736eC6A0908B67dC5d0a218230005/logo.png"
+}

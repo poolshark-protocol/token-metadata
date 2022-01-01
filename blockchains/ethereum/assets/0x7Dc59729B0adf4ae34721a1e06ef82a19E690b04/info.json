@@ -1,0 +1,10 @@
+{
+    "name": "Coin BAC",
+    "symbol": "BAC",
+    "id": "0x7Dc59729B0adf4ae34721a1e06ef82a19E690b04",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/btc-alpha-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7Dc59729B0adf4ae34721a1e06ef82a19E690b04/logo.png"
+}

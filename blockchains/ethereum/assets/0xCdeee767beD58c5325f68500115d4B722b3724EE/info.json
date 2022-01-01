@@ -1,0 +1,10 @@
+{
+    "name": "Carbon",
+    "symbol": "CRBN",
+    "id": "0xCdeee767beD58c5325f68500115d4B722b3724EE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/carbon",
+    "market_cap_rank": 1710,
+    "24_hr_volume_usd": 24562,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCdeee767beD58c5325f68500115d4B722b3724EE/logo.png"
+}

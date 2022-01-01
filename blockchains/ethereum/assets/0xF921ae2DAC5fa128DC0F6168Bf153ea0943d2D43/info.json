@@ -1,0 +1,10 @@
+{
+    "name": "Fire Protocol",
+    "symbol": "FIRE",
+    "id": "0xF921ae2DAC5fa128DC0F6168Bf153ea0943d2D43",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fire-protocol",
+    "market_cap_rank": 2948,
+    "24_hr_volume_usd": 51324,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF921ae2DAC5fa128DC0F6168Bf153ea0943d2D43/logo.png"
+}

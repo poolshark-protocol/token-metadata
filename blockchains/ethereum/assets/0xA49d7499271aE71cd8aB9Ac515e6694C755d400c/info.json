@@ -1,0 +1,10 @@
+{
+    "name": "Mute.io",
+    "symbol": "MUTE",
+    "id": "0xA49d7499271aE71cd8aB9Ac515e6694C755d400c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mute",
+    "market_cap_rank": 585,
+    "24_hr_volume_usd": 2911453,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA49d7499271aE71cd8aB9Ac515e6694C755d400c/logo.png"
+}

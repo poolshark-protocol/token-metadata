@@ -1,0 +1,10 @@
+{
+    "name": "Biokkoin",
+    "symbol": "BKKG",
+    "id": "0x8AF22fBDeFe01b4dC7960EC04Ec73e8502F4a6B0",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/biokkoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 16897.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8AF22fBDeFe01b4dC7960EC04Ec73e8502F4a6B0/logo.png"
+}

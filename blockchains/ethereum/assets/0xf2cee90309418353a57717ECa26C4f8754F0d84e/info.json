@@ -1,0 +1,11 @@
+{
+    "name": "BitcoinBrand",
+    "symbol": "BTCB",
+    "id": "0xf2cee90309418353a57717ECa26C4f8754F0d84e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitcoinbrand",
+    "market_cap_rank": 3436,
+    "24_hr_volume_usd": 1915.04,
+    "public_notice": "If you are looking for Bitcoin-BEP2 (BTCB) by Binance, visit https://www.coingecko.com/en/coins/bitcoin-bep2",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf2cee90309418353a57717ECa26C4f8754F0d84e/logo.png"
+}

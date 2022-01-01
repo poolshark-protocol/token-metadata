@@ -1,0 +1,10 @@
+{
+    "name": "RI Token",
+    "symbol": "RI",
+    "id": "0x37E808F084101F75783612407e7C3f5F92d8ee3F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ri-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 19140.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37E808F084101F75783612407e7C3f5F92d8ee3F/logo.png"
+}

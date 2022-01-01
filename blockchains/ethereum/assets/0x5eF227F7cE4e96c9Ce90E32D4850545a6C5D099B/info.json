@@ -1,0 +1,10 @@
+{
+    "name": "BLUECHIPS",
+    "symbol": "BCHIP",
+    "id": "0x5eF227F7cE4e96c9Ce90E32D4850545a6C5D099B",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bluechips-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.693521,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5eF227F7cE4e96c9Ce90E32D4850545a6C5D099B/logo.png"
+}

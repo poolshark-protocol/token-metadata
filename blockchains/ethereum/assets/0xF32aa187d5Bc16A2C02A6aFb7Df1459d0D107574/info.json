@@ -1,0 +1,10 @@
+{
+    "name": "Hachiko Inu",
+    "symbol": "Inu",
+    "id": "0xF32aa187d5Bc16A2C02A6aFb7Df1459d0D107574",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hachikoinu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2929.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF32aa187d5Bc16A2C02A6aFb7Df1459d0D107574/logo.png"
+}

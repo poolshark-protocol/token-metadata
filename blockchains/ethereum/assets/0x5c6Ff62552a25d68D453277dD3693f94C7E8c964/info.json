@@ -1,0 +1,10 @@
+{
+    "name": "Fit&Beat",
+    "symbol": "FTB",
+    "id": "0x5c6Ff62552a25d68D453277dD3693f94C7E8c964",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fit-beat",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 618414,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5c6Ff62552a25d68D453277dD3693f94C7E8c964/logo.png"
+}

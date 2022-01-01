@@ -1,0 +1,10 @@
+{
+    "name": "TOZEX",
+    "symbol": "TOZ",
+    "id": "0x29239242A83479a4074Cb1c9e2A3e6705A4A4455",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tozex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 182005,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x29239242A83479a4074Cb1c9e2A3e6705A4A4455/logo.png"
+}

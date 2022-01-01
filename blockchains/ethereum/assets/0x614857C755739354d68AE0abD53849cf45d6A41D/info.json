@@ -1,0 +1,10 @@
+{
+    "name": "ETH 26 EMA Crossover Set",
+    "symbol": "ETH26EMACO",
+    "id": "0x614857C755739354d68AE0abD53849cf45d6A41D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eth-26-day-ema-crossover-set",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 17297.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x614857C755739354d68AE0abD53849cf45d6A41D/logo.png"
+}

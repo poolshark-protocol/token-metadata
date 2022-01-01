@@ -1,0 +1,10 @@
+{
+    "name": "VeriSafe",
+    "symbol": "VSF",
+    "id": "0xAC9ce326e95f51B5005e9fE1DD8085a01F18450c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/verisafe",
+    "market_cap_rank": 1688,
+    "24_hr_volume_usd": 2.25,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAC9ce326e95f51B5005e9fE1DD8085a01F18450c/logo.png"
+}

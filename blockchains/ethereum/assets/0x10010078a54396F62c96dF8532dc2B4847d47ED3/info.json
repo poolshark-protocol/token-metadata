@@ -1,0 +1,10 @@
+{
+    "name": "Hundred Finance",
+    "symbol": "HND",
+    "id": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hundred-finance",
+    "market_cap_rank": 1723,
+    "24_hr_volume_usd": 149308,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png"
+}

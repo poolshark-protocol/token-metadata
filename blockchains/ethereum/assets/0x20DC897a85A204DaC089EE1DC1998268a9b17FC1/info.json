@@ -1,0 +1,10 @@
+{
+    "name": "CobraGoose",
+    "symbol": "CBG",
+    "id": "0x20DC897a85A204DaC089EE1DC1998268a9b17FC1",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cobragoose",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x20DC897a85A204DaC089EE1DC1998268a9b17FC1/logo.png"
+}

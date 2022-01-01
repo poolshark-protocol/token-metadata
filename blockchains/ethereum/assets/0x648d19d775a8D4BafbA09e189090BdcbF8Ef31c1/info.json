@@ -1,0 +1,10 @@
+{
+    "name": "SAFARI",
+    "symbol": "SFR",
+    "id": "0x648d19d775a8D4BafbA09e189090BdcbF8Ef31c1",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/safari",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.01004959,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x648d19d775a8D4BafbA09e189090BdcbF8Ef31c1/logo.png"
+}

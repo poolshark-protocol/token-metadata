@@ -1,0 +1,10 @@
+{
+    "name": "Vader",
+    "symbol": "VADER",
+    "id": "0x2602278EE1882889B946eb11DC0E810075650983",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vader-protocol",
+    "market_cap_rank": 201,
+    "24_hr_volume_usd": 27299303,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2602278EE1882889B946eb11DC0E810075650983/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "NFTLootBox.com",
+    "symbol": "LOOT",
+    "id": "0x7b3D36Eb606f873A75A6aB68f8c999848B04F935",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nftlootbox",
+    "market_cap_rank": 2395,
+    "24_hr_volume_usd": 69067,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7b3D36Eb606f873A75A6aB68f8c999848B04F935/logo.png"
+}

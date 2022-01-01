@@ -1,0 +1,10 @@
+{
+    "name": "YFMoonshot",
+    "symbol": "YFMS",
+    "id": "0xfef3bEf71A5EB97E097039038776fD967ae5B106",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfmoonshot",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 15.51,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfef3bEf71A5EB97E097039038776fD967ae5B106/logo.png"
+}

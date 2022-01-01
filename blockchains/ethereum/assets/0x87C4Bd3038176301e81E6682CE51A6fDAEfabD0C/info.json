@@ -1,0 +1,10 @@
+{
+    "name": "Pofid Dao Token",
+    "symbol": "PFID",
+    "id": "0x87C4Bd3038176301e81E6682CE51A6fDAEfabD0C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pofid-dao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 785.53,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87C4Bd3038176301e81E6682CE51A6fDAEfabD0C/logo.png"
+}

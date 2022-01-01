@@ -1,0 +1,10 @@
+{
+    "name": "NFT INDEX",
+    "symbol": "NFTI",
+    "id": "0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nft-index",
+    "market_cap_rank": 1393,
+    "24_hr_volume_usd": 531.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe5feeaC09D36B18b3FA757E5Cf3F8dA6B8e27F4C/logo.png"
+}

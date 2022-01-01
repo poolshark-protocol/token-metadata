@@ -1,0 +1,10 @@
+{
+    "name": "BANQUEUNIVERSAL",
+    "symbol": "CBU",
+    "id": "0xcEf46305D096fa876Dd23048bf80F9345282e3fc",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/banque-universal",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 15041.48,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcEf46305D096fa876Dd23048bf80F9345282e3fc/logo.png"
+}

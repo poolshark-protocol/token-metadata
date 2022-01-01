@@ -1,0 +1,11 @@
+{
+    "name": "COL",
+    "symbol": "COL",
+    "id": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unit-protocol",
+    "market_cap_rank": 2193,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Migration Page is live : https://migration.unit.xyz/  You can swap your $COL to $DUCK here. For 100 COL you can receive 1 DUCK. ",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55/logo.png"
+}

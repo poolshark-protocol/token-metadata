@@ -1,0 +1,11 @@
+{
+    "name": "Archer DAO Governance Token",
+    "symbol": "ARCH",
+    "id": "0x1F3f9D3068568F8040775be2e8C03C103C61f3aF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/archer-dao-governance-token",
+    "market_cap_rank": 1946,
+    "24_hr_volume_usd": 9383.27,
+    "public_notice": "ARCH is currently undergoing migration to <a href=\"https://www.coingecko.com/en/coins/eden?locale=en\">EDEN</a> and will no longer be supported soon. For more information, visit https://medium.com/archer-dao/arch-token-migration-915e6af976c6",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1F3f9D3068568F8040775be2e8C03C103C61f3aF/logo.png"
+}

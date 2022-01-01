@@ -1,0 +1,10 @@
+{
+    "name": "GoldFarm",
+    "symbol": "$GOLD",
+    "id": "0xf1b8762a7fa8C244e36F7234EDF40cFaE24394e3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/goldfarm",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6032.43,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf1b8762a7fa8C244e36F7234EDF40cFaE24394e3/logo.png"
+}

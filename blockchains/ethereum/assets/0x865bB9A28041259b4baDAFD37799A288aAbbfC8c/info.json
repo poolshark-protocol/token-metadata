@@ -1,0 +1,10 @@
+{
+    "name": "Moma Token",
+    "symbol": "MOMAT",
+    "id": "0x865bB9A28041259b4baDAFD37799A288aAbbfC8c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moma-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 24859,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x865bB9A28041259b4baDAFD37799A288aAbbfC8c/logo.png"
+}

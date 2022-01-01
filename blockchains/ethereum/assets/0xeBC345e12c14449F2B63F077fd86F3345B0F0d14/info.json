@@ -1,0 +1,10 @@
+{
+    "name": "ESplash",
+    "symbol": "ESPL",
+    "id": "0xeBC345e12c14449F2B63F077fd86F3345B0F0d14",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/esplash",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 681.4,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeBC345e12c14449F2B63F077fd86F3345B0F0d14/logo.png"
+}

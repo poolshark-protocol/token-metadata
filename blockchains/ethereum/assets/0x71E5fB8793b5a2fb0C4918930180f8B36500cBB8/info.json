@@ -1,0 +1,10 @@
+{
+    "name": "Electric Token",
+    "symbol": "ETR",
+    "id": "0x71E5fB8793b5a2fb0C4918930180f8B36500cBB8",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/electric-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.077774,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x71E5fB8793b5a2fb0C4918930180f8B36500cBB8/logo.png"
+}

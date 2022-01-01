@@ -1,0 +1,11 @@
+{
+    "name": "ACE Entertainment Token",
+    "symbol": "ACE",
+    "id": "0xe17e41ACD4caa3CeC048837bfd1918b3c4141767",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ace-casino",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 272.69,
+    "public_notice": "Ace has swapped from EOS to ERC-20. Refer to http://news.aceentertainment.io/2020/10/notice-ace-token-swap-complete/. Contract address is 0xe17e41acd4caa3cec048837bfd1918b3c4141767",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe17e41ACD4caa3CeC048837bfd1918b3c4141767/logo.png"
+}

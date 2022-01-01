@@ -1,0 +1,10 @@
+{
+    "name": "Curve.fi renBTC/wBTC",
+    "symbol": "crvRenWBTC",
+    "id": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lp-renbtc-curve",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x49849C98ae39Fff122806C06791Fa73784FB3675/logo.png"
+}

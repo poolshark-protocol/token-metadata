@@ -1,0 +1,10 @@
+{
+    "name": "AutoBitco",
+    "symbol": "ABCO",
+    "id": "0xA5Ad8cae66C643294A926190dF717674315A8159",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/autobitco-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 130.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA5Ad8cae66C643294A926190dF717674315A8159/logo.png"
+}

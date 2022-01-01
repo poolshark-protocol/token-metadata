@@ -1,0 +1,10 @@
+{
+    "name": "Betherchip",
+    "symbol": "BEC",
+    "id": "0x59C033Ec65e6B9C501C1ee34fb42f2575da4B517",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/betherchip",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 33830,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x59C033Ec65e6B9C501C1ee34fb42f2575da4B517/logo.png"
+}

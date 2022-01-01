@@ -1,0 +1,10 @@
+{
+    "name": "BoomBaby.io",
+    "symbol": "BoomB",
+    "id": "0x82b89e0F9C0695639EB88659D0c306dBC242AF96",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/boombaby-io",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 481.89,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x82b89e0F9C0695639EB88659D0c306dBC242AF96/logo.png"
+}

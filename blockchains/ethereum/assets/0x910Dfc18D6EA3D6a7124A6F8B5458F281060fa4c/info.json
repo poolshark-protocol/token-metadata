@@ -1,0 +1,10 @@
+{
+    "name": "X8XToken",
+    "symbol": "X8X",
+    "id": "0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/x8-project",
+    "market_cap_rank": 2302,
+    "24_hr_volume_usd": 2347.42,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c/logo.png"
+}

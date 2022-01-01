@@ -1,0 +1,10 @@
+{
+    "name": "Shiny",
+    "symbol": "SHINY",
+    "id": "0xc150bAc3Cd3678aCB2C093E433BED40a6eF08542",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shiny",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2223.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc150bAc3Cd3678aCB2C093E433BED40a6eF08542/logo.png"
+}

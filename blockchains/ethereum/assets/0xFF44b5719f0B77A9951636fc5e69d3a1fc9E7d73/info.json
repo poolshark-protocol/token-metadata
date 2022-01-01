@@ -1,0 +1,10 @@
+{
+    "name": "4ArtCoin",
+    "symbol": "4Art",
+    "id": "0xFF44b5719f0B77A9951636fc5e69d3a1fc9E7d73",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/4artechnologies",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2686.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFF44b5719f0B77A9951636fc5e69d3a1fc9E7d73/logo.png"
+}

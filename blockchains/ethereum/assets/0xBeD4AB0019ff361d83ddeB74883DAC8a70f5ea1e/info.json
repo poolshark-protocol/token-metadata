@@ -1,0 +1,10 @@
+{
+    "name": "MerchDAO",
+    "symbol": "MRCH",
+    "id": "0xBeD4AB0019ff361d83ddeB74883DAC8a70f5ea1e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/merchdao",
+    "market_cap_rank": 2776,
+    "24_hr_volume_usd": 12959.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBeD4AB0019ff361d83ddeB74883DAC8a70f5ea1e/logo.png"
+}

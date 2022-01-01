@@ -1,0 +1,10 @@
+{
+    "name": "Umbrella",
+    "symbol": "UMB",
+    "id": "0x6fC13EACE26590B80cCCAB1ba5d51890577D83B2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/umbrella-network",
+    "market_cap_rank": 780,
+    "24_hr_volume_usd": 921879,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6fC13EACE26590B80cCCAB1ba5d51890577D83B2/logo.png"
+}

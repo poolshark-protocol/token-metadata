@@ -1,0 +1,10 @@
+{
+    "name": "DUST Token",
+    "symbol": "DUST",
+    "id": "0xe2E109f1b4eaA8915655fE8fDEfC112a34ACc5F0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dust",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3426.62,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe2E109f1b4eaA8915655fE8fDEfC112a34ACc5F0/logo.png"
+}

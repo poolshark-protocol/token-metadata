@@ -1,0 +1,10 @@
+{
+    "name": "To The Moon",
+    "symbol": "TTM",
+    "id": "0x714B1fDed61090a6C49Eb0B4D088B8e5EBd64e61",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tothe-moon",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9.67,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x714B1fDed61090a6C49Eb0B4D088B8e5EBd64e61/logo.png"
+}

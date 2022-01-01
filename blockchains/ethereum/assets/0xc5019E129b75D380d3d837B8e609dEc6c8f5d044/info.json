@@ -1,0 +1,10 @@
+{
+    "name": "GN",
+    "symbol": "GN",
+    "id": "0xc5019E129b75D380d3d837B8e609dEc6c8f5d044",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gn",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5474.21,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc5019E129b75D380d3d837B8e609dEc6c8f5d044/logo.png"
+}

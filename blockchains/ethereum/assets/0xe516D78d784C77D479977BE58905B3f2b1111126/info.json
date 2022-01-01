@@ -1,0 +1,10 @@
+{
+    "name": "BitSpawn Token",
+    "symbol": "SPWN",
+    "id": "0xe516D78d784C77D479977BE58905B3f2b1111126",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitspawn",
+    "market_cap_rank": 1792,
+    "24_hr_volume_usd": 259881,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe516D78d784C77D479977BE58905B3f2b1111126/logo.png"
+}

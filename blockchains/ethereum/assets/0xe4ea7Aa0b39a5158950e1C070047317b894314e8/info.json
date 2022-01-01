@@ -1,0 +1,10 @@
+{
+    "name": "MetaUniverse",
+    "symbol": "MetaUniverse",
+    "id": "0xe4ea7Aa0b39a5158950e1C070047317b894314e8",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metauniverse",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe4ea7Aa0b39a5158950e1C070047317b894314e8/logo.png"
+}

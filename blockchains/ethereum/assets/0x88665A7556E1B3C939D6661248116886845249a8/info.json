@@ -1,0 +1,10 @@
+{
+    "name": "LinkFlow",
+    "symbol": "LF",
+    "id": "0x88665A7556E1B3C939D6661248116886845249a8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/linkflow",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 28529642,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x88665A7556E1B3C939D6661248116886845249a8/logo.png"
+}

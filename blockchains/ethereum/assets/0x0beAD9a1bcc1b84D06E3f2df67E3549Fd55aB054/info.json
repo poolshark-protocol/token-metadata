@@ -1,0 +1,10 @@
+{
+    "name": "EURxb",
+    "symbol": "EURxb",
+    "id": "0x0beAD9a1bcc1b84D06E3f2df67E3549Fd55aB054",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eurxb",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0beAD9a1bcc1b84D06E3f2df67E3549Fd55aB054/logo.png"
+}

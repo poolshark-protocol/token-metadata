@@ -1,0 +1,10 @@
+{
+    "name": "YFBitcoin",
+    "symbol": "YFBTC",
+    "id": "0xff034D12353867fC4228f4Ae3E689CD6dCAad120",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfbitcoin",
+    "market_cap_rank": 2281,
+    "24_hr_volume_usd": 3488.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xff034D12353867fC4228f4Ae3E689CD6dCAad120/logo.png"
+}

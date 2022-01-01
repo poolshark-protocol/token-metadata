@@ -1,0 +1,10 @@
+{
+    "name": "PureFi Token",
+    "symbol": "UFI",
+    "id": "0xcDa4e840411C00a614aD9205CAEC807c7458a0E3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/purefi",
+    "market_cap_rank": 1765,
+    "24_hr_volume_usd": 161116,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcDa4e840411C00a614aD9205CAEC807c7458a0E3/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Stacker Ventures Token",
+    "symbol": "STACK",
+    "id": "0xe0955F26515d22E347B17669993FCeFcc73c3a0a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stacker-ventures",
+    "market_cap_rank": 2027,
+    "24_hr_volume_usd": 41.21,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe0955F26515d22E347B17669993FCeFcc73c3a0a/logo.png"
+}

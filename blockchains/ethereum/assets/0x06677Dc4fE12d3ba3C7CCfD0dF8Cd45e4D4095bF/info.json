@@ -1,0 +1,11 @@
+{
+    "name": "Work Quest Token",
+    "symbol": "WQT",
+    "id": "0x06677Dc4fE12d3ba3C7CCfD0dF8Cd45e4D4095bF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/work-quest",
+    "market_cap_rank": 2524,
+    "24_hr_volume_usd": 113765,
+    "public_notice": "WQT's BEP-20 token has migrated to a new contract - https://bscscan.com/token/0xe89508d74579a06a65b907c91f697cf4f8d9fac7. Visit their Telegram group for more information on this.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06677Dc4fE12d3ba3C7CCfD0dF8Cd45e4D4095bF/logo.png"
+}

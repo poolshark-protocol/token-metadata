@@ -1,0 +1,10 @@
+{
+    "name": "Universe Coin",
+    "symbol": "UNIS",
+    "id": "0xedC87caB8bd12ca39088DeAF9fdfb63503f19f85",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/universe-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1280.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xedC87caB8bd12ca39088DeAF9fdfb63503f19f85/logo.png"
+}

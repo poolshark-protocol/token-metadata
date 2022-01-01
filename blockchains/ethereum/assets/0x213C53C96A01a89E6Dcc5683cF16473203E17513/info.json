@@ -1,0 +1,10 @@
+{
+    "name": "DssToken",
+    "symbol": "DSS",
+    "id": "0x213C53C96A01a89E6Dcc5683cF16473203E17513",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defi-shopping-stake",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 23991,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x213C53C96A01a89E6Dcc5683cF16473203E17513/logo.png"
+}

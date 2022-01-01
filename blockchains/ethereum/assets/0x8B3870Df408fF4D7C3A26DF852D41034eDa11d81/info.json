@@ -1,0 +1,10 @@
+{
+    "name": "IOI Token ",
+    "symbol": "IOI",
+    "id": "0x8B3870Df408fF4D7C3A26DF852D41034eDa11d81",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ioi-token",
+    "market_cap_rank": 1132,
+    "24_hr_volume_usd": 285056,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8B3870Df408fF4D7C3A26DF852D41034eDa11d81/logo.png"
+}

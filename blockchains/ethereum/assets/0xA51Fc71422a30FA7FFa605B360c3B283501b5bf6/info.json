@@ -1,0 +1,11 @@
+{
+    "name": "AurusDeFi",
+    "symbol": "AWX",
+    "id": "0xA51Fc71422a30FA7FFa605B360c3B283501b5bf6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/auruscoin",
+    "market_cap_rank": 1399,
+    "24_hr_volume_usd": 734.89,
+    "public_notice": "AurusDeFi smart contract has been updated to a new contract address. For more information, please read https://twitter.com/AurusOfficial/status/1394612462843015171 ",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA51Fc71422a30FA7FFa605B360c3B283501b5bf6/logo.png"
+}

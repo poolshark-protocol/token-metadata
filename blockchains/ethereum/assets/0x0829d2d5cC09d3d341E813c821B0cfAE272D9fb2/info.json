@@ -1,0 +1,10 @@
+{
+    "name": "Social Rocket",
+    "symbol": "ROCKS",
+    "id": "0x0829d2d5cC09d3d341E813c821B0cfAE272D9fb2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/social-rocket",
+    "market_cap_rank": 3063,
+    "24_hr_volume_usd": 6197.47,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0829d2d5cC09d3d341E813c821B0cfAE272D9fb2/logo.png"
+}

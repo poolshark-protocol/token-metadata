@@ -1,0 +1,10 @@
+{
+    "name": "Moona\u00ef Coins",
+    "symbol": "MOO\u00cf",
+    "id": "0xd3C89cAC4A4283EDbA6927e2910fD1eBC14fe006",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moonai",
+    "market_cap_rank": 3225,
+    "24_hr_volume_usd": 25066,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd3C89cAC4A4283EDbA6927e2910fD1eBC14fe006/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "humanDAO",
+    "symbol": "HDAO",
+    "id": "0xdaC657ffD44a3B9d8aba8749830Bf14BEB66fF2D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/humandao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 343.47,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdaC657ffD44a3B9d8aba8749830Bf14BEB66fF2D/logo.png"
+}

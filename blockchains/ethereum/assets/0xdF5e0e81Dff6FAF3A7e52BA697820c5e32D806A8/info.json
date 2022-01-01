@@ -1,0 +1,11 @@
+{
+    "name": "Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
+    "symbol": "yDAI+yUSDC+yUSDT+yTUSD",
+    "id": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/curve-fi-ydai-yusdc-yusdt-ytusd",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "This is a wrapper token for deposits into http://curve.fi/iearn . For the native CRV DAO Token of http://Curve.fi, go to https://www.coingecko.com/en/coins/curve-dao-token",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8/logo.png"
+}

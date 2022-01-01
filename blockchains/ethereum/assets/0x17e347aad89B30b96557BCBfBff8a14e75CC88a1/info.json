@@ -1,0 +1,11 @@
+{
+    "name": "Bored Ape Yacht Club",
+    "symbol": "uAPE",
+    "id": "0x17e347aad89B30b96557BCBfBff8a14e75CC88a1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unicly-bored-ape-yacht-club-collection",
+    "market_cap_rank": 1568,
+    "24_hr_volume_usd": 97.22,
+    "public_notice": "The uAPE collection has been acquired. You may swap your uAPE tokens for ETH. For more info: https://uape-official.medium.com/uape-collection-claimed-for-5-6-million-174c3906e023",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x17e347aad89B30b96557BCBfBff8a14e75CC88a1/logo.png"
+}

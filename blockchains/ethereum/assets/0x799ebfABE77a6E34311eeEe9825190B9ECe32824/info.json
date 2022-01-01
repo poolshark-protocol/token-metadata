@@ -1,0 +1,10 @@
+{
+    "name": "BTRST",
+    "symbol": "BTRST",
+    "id": "0x799ebfABE77a6E34311eeEe9825190B9ECe32824",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/braintrust",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1405390,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x799ebfABE77a6E34311eeEe9825190B9ECe32824/logo.png"
+}

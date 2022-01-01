@@ -1,0 +1,11 @@
+{
+    "name": "Aelysir",
+    "symbol": "AEL",
+    "id": "0xd337382da15d12Bb6e56498e91DF64f86c8f1EA8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aelysir",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2682.05,
+    "public_notice": "Aelysir has recently migrated from their <a href=\"https://etherscan.io/token/0x0405BE40241A2f7822c33C5A3eee238Bf2973ba3\">old contract</a> to a <a href=\"https://etherscan.io/token/0xd337382da15d12Bb6e56498e91DF64f86c8f1EA8\">new one</a>. For more information, visit https://aelysir.com/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd337382da15d12Bb6e56498e91DF64f86c8f1EA8/logo.png"
+}

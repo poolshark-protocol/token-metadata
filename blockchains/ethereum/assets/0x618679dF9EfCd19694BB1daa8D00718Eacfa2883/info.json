@@ -1,0 +1,10 @@
+{
+    "name": "XYZ Governance Token",
+    "symbol": "XYZ",
+    "id": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/universe-xyz",
+    "market_cap_rank": 979,
+    "24_hr_volume_usd": 1767930,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x618679dF9EfCd19694BB1daa8D00718Eacfa2883/logo.png"
+}

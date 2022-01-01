@@ -1,0 +1,11 @@
+{
+    "name": "Cerby Token",
+    "symbol": "CERBY",
+    "id": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cerby-token",
+    "market_cap_rank": 1041,
+    "24_hr_volume_usd": 50161,
+    "public_notice": "DeFi Factory Token has rebranded to Cerby Token. For more information, please read: https://cerby.fi/deft-becomes-cerby/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+}

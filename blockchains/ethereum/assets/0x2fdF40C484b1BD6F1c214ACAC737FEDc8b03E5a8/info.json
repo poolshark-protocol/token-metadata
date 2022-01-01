@@ -1,0 +1,11 @@
+{
+    "name": "MCS",
+    "symbol": "MCS",
+    "id": "0x2fdF40C484b1BD6F1c214ACAC737FEDc8b03E5a8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mcs-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 27960,
+    "public_notice": "MCS Token was rebranded from <a href=\"https://www.coingecko.com/en/coins/yggdrash\">YEED</a>. For more information, visit https://medium.com/mcs-token-official/introducing-mcs-token-c89f9d50e08b",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2fdF40C484b1BD6F1c214ACAC737FEDc8b03E5a8/logo.png"
+}

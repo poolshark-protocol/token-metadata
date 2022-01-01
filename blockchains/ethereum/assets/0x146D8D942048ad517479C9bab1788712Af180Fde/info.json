@@ -1,0 +1,10 @@
+{
+    "name": "Mobile Integrated Blockchain",
+    "symbol": "MIB",
+    "id": "0x146D8D942048ad517479C9bab1788712Af180Fde",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mib-coin",
+    "market_cap_rank": 2839,
+    "24_hr_volume_usd": 846.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x146D8D942048ad517479C9bab1788712Af180Fde/logo.png"
+}

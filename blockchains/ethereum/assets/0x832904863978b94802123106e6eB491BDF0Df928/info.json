@@ -1,0 +1,10 @@
+{
+    "name": "OptiToken",
+    "symbol": "OPTI",
+    "id": "0x832904863978b94802123106e6eB491BDF0Df928",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/optitoken",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5516.93,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x832904863978b94802123106e6eB491BDF0Df928/logo.png"
+}

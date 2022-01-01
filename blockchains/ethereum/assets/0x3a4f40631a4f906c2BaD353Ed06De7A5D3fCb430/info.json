@@ -1,0 +1,10 @@
+{
+    "name": "PlayDapp Token",
+    "symbol": "PLA",
+    "id": "0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/playdapp",
+    "market_cap_rank": 193,
+    "24_hr_volume_usd": 37828779,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430/logo.png"
+}

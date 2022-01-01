@@ -1,0 +1,10 @@
+{
+    "name": "xSigma",
+    "symbol": "SIG",
+    "id": "0x7777777777697cFEECF846A76326dA79CC606517",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xsigma",
+    "market_cap_rank": 2324,
+    "24_hr_volume_usd": 14612.9,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7777777777697cFEECF846A76326dA79CC606517/logo.png"
+}

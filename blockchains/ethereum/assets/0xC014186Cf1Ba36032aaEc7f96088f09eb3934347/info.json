@@ -1,0 +1,10 @@
+{
+    "name": "WeCoOwn Rewards",
+    "symbol": "WCX",
+    "id": "0xC014186Cf1Ba36032aaEc7f96088f09eb3934347",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wecoown",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 40105,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC014186Cf1Ba36032aaEc7f96088f09eb3934347/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Shill",
+    "symbol": "PoSH",
+    "id": "0x685aea4F02E39E5a5BB7f7117E88DB1151F38364",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shill",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x685aea4F02E39E5a5BB7f7117E88DB1151F38364/logo.png"
+}

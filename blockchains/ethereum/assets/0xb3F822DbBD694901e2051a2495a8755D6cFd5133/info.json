@@ -1,0 +1,10 @@
+{
+    "name": "Hoff Coin",
+    "symbol": "HOFF",
+    "id": "0xb3F822DbBD694901e2051a2495a8755D6cFd5133",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hoff-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 25676,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb3F822DbBD694901e2051a2495a8755D6cFd5133/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Kromatika",
+    "symbol": "KROM",
+    "id": "0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kromatika",
+    "market_cap_rank": 1688,
+    "24_hr_volume_usd": 76494,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3af33bEF05C2dCb3C7288b77fe1C8d2AeBA4d789/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Limestone",
+    "symbol": "LIMEX",
+    "id": "0x400b1d8a7dd8C471026B2c8CBe1062b27d120538",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/limestone-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 987.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x400b1d8a7dd8C471026B2c8CBe1062b27d120538/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Cross-Chain BCH",
+    "symbol": "ccBCH",
+    "id": "0xdB792B1D8869A7CFc34916d6c845Ff05A7C9b789",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cross-chain-bch",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 52322,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdB792B1D8869A7CFc34916d6c845Ff05A7C9b789/logo.png"
+}

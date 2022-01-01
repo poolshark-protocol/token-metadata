@@ -1,0 +1,10 @@
+{
+    "name": "Schrodinger",
+    "symbol": "Kitty Dinger",
+    "id": "0x2C33B28527A63Cdf13C0B24Ce4cf5BF9C9fB3BC6",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/schrodinger",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 152602,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C33B28527A63Cdf13C0B24Ce4cf5BF9C9fB3BC6/logo.png"
+}

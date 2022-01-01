@@ -1,0 +1,10 @@
+{
+    "name": "UniPower",
+    "symbol": "POWER",
+    "id": "0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unipower",
+    "market_cap_rank": 2746,
+    "24_hr_volume_usd": 325.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF2f9A7e93f845b3ce154EfbeB64fB9346FCCE509/logo.png"
+}

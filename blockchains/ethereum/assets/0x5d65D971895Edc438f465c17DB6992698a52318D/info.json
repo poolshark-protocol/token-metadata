@@ -1,0 +1,10 @@
+{
+    "name": "Nebulas Token",
+    "symbol": "NAS",
+    "id": "0x5d65D971895Edc438f465c17DB6992698a52318D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nebulas",
+    "market_cap_rank": 1058,
+    "24_hr_volume_usd": 1840970,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5d65D971895Edc438f465c17DB6992698a52318D/logo.png"
+}

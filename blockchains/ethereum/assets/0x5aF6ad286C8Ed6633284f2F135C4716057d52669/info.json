@@ -1,0 +1,10 @@
+{
+    "name": "ImpactX",
+    "symbol": "IMPACTX",
+    "id": "0x5aF6ad286C8Ed6633284f2F135C4716057d52669",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/impactx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 29926,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5aF6ad286C8Ed6633284f2F135C4716057d52669/logo.png"
+}

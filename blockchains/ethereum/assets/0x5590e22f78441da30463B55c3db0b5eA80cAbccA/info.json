@@ -1,0 +1,10 @@
+{
+    "name": "RUBY CURRENCY",
+    "symbol": "RBC",
+    "id": "0x5590e22f78441da30463B55c3db0b5eA80cAbccA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ruby-currency",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 224416,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5590e22f78441da30463B55c3db0b5eA80cAbccA/logo.png"
+}

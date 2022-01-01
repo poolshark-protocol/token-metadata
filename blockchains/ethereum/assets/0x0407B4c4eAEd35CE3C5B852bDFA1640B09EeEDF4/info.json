@@ -1,0 +1,10 @@
+{
+    "name": "BlockWRK",
+    "symbol": "WRK",
+    "id": "0x0407B4c4eAEd35CE3C5B852bDFA1640B09EeEDF4",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blockwrk",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1594274,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0407B4c4eAEd35CE3C5B852bDFA1640B09EeEDF4/logo.png"
+}

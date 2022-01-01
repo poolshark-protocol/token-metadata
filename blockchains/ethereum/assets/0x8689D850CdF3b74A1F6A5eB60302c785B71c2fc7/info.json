@@ -1,0 +1,10 @@
+{
+    "name": "CRYPTO PHOENIX",
+    "symbol": "$CPHX",
+    "id": "0x8689D850CdF3b74A1F6A5eB60302c785B71c2fc7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crypto-phoenix",
+    "market_cap_rank": 1926,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8689D850CdF3b74A1F6A5eB60302c785B71c2fc7/logo.png"
+}

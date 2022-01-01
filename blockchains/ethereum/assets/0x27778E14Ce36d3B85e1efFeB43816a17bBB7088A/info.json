@@ -1,0 +1,10 @@
+{
+    "name": "Lyfe Gold",
+    "symbol": "LGOLD",
+    "id": "0x27778E14Ce36d3B85e1efFeB43816a17bBB7088A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lyfe-gold",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 22598,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x27778E14Ce36d3B85e1efFeB43816a17bBB7088A/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Mobilian",
+    "symbol": "MBN",
+    "id": "0xaF80951201a0EFF85A0Fd3aDF4c7043dB856d3E6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mobilian-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 285656,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaF80951201a0EFF85A0Fd3aDF4c7043dB856d3E6/logo.png"
+}

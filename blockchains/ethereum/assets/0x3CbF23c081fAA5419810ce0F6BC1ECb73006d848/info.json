@@ -1,0 +1,10 @@
+{
+    "name": "Digi",
+    "symbol": "DIGI",
+    "id": "0x3CbF23c081fAA5419810ce0F6BC1ECb73006d848",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/digible",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10804.4,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3CbF23c081fAA5419810ce0F6BC1ECb73006d848/logo.png"
+}

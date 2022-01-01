@@ -1,0 +1,10 @@
+{
+    "name": "MissedEverything",
+    "symbol": "ME",
+    "id": "0xB51FeAC0cd237084760C24e78AAbA5233cE09491",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/missedeverything",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB51FeAC0cd237084760C24e78AAbA5233cE09491/logo.png"
+}

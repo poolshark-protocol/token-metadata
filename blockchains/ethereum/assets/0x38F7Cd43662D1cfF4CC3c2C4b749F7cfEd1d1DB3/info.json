@@ -1,0 +1,10 @@
+{
+    "name": "Neeva",
+    "symbol": "NVA",
+    "id": "0x38F7Cd43662D1cfF4CC3c2C4b749F7cfEd1d1DB3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/neeva-defi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 21.99,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x38F7Cd43662D1cfF4CC3c2C4b749F7cfEd1d1DB3/logo.png"
+}

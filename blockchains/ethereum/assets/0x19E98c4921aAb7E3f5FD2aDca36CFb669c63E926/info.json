@@ -1,0 +1,10 @@
+{
+    "name": "Cola Token",
+    "symbol": "COLA",
+    "id": "0x19E98c4921aAb7E3f5FD2aDca36CFb669c63E926",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cola-token",
+    "market_cap_rank": 1167,
+    "24_hr_volume_usd": 127001,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x19E98c4921aAb7E3f5FD2aDca36CFb669c63E926/logo.png"
+}

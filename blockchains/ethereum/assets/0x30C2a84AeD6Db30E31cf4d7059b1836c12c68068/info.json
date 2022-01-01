@@ -1,0 +1,10 @@
+{
+    "name": "Aavegotchi Aastronauts",
+    "symbol": "uGOTCHI",
+    "id": "0x30C2a84AeD6Db30E31cf4d7059b1836c12c68068",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unicly-aavegotchi-astronauts-collection",
+    "market_cap_rank": 2320,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x30C2a84AeD6Db30E31cf4d7059b1836c12c68068/logo.png"
+}

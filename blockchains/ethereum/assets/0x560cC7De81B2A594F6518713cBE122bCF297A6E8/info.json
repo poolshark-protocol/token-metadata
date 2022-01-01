@@ -1,0 +1,11 @@
+{
+    "name": "IMPULSEVEN",
+    "symbol": "i7",
+    "id": "0x560cC7De81B2A594F6518713cBE122bCF297A6E8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/impulseven",
+    "market_cap_rank": 3068,
+    "24_hr_volume_usd": 653.36,
+    "public_notice": "ImpulseVen (VEN) has recently migrated from their <a href=\"https://etherscan.io/token/0x3d0293f06daf4311b482564330d57c8db6c10893\">old contract</a> to a <a href=\"https://etherscan.io/token/0x560cc7de81b2a594f6518713cbe122bcf297a6e8\">new one</a>. For more information, visit https://t.me/ImpulseVen/40935",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x560cC7De81B2A594F6518713cBE122bCF297A6E8/logo.png"
+}

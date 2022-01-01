@@ -1,0 +1,10 @@
+{
+    "name": "WICK FINANCE",
+    "symbol": "WICK",
+    "id": "0xBbE460dC4ac73f7C13A2A2feEcF9aCF6D5083F9b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wick-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBbE460dC4ac73f7C13A2A2feEcF9aCF6D5083F9b/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "yTSLA Finance",
+    "symbol": "yTSLA",
+    "id": "0x5322A3556F979cE2180B30e689a9436fDDCB1021",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ytsla-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6440.49,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5322A3556F979cE2180B30e689a9436fDDCB1021/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Wall Street Inu",
+    "symbol": "WallStreetInu",
+    "id": "0xd68Cb7a643079311B8645ED90F2D5267CfA6eA26",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wall-street-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1491.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd68Cb7a643079311B8645ED90F2D5267CfA6eA26/logo.png"
+}

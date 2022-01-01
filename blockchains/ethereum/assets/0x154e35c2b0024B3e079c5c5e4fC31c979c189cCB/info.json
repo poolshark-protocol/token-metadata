@@ -1,0 +1,10 @@
+{
+    "name": "Raid Guild Token \u2694\ufe0f",
+    "symbol": "RAID",
+    "id": "0x154e35c2b0024B3e079c5c5e4fC31c979c189cCB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/raid-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 37825,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x154e35c2b0024B3e079c5c5e4fC31c979c189cCB/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ZUPLO",
+    "symbol": "ZLP",
+    "id": "0x94D8Db14831c2c08943798542C450df2844913e5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zuplo",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.04126158,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x94D8Db14831c2c08943798542C450df2844913e5/logo.png"
+}

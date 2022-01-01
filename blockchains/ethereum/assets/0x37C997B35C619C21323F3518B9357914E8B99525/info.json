@@ -1,0 +1,10 @@
+{
+    "name": "Unipilot",
+    "symbol": "PILOT",
+    "id": "0x37C997B35C619C21323F3518B9357914E8B99525",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unipilot",
+    "market_cap_rank": 1437,
+    "24_hr_volume_usd": 212412,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37C997B35C619C21323F3518B9357914E8B99525/logo.png"
+}

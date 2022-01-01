@@ -1,0 +1,10 @@
+{
+    "name": "TealToken",
+    "symbol": "TEAT",
+    "id": "0x38d58B82cB24A3e0410a7991f255174c9FD8093b",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/teal",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 17.86,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x38d58B82cB24A3e0410a7991f255174c9FD8093b/logo.png"
+}

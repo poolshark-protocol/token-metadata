@@ -1,0 +1,10 @@
+{
+    "name": "COM",
+    "symbol": "COM",
+    "id": "0xCae838187C1f813Fc3BfAE6387Bf34aeACB5bEF6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/commons-earth",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 24.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCae838187C1f813Fc3BfAE6387Bf34aeACB5bEF6/logo.png"
+}

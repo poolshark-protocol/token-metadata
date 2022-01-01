@@ -1,0 +1,10 @@
+{
+    "name": "LHCoin",
+    "symbol": "LHC",
+    "id": "0x0778Cc2E8bBAd3d483E82371606D100cc8604522",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lhcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.04097161,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0778Cc2E8bBAd3d483E82371606D100cc8604522/logo.png"
+}

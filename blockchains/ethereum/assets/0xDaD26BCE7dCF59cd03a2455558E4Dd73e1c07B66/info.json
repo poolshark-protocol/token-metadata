@@ -1,0 +1,11 @@
+{
+    "name": "Trade.win",
+    "symbol": "TWI",
+    "id": "0xDaD26BCE7dCF59cd03a2455558E4Dd73e1c07B66",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/trade-win",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4698.79,
+    "public_notice": "Token swap from VN Token ,VN.Finance, TW Token to TWI tokens. Refer to https://vn.finance/swap-tw-vn-vfi-receive-twi-token/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDaD26BCE7dCF59cd03a2455558E4Dd73e1c07B66/logo.png"
+}

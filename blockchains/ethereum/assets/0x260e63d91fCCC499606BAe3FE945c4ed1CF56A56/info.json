@@ -1,0 +1,10 @@
+{
+    "name": "MoonTools.io",
+    "symbol": "MOONS",
+    "id": "0x260e63d91fCCC499606BAe3FE945c4ed1CF56A56",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moontools",
+    "market_cap_rank": 2550,
+    "24_hr_volume_usd": 3134.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x260e63d91fCCC499606BAe3FE945c4ed1CF56A56/logo.png"
+}

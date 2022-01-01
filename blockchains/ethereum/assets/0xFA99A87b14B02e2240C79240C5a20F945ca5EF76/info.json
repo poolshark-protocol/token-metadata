@@ -1,0 +1,10 @@
+{
+    "name": "GGToken",
+    "symbol": "GGTK",
+    "id": "0xFA99A87b14B02e2240C79240C5a20F945ca5EF76",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gg-token",
+    "market_cap_rank": 1953,
+    "24_hr_volume_usd": 65303,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFA99A87b14B02e2240C79240C5a20F945ca5EF76/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "SafeBitcoin",
+    "symbol": "SafeBTC",
+    "id": "0x62d693fE5C13b5A5b24C9ec3F423E51C35F5624F",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/safebitcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1329.59,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x62d693fE5C13b5A5b24C9ec3F423E51C35F5624F/logo.png"
+}

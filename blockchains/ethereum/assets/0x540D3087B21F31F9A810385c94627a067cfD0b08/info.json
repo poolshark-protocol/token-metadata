@@ -1,0 +1,10 @@
+{
+    "name": "CRYPTO CANDY",
+    "symbol": "CANDY",
+    "id": "0x540D3087B21F31F9A810385c94627a067cfD0b08",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crypto-candy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 724.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x540D3087B21F31F9A810385c94627a067cfD0b08/logo.png"
+}

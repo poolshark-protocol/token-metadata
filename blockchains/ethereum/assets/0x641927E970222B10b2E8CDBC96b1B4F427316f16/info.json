@@ -1,0 +1,10 @@
+{
+    "name": "Meebits",
+    "symbol": "MEEB",
+    "id": "0x641927E970222B10b2E8CDBC96b1B4F427316f16",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/meeb-vault-nftx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10929.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x641927E970222B10b2E8CDBC96b1B4F427316f16/logo.png"
+}

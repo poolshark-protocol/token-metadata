@@ -1,0 +1,10 @@
+{
+    "name": "INFI",
+    "symbol": "INFI",
+    "id": "0x159751323A9E0415DD3d6D42a1212fe9F4a0848C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/insured-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10329.86,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x159751323A9E0415DD3d6D42a1212fe9F4a0848C/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Beast Token",
+    "symbol": "BEAST",
+    "id": "0xE72834590D7A339EAD78E7fBd1d3c7F76F6eb430",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/beast-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 233.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE72834590D7A339EAD78E7fBd1d3c7F76F6eb430/logo.png"
+}

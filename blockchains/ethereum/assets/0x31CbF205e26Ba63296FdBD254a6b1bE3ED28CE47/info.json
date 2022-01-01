@@ -1,0 +1,10 @@
+{
+    "name": "3X Short Tether Gold Token",
+    "symbol": "XAUTBEAR",
+    "id": "0x31CbF205e26Ba63296FdBD254a6b1bE3ED28CE47",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/3x-short-tether-gold-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 58.46,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31CbF205e26Ba63296FdBD254a6b1bE3ED28CE47/logo.png"
+}

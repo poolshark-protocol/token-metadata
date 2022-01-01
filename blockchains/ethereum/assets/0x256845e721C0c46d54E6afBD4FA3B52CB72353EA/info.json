@@ -1,0 +1,10 @@
+{
+    "name": "UniDollar",
+    "symbol": "UNIUSD",
+    "id": "0x256845e721C0c46d54E6afBD4FA3B52CB72353EA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unidollar",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x256845e721C0c46d54E6afBD4FA3B52CB72353EA/logo.png"
+}

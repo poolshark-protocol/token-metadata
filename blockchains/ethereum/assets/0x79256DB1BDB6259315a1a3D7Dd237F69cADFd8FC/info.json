@@ -1,0 +1,10 @@
+{
+    "name": "Typhoon",
+    "symbol": "PHOON",
+    "id": "0x79256DB1BDB6259315a1a3D7Dd237F69cADFd8FC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/typhoon-cash",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 30731,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x79256DB1BDB6259315a1a3D7Dd237F69cADFd8FC/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "BitANT",
+    "symbol": "BitANT",
+    "id": "0x15Ee120fD69BEc86C1d38502299af7366a41D1a6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitant",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 55146,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x15Ee120fD69BEc86C1d38502299af7366a41D1a6/logo.png"
+}

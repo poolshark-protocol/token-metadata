@@ -1,0 +1,10 @@
+{
+    "name": "Refine Medium Token",
+    "symbol": "XRM",
+    "id": "0xE1329eBf8b719881549909d689987F746A8931D1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/refine-medium",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE1329eBf8b719881549909d689987F746A8931D1/logo.png"
+}

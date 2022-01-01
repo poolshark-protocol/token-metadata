@@ -1,0 +1,10 @@
+{
+    "name": "GeneToken",
+    "symbol": "GENE",
+    "id": "0xf6ec87DFE1Ed3a7256Cc0c38e3c8139103e9aF3b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gene",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 39046,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf6ec87DFE1Ed3a7256Cc0c38e3c8139103e9aF3b/logo.png"
+}

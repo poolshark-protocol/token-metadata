@@ -1,0 +1,10 @@
+{
+    "name": "CompliFi",
+    "symbol": "COMFI",
+    "id": "0x752Efadc0a7E05ad1BCCcDA22c141D01a75EF1e4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/complifi",
+    "market_cap_rank": 2029,
+    "24_hr_volume_usd": 86917,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x752Efadc0a7E05ad1BCCcDA22c141D01a75EF1e4/logo.png"
+}

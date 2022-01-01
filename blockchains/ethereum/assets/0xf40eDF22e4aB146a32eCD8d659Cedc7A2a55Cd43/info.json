@@ -1,0 +1,10 @@
+{
+    "name": "ONE PIECE",
+    "symbol": "ONEPIECE",
+    "id": "0xf40eDF22e4aB146a32eCD8d659Cedc7A2a55Cd43",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/one-piece",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3454.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf40eDF22e4aB146a32eCD8d659Cedc7A2a55Cd43/logo.png"
+}

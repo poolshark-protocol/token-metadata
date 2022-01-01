@@ -1,0 +1,10 @@
+{
+    "name": "OasisCity",
+    "symbol": "OSC",
+    "id": "0x24700A297960E8477Ce3CA6C58b70a7Af3410398",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/oasis-city",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1143.37,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x24700A297960E8477Ce3CA6C58b70a7Af3410398/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "KunoichiX",
+    "symbol": "KUNO",
+    "id": "0x0b5ECBb411d8FE829e5eAc253EE1F2Dc05D8d1Ae",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kunoichix",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 230191,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0b5ECBb411d8FE829e5eAc253EE1F2Dc05D8d1Ae/logo.png"
+}

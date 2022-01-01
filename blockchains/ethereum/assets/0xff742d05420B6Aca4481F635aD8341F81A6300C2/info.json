@@ -1,0 +1,11 @@
+{
+    "name": "AscendEX token",
+    "symbol": "ASD",
+    "id": "0xff742d05420B6Aca4481F635aD8341F81A6300C2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/asd",
+    "market_cap_rank": 279,
+    "24_hr_volume_usd": 1394198,
+    "public_notice": "Contract Address updated from 0xcca0c9c383076649604ee31b20248bc04fdf61ca to 0xff742d05420b6aca4481f635ad8341f81a6300c2",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xff742d05420B6Aca4481F635aD8341F81A6300C2/logo.png"
+}

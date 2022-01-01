@@ -1,0 +1,10 @@
+{
+    "name": "FLASH",
+    "symbol": "FLASH",
+    "id": "0x5f0366c9962193fA774cdce9602195593B49f23C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/flash-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5780.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5f0366c9962193fA774cdce9602195593B49f23C/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "DFT",
+    "symbol": "DFT",
+    "id": "0xA2A54f1Ec1f09316eF12c1770D32ed8F21B1Fb6A",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/digifinextoken",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 32406,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA2A54f1Ec1f09316eF12c1770D32ed8F21B1Fb6A/logo.png"
+}

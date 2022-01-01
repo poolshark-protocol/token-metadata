@@ -1,0 +1,10 @@
+{
+    "name": "Vidya",
+    "symbol": "VIDYA",
+    "id": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vidya",
+    "market_cap_rank": 1201,
+    "24_hr_volume_usd": 146107,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30/logo.png"
+}

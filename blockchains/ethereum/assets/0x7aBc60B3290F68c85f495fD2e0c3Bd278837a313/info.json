@@ -1,0 +1,10 @@
+{
+    "name": "CyberMovieChain",
+    "symbol": "CMCT",
+    "id": "0x7aBc60B3290F68c85f495fD2e0c3Bd278837a313",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cyber-movie-chain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 780.83,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7aBc60B3290F68c85f495fD2e0c3Bd278837a313/logo.png"
+}

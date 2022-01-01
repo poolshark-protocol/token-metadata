@@ -1,0 +1,10 @@
+{
+    "name": "HeartBout HP",
+    "symbol": "HP",
+    "id": "0x5a4B14aea23A605aBc463f04a6B8Aaf52Dd3e7C6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/heartbout-pay",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10761.48,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5a4B14aea23A605aBc463f04a6B8Aaf52Dd3e7C6/logo.png"
+}

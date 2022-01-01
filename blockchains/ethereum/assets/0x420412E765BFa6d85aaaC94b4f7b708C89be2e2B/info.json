@@ -1,0 +1,10 @@
+{
+    "name": "BRZ",
+    "symbol": "BRZ",
+    "id": "0x420412E765BFa6d85aaaC94b4f7b708C89be2e2B",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/brz",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 14638139,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x420412E765BFa6d85aaaC94b4f7b708C89be2e2B/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Bincentive Token",
+    "symbol": "BCNT",
+    "id": "0x9669890e48f330ACD88b78D63E1A6b3482652CD9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bincentive",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 33752,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9669890e48f330ACD88b78D63E1A6b3482652CD9/logo.png"
+}

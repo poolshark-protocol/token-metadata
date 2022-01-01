@@ -1,0 +1,10 @@
+{
+    "name": "Inverse DAO",
+    "symbol": "INV",
+    "id": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/inverse-finance",
+    "market_cap_rank": 721,
+    "24_hr_volume_usd": 1490946,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ChangeNOW",
+    "symbol": "NOW",
+    "id": "0xE9A95d175a5f4C9369f3b74222402eB1b837693b",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/changenow",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1425.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE9A95d175a5f4C9369f3b74222402eB1b837693b/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "LoanBurst",
+    "symbol": "LBurst",
+    "id": "0x93eCD2ecDFb91aB2fEe28A8779A6adfe2851cda6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/loanburst",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93eCD2ecDFb91aB2fEe28A8779A6adfe2851cda6/logo.png"
+}

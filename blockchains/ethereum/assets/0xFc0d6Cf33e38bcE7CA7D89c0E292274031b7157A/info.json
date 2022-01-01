@@ -1,0 +1,10 @@
+{
+    "name": "NETVRK",
+    "symbol": "NTVRK",
+    "id": "0xFc0d6Cf33e38bcE7CA7D89c0E292274031b7157A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/netvrk",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 962475,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFc0d6Cf33e38bcE7CA7D89c0E292274031b7157A/logo.png"
+}

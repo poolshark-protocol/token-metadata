@@ -1,0 +1,11 @@
+{
+    "name": "Tranche Finance",
+    "symbol": "SLICE",
+    "id": "0x0AeE8703D34DD9aE107386d3eFF22AE75Dd616D1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tranche-finance",
+    "market_cap_rank": 1126,
+    "24_hr_volume_usd": 108167,
+    "public_notice": "Previously known as JNT. On 28th February 2021, JNT is migrating to SLICE at 1:10 ratio. For more information, see https://jibrelnetwork.medium.com/jnt-is-migrating-to-slice-ba691060407b. For old contract (JNT) stats, refer to https://www.coingecko.com/en/coins/jibrel .",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0AeE8703D34DD9aE107386d3eFF22AE75Dd616D1/logo.png"
+}

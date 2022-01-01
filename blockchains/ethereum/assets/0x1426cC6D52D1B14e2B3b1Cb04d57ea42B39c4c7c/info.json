@@ -1,0 +1,10 @@
+{
+    "name": "Jomon Shiba",
+    "symbol": "JSHIBA",
+    "id": "0x1426cC6D52D1B14e2B3b1Cb04d57ea42B39c4c7c",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jomon-shiba",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 507.55,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1426cC6D52D1B14e2B3b1Cb04d57ea42B39c4c7c/logo.png"
+}

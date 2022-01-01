@@ -1,0 +1,10 @@
+{
+    "name": "Bit2Me",
+    "symbol": "B2M",
+    "id": "0xd7c302fc3ac829C7E896a32c4Bd126f3e8Bd0a1f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bit2me",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 910129,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd7c302fc3ac829C7E896a32c4Bd126f3e8Bd0a1f/logo.png"
+}

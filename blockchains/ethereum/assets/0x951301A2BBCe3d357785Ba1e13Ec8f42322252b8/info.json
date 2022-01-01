@@ -1,0 +1,10 @@
+{
+    "name": "cifculation coin",
+    "symbol": "CLC",
+    "id": "0x951301A2BBCe3d357785Ba1e13Ec8f42322252b8",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cifculation",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 29158,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x951301A2BBCe3d357785Ba1e13Ec8f42322252b8/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ANOMUS ",
+    "symbol": "ANOM",
+    "id": "0x5224F552f110eC78E6E0468138950AE5F3040942",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/anomus-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 52865,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5224F552f110eC78E6E0468138950AE5F3040942/logo.png"
+}

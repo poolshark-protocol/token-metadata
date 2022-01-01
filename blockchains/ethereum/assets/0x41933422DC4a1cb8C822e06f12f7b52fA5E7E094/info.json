@@ -1,0 +1,11 @@
+{
+    "name": " SPACE HOGE",
+    "symbol": "SOGE",
+    "id": "0x41933422DC4a1cb8C822e06f12f7b52fA5E7E094",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/soge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Space Hoge has rebranded to Polygon. Please revisit https://soge.tech/ for more details about the change.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x41933422DC4a1cb8C822e06f12f7b52fA5E7E094/logo.png"
+}

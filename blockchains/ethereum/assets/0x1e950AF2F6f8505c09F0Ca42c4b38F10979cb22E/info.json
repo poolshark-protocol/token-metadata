@@ -1,0 +1,11 @@
+{
+    "name": "BurnX 2.0",
+    "symbol": "BurnX20",
+    "id": "0x1e950AF2F6f8505c09F0Ca42c4b38F10979cb22E",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/burnx20",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "BurnX has recently migrated to a <a href=\"https://etherscan.io/token/0x1e950af2f6f8505c09f0ca42c4b38f10979cb22e\">new BurnX 2.0 contract</a>. For more information, visit their official Twitter or Telegram. Note that token pricing may differ between old/new tokens due to supply changes so please DYOR. Thank you!",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1e950AF2F6f8505c09F0Ca42c4b38F10979cb22E/logo.png"
+}

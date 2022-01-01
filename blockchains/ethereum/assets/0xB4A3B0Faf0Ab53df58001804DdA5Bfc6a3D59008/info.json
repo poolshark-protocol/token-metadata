@@ -1,0 +1,11 @@
+{
+    "name": "Sperax",
+    "symbol": "SPA",
+    "id": "0xB4A3B0Faf0Ab53df58001804DdA5Bfc6a3D59008",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sperax",
+    "market_cap_rank": 634,
+    "24_hr_volume_usd": 820720,
+    "public_notice": "Contract address has changed from 0x9631483f28b7f5cbf7d435ab249be8f709215bc3 to 0xB4A3B0Faf0Ab53df58001804DdA5Bfc6a3D59008. For more information: https://medium.com/sperax/speraxs-new-smart-contract-address-9f9eaf3d4ffc",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB4A3B0Faf0Ab53df58001804DdA5Bfc6a3D59008/logo.png"
+}

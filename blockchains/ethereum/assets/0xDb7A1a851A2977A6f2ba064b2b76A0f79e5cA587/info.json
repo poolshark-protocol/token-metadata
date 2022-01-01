@@ -1,0 +1,10 @@
+{
+    "name": "Low Float Gem",
+    "symbol": "LFG",
+    "id": "0xDb7A1a851A2977A6f2ba064b2b76A0f79e5cA587",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/low-float-gem",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1670.69,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDb7A1a851A2977A6f2ba064b2b76A0f79e5cA587/logo.png"
+}

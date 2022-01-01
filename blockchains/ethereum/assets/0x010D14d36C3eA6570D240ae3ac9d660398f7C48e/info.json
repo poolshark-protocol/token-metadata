@@ -1,0 +1,10 @@
+{
+    "name": "Cenfura Token",
+    "symbol": "XCF",
+    "id": "0x010D14d36C3eA6570D240ae3ac9d660398f7C48e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xcf-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 534.25,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x010D14d36C3eA6570D240ae3ac9d660398f7C48e/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Fat Doge",
+    "symbol": "FOGE",
+    "id": "0x76851A93977bEA9264C32255b6457882035C7501",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fat-doge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 34046,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x76851A93977bEA9264C32255b6457882035C7501/logo.png"
+}

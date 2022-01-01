@@ -1,0 +1,10 @@
+{
+    "name": "Jarvis Synthetic Euro",
+    "symbol": "jEUR",
+    "id": "0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jarvis-synthetic-euro",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 224899,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f17BC9a994b87b5225cFb6a2Cd4D667ADb4F20B/logo.png"
+}

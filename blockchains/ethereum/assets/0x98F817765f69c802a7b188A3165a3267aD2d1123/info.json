@@ -1,0 +1,10 @@
+{
+    "name": "Olympus Inu",
+    "symbol": "OHMINU",
+    "id": "0x98F817765f69c802a7b188A3165a3267aD2d1123",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/olympus-inu-dao",
+    "market_cap_rank": 2926,
+    "24_hr_volume_usd": 649.19,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x98F817765f69c802a7b188A3165a3267aD2d1123/logo.png"
+}

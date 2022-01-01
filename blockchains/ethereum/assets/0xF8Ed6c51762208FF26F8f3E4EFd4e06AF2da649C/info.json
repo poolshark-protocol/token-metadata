@@ -1,0 +1,10 @@
+{
+    "name": "ALLDEX Alliance",
+    "symbol": "AXA",
+    "id": "0xF8Ed6c51762208FF26F8f3E4EFd4e06AF2da649C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alldex-alliance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2710.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF8Ed6c51762208FF26F8f3E4EFd4e06AF2da649C/logo.png"
+}

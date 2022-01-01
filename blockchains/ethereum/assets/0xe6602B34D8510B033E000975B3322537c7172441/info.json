@@ -1,0 +1,10 @@
+{
+    "name": "Frontrow",
+    "symbol": "FRR",
+    "id": "0xe6602B34D8510B033E000975B3322537c7172441",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/front-row",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1323455,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe6602B34D8510B033E000975B3322537c7172441/logo.png"
+}

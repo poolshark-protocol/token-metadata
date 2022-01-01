@@ -1,0 +1,10 @@
+{
+    "name": "Aave AMM Market UniUNIWETH",
+    "symbol": "aAmmUniUNIWETH",
+    "id": "0x3D26dcd840fCC8e4B2193AcE8A092e4a65832F9f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-amm-uniuniweth",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3D26dcd840fCC8e4B2193AcE8A092e4a65832F9f/logo.png"
+}

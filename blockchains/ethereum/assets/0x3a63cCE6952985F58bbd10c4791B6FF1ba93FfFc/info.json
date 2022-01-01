@@ -1,0 +1,10 @@
+{
+    "name": "Animetas",
+    "symbol": "ANIME",
+    "id": "0x3a63cCE6952985F58bbd10c4791B6FF1ba93FfFc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/anime-vault-nftx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 524.19,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3a63cCE6952985F58bbd10c4791B6FF1ba93FfFc/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "IZE Fintech Blockchain",
+    "symbol": "IZE",
+    "id": "0x6944d3e38973C4831dA24E954fbD790c7E688bDd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ize",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9789.63,
+    "public_notice": "IZE Holdings has executed a contract swap to a new wallet address: more info at http://izeholdings.io/en/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6944d3e38973C4831dA24E954fbD790c7E688bDd/logo.png"
+}

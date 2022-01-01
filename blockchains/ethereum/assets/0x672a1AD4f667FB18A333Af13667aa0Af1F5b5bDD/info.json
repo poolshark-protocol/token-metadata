@@ -1,0 +1,10 @@
+{
+    "name": "Verify Token",
+    "symbol": "CRED",
+    "id": "0x672a1AD4f667FB18A333Af13667aa0Af1F5b5bDD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/verify",
+    "market_cap_rank": 3107,
+    "24_hr_volume_usd": 0.236102,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x672a1AD4f667FB18A333Af13667aa0Af1F5b5bDD/logo.png"
+}

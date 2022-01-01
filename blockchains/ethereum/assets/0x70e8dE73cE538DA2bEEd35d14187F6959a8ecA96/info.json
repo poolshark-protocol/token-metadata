@@ -1,0 +1,10 @@
+{
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "id": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xsgd",
+    "market_cap_rank": 319,
+    "24_hr_volume_usd": 3416506,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96/logo.png"
+}

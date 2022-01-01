@@ -1,0 +1,10 @@
+{
+    "name": "Cage Governance Token",
+    "symbol": "CGT",
+    "id": "0x8987A07ba83607a66c7351266e771fB865c9cA6C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cage-governance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8987A07ba83607a66c7351266e771fB865c9cA6C/logo.png"
+}

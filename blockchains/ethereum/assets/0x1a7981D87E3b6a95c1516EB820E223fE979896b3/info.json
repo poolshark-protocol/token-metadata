@@ -1,0 +1,11 @@
+{
+    "name": "MultiChainCapital",
+    "symbol": "MCC",
+    "id": "0x1a7981D87E3b6a95c1516EB820E223fE979896b3",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/multi-chain-capital",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 22332,
+    "public_notice": "Multi-Chain Capital has migrated to a new contract address (0xc146b7cdbaff065090077151d391f4c96aa09e0c). For more information, please visit: https://link.medium.com/sGMjTsIQXlb <br> Multi-Chain Capital page at: https://www.coingecko.com/en/coins/multi-chain-capital?locale=en",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1a7981D87E3b6a95c1516EB820E223fE979896b3/logo.png"
+}

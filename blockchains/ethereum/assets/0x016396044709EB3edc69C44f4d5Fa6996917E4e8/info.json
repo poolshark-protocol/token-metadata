@@ -1,0 +1,10 @@
+{
+    "name": "KingXChain",
+    "symbol": "KXC",
+    "id": "0x016396044709EB3edc69C44f4d5Fa6996917E4e8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kingxchain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 120.77,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x016396044709EB3edc69C44f4d5Fa6996917E4e8/logo.png"
+}

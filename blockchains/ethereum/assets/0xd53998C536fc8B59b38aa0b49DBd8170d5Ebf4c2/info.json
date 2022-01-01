@@ -1,0 +1,10 @@
+{
+    "name": "Cryptopups",
+    "symbol": "PUPS",
+    "id": "0xd53998C536fc8B59b38aa0b49DBd8170d5Ebf4c2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pups-vault-nftx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd53998C536fc8B59b38aa0b49DBd8170d5Ebf4c2/logo.png"
+}

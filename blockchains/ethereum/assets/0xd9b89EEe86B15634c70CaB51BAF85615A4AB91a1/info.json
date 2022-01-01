@@ -1,0 +1,10 @@
+{
+    "name": "Locklet",
+    "symbol": "LKT",
+    "id": "0xd9b89EEe86B15634c70CaB51BAF85615A4AB91a1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/locklet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 83352,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd9b89EEe86B15634c70CaB51BAF85615A4AB91a1/logo.png"
+}

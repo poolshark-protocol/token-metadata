@@ -1,0 +1,10 @@
+{
+    "name": "Algory",
+    "symbol": "ALG",
+    "id": "0x16B0a1a87ae8aF5C792faBC429C4FE248834842B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/algory",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 246.24,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x16B0a1a87ae8aF5C792faBC429C4FE248834842B/logo.png"
+}

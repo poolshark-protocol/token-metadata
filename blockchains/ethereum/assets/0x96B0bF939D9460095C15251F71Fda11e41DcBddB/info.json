@@ -1,0 +1,10 @@
+{
+    "name": "Sharpay",
+    "symbol": "S",
+    "id": "0x96B0bF939D9460095C15251F71Fda11e41DcBddB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sharpay",
+    "market_cap_rank": 2564,
+    "24_hr_volume_usd": 4344.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x96B0bF939D9460095C15251F71Fda11e41DcBddB/logo.png"
+}

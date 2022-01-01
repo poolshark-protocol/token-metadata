@@ -1,0 +1,10 @@
+{
+    "name": "BuckHathToken",
+    "symbol": "BHIG",
+    "id": "0x996229D0c6a485c7F4B52E092EAa907cB2def5C6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/buckhath-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 640.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x996229D0c6a485c7F4B52E092EAa907cB2def5C6/logo.png"
+}

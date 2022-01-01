@@ -1,0 +1,10 @@
+{
+    "name": "UniCandy",
+    "symbol": "UCD",
+    "id": "0xB1Db366890EeB8f28C2813C6a6084353e0b90713",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unicandy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1143.99,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB1Db366890EeB8f28C2813C6a6084353e0b90713/logo.png"
+}

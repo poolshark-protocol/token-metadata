@@ -1,0 +1,10 @@
+{
+    "name": "Doge Strap",
+    "symbol": "DRAP",
+    "id": "0x80c74b9166b2FAA5DC6a950f741f59A80026CDA0",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/doge-strap",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 206708,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x80c74b9166b2FAA5DC6a950f741f59A80026CDA0/logo.png"
+}

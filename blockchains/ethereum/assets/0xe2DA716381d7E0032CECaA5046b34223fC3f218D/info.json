@@ -1,0 +1,10 @@
+{
+    "name": "Carbon Utility Token",
+    "symbol": "CUT",
+    "id": "0xe2DA716381d7E0032CECaA5046b34223fC3f218D",
+    "decimals": 5,
+    "coingecko_url": "https://www.coingecko.com/en/coins/carbon-utility-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2143.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe2DA716381d7E0032CECaA5046b34223fC3f218D/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Zloadr Token",
+    "symbol": "ZDR",
+    "id": "0xBDFA65533074B0b23EbC18c7190BE79Fa74b30c2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zloadr",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 132.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBDFA65533074B0b23EbC18c7190BE79Fa74b30c2/logo.png"
+}

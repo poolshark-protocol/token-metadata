@@ -1,0 +1,10 @@
+{
+    "name": "Universal Trade Interface",
+    "symbol": "UTRIN",
+    "id": "0x99f2B69ee2468C834A634FF50d930aE64e3e500f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/utrin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 163.41,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x99f2B69ee2468C834A634FF50d930aE64e3e500f/logo.png"
+}

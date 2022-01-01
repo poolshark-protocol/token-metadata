@@ -1,0 +1,10 @@
+{
+    "name": "Unifty",
+    "symbol": "NIF",
+    "id": "0x7e291890B01E5181f7ecC98D79ffBe12Ad23df9e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unifty",
+    "market_cap_rank": 525,
+    "24_hr_volume_usd": 1890202,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7e291890B01E5181f7ecC98D79ffBe12Ad23df9e/logo.png"
+}

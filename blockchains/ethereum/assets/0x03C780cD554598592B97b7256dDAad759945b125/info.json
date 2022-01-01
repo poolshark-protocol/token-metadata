@@ -1,0 +1,10 @@
+{
+    "name": "BTRN",
+    "symbol": "BTRN",
+    "id": "0x03C780cD554598592B97b7256dDAad759945b125",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/biotron",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 130.4,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x03C780cD554598592B97b7256dDAad759945b125/logo.png"
+}

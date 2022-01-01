@@ -1,0 +1,10 @@
+{
+    "name": "Dogezilla",
+    "symbol": "DOGEZ",
+    "id": "0x4D8046B2f7986FEB5a4b0781EbF5Fa2D7a808617",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/doge-zilla",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3558.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4D8046B2f7986FEB5a4b0781EbF5Fa2D7a808617/logo.png"
+}

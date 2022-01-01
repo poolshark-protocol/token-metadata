@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Mirror FB Token",
+    "symbol": "mFB",
+    "id": "0x0e99cC0535BB6251F6679Fa6E65d6d3b430e840B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-facebook",
+    "market_cap_rank": 1768,
+    "24_hr_volume_usd": 16071.43,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0e99cC0535BB6251F6679Fa6E65d6d3b430e840B/logo.png"
+}

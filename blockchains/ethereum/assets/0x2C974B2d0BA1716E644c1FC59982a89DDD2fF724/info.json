@@ -1,0 +1,10 @@
+{
+    "name": "Vibe",
+    "symbol": "VIB",
+    "id": "0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/viberate",
+    "market_cap_rank": 1391,
+    "24_hr_volume_usd": 750335,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C974B2d0BA1716E644c1FC59982a89DDD2fF724/logo.png"
+}

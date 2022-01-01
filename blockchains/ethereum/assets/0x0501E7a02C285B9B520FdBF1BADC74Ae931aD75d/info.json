@@ -1,0 +1,11 @@
+{
+    "name": "Walnut.Finance",
+    "symbol": "WTF",
+    "id": "0x0501E7a02C285B9B520FdBF1BADC74Ae931aD75d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/walnut-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 164.89,
+    "public_notice": "Notice: We've received allegations that the team has abandoned the project. Please proceed with caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0501E7a02C285B9B520FdBF1BADC74Ae931aD75d/logo.png"
+}

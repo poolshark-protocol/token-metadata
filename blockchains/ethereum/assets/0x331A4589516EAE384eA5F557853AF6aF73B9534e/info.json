@@ -1,0 +1,10 @@
+{
+    "name": "CashPay",
+    "symbol": "TCP",
+    "id": "0x331A4589516EAE384eA5F557853AF6aF73B9534e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/token-cashpay",
+    "market_cap_rank": 3414,
+    "24_hr_volume_usd": 0.176381,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x331A4589516EAE384eA5F557853AF6aF73B9534e/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Vikky Token",
+    "symbol": "VIKKY",
+    "id": "0xd2946be786F35c3Cc402C29b323647aBda799071",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vikkytoken",
+    "market_cap_rank": 3341,
+    "24_hr_volume_usd": 1299.62,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd2946be786F35c3Cc402C29b323647aBda799071/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Sienna (ERC20)",
+    "symbol": "wSIENNA",
+    "id": "0x9b00e6E8D787b13756eb919786c9745054DB64f9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sienna-erc20",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 257233,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b00e6E8D787b13756eb919786c9745054DB64f9/logo.png"
+}

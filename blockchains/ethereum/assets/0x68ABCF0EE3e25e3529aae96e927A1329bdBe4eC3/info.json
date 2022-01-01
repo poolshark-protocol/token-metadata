@@ -1,0 +1,10 @@
+{
+    "name": "miniSHIB",
+    "symbol": "miniSHIB",
+    "id": "0x68ABCF0EE3e25e3529aae96e927A1329bdBe4eC3",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/minishib-eth",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 247.34,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68ABCF0EE3e25e3529aae96e927A1329bdBe4eC3/logo.png"
+}

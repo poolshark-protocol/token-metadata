@@ -1,0 +1,10 @@
+{
+    "name": "Lucky Cat",
+    "symbol": "LUCKY\ud83d\ude3a",
+    "id": "0x8E864054ee1257f03332005105cDf86779E721a4",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lucky-cat",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 402.67,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8E864054ee1257f03332005105cDf86779E721a4/logo.png"
+}

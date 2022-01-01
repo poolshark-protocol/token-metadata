@@ -1,0 +1,10 @@
+{
+    "name": "JM Token",
+    "symbol": "JMT",
+    "id": "0xDa022Ca91DF99413e8CB0CAAB4d1CbA4e9018bea",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jmtime",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1004.48,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDa022Ca91DF99413e8CB0CAAB4d1CbA4e9018bea/logo.png"
+}

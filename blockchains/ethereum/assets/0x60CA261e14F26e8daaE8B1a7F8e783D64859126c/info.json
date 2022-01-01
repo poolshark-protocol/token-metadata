@@ -1,0 +1,11 @@
+{
+    "name": "STONK",
+    "symbol": "STONK",
+    "id": "0x60CA261e14F26e8daaE8B1a7F8e783D64859126c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stonks",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Stonks project has been migrated and merged with $Rope (https://www.coingecko.com/en/coins/rope)",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x60CA261e14F26e8daaE8B1a7F8e783D64859126c/logo.png"
+}

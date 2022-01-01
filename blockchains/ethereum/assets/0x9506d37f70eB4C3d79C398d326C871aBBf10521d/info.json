@@ -1,0 +1,10 @@
+{
+    "name": "Media Licensing Token",
+    "symbol": "MLT",
+    "id": "0x9506d37f70eB4C3d79C398d326C871aBBf10521d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/media-licensing-token",
+    "market_cap_rank": 903,
+    "24_hr_volume_usd": 917607,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9506d37f70eB4C3d79C398d326C871aBBf10521d/logo.png"
+}

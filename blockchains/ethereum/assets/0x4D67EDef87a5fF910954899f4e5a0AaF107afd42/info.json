@@ -1,0 +1,10 @@
+{
+    "name": "BlueSparrowToken",
+    "symbol": "BlueSparrow",
+    "id": "0x4D67EDef87a5fF910954899f4e5a0AaF107afd42",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bluesparrow-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1451406,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4D67EDef87a5fF910954899f4e5a0AaF107afd42/logo.png"
+}

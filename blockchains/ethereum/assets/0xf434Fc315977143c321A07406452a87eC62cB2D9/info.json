@@ -1,0 +1,10 @@
+{
+    "name": "BlockCities",
+    "symbol": "CITIES",
+    "id": "0xf434Fc315977143c321A07406452a87eC62cB2D9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cities-vault-nftx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf434Fc315977143c321A07406452a87eC62cB2D9/logo.png"
+}

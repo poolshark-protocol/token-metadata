@@ -1,0 +1,10 @@
+{
+    "name": "BiFi",
+    "symbol": "BiFi",
+    "id": "0x2791BfD60D232150Bff86b39B7146c0eaAA2BA81",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bifi",
+    "market_cap_rank": 1183,
+    "24_hr_volume_usd": 69979,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2791BfD60D232150Bff86b39B7146c0eaAA2BA81/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "AstroTokens",
+    "symbol": "ASTRO",
+    "id": "0x7B22938ca841aA392C93dBB7f4c42178E3d65E88",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/astro",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 750.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7B22938ca841aA392C93dBB7f4c42178E3d65E88/logo.png"
+}

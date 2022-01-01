@@ -1,0 +1,10 @@
+{
+    "name": "Unity Network",
+    "symbol": "UNT",
+    "id": "0x8d610E20481F4C4f3aCB87bBa9c46BeF7795fdFe",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unity-network",
+    "market_cap_rank": 2370,
+    "24_hr_volume_usd": 693.96,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8d610E20481F4C4f3aCB87bBa9c46BeF7795fdFe/logo.png"
+}

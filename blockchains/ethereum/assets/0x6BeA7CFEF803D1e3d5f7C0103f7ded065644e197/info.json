@@ -1,0 +1,10 @@
+{
+    "name": "Gamma",
+    "symbol": "GAMMA",
+    "id": "0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gamma-strategies",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 150499,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6BeA7CFEF803D1e3d5f7C0103f7ded065644e197/logo.png"
+}

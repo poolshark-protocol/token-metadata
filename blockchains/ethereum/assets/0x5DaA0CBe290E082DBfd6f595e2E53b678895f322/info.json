@@ -1,0 +1,10 @@
+{
+    "name": "Togashi Inu",
+    "symbol": "TOGASHI",
+    "id": "0x5DaA0CBe290E082DBfd6f595e2E53b678895f322",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/togashi-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 442.29,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5DaA0CBe290E082DBfd6f595e2E53b678895f322/logo.png"
+}

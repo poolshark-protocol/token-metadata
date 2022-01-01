@@ -1,0 +1,10 @@
+{
+    "name": "TokenPocket Token",
+    "symbol": "TPT",
+    "id": "0x4161725D019690a3E0de50f6bE67b07a86A9fAe1",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/token-pocket",
+    "market_cap_rank": 498,
+    "24_hr_volume_usd": 201655,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4161725D019690a3E0de50f6bE67b07a86A9fAe1/logo.png"
+}

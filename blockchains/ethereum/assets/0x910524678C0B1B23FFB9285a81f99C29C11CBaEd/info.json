@@ -1,0 +1,10 @@
+{
+    "name": "DokiDokiAzuki",
+    "symbol": "AZUKI",
+    "id": "0x910524678C0B1B23FFB9285a81f99C29C11CBaEd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/azuki",
+    "market_cap_rank": 2491,
+    "24_hr_volume_usd": 1321.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x910524678C0B1B23FFB9285a81f99C29C11CBaEd/logo.png"
+}

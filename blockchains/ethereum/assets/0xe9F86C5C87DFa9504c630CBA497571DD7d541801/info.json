@@ -1,0 +1,10 @@
+{
+    "name": "BabelFish",
+    "symbol": "BABEL",
+    "id": "0xe9F86C5C87DFa9504c630CBA497571DD7d541801",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/babelfish",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6.4e-11,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe9F86C5C87DFa9504c630CBA497571DD7d541801/logo.png"
+}

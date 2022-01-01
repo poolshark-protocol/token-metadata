@@ -1,0 +1,10 @@
+{
+    "name": "ProphecyTOKEN",
+    "symbol": "PRY",
+    "id": "0x3C81D482172cC273c3b91dD9D8eb212023D00521",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/prophecy",
+    "market_cap_rank": 2939,
+    "24_hr_volume_usd": 8924.41,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3C81D482172cC273c3b91dD9D8eb212023D00521/logo.png"
+}

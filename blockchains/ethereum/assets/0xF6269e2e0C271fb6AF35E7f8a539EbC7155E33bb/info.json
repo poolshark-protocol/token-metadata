@@ -1,0 +1,10 @@
+{
+    "name": "HAYFEVER",
+    "symbol": "HAY",
+    "id": "0xF6269e2e0C271fb6AF35E7f8a539EbC7155E33bb",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hayfever",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 27185,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF6269e2e0C271fb6AF35E7f8a539EbC7155E33bb/logo.png"
+}

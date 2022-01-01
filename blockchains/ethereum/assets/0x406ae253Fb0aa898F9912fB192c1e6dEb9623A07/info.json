@@ -1,0 +1,10 @@
+{
+    "name": "Torocus Token",
+    "symbol": "TOROCUS",
+    "id": "0x406ae253Fb0aa898F9912fB192c1e6dEb9623A07",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/torocus-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 401660,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x406ae253Fb0aa898F9912fB192c1e6dEb9623A07/logo.png"
+}

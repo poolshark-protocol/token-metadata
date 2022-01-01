@@ -1,0 +1,11 @@
+{
+    "name": "Fantasy World Gold",
+    "symbol": "FWG",
+    "id": "0x4a66E967d4BF0170fe74C26980073028b1F2809a",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fantasy-world-gold",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 545243,
+    "public_notice": "Fantasy World Gold has migrated from the <a href=\"https://etherscan.io/token/0x7345Ffe6291bc15381A4110831013e8fe9f93253\">old contract</a> to a <a href=\"https://etherscan.io/token/0x4a66E967d4BF0170fe74C26980073028b1F2809a\">new one</a>. Holders are airdropped less 7.5% of the\u00a0amount of the old tokens held and\u00a0there is a 7.5% change\u00a0in price difference and liquidity. More details can be found\u00a0in their <a href=\"https://t.me/Fantasyworldgame/30132\">Telegram</a> group.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4a66E967d4BF0170fe74C26980073028b1F2809a/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Si14Bet",
+    "symbol": "Si14",
+    "id": "0x8b98dF4Dff429E64E9A56fc6Eebe2380c6c3409c",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/si14bet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1121.48,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8b98dF4Dff429E64E9A56fc6Eebe2380c6c3409c/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "indaHash Coin",
+    "symbol": "IDH",
+    "id": "0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/indahash",
+    "market_cap_rank": 1763,
+    "24_hr_volume_usd": 3228.42,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0/logo.png"
+}

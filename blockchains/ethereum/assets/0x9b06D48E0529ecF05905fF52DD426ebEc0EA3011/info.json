@@ -1,0 +1,10 @@
+{
+    "name": "XSwap",
+    "symbol": "XSP",
+    "id": "0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xswap",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 11.92,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b06D48E0529ecF05905fF52DD426ebEc0EA3011/logo.png"
+}

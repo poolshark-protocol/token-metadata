@@ -1,0 +1,10 @@
+{
+    "name": "DeFIL-V2",
+    "symbol": "DFL",
+    "id": "0x09ce2B746C32528B7d864A1e3979Bd97d2f095AB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defil",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 45841,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x09ce2B746C32528B7d864A1e3979Bd97d2f095AB/logo.png"
+}

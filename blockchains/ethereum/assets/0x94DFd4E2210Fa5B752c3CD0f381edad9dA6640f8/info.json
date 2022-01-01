@@ -1,0 +1,10 @@
+{
+    "name": "Sphynx ETH",
+    "symbol": "SPHYNX",
+    "id": "0x94DFd4E2210Fa5B752c3CD0f381edad9dA6640f8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sphynx-eth",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 121574,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x94DFd4E2210Fa5B752c3CD0f381edad9dA6640f8/logo.png"
+}

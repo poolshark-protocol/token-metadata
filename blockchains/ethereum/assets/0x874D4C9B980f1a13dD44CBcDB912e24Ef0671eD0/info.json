@@ -1,0 +1,10 @@
+{
+    "name": "Guider",
+    "symbol": "GDR",
+    "id": "0x874D4C9B980f1a13dD44CBcDB912e24Ef0671eD0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/guider",
+    "market_cap_rank": 3456,
+    "24_hr_volume_usd": 28.52,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x874D4C9B980f1a13dD44CBcDB912e24Ef0671eD0/logo.png"
+}

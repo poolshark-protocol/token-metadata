@@ -1,0 +1,10 @@
+{
+    "name": "GAMESTARS TOKEN",
+    "symbol": "GST",
+    "id": "0x67a9099f0008C35C61c00042cd9Fb03684451097",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/game-stars",
+    "market_cap_rank": 3426,
+    "24_hr_volume_usd": 4.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x67a9099f0008C35C61c00042cd9Fb03684451097/logo.png"
+}

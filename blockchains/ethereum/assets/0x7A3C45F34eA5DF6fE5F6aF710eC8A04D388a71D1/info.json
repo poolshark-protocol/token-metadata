@@ -1,0 +1,10 @@
+{
+    "name": "PANDO COIN",
+    "symbol": "PANDO",
+    "id": "0x7A3C45F34eA5DF6fE5F6aF710eC8A04D388a71D1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pando",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4154448,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7A3C45F34eA5DF6fE5F6aF710eC8A04D388a71D1/logo.png"
+}

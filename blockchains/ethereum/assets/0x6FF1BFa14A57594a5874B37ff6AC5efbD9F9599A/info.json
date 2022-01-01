@@ -1,0 +1,10 @@
+{
+    "name": "Totem Token",
+    "symbol": "TOTM",
+    "id": "0x6FF1BFa14A57594a5874B37ff6AC5efbD9F9599A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/totemfi",
+    "market_cap_rank": 2347,
+    "24_hr_volume_usd": 35730,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6FF1BFa14A57594a5874B37ff6AC5efbD9F9599A/logo.png"
+}

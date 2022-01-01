@@ -1,0 +1,10 @@
+{
+    "name": "Cobak Token",
+    "symbol": "CBK",
+    "id": "0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cobak-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3085072,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD85a6Ae55a7f33B0ee113C234d2EE308EdeAF7fD/logo.png"
+}

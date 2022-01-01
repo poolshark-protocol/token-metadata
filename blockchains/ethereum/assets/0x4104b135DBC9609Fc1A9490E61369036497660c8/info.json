@@ -1,0 +1,10 @@
+{
+    "name": "APWine Token",
+    "symbol": "APW",
+    "id": "0x4104b135DBC9609Fc1A9490E61369036497660c8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apwine",
+    "market_cap_rank": 1025,
+    "24_hr_volume_usd": 53937,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4104b135DBC9609Fc1A9490E61369036497660c8/logo.png"
+}

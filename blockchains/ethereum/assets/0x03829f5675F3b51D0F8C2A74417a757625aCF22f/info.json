@@ -1,0 +1,10 @@
+{
+    "name": "YFIBALANCER.FINANCE",
+    "symbol": "YFIB",
+    "id": "0x03829f5675F3b51D0F8C2A74417a757625aCF22f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfibalancer-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4.2,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x03829f5675F3b51D0F8C2A74417a757625aCF22f/logo.png"
+}

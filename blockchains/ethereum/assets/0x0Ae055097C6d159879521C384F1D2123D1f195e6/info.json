@@ -1,0 +1,11 @@
+{
+    "name": "STAKE",
+    "symbol": "STAKE",
+    "id": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xdai-stake",
+    "market_cap_rank": 646,
+    "24_hr_volume_usd": 216505,
+    "public_notice": "xDai Chain is being rebranded to Gnosis Chain. STAKE token holders can now swap STAKE for GNO on Ethereum Mainnet or Gnosis Chain. More info and instructions <a href=\"https://www.xdaichain.com/for-stakers/stake-token/stake-gno-swap\">here</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+}

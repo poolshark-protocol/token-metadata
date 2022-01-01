@@ -1,0 +1,10 @@
+{
+    "name": "IdleTUSD v4 [Best yield]",
+    "symbol": "idleTUSDYield",
+    "id": "0xc278041fDD8249FE4c1Aad1193876857EEa3D68c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/idle-tusd-yield",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc278041fDD8249FE4c1Aad1193876857EEa3D68c/logo.png"
+}

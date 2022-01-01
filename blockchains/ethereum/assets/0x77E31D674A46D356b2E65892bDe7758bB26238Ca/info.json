@@ -1,0 +1,10 @@
+{
+    "name": "HumanCoins",
+    "symbol": "HMNC",
+    "id": "0x77E31D674A46D356b2E65892bDe7758bB26238Ca",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/humancoin-2",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00999993,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77E31D674A46D356b2E65892bDe7758bB26238Ca/logo.png"
+}

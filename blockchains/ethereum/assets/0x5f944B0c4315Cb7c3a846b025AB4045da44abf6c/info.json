@@ -1,0 +1,10 @@
+{
+    "name": "PANCAKE GAMES",
+    "symbol": "GCAKE",
+    "id": "0x5f944B0c4315Cb7c3a846b025AB4045da44abf6c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pancake-games",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 786231,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5f944B0c4315Cb7c3a846b025AB4045da44abf6c/logo.png"
+}

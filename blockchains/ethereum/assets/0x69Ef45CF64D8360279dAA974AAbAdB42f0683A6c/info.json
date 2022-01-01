@@ -1,0 +1,10 @@
+{
+    "name": "LMAO Token",
+    "symbol": "LMAO",
+    "id": "0x69Ef45CF64D8360279dAA974AAbAdB42f0683A6c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lmao-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69Ef45CF64D8360279dAA974AAbAdB42f0683A6c/logo.png"
+}

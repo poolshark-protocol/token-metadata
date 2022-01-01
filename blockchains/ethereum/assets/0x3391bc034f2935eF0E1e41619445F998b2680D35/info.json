@@ -1,0 +1,10 @@
+{
+    "name": "IdleUSDC v4 [Risk adjusted]",
+    "symbol": "idleUSDCSafe",
+    "id": "0x3391bc034f2935eF0E1e41619445F998b2680D35",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/idle-usdc-risk-adjusted",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3391bc034f2935eF0E1e41619445F998b2680D35/logo.png"
+}

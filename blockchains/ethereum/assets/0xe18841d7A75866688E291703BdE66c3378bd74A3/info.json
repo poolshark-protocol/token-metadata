@@ -1,0 +1,10 @@
+{
+    "name": "Verse",
+    "symbol": "VERSE",
+    "id": "0xe18841d7A75866688E291703BdE66c3378bd74A3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/verse",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1529.52,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe18841d7A75866688E291703BdE66c3378bd74A3/logo.png"
+}

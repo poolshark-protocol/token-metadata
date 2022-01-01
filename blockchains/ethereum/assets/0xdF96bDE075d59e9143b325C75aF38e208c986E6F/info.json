@@ -1,0 +1,10 @@
+{
+    "name": "YetiCoin",
+    "symbol": "YETIC",
+    "id": "0xdF96bDE075d59e9143b325C75aF38e208c986E6F",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yeticoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 143909,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdF96bDE075d59e9143b325C75aF38e208c986E6F/logo.png"
+}

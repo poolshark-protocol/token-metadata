@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Origin Axie",
+    "symbol": "WOA",
+    "id": "0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-origin-axie",
+    "market_cap_rank": 2418,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "This Token refers to a Wrapped (ERC-20) version of Origin Axie and is NOT Axie Infinity's Governance Token: please refer to <a href=\"https://medium.com/@owl_of_moistness/tutorial-how-to-use-the-wrappedorigin-contract-cf93934694b6\">This Blog</a> for more information.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEC0A0915A7c3443862B678B0d4721C7aB133FDCf/logo.png"
+}

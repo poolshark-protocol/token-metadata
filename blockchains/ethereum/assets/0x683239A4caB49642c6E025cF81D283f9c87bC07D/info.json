@@ -1,0 +1,10 @@
+{
+    "name": "MoonCats",
+    "symbol": "uMOON",
+    "id": "0x683239A4caB49642c6E025cF81D283f9c87bC07D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unicly-mooncats-collection",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1651.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x683239A4caB49642c6E025cF81D283f9c87bC07D/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "IRONMAN",
+    "symbol": "IRONMAN",
+    "id": "0x88Ad95Cd21b0A88972fB87A4C1C83d29125A0e30",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ironman",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 98.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x88Ad95Cd21b0A88972fB87A4C1C83d29125A0e30/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Zeus",
+    "symbol": "ZUZ",
+    "id": "0x202f1877e1DB1120Ca3e9A98C5D505e7f035C249",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zuz-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 62.27,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x202f1877e1DB1120Ca3e9A98C5D505e7f035C249/logo.png"
+}

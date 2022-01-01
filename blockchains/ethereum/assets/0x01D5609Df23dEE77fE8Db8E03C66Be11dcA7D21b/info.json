@@ -1,0 +1,10 @@
+{
+    "name": "Mittens",
+    "symbol": "MITTEN",
+    "id": "0x01D5609Df23dEE77fE8Db8E03C66Be11dcA7D21b",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mittens",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5621.73,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x01D5609Df23dEE77fE8Db8E03C66Be11dcA7D21b/logo.png"
+}

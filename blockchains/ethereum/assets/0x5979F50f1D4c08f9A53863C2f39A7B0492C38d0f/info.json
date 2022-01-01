@@ -1,0 +1,10 @@
+{
+    "name": "pTokens LTC",
+    "symbol": "pLTC",
+    "id": "0x5979F50f1D4c08f9A53863C2f39A7B0492C38d0f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ptokens-ltc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5979F50f1D4c08f9A53863C2f39A7B0492C38d0f/logo.png"
+}

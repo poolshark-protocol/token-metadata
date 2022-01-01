@@ -1,0 +1,10 @@
+{
+    "name": "Token Play",
+    "symbol": "TP3",
+    "id": "0x9F76Ff3336597FeAB30f5A66a053ae4A4a7eBe13",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/token-play",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.532402,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9F76Ff3336597FeAB30f5A66a053ae4A4a7eBe13/logo.png"
+}

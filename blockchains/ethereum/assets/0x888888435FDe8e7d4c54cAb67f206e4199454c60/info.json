@@ -1,0 +1,10 @@
+{
+    "name": "DFX Token",
+    "symbol": "DFX",
+    "id": "0x888888435FDe8e7d4c54cAb67f206e4199454c60",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dfx-finance",
+    "market_cap_rank": 1195,
+    "24_hr_volume_usd": 224845,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x888888435FDe8e7d4c54cAb67f206e4199454c60/logo.png"
+}

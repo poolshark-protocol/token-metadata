@@ -1,0 +1,10 @@
+{
+    "name": "Witcher Inu",
+    "symbol": "WINU",
+    "id": "0x68f3062E07fd4d70ADA23d97d5Bda8A8f218d38f",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/witcher-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2531.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68f3062E07fd4d70ADA23d97d5Bda8A8f218d38f/logo.png"
+}

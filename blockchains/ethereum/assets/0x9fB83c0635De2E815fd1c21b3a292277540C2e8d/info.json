@@ -1,0 +1,10 @@
+{
+    "name": "FevrToken",
+    "symbol": "FEVR",
+    "id": "0x9fB83c0635De2E815fd1c21b3a292277540C2e8d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/realfevr",
+    "market_cap_rank": 1159,
+    "24_hr_volume_usd": 105740,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9fB83c0635De2E815fd1c21b3a292277540C2e8d/logo.png"
+}

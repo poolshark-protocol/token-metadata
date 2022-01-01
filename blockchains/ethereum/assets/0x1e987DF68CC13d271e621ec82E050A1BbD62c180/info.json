@@ -1,0 +1,10 @@
+{
+    "name": "WAGMI",
+    "symbol": "WAGMI",
+    "id": "0x1e987DF68CC13d271e621ec82E050A1BbD62c180",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wagmi-game",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 24622,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1e987DF68CC13d271e621ec82E050A1BbD62c180/logo.png"
+}

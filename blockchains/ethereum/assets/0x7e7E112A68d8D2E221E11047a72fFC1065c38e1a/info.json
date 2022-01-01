@@ -1,0 +1,10 @@
+{
+    "name": "Badger Sett Digg",
+    "symbol": "bDIGG",
+    "id": "0x7e7E112A68d8D2E221E11047a72fFC1065c38e1a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/badger-sett-digg",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7e7E112A68d8D2E221E11047a72fFC1065c38e1a/logo.png"
+}

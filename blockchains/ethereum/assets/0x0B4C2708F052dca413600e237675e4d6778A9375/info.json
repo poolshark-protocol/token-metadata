@@ -1,0 +1,10 @@
+{
+    "name": "CoinClaim",
+    "symbol": "CLM",
+    "id": "0x0B4C2708F052dca413600e237675e4d6778A9375",
+    "decimals": 16,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coinclaim",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2667.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0B4C2708F052dca413600e237675e4d6778A9375/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Invox Finance Token",
+    "symbol": "INVOX",
+    "id": "0x4485561Db76614Ff727f8E0a3Ea95690b8b16022",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/invox-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4485561Db76614Ff727f8E0a3Ea95690b8b16022/logo.png"
+}

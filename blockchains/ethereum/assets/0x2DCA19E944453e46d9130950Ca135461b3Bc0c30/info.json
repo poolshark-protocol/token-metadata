@@ -1,0 +1,10 @@
+{
+    "name": "EYES Protocol",
+    "symbol": "EYES",
+    "id": "0x2DCA19E944453e46d9130950Ca135461b3Bc0c30",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eyes-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 95818,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2DCA19E944453e46d9130950Ca135461b3Bc0c30/logo.png"
+}

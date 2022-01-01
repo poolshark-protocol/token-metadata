@@ -1,0 +1,10 @@
+{
+    "name": "DeHive.finance",
+    "symbol": "DHV",
+    "id": "0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dehive",
+    "market_cap_rank": 2000,
+    "24_hr_volume_usd": 117282,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x62Dc4817588d53a056cBbD18231d91ffCcd34b2A/logo.png"
+}

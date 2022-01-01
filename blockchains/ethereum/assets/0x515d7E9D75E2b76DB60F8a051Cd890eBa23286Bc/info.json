@@ -1,0 +1,10 @@
+{
+    "name": "Governor",
+    "symbol": "GDAO",
+    "id": "0x515d7E9D75E2b76DB60F8a051Cd890eBa23286Bc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/governor-dao",
+    "market_cap_rank": 1852,
+    "24_hr_volume_usd": 86719,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x515d7E9D75E2b76DB60F8a051Cd890eBa23286Bc/logo.png"
+}

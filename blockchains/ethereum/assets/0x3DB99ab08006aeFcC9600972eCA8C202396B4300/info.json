@@ -1,0 +1,10 @@
+{
+    "name": "Vinci",
+    "symbol": "VINCI",
+    "id": "0x3DB99ab08006aeFcC9600972eCA8C202396B4300",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vinci",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 66308,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3DB99ab08006aeFcC9600972eCA8C202396B4300/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "3X Short OKB Token",
+    "symbol": "OKBBEAR",
+    "id": "0x053E5BA7Cb9669Dcc2fEb2D0E1d3d4a0AD6aaE39",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/3x-short-okb-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.8,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x053E5BA7Cb9669Dcc2fEb2D0E1d3d4a0AD6aaE39/logo.png"
+}

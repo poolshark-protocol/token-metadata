@@ -1,0 +1,10 @@
+{
+    "name": "Baby Trump Token",
+    "symbol": "BabyTrump",
+    "id": "0x99d36e97676A68313ffDc627fd6b56382a2a08B6",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/baby-trump",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 97.15,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x99d36e97676A68313ffDc627fd6b56382a2a08B6/logo.png"
+}

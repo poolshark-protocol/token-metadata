@@ -1,0 +1,10 @@
+{
+    "name": "EthereumGasLimit",
+    "symbol": "EGL",
+    "id": "0x1e83916Ea2EF2D7a6064775662E163b2D4C330a7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-eagle-project",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 51.97,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1e83916Ea2EF2D7a6064775662E163b2D4C330a7/logo.png"
+}

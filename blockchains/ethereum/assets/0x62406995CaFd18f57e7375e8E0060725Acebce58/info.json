@@ -1,0 +1,10 @@
+{
+    "name": "Firulais Wallet Token",
+    "symbol": "FIWT",
+    "id": "0x62406995CaFd18f57e7375e8E0060725Acebce58",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/firulais-wallet-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 469903,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x62406995CaFd18f57e7375e8E0060725Acebce58/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "INOOVI",
+    "symbol": "IVI",
+    "id": "0xA91464AbD4625A23aB719e3F0FCE84DaDd54E546",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/inoovi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.686256,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA91464AbD4625A23aB719e3F0FCE84DaDd54E546/logo.png"
+}

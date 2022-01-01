@@ -1,0 +1,10 @@
+{
+    "name": "Cultiplan",
+    "symbol": "CTPL",
+    "id": "0xF7e40AF830a2EcbFe72C5210C1Ca272e3Aa7cA1B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cultiplan",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 29384,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF7e40AF830a2EcbFe72C5210C1Ca272e3Aa7cA1B/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "smartx",
+    "symbol": "SAT",
+    "id": "0x1F0F468Ee03A6D99CD8A09dd071494a83Dc1c0e5",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/smartx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 103559,
+    "public_notice": "SmartX(Smart Map) main network launched on April 29, 2021. For more information, visit https://smartx.one/archives/5391",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1F0F468Ee03A6D99CD8A09dd071494a83Dc1c0e5/logo.png"
+}

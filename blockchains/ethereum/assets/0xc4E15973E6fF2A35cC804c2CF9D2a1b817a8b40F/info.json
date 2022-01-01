@@ -1,0 +1,10 @@
+{
+    "name": "Interest-Bearing BTC",
+    "symbol": "ibBTC",
+    "id": "0xc4E15973E6fF2A35cC804c2CF9D2a1b817a8b40F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/interest-bearing-bitcoin",
+    "market_cap_rank": 295,
+    "24_hr_volume_usd": 2606.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc4E15973E6fF2A35cC804c2CF9D2a1b817a8b40F/logo.png"
+}

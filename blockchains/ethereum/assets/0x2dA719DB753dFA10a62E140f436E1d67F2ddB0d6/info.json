@@ -1,0 +1,10 @@
+{
+    "name": "CERE Network",
+    "symbol": "CERE",
+    "id": "0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cere-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12243148,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2dA719DB753dFA10a62E140f436E1d67F2ddB0d6/logo.png"
+}

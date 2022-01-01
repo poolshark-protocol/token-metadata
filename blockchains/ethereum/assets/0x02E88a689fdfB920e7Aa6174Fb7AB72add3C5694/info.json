@@ -1,0 +1,10 @@
+{
+    "name": "1X Short Bitcoin Cash Token",
+    "symbol": "BCHHEDGE",
+    "id": "0x02E88a689fdfB920e7Aa6174Fb7AB72add3C5694",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/1x-short-bitcoin-cash-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 35.62,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x02E88a689fdfB920e7Aa6174Fb7AB72add3C5694/logo.png"
+}

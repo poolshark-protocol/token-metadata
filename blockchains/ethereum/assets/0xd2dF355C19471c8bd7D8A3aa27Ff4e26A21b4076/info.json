@@ -1,0 +1,10 @@
+{
+    "name": "Synth sAAVE",
+    "symbol": "sAAVE",
+    "id": "0xd2dF355C19471c8bd7D8A3aa27Ff4e26A21b4076",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/saave",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 41709,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd2dF355C19471c8bd7D8A3aa27Ff4e26A21b4076/logo.png"
+}

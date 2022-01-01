@@ -1,0 +1,10 @@
+{
+    "name": "Totoro Inu",
+    "symbol": "Totoro",
+    "id": "0xfc09c7cFD9c175DD9423ca02aE1249579AB12F12",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/totoro-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 55225,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfc09c7cFD9c175DD9423ca02aE1249579AB12F12/logo.png"
+}

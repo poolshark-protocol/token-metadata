@@ -1,0 +1,10 @@
+{
+    "name": "RougeCoin",
+    "symbol": "XRGE",
+    "id": "0xA1c7D450130bb77c6a23DdFAeCbC4a060215384b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rougecoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 31276,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA1c7D450130bb77c6a23DdFAeCbC4a060215384b/logo.png"
+}

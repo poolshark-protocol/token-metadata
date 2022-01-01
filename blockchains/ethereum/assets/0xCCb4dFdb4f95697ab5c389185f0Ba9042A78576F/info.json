@@ -1,0 +1,10 @@
+{
+    "name": "NFTWiki Token",
+    "symbol": "NFTK",
+    "id": "0xCCb4dFdb4f95697ab5c389185f0Ba9042A78576F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nftwiki",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 865.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCCb4dFdb4f95697ab5c389185f0Ba9042A78576F/logo.png"
+}

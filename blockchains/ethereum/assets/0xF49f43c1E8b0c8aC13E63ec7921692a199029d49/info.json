@@ -1,0 +1,10 @@
+{
+    "name": "Coldbank",
+    "symbol": "COLD",
+    "id": "0xF49f43c1E8b0c8aC13E63ec7921692a199029d49",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coldbank",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 58938,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF49f43c1E8b0c8aC13E63ec7921692a199029d49/logo.png"
+}

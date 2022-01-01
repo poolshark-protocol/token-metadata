@@ -1,0 +1,10 @@
+{
+    "name": "NHCOIN",
+    "symbol": "NHC",
+    "id": "0x62947ff43626eA26427Be5aE4c7dD03b4f1cA872",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/neo-holistic-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 65.21,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x62947ff43626eA26427Be5aE4c7dD03b4f1cA872/logo.png"
+}

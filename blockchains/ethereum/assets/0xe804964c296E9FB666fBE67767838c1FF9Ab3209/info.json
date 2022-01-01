@@ -1,0 +1,10 @@
+{
+    "name": "Reeth Token",
+    "symbol": "REETH",
+    "id": "0xe804964c296E9FB666fBE67767838c1FF9Ab3209",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/reeth",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe804964c296E9FB666fBE67767838c1FF9Ab3209/logo.png"
+}

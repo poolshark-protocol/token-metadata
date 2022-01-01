@@ -1,0 +1,10 @@
+{
+    "name": "FUTURE1COIN",
+    "symbol": "F1C",
+    "id": "0xb0a0a070640B450eB136DC377208469ee4F49fbc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/future1coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 53457,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb0a0a070640B450eB136DC377208469ee4F49fbc/logo.png"
+}

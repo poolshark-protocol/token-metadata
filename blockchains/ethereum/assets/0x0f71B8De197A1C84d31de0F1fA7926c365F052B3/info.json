@@ -1,0 +1,10 @@
+{
+    "name": "Arcona Distribution Contract",
+    "symbol": "ARCONA",
+    "id": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arcona",
+    "market_cap_rank": 1153,
+    "24_hr_volume_usd": 55155,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f71B8De197A1C84d31de0F1fA7926c365F052B3/logo.png"
+}

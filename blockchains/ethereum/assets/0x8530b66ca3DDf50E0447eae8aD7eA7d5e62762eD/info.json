@@ -1,0 +1,10 @@
+{
+    "name": "Meta Doge",
+    "symbol": "METADOGE",
+    "id": "0x8530b66ca3DDf50E0447eae8aD7eA7d5e62762eD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/meta-doge",
+    "market_cap_rank": 1669,
+    "24_hr_volume_usd": 18961.63,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8530b66ca3DDf50E0447eae8aD7eA7d5e62762eD/logo.png"
+}

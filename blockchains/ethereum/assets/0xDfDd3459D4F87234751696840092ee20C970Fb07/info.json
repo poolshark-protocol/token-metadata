@@ -1,0 +1,11 @@
+{
+    "name": "My\u014dbu",
+    "symbol": "MYOBU",
+    "id": "0xDfDd3459D4F87234751696840092ee20C970Fb07",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/myobu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 63130,
+    "public_notice": "MYOBU is migrating to V2 contract. For more information, please read https://twitter.com/MyobuOfficial/status/1436433819205312549",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDfDd3459D4F87234751696840092ee20C970Fb07/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Not Much",
+    "symbol": "NM",
+    "id": "0x822D139B661ea5613F46f6f309b6b7a5517C60a7",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/not-much",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x822D139B661ea5613F46f6f309b6b7a5517C60a7/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "keisukeinu.finance",
+    "symbol": "KEI",
+    "id": "0xc0114F14638a333A4D5C3b04F09b96372348A842",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/keisuke-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 21029,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc0114F14638a333A4D5C3b04F09b96372348A842/logo.png"
+}

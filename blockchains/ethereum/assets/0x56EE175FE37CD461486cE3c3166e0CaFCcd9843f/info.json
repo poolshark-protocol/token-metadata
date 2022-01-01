@@ -1,0 +1,10 @@
+{
+    "name": "eWit",
+    "symbol": "EWIT",
+    "id": "0x56EE175FE37CD461486cE3c3166e0CaFCcd9843f",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-wit",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 872.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x56EE175FE37CD461486cE3c3166e0CaFCcd9843f/logo.png"
+}

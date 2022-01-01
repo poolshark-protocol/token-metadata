@@ -1,0 +1,10 @@
+{
+    "name": "CC Token",
+    "symbol": "CC",
+    "id": "0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ccswap",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 346.51,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb7fbFf4Ce5200215c690cc95855e5d6C5236Ee9f/logo.png"
+}

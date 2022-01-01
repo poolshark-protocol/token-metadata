@@ -1,0 +1,10 @@
+{
+    "name": "Simracer Coin",
+    "symbol": "SRC",
+    "id": "0x16587cF43F044aBa0165ffA00AcF412631194e4b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/simracer-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 39.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x16587cF43F044aBa0165ffA00AcF412631194e4b/logo.png"
+}

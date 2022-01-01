@@ -1,0 +1,10 @@
+{
+    "name": "ETH RSI 60/40 Yield II",
+    "symbol": "ETHRSIAPY",
+    "id": "0x9f49ed43C90A540d1cF12f6170aCE8d0B88a14E6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eth-rsi-60-40-yield-set-ii",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 467.09,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9f49ed43C90A540d1cF12f6170aCE8d0B88a14E6/logo.png"
+}

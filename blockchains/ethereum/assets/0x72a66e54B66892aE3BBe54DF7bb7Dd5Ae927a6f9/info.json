@@ -1,0 +1,11 @@
+{
+    "name": "Crypto Village Accelerator Gold",
+    "symbol": "CVAG",
+    "id": "0x72a66e54B66892aE3BBe54DF7bb7Dd5Ae927a6f9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crypto-village-accelerator-cvag",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1311.2,
+    "public_notice": "CVA will undergo 500,000,000:1 swap to CVAG. https://support.probit.com/hc/en-us/articles/4403575712537-Crypto-Village-Accelerator-CVA-Token-Swap-Will-Be-Supported-on-ProBit-Global",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72a66e54B66892aE3BBe54DF7bb7Dd5Ae927a6f9/logo.png"
+}

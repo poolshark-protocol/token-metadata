@@ -1,0 +1,10 @@
+{
+    "name": "Sunder Goverance Token",
+    "symbol": "Sunder",
+    "id": "0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sunder-goverance-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 191.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6/logo.png"
+}

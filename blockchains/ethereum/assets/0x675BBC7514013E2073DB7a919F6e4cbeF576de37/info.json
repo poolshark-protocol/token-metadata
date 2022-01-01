@@ -1,0 +1,10 @@
+{
+    "name": "Coldstack",
+    "symbol": "CLS",
+    "id": "0x675BBC7514013E2073DB7a919F6e4cbeF576de37",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coldstack",
+    "market_cap_rank": 1857,
+    "24_hr_volume_usd": 31142,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x675BBC7514013E2073DB7a919F6e4cbeF576de37/logo.png"
+}

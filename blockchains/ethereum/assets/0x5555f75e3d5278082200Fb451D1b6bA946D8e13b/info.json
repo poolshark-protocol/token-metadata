@@ -1,0 +1,10 @@
+{
+    "name": "Iron Bank JPY",
+    "symbol": "ibJPY",
+    "id": "0x5555f75e3d5278082200Fb451D1b6bA946D8e13b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/iron-bank-jpy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 58014,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5555f75e3d5278082200Fb451D1b6bA946D8e13b/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "MarX",
+    "symbol": "MARX",
+    "id": "0x2b100Be232F90Dd33d3B6e4b9ad70D1E8AC0E208",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/marx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 848282,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2b100Be232F90Dd33d3B6e4b9ad70D1E8AC0E208/logo.png"
+}

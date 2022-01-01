@@ -1,0 +1,10 @@
+{
+    "name": "United Traders Token",
+    "symbol": "UTT",
+    "id": "0x16f812Be7FfF02cAF662B85d5d58a5da6572D4Df",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/united-traders-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x16f812Be7FfF02cAF662B85d5d58a5da6572D4Df/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Inuyasha",
+    "symbol": "Inuyasha",
+    "id": "0x5bdDbFdc228E1bbDb9ef5cA1dc56B54C4d6d6621",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/inuyasha",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 174681,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5bdDbFdc228E1bbDb9ef5cA1dc56B54C4d6d6621/logo.png"
+}

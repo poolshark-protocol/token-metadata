@@ -1,0 +1,10 @@
+{
+    "name": "SEED",
+    "symbol": "SEED",
+    "id": "0xC969e16e63fF31ad4BCAc3095C616644e6912d79",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/seed-venture",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC969e16e63fF31ad4BCAc3095C616644e6912d79/logo.png"
+}

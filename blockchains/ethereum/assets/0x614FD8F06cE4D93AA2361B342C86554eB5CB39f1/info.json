@@ -1,0 +1,10 @@
+{
+    "name": "TYT",
+    "symbol": "TYT",
+    "id": "0x614FD8F06cE4D93AA2361B342C86554eB5CB39f1",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tianya-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1092214,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x614FD8F06cE4D93AA2361B342C86554eB5CB39f1/logo.png"
+}

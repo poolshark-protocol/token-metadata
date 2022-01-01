@@ -1,0 +1,10 @@
+{
+    "name": "Dogus",
+    "symbol": "DOGUS",
+    "id": "0x903904Cb39bac33d4983EAd3b3F573D720c7965e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dogus",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3319.62,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x903904Cb39bac33d4983EAd3b3F573D720c7965e/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ORO Token",
+    "symbol": "ORO",
+    "id": "0xc3Eb2622190c57429aac3901808994443b64B466",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/oro",
+    "market_cap_rank": 2650,
+    "24_hr_volume_usd": 3029.37,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc3Eb2622190c57429aac3901808994443b64B466/logo.png"
+}

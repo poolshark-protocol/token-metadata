@@ -1,0 +1,10 @@
+{
+    "name": "MISBLOC",
+    "symbol": "MSB",
+    "id": "0x84c722e6F1363E8D5C6dB3eA600bEF9a006Da824",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/misbloc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 643.97,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x84c722e6F1363E8D5C6dB3eA600bEF9a006Da824/logo.png"
+}

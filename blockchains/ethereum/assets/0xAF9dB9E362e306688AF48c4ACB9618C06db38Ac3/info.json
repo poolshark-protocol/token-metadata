@@ -1,0 +1,10 @@
+{
+    "name": "ACY",
+    "symbol": "ACY",
+    "id": "0xAF9dB9E362e306688AF48c4ACB9618C06db38Ac3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/acy-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7354.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAF9dB9E362e306688AF48c4ACB9618C06db38Ac3/logo.png"
+}

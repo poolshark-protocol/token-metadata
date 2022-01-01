@@ -1,0 +1,11 @@
+{
+    "name": "WadzPay Token",
+    "symbol": "WTK",
+    "id": "0x4cfF49d0A19ed6Ff845a9122fa912AbcFB1F68A6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wadzpay-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 531526,
+    "public_notice": "Due to Bitmart's security breach, WadzPay has been redeployed\u00a0from the <a href=\"https://etherscan.io/token/0xdf9d4674a430bdcc096a3a403128357ab36844ba\">old contract</a> to a <a href=\"https://etherscan.io/token/0x4cff49d0a19ed6ff845a9122fa912abcfb1f68a6\">new one</a>. Find out more at their <a href=\"https://wadzpay.medium.com/wtk-token-swap-faq-d1181d730a2f\">Medium</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4cfF49d0A19ed6Ff845a9122fa912AbcFB1F68A6/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "PAMP.CC",
+    "symbol": "PAMP",
+    "id": "0x7f0f118D083d5175aB9D2d34C4C8Fa4F43c3f47b",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pamp-cc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7f0f118D083d5175aB9D2d34C4C8Fa4F43c3f47b/logo.png"
+}

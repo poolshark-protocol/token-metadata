@@ -1,0 +1,10 @@
+{
+    "name": "PWRD Stablecoin",
+    "symbol": "PWRD",
+    "id": "0xF0a93d4994B3d98Fb5e3A2F90dBc2d69073Cb86b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pwrd-stablecoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10095.65,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF0a93d4994B3d98Fb5e3A2F90dBc2d69073Cb86b/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Sukhavati Network Token",
+    "symbol": "SKT",
+    "id": "0x012E0e6342308b247F36Ee500ECb14dc77a7a8C1",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sukhavati-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1230602,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x012E0e6342308b247F36Ee500ECb14dc77a7a8C1/logo.png"
+}

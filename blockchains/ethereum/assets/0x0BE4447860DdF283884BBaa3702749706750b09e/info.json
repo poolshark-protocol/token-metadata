@@ -1,0 +1,10 @@
+{
+    "name": "AggregatedFinance",
+    "symbol": "AGFI",
+    "id": "0x0BE4447860DdF283884BBaa3702749706750b09e",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aggregatedfinance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 271719,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0BE4447860DdF283884BBaa3702749706750b09e/logo.png"
+}

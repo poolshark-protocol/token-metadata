@@ -1,0 +1,10 @@
+{
+    "name": "Idexo Token",
+    "symbol": "IDO",
+    "id": "0xF9c53268e9de692AE1b2ea5216E24e1c3ad7CB1E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/idexo-token",
+    "market_cap_rank": 1909,
+    "24_hr_volume_usd": 71282,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF9c53268e9de692AE1b2ea5216E24e1c3ad7CB1E/logo.png"
+}

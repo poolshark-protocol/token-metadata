@@ -1,0 +1,10 @@
+{
+    "name": "Epanus",
+    "symbol": "EPS",
+    "id": "0x50eC35d1E18D439F02Fa895746FC3e1BEF311780",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/epanus",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 243357,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x50eC35d1E18D439F02Fa895746FC3e1BEF311780/logo.png"
+}

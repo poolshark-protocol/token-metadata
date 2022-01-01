@@ -1,0 +1,10 @@
+{
+    "name": "BabyFloki",
+    "symbol": "BabyFloki",
+    "id": "0xdF35988d795d90711e785B488Bb2127692e6f956",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/babyfloki",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1416.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdF35988d795d90711e785B488Bb2127692e6f956/logo.png"
+}

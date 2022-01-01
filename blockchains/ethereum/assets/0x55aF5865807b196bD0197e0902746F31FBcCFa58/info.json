@@ -1,0 +1,10 @@
+{
+    "name": "SpookyToken",
+    "symbol": "BOO",
+    "id": "0x55aF5865807b196bD0197e0902746F31FBcCFa58",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/spookyswap",
+    "market_cap_rank": 406,
+    "24_hr_volume_usd": 8236847,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x55aF5865807b196bD0197e0902746F31FBcCFa58/logo.png"
+}

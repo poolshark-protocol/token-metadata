@@ -1,0 +1,10 @@
+{
+    "name": "Oracle System",
+    "symbol": "ORC",
+    "id": "0x324AF2D5353f2dD138E234b359d30d67C64b1b20",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/oracle-system",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 172.03,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x324AF2D5353f2dD138E234b359d30d67C64b1b20/logo.png"
+}

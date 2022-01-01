@@ -1,0 +1,10 @@
+{
+    "name": "Bitlocus Token (Wormhole)",
+    "symbol": "BTL",
+    "id": "0x93e32efaFd24973d45f363A76D73ccB9Edf59986",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitlocus",
+    "market_cap_rank": 1530,
+    "24_hr_volume_usd": 140153,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93e32efaFd24973d45f363A76D73ccB9Edf59986/logo.png"
+}

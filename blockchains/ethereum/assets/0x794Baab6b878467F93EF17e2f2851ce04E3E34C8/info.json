@@ -1,0 +1,10 @@
+{
+    "name": "YIN Finance",
+    "symbol": "YIN",
+    "id": "0x794Baab6b878467F93EF17e2f2851ce04E3E34C8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yin-finance",
+    "market_cap_rank": 1733,
+    "24_hr_volume_usd": 12516.14,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x794Baab6b878467F93EF17e2f2851ce04E3E34C8/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Beverage Token",
+    "symbol": "DRINK",
+    "id": "0x9257fb8fab616867cEe67C3289547403617B1938",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/beverage-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7628.47,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9257fb8fab616867cEe67C3289547403617B1938/logo.png"
+}

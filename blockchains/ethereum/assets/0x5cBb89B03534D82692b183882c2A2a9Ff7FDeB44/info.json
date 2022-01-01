@@ -1,0 +1,10 @@
+{
+    "name": "BGT",
+    "symbol": "BGT",
+    "id": "0x5cBb89B03534D82692b183882c2A2a9Ff7FDeB44",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bgt",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 107160,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5cBb89B03534D82692b183882c2A2a9Ff7FDeB44/logo.png"
+}

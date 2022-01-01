@@ -1,0 +1,10 @@
+{
+    "name": "MegaCryptoPolis $MEGA Token (MEGA)",
+    "symbol": "MEGA",
+    "id": "0x3218A02F8F8B5c3894ce30EB255F10Bcba13E654",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/megacryptopolis",
+    "market_cap_rank": 1848,
+    "24_hr_volume_usd": 8991.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3218A02F8F8B5c3894ce30EB255F10Bcba13E654/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped Celo USD",
+    "symbol": "wCUSD",
+    "id": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-celo-dollar",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195/logo.png"
+}

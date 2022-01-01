@@ -1,0 +1,10 @@
+{
+    "name": "Crypto Daily Token",
+    "symbol": "CRDT",
+    "id": "0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crdt",
+    "market_cap_rank": 2805,
+    "24_hr_volume_usd": 460147,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDaab5E695bb0E8Ce8384ee56BA38fA8290618e52/logo.png"
+}

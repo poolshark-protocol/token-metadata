@@ -1,0 +1,10 @@
+{
+    "name": "SmartMesh Token",
+    "symbol": "SMT",
+    "id": "0x21f15966E07a10554C364b988e91DaB01D32794A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/smartmesh",
+    "market_cap_rank": 1772,
+    "24_hr_volume_usd": 230919,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x21f15966E07a10554C364b988e91DaB01D32794A/logo.png"
+}

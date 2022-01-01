@@ -1,0 +1,10 @@
+{
+    "name": "ChunghopToken",
+    "symbol": "CHC",
+    "id": "0x24810d836F6D60a7EE499622b7103Ec769E81E3b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chunghoptoken",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 767329,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x24810d836F6D60a7EE499622b7103Ec769E81E3b/logo.png"
+}

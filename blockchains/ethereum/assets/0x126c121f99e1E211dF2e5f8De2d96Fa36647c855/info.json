@@ -1,0 +1,10 @@
+{
+    "name": "DEGEN Index",
+    "symbol": "DEGEN",
+    "id": "0x126c121f99e1E211dF2e5f8De2d96Fa36647c855",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/degen-index",
+    "market_cap_rank": 1290,
+    "24_hr_volume_usd": 19504.71,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x126c121f99e1E211dF2e5f8De2d96Fa36647c855/logo.png"
+}

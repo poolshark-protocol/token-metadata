@@ -1,0 +1,11 @@
+{
+    "name": "Libera",
+    "symbol": "LIB",
+    "id": "0x0bf6261297198D91D4FA460242C69232146A5703",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/libera",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Notice: Kindly be aware that liquidity provided in Uniswap can be removed by providers at any moment and may result in a collapse in available liquidity. Please exercise caution when trading!",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0bf6261297198D91D4FA460242C69232146A5703/logo.png"
+}

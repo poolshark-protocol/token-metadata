@@ -1,0 +1,10 @@
+{
+    "name": "Fingerprints",
+    "symbol": "PRINTS",
+    "id": "0x4dd28568D05f09b02220b09C2cb307bFd837cb95",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fingerprints",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4dd28568D05f09b02220b09C2cb307bFd837cb95/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Sora Validator Token",
+    "symbol": "VAL",
+    "id": "0xe88f8313e61A97cEc1871EE37fBbe2a8bf3ed1E4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sora-validator-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 49582,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe88f8313e61A97cEc1871EE37fBbe2a8bf3ed1E4/logo.png"
+}

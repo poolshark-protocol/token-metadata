@@ -1,0 +1,10 @@
+{
+    "name": "PolkaFantasy",
+    "symbol": "XP",
+    "id": "0x948c70Dc6169Bfb10028FdBE96cbC72E9562b2Ac",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polkafantasy",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 216765,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x948c70Dc6169Bfb10028FdBE96cbC72E9562b2Ac/logo.png"
+}

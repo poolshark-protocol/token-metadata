@@ -1,0 +1,10 @@
+{
+    "name": "WIKI Token",
+    "symbol": "WIKI",
+    "id": "0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wiki-token",
+    "market_cap_rank": 2917,
+    "24_hr_volume_usd": 187.95,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae/logo.png"
+}

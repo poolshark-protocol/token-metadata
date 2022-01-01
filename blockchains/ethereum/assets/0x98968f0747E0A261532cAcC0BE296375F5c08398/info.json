@@ -1,0 +1,10 @@
+{
+    "name": "MoonCats",
+    "symbol": "MOONCAT",
+    "id": "0x98968f0747E0A261532cAcC0BE296375F5c08398",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mooncat-vault-nftx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x98968f0747E0A261532cAcC0BE296375F5c08398/logo.png"
+}

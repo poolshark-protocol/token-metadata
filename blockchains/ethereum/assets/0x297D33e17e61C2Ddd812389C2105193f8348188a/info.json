@@ -1,0 +1,10 @@
+{
+    "name": "Strudel Finance",
+    "symbol": "$TRDL",
+    "id": "0x297D33e17e61C2Ddd812389C2105193f8348188a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/strudel-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 11682.31,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x297D33e17e61C2Ddd812389C2105193f8348188a/logo.png"
+}

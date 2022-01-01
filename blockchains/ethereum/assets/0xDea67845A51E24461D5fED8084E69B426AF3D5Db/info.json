@@ -1,0 +1,10 @@
+{
+    "name": "HodlTree",
+    "symbol": "HTRE",
+    "id": "0xDea67845A51E24461D5fED8084E69B426AF3D5Db",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hodltree",
+    "market_cap_rank": 2518,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDea67845A51E24461D5fED8084E69B426AF3D5Db/logo.png"
+}

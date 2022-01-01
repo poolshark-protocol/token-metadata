@@ -1,0 +1,11 @@
+{
+    "name": "unilock.network",
+    "symbol": "UNL",
+    "id": "0x354E514c135c8603f840ffADb4c33cDE6D2A37e0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unilock-network",
+    "market_cap_rank": 2785,
+    "24_hr_volume_usd": 27.16,
+    "public_notice": "Contract address has changed from 0x04ab43d32d0172c76f5287b6619f0aa50af89303 to 0x354e514c135c8603f840ffadb4c33cde6d2a37e0. Refer to https://unilock.medium.com/unilock-token-split-48ccfc03e90f",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x354E514c135c8603f840ffADb4c33cDE6D2A37e0/logo.png"
+}

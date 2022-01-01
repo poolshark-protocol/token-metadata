@@ -1,0 +1,10 @@
+{
+    "name": "Volatility Protocol Token",
+    "symbol": "VOL",
+    "id": "0x5166E09628b696285E3A151e84FB977736a83575",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/volatility-protocol-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7607.59,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5166E09628b696285E3A151e84FB977736a83575/logo.png"
+}

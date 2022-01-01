@@ -1,0 +1,10 @@
+{
+    "name": "VariStableCapital",
+    "symbol": "VSC",
+    "id": "0x99bFE582A97F0deD07Ee6fB5c1e5b6f1ff082243",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vari-stable-capital",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 968.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x99bFE582A97F0deD07Ee6fB5c1e5b6f1ff082243/logo.png"
+}

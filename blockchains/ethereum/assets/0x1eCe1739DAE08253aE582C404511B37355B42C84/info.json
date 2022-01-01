@@ -1,0 +1,10 @@
+{
+    "name": "PICA",
+    "symbol": "PICA",
+    "id": "0x1eCe1739DAE08253aE582C404511B37355B42C84",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pica",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1eCe1739DAE08253aE582C404511B37355B42C84/logo.png"
+}

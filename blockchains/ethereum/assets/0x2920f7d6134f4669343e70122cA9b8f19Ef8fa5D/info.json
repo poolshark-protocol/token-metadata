@@ -1,0 +1,11 @@
+{
+    "name": "MonoX Token",
+    "symbol": "MONO",
+    "id": "0x2920f7d6134f4669343e70122cA9b8f19Ef8fa5D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/monox",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 201851,
+    "public_notice": "On 30 November 2021, MonoX was exploited and saw $31 million drained from its smart contracts - https://cryptobriefing.com/monox-finance-drained-of-31m-in-latest-defi-hack/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2920f7d6134f4669343e70122cA9b8f19Ef8fa5D/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Pteria",
+    "symbol": "PTERIA",
+    "id": "0x02Eca910CB3A7D43eBC7e8028652ed5C6b70259B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pteria",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3472.19,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x02Eca910CB3A7D43eBC7e8028652ed5C6b70259B/logo.png"
+}

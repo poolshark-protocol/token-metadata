@@ -1,0 +1,10 @@
+{
+    "name": "BKC Token",
+    "symbol": "BKC",
+    "id": "0x34bdf48A8F753de4822a6CFB1FEE275F9b4D662e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/facts",
+    "market_cap_rank": 2886,
+    "24_hr_volume_usd": 3113.27,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x34bdf48A8F753de4822a6CFB1FEE275F9b4D662e/logo.png"
+}

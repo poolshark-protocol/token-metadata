@@ -1,0 +1,10 @@
+{
+    "name": "YFarmLand Token",
+    "symbol": "YFARMER",
+    "id": "0x7B0F66fA5cf5cc28280c1e7051af881E06579362",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfarmland-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7B0F66fA5cf5cc28280c1e7051af881E06579362/logo.png"
+}

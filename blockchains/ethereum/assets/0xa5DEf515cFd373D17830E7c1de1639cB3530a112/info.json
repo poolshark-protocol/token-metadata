@@ -1,0 +1,10 @@
+{
+    "name": "DePo Token",
+    "symbol": "DEPO",
+    "id": "0xa5DEf515cFd373D17830E7c1de1639cB3530a112",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/depo",
+    "market_cap_rank": 712,
+    "24_hr_volume_usd": 2345286,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa5DEf515cFd373D17830E7c1de1639cB3530a112/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "yAxis V2",
+    "symbol": "YAXIS",
+    "id": "0x0adA190c81b814548ddC2F6AdC4a689ce7C1FE73",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yaxis",
+    "market_cap_rank": 2654,
+    "24_hr_volume_usd": 49406,
+    "public_notice": "$YAX symbol has been changed to $YAXIS. Link: https://twitter.com/yaxis_project/status/1383568560702726154",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0adA190c81b814548ddC2F6AdC4a689ce7C1FE73/logo.png"
+}

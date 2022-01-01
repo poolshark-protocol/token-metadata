@@ -1,0 +1,10 @@
+{
+    "name": "SpaceY Token",
+    "symbol": "SPAY",
+    "id": "0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/spacey-2025",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 139967,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5/logo.png"
+}

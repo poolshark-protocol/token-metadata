@@ -1,0 +1,10 @@
+{
+    "name": "ConstitutionDAO",
+    "symbol": "PEOPLE",
+    "id": "0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/constitutiondao",
+    "market_cap_rank": 161,
+    "24_hr_volume_usd": 113643991,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7A58c0Be72BE218B41C608b7Fe7C5bB630736C71/logo.png"
+}

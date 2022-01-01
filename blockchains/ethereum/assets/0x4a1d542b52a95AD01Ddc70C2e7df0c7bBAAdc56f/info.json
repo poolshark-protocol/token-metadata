@@ -1,0 +1,10 @@
+{
+    "name": "Niftify",
+    "symbol": "NIFT",
+    "id": "0x4a1d542b52a95AD01Ddc70C2e7df0c7bBAAdc56f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/niftify",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 172715,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4a1d542b52a95AD01Ddc70C2e7df0c7bBAAdc56f/logo.png"
+}

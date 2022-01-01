@@ -1,0 +1,10 @@
+{
+    "name": "Digiwill",
+    "symbol": "DGW",
+    "id": "0x87B87A7583D8d8F15b58Bdd290318386Ac8eE174",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/digiwill",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87B87A7583D8d8F15b58Bdd290318386Ac8eE174/logo.png"
+}

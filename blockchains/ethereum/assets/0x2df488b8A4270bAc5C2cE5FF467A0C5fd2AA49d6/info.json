@@ -1,0 +1,10 @@
+{
+    "name": "Sharity",
+    "symbol": "$Shari",
+    "id": "0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sharity",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 172151,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2df488b8A4270bAc5C2cE5FF467A0C5fd2AA49d6/logo.png"
+}

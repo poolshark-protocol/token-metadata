@@ -1,0 +1,10 @@
+{
+    "name": "Internet Exchange Token",
+    "symbol": "INEX",
+    "id": "0xa2D77f8353cB2AFD709Aba4a967257511ECFf716",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/internet-exchange-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 71.86,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa2D77f8353cB2AFD709Aba4a967257511ECFf716/logo.png"
+}

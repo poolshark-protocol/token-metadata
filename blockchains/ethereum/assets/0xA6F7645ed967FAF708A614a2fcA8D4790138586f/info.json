@@ -1,0 +1,10 @@
+{
+    "name": "MoonieNFT Token",
+    "symbol": "MNY",
+    "id": "0xA6F7645ed967FAF708A614a2fcA8D4790138586f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moonienft",
+    "market_cap_rank": 2085,
+    "24_hr_volume_usd": 12193.06,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA6F7645ed967FAF708A614a2fcA8D4790138586f/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "BitDEFi",
+    "symbol": "BFi",
+    "id": "0x2b2b0559081c41e962777B5049632fdb30f7E652",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitdefi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5.49,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2b2b0559081c41e962777B5049632fdb30f7E652/logo.png"
+}

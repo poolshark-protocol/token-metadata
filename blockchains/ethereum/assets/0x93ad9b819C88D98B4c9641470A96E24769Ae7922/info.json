@@ -1,0 +1,10 @@
+{
+    "name": "KRYZA Exchange",
+    "symbol": "KRX",
+    "id": "0x93ad9b819C88D98B4c9641470A96E24769Ae7922",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kryza-exchange",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 78.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93ad9b819C88D98B4c9641470A96E24769Ae7922/logo.png"
+}

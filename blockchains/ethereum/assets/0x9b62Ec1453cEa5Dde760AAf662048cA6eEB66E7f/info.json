@@ -1,0 +1,10 @@
+{
+    "name": "Ethereum Cell Network",
+    "symbol": "eCell",
+    "id": "0x9b62Ec1453cEa5Dde760AAf662048cA6eEB66E7f",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/celletf",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 85665,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b62Ec1453cEa5Dde760AAf662048cA6eEB66E7f/logo.png"
+}

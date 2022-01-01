@@ -1,0 +1,10 @@
+{
+    "name": "SoMee Advertising Token V2",
+    "symbol": "SAT",
+    "id": "0xc9F1016d336ef77AeE75Fc11Ad64C5Ecf9121332",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/somee-advertising-token",
+    "market_cap_rank": 2623,
+    "24_hr_volume_usd": 6418.97,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc9F1016d336ef77AeE75Fc11Ad64C5Ecf9121332/logo.png"
+}

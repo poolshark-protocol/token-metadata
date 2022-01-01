@@ -1,0 +1,10 @@
+{
+    "name": "Better Money",
+    "symbol": "BETTER",
+    "id": "0xA7925aA2A6e4575ab0C74D169f3BC3e03D4C319A",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/better-money",
+    "market_cap_rank": 2878,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA7925aA2A6e4575ab0C74D169f3BC3e03D4C319A/logo.png"
+}

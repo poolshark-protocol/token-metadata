@@ -1,0 +1,10 @@
+{
+    "name": "BQT",
+    "symbol": "BQT",
+    "id": "0x5EB87cAA0105a63aa87A36C7Bd2573Bd13E84faE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blockchain-quotations-index-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1347.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5EB87cAA0105a63aa87A36C7Bd2573Bd13E84faE/logo.png"
+}

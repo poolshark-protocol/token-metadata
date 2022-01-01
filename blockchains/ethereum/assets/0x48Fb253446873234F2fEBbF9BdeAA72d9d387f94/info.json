@@ -1,0 +1,10 @@
+{
+    "name": "Bancor Governance Token",
+    "symbol": "vBNT",
+    "id": "0x48Fb253446873234F2fEBbF9BdeAA72d9d387f94",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bancor-governance-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 162569,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x48Fb253446873234F2fEBbF9BdeAA72d9d387f94/logo.png"
+}

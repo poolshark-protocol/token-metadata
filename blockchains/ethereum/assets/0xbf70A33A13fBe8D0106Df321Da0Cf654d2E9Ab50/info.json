@@ -1,0 +1,10 @@
+{
+    "name": "ETH/BTC RSI 70/30 Crossover",
+    "symbol": "ETHBTCRSI7030",
+    "id": "0xbf70A33A13fBe8D0106Df321Da0Cf654d2E9Ab50",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/eth-btc-rsi-ratio-trading-set",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1982.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbf70A33A13fBe8D0106Df321Da0Cf654d2E9Ab50/logo.png"
+}

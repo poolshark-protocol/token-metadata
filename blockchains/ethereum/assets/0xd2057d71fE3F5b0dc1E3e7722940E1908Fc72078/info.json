@@ -1,0 +1,10 @@
+{
+    "name": "KingToken",
+    "symbol": "$KING",
+    "id": "0xd2057d71fE3F5b0dc1E3e7722940E1908Fc72078",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/king-swap",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1260933,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd2057d71fE3F5b0dc1E3e7722940E1908Fc72078/logo.png"
+}

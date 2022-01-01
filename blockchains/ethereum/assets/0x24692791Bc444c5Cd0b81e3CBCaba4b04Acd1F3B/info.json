@@ -1,0 +1,10 @@
+{
+    "name": "UnikoinGold",
+    "symbol": "UKG",
+    "id": "0x24692791Bc444c5Cd0b81e3CBCaba4b04Acd1F3B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unikoin-gold",
+    "market_cap_rank": 3081,
+    "24_hr_volume_usd": 0.01172357,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x24692791Bc444c5Cd0b81e3CBCaba4b04Acd1F3B/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Lelouch Lamperouge",
+    "symbol": "ZERO",
+    "id": "0x4546d782FfB14A465A3Bb518EeCF1a181Da85332",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lelouch-lamperouge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13651.8,
+    "public_notice": "Lelouch migrated to new smart contract with new token symbol $ZERO. Old contract: 0xfc05205ff402849b081e72ae4f8fc93cbdf40db1   New Contract: 0x4546d782ffb14a465a3bb518eecf1a181da85332",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4546d782FfB14A465A3Bb518EeCF1a181Da85332/logo.png"
+}

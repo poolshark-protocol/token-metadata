@@ -1,0 +1,10 @@
+{
+    "name": "Science Chain",
+    "symbol": "SCC",
+    "id": "0x4a9f00dE5d8A244944313faEe23849FF725E680D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/science_chain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 390659,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4a9f00dE5d8A244944313faEe23849FF725E680D/logo.png"
+}

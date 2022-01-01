@@ -1,0 +1,11 @@
+{
+    "name": "Halving",
+    "symbol": "HALV",
+    "id": "0x9e7cb236e43c4bd042fE463df6a175d4479ee186",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/halving-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 902.66,
+    "public_notice": "Halving Contract address has migrated from 0x245b78f9957f0dc435d1c093c64d2defe78577b2 to 0x9e7cb236e43c4bd042fE463df6a175d4479ee186",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9e7cb236e43c4bd042fE463df6a175d4479ee186/logo.png"
+}

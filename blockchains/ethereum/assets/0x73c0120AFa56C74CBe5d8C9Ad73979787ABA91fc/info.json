@@ -1,0 +1,10 @@
+{
+    "name": "Down Bad",
+    "symbol": "DB",
+    "id": "0x73c0120AFa56C74CBe5d8C9Ad73979787ABA91fc",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/down-bad",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 117.82,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x73c0120AFa56C74CBe5d8C9Ad73979787ABA91fc/logo.png"
+}

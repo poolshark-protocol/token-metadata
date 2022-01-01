@@ -1,0 +1,10 @@
+{
+    "name": "BACKED",
+    "symbol": "BAKT",
+    "id": "0x8379f52d09b9998eCbA731288EE4fE532fD91C0B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/backed-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1327.34,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8379f52d09b9998eCbA731288EE4fE532fD91C0B/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ok.lets.go.",
+    "symbol": "OKLG",
+    "id": "0x5dBB9F64cd96E2DbBcA58d14863d615B67B42f2e",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ok-lets-go",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 101112,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5dBB9F64cd96E2DbBcA58d14863d615B67B42f2e/logo.png"
+}

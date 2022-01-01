@@ -1,0 +1,10 @@
+{
+    "name": "CFX Quantum",
+    "symbol": "CFXQ",
+    "id": "0x0557E0d15aeC0b9026dD17aA874fDf7d182A2cEB",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cfx-quantum",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 63486,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0557E0d15aeC0b9026dD17aA874fDf7d182A2cEB/logo.png"
+}

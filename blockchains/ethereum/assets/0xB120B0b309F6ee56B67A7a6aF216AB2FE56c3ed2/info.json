@@ -1,0 +1,10 @@
+{
+    "name": "Metarcade",
+    "symbol": "META",
+    "id": "0xB120B0b309F6ee56B67A7a6aF216AB2FE56c3ed2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metarcade",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5967.73,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB120B0b309F6ee56B67A7a6aF216AB2FE56c3ed2/logo.png"
+}

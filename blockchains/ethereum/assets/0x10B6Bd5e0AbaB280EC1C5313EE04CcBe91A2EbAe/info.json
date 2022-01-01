@@ -1,0 +1,10 @@
+{
+    "name": "ROBIN Inu",
+    "symbol": "ROBIN",
+    "id": "0x10B6Bd5e0AbaB280EC1C5313EE04CcBe91A2EbAe",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/robin-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 62.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x10B6Bd5e0AbaB280EC1C5313EE04CcBe91A2EbAe/logo.png"
+}

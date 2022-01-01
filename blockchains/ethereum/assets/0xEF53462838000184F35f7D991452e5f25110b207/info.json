@@ -1,0 +1,10 @@
+{
+    "name": "Knit Finance",
+    "symbol": "KFT",
+    "id": "0xEF53462838000184F35f7D991452e5f25110b207",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/knit-finance",
+    "market_cap_rank": 2477,
+    "24_hr_volume_usd": 29220,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEF53462838000184F35f7D991452e5f25110b207/logo.png"
+}

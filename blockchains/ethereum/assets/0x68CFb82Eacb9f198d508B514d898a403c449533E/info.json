@@ -1,0 +1,10 @@
+{
+    "name": "Credmark",
+    "symbol": "CMK",
+    "id": "0x68CFb82Eacb9f198d508B514d898a403c449533E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/credmark",
+    "market_cap_rank": 1335,
+    "24_hr_volume_usd": 327.25,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68CFb82Eacb9f198d508B514d898a403c449533E/logo.png"
+}

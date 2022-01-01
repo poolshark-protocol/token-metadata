@@ -1,0 +1,10 @@
+{
+    "name": "Relay Token",
+    "symbol": "RELAY",
+    "id": "0x5D843Fa9495d23dE997C394296ac7B4D721E841c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/relay-token",
+    "market_cap_rank": 1129,
+    "24_hr_volume_usd": 397701,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5D843Fa9495d23dE997C394296ac7B4D721E841c/logo.png"
+}

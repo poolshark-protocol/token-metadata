@@ -1,0 +1,10 @@
+{
+    "name": "Yearn20Moon.Finance",
+    "symbol": "YMF20",
+    "id": "0x16bE21C08EB27953273608629e4397556c561D26",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yearn20moonfinance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.02,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x16bE21C08EB27953273608629e4397556c561D26/logo.png"
+}

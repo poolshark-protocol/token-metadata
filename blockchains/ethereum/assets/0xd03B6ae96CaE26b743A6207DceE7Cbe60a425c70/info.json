@@ -1,0 +1,11 @@
+{
+    "name": "unibot.cash",
+    "symbol": "UNDB",
+    "id": "0xd03B6ae96CaE26b743A6207DceE7Cbe60a425c70",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unibot-cash",
+    "market_cap_rank": 3019,
+    "24_hr_volume_usd": 632.41,
+    "public_notice": "Previously known as Unitbot.Cash and website has changed from https://unibot.cash/ to http://unidexbot.com/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd03B6ae96CaE26b743A6207DceE7Cbe60a425c70/logo.png"
+}

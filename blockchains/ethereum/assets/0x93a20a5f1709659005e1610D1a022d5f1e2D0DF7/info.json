@@ -1,0 +1,10 @@
+{
+    "name": "My Shiba Academia",
+    "symbol": "MSA",
+    "id": "0x93a20a5f1709659005e1610D1a022d5f1e2D0DF7",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/my-shiba-academia",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 63.5,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93a20a5f1709659005e1610D1a022d5f1e2D0DF7/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ShitCoin",
+    "symbol": "SHIT",
+    "id": "0xaa7FB1c8cE6F18d4fD4Aabb61A2193d4D441c54F",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shitcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 50.03,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaa7FB1c8cE6F18d4fD4Aabb61A2193d4D441c54F/logo.png"
+}

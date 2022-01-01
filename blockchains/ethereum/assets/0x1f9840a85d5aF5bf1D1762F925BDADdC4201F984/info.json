@@ -1,0 +1,10 @@
+{
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "id": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/uniswap",
+    "market_cap_rank": 26,
+    "24_hr_volume_usd": 328246161,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+}

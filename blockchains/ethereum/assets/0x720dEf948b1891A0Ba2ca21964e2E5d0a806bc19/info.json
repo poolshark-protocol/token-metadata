@@ -1,0 +1,10 @@
+{
+    "name": "Carbon Coin",
+    "symbol": "CXRBN",
+    "id": "0x720dEf948b1891A0Ba2ca21964e2E5d0a806bc19",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cxrbn-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 44403,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x720dEf948b1891A0Ba2ca21964e2E5d0a806bc19/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "BSI Token",
+    "symbol": "BSI",
+    "id": "0xEB50455805ebF8396d9177BBC4A371A376D00ECC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bali-social-integrated",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.86,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEB50455805ebF8396d9177BBC4A371A376D00ECC/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Compound Wrapped BTC",
+    "symbol": "cWBTC",
+    "id": "0xccF4429DB6322D5C611ee964527D42E5d685DD6a",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/compound-wrapped-btc",
+    "market_cap_rank": 1353,
+    "24_hr_volume_usd": 1636353,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xccF4429DB6322D5C611ee964527D42E5d685DD6a/logo.png"
+}

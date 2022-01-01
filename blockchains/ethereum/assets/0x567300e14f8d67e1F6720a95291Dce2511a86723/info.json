@@ -1,0 +1,10 @@
+{
+    "name": "Helper Search Token",
+    "symbol": "HSN",
+    "id": "0x567300e14f8d67e1F6720a95291Dce2511a86723",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/helper-search-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 841.14,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x567300e14f8d67e1F6720a95291Dce2511a86723/logo.png"
+}

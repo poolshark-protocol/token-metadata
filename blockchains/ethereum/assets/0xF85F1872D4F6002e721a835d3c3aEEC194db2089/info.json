@@ -1,0 +1,10 @@
+{
+    "name": "Degen Ape Club",
+    "symbol": "DAC",
+    "id": "0xF85F1872D4F6002e721a835d3c3aEEC194db2089",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/degen-ape-club",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2691.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF85F1872D4F6002e721a835d3c3aEEC194db2089/logo.png"
+}

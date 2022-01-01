@@ -1,0 +1,10 @@
+{
+    "name": "Big Brain Capital DAO",
+    "symbol": "BBC DAO",
+    "id": "0x270719e21852E0E817C4663cc9F1567441D6eAaC",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/big-brain-capital-dao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 847.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x270719e21852E0E817C4663cc9F1567441D6eAaC/logo.png"
+}

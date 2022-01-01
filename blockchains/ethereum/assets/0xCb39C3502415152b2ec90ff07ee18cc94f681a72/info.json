@@ -1,0 +1,10 @@
+{
+    "name": "storeum",
+    "symbol": "STO",
+    "id": "0xCb39C3502415152b2ec90ff07ee18cc94f681a72",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/storeum",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8.547e-05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCb39C3502415152b2ec90ff07ee18cc94f681a72/logo.png"
+}

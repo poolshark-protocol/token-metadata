@@ -1,0 +1,10 @@
+{
+    "name": "NFT Platform Index",
+    "symbol": "NFTP",
+    "id": "0x68bB81B3F67f7AAb5fd1390ECB0B8e1a806F2465",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nft-platform-index",
+    "market_cap_rank": 2091,
+    "24_hr_volume_usd": 594.25,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68bB81B3F67f7AAb5fd1390ECB0B8e1a806F2465/logo.png"
+}

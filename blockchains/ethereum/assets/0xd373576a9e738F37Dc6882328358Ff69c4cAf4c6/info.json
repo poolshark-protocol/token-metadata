@@ -1,0 +1,10 @@
+{
+    "name": "Zamzam",
+    "symbol": "ZAM",
+    "id": "0xd373576a9e738F37Dc6882328358Ff69c4cAf4c6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zam-io",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 171831,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd373576a9e738F37Dc6882328358Ff69c4cAf4c6/logo.png"
+}

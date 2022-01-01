@@ -1,0 +1,10 @@
+{
+    "name": "The Tokenized Bitcoin",
+    "symbol": "imBTC",
+    "id": "0x3212b29E33587A00FB1C83346f5dBFA69A458923",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-tokenized-bitcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18602.82,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3212b29E33587A00FB1C83346f5dBFA69A458923/logo.png"
+}

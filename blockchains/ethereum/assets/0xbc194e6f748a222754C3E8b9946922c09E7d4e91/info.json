@@ -1,0 +1,10 @@
+{
+    "name": "Lever Token",
+    "symbol": "LEV",
+    "id": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lever-network",
+    "market_cap_rank": 2437,
+    "24_hr_volume_usd": 8301.68,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbc194e6f748a222754C3E8b9946922c09E7d4e91/logo.png"
+}

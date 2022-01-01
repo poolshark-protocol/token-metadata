@@ -1,0 +1,10 @@
+{
+    "name": "LivenCoin",
+    "symbol": "LVN",
+    "id": "0xc8Cac7672f4669685817cF332a33Eb249F085475",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/livenpay",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1219.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc8Cac7672f4669685817cF332a33Eb249F085475/logo.png"
+}

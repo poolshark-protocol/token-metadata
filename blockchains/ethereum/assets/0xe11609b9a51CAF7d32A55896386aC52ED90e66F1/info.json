@@ -1,0 +1,10 @@
+{
+    "name": "COMIKETCOIN",
+    "symbol": "CMIT",
+    "id": "0xe11609b9a51CAF7d32A55896386aC52ED90e66F1",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cmitcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.06,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe11609b9a51CAF7d32A55896386aC52ED90e66F1/logo.png"
+}

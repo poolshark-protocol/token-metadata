@@ -1,0 +1,10 @@
+{
+    "name": "Kirby Reloaded",
+    "symbol": "$KIRBYRELOADED",
+    "id": "0xa6368D7DF5731EAE98cCC7E4e1Bf458BB0855E9d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kirby-reloaded",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa6368D7DF5731EAE98cCC7E4e1Bf458BB0855E9d/logo.png"
+}

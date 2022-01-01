@@ -1,0 +1,10 @@
+{
+    "name": "Lift.Kitchen ETH",
+    "symbol": "LFETH",
+    "id": "0xE09B10EFA59F6E17052E9A2D947bAd6214E7CC90",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lift-kitchen-eth",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE09B10EFA59F6E17052E9A2D947bAd6214E7CC90/logo.png"
+}

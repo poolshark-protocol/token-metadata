@@ -1,0 +1,10 @@
+{
+    "name": "BitRabbit Exchange",
+    "symbol": "BRB",
+    "id": "0x61D24Aabb3e5E800D8f3d3D43dcBD66AE6caB51E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rabbit-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8.96e-06,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x61D24Aabb3e5E800D8f3d3D43dcBD66AE6caB51E/logo.png"
+}

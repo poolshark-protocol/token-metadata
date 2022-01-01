@@ -1,0 +1,10 @@
+{
+    "name": "WholeEarthCoin",
+    "symbol": "WEC",
+    "id": "0xcC1a8BD438BebC4b2a885a34475BB974f2124317",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/whole-earth-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 122.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcC1a8BD438BebC4b2a885a34475BB974f2124317/logo.png"
+}

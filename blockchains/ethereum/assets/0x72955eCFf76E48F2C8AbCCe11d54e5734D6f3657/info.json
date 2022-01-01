@@ -1,0 +1,10 @@
+{
+    "name": "TrustVerse",
+    "symbol": "TRV",
+    "id": "0x72955eCFf76E48F2C8AbCCe11d54e5734D6f3657",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/trustverse",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 288892,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72955eCFf76E48F2C8AbCCe11d54e5734D6f3657/logo.png"
+}

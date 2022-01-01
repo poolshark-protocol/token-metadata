@@ -1,0 +1,10 @@
+{
+    "name": "CHAINSQUARE",
+    "symbol": "CHS",
+    "id": "0xb41380174d0B06181513A5677b60200b93b5Efb4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chainsquare",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 29192,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb41380174d0B06181513A5677b60200b93b5Efb4/logo.png"
+}

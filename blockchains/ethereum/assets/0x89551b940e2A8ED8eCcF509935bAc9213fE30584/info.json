@@ -1,0 +1,10 @@
+{
+    "name": "DoDreamChain",
+    "symbol": "DRM",
+    "id": "0x89551b940e2A8ED8eCcF509935bAc9213fE30584",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dodreamchain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 322996,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x89551b940e2A8ED8eCcF509935bAc9213fE30584/logo.png"
+}

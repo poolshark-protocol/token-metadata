@@ -1,0 +1,10 @@
+{
+    "name": "Agrolot Token",
+    "symbol": "AGLT",
+    "id": "0x72c9Fb7ED19D3ce51cea5C56B3e023cd918baaDf",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/agrolot",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72c9Fb7ED19D3ce51cea5C56B3e023cd918baaDf/logo.png"
+}

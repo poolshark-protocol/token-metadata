@@ -1,0 +1,11 @@
+{
+    "name": "Yield",
+    "symbol": "YLD",
+    "id": "0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yield",
+    "market_cap_rank": 2547,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "Yield has rebranded to Kanpeki. Read more at: https://kanpeki.medium.com/we-are-now-ahem-kanpeki-c6b163de71ba",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDcB01cc464238396E213a6fDd933E36796eAfF9f/logo.png"
+}

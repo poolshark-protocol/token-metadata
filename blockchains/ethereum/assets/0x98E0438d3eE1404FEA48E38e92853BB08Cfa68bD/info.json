@@ -1,0 +1,11 @@
+{
+    "name": "TVT",
+    "symbol": "TVT",
+    "id": "0x98E0438d3eE1404FEA48E38e92853BB08Cfa68bD",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tvt",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.57,
+    "public_notice": "We have received reports that Yobit and STEX may be working on different contracts for TVT. Kindly perform your due diligence prior to transacting between exchanges.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x98E0438d3eE1404FEA48E38e92853BB08Cfa68bD/logo.png"
+}

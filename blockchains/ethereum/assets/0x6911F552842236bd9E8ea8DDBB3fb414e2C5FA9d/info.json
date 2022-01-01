@@ -1,0 +1,10 @@
+{
+    "name": "Synapse Network",
+    "symbol": "SNP",
+    "id": "0x6911F552842236bd9E8ea8DDBB3fb414e2C5FA9d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/synapse-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 96007,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6911F552842236bd9E8ea8DDBB3fb414e2C5FA9d/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Nemesis",
+    "symbol": "NMS",
+    "id": "0x77252494C25444F8598A0c74Ffc90ADc535291a9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nemesis",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3156.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77252494C25444F8598A0c74Ffc90ADc535291a9/logo.png"
+}

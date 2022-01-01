@@ -1,0 +1,10 @@
+{
+    "name": "xToken",
+    "symbol": "XTK",
+    "id": "0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xtoken",
+    "market_cap_rank": 1394,
+    "24_hr_volume_usd": 75360,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7F3EDcdD180Dbe4819Bd98FeE8929b5cEdB3AdEB/logo.png"
+}

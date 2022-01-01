@@ -1,0 +1,10 @@
+{
+    "name": "Voxel X Network",
+    "symbol": "VXL",
+    "id": "0x16CC8367055aE7e9157DBcB9d86Fd6CE82522b31",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/voxel-x-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 467197,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x16CC8367055aE7e9157DBcB9d86Fd6CE82522b31/logo.png"
+}

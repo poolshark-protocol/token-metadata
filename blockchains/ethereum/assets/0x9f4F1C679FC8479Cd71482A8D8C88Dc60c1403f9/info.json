@@ -1,0 +1,10 @@
+{
+    "name": "DoubleAce Token",
+    "symbol": "DAA",
+    "id": "0x9f4F1C679FC8479Cd71482A8D8C88Dc60c1403f9",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/double-ace",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 93073,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9f4F1C679FC8479Cd71482A8D8C88Dc60c1403f9/logo.png"
+}

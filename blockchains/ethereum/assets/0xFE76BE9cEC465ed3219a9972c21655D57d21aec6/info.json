@@ -1,0 +1,10 @@
+{
+    "name": "PalletOneToken",
+    "symbol": "PTN",
+    "id": "0xFE76BE9cEC465ed3219a9972c21655D57d21aec6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/palletone",
+    "market_cap_rank": 2449,
+    "24_hr_volume_usd": 5.2,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFE76BE9cEC465ed3219a9972c21655D57d21aec6/logo.png"
+}

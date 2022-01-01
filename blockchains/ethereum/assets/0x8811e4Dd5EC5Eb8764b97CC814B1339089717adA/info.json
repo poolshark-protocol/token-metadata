@@ -1,0 +1,10 @@
+{
+    "name": "BITHACHI",
+    "symbol": "BITH",
+    "id": "0x8811e4Dd5EC5Eb8764b97CC814B1339089717adA",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bithachi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0033247,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8811e4Dd5EC5Eb8764b97CC814B1339089717adA/logo.png"
+}

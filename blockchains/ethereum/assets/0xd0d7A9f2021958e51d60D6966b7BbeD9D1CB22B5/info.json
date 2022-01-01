@@ -1,0 +1,10 @@
+{
+    "name": "ENEX.SPACE",
+    "symbol": "ENX",
+    "id": "0xd0d7A9f2021958e51d60D6966b7BbeD9D1CB22B5",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/enex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1626.56,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd0d7A9f2021958e51d60D6966b7BbeD9D1CB22B5/logo.png"
+}

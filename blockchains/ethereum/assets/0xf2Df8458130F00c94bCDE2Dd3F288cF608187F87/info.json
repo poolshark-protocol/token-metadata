@@ -1,0 +1,10 @@
+{
+    "name": "FEAST.finance",
+    "symbol": "FEAST",
+    "id": "0xf2Df8458130F00c94bCDE2Dd3F288cF608187F87",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/feast-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf2Df8458130F00c94bCDE2Dd3F288cF608187F87/logo.png"
+}

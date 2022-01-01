@@ -1,0 +1,10 @@
+{
+    "name": "Whis Inu",
+    "symbol": "WHIS",
+    "id": "0x95F95388d97002AF8F5a5E4c2f308d91ee1914eC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/whis-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95F95388d97002AF8F5a5E4c2f308d91ee1914eC/logo.png"
+}

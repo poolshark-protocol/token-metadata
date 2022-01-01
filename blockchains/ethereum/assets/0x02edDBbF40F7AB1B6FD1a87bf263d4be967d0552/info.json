@@ -1,0 +1,10 @@
+{
+    "name": "Cats Claw",
+    "symbol": "CLAW",
+    "id": "0x02edDBbF40F7AB1B6FD1a87bf263d4be967d0552",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cats-claw",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13.89,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x02edDBbF40F7AB1B6FD1a87bf263d4be967d0552/logo.png"
+}

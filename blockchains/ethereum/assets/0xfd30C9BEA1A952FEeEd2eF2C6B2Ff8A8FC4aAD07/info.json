@@ -1,0 +1,10 @@
+{
+    "name": "Polkally",
+    "symbol": "KALLY",
+    "id": "0xfd30C9BEA1A952FEeEd2eF2C6B2Ff8A8FC4aAD07",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polkally",
+    "market_cap_rank": 2114,
+    "24_hr_volume_usd": 467263,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfd30C9BEA1A952FEeEd2eF2C6B2Ff8A8FC4aAD07/logo.png"
+}

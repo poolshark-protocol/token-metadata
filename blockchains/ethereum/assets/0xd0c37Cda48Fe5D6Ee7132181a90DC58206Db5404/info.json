@@ -1,0 +1,11 @@
+{
+    "name": "INKz",
+    "symbol": "INKZ",
+    "id": "0xd0c37Cda48Fe5D6Ee7132181a90DC58206Db5404",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/inkz",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 894.93,
+    "public_notice": "INKz has migrated from the <a href=\"https://etherscan.io/token/0xcd7Ce5d63F7DC7b1076f64E6C1DD7cCfa31228c7\">old contract</a> to a <a href=\"https://etherscan.io/token/0xd0c37cda48fe5d6ee7132181a90dc58206db5404\">new one</a>. Find out more in\u00a0their <a href=\"https://discord.com/channels/865310133264711690/865310133264711695/923772130867425371\">Discord</a> channel.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd0c37Cda48Fe5D6Ee7132181a90DC58206Db5404/logo.png"
+}

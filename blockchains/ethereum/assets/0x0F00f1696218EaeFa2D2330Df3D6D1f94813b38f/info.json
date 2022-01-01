@@ -1,0 +1,10 @@
+{
+    "name": "SEDO PoW Token",
+    "symbol": "SEDO",
+    "id": "0x0F00f1696218EaeFa2D2330Df3D6D1f94813b38f",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sedo-pow-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 32.68,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0F00f1696218EaeFa2D2330Df3D6D1f94813b38f/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "NFT STARS COIN",
+    "symbol": "NFTS",
+    "id": "0x08037036451C768465369431Da5C671ad9B37dBc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nft-stars",
+    "market_cap_rank": 2335,
+    "24_hr_volume_usd": 147377,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x08037036451C768465369431Da5C671ad9B37dBc/logo.png"
+}

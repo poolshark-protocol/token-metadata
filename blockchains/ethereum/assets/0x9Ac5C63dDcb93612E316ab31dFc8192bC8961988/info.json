@@ -1,0 +1,10 @@
+{
+    "name": "Adora",
+    "symbol": "ARA",
+    "id": "0x9Ac5C63dDcb93612E316ab31dFc8192bC8961988",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/adora-token",
+    "market_cap_rank": 1556,
+    "24_hr_volume_usd": 145274,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9Ac5C63dDcb93612E316ab31dFc8192bC8961988/logo.png"
+}

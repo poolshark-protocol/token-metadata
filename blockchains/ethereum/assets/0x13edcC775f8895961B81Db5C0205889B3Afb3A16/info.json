@@ -1,0 +1,10 @@
+{
+    "name": "Ringers",
+    "symbol": "RINGER",
+    "id": "0x13edcC775f8895961B81Db5C0205889B3Afb3A16",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ringer-vault-nftx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x13edcC775f8895961B81Db5C0205889B3Afb3A16/logo.png"
+}

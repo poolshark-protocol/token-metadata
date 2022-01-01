@@ -1,0 +1,10 @@
+{
+    "name": "ArGo Token",
+    "symbol": "ARGO",
+    "id": "0x28Cca76f6e8eC81e4550ecd761f899110b060E97",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/argo",
+    "market_cap_rank": 1808,
+    "24_hr_volume_usd": 8134.14,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x28Cca76f6e8eC81e4550ecd761f899110b060E97/logo.png"
+}

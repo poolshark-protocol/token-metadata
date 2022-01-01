@@ -1,0 +1,11 @@
+{
+    "name": "MonfterToken",
+    "symbol": "MON",
+    "id": "0xcaCc19C5Ca77E06D6578dEcaC80408Cc036e0499",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/monfter",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3416.43,
+    "public_notice": "QunQun is undergoing rebranding and 1:1 migration to Monfter. For more information, visit https://qunqun.io/.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcaCc19C5Ca77E06D6578dEcaC80408Cc036e0499/logo.png"
+}

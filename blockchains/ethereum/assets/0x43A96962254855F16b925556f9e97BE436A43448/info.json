@@ -1,0 +1,10 @@
+{
+    "name": "HORD Token",
+    "symbol": "HORD",
+    "id": "0x43A96962254855F16b925556f9e97BE436A43448",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hord",
+    "market_cap_rank": 1270,
+    "24_hr_volume_usd": 218183,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x43A96962254855F16b925556f9e97BE436A43448/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ETHBTC 2x Long",
+    "symbol": "RATIOMOON",
+    "id": "0xe2D8F9557fD46AD134C8fb5Eabf6f4DA3E0d3f68",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethbtc-2x-long-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe2D8F9557fD46AD134C8fb5Eabf6f4DA3E0d3f68/logo.png"
+}

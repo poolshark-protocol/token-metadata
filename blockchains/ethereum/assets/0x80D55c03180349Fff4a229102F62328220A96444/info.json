@@ -1,0 +1,10 @@
+{
+    "name": "OpulousToken",
+    "symbol": "OPUL",
+    "id": "0x80D55c03180349Fff4a229102F62328220A96444",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/opulous",
+    "market_cap_rank": 543,
+    "24_hr_volume_usd": 1471373,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x80D55c03180349Fff4a229102F62328220A96444/logo.png"
+}

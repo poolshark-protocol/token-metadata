@@ -1,0 +1,10 @@
+{
+    "name": "Synth sBTC",
+    "symbol": "sBTC",
+    "id": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sbtc",
+    "market_cap_rank": 320,
+    "24_hr_volume_usd": 344.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6/logo.png"
+}

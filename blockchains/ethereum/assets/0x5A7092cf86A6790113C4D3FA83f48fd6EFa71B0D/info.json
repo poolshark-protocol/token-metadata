@@ -1,0 +1,11 @@
+{
+    "name": "AUTZ Token",
+    "symbol": "AUTZ",
+    "id": "0x5A7092cf86A6790113C4D3FA83f48fd6EFa71B0D",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/autz-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "AUTZ is conducting token migration, for more information, please read: https://t.me/Autz_official/25835",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5A7092cf86A6790113C4D3FA83f48fd6EFa71B0D/logo.png"
+}

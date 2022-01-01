@@ -1,0 +1,10 @@
+{
+    "name": "ShibRWD",
+    "symbol": "SRWD",
+    "id": "0xA518c9f3724cCED4715e6813858DC2cE9B21eD78",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shibrwd",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 221098,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA518c9f3724cCED4715e6813858DC2cE9B21eD78/logo.png"
+}

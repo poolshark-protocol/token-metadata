@@ -1,0 +1,10 @@
+{
+    "name": "YFX",
+    "symbol": "YFX",
+    "id": "0xF55a93b613D172b86c2Ba3981a849DaE2aeCDE2f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 22748,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF55a93b613D172b86c2Ba3981a849DaE2aeCDE2f/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "ESG CHAIN",
+    "symbol": "ESGC",
+    "id": "0xe857734840dc188B4283d5aF14aB8685467aB87D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/esg-chain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 761600,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe857734840dc188B4283d5aF14aB8685467aB87D/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "structure.finance token",
+    "symbol": "STF",
+    "id": "0x1F4cb968b76931C494Ff92ED80CCB169ad641cb1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/structure-finance",
+    "market_cap_rank": 1990,
+    "24_hr_volume_usd": 67897,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1F4cb968b76931C494Ff92ED80CCB169ad641cb1/logo.png"
+}

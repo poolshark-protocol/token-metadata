@@ -1,0 +1,10 @@
+{
+    "name": "stakedZEN",
+    "symbol": "stZEN",
+    "id": "0x31B595e7cfDB624D10A3E7A562eD98c3567e3865",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stakedzen",
+    "market_cap_rank": 3067,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31B595e7cfDB624D10A3E7A562eD98c3567e3865/logo.png"
+}

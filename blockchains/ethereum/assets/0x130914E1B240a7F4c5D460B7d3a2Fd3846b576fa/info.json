@@ -1,0 +1,10 @@
+{
+    "name": "Aureus Nummus Gold",
+    "symbol": "ANG",
+    "id": "0x130914E1B240a7F4c5D460B7d3a2Fd3846b576fa",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aureus-nummus-gold",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3338.17,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x130914E1B240a7F4c5D460B7d3a2Fd3846b576fa/logo.png"
+}

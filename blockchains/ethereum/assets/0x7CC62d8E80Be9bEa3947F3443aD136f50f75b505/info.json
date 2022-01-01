@@ -1,0 +1,10 @@
+{
+    "name": "Knekted",
+    "symbol": "KNT",
+    "id": "0x7CC62d8E80Be9bEa3947F3443aD136f50f75b505",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/knekted",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.084395,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7CC62d8E80Be9bEa3947F3443aD136f50f75b505/logo.png"
+}

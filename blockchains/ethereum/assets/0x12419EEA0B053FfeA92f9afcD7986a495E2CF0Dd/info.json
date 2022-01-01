@@ -1,0 +1,10 @@
+{
+    "name": "The Nifty ONEz",
+    "symbol": "ONEZ",
+    "id": "0x12419EEA0B053FfeA92f9afcD7986a495E2CF0Dd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-nifty-onez",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4780.67,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x12419EEA0B053FfeA92f9afcD7986a495E2CF0Dd/logo.png"
+}

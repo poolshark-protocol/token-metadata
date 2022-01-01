@@ -1,0 +1,10 @@
+{
+    "name": "yffii.finance",
+    "symbol": "YFFII",
+    "id": "0x6c4B85CaB20c13aF72766025F0e17E0fe558A553",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yffii-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3107.31,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6c4B85CaB20c13aF72766025F0e17E0fe558A553/logo.png"
+}

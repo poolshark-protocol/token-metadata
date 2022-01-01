@@ -1,0 +1,10 @@
+{
+    "name": "Radio Caca V2",
+    "symbol": "RACA",
+    "id": "0x12BB890508c125661E03b09EC06E404bc9289040",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/radio-caca",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 37332182,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x12BB890508c125661E03b09EC06E404bc9289040/logo.png"
+}

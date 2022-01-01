@@ -1,0 +1,10 @@
+{
+    "name": "RugRelief",
+    "symbol": "RR",
+    "id": "0x20D7089110c29498D17137F5D9656055105041D1",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rug-relief",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x20D7089110c29498D17137F5D9656055105041D1/logo.png"
+}

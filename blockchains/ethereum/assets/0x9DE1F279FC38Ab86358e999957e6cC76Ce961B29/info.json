@@ -1,0 +1,10 @@
+{
+    "name": "Mewn Inu",
+    "symbol": "MEWN",
+    "id": "0x9DE1F279FC38Ab86358e999957e6cC76Ce961B29",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mewn-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 17240.32,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9DE1F279FC38Ab86358e999957e6cC76Ce961B29/logo.png"
+}

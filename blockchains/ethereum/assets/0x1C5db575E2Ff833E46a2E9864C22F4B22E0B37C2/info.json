@@ -1,0 +1,10 @@
+{
+    "name": "renZEC",
+    "symbol": "renZEC",
+    "id": "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/renzec",
+    "market_cap_rank": 3508,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Cycle Punk",
+    "symbol": "BIKE",
+    "id": "0xF0607300cb81B1bFdB55768D7386863a759a4E06",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cycle-punk",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1915.94,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF0607300cb81B1bFdB55768D7386863a759a4E06/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "YoloCash",
+    "symbol": "YLC",
+    "id": "0x21d5678A62DFe63a47062469Ebb2fAc2817D8832",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yolo-cash",
+    "market_cap_rank": 3361,
+    "24_hr_volume_usd": 58645,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x21d5678A62DFe63a47062469Ebb2fAc2817D8832/logo.png"
+}

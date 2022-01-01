@@ -1,0 +1,10 @@
+{
+    "name": "DeFine Art",
+    "symbol": "DFA",
+    "id": "0x62959c699A52eC647622c91e79CE73344e4099f5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/define",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4796378,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x62959c699A52eC647622c91e79CE73344e4099f5/logo.png"
+}

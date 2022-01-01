@@ -1,0 +1,10 @@
+{
+    "name": "Symmetric",
+    "symbol": "SYMM",
+    "id": "0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/symmetric",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 211.17,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
+}

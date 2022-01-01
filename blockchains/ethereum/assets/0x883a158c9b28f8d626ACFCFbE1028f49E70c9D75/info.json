@@ -1,0 +1,10 @@
+{
+    "name": "CNG Casino",
+    "symbol": "CNG",
+    "id": "0x883a158c9b28f8d626ACFCFbE1028f49E70c9D75",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cng-casino",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x883a158c9b28f8d626ACFCFbE1028f49E70c9D75/logo.png"
+}

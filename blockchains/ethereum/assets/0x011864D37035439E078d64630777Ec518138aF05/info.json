@@ -1,0 +1,10 @@
+{
+    "name": "Zerogoki Token",
+    "symbol": "REI",
+    "id": "0x011864D37035439E078d64630777Ec518138aF05",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zerogoki",
+    "market_cap_rank": 2730,
+    "24_hr_volume_usd": 41.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x011864D37035439E078d64630777Ec518138aF05/logo.png"
+}

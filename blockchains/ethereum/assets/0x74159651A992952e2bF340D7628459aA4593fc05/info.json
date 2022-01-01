@@ -1,0 +1,10 @@
+{
+    "name": "Tenet",
+    "symbol": "TEN",
+    "id": "0x74159651A992952e2bF340D7628459aA4593fc05",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tenet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 146676,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x74159651A992952e2bF340D7628459aA4593fc05/logo.png"
+}

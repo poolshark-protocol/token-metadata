@@ -1,0 +1,10 @@
+{
+    "name": "INTEXCOIN",
+    "symbol": "INTX",
+    "id": "0x7533D63A2558965472398Ef473908e1320520AE2",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/intexcoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 143.18,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7533D63A2558965472398Ef473908e1320520AE2/logo.png"
+}

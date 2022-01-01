@@ -1,0 +1,10 @@
+{
+    "name": "DeepCloud",
+    "symbol": "DEEP",
+    "id": "0x6CbEDEc4F1ac9D874987D2769596544E0d9161ab",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/deepcloud-ai",
+    "market_cap_rank": 3091,
+    "24_hr_volume_usd": 42.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6CbEDEc4F1ac9D874987D2769596544E0d9161ab/logo.png"
+}

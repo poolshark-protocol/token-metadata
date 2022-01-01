@@ -1,0 +1,10 @@
+{
+    "name": "SocialFinance",
+    "symbol": "SOFI",
+    "id": "0xAEA5E11E22E447fA9837738A0cd2848857748ADF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/social-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 482736,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAEA5E11E22E447fA9837738A0cd2848857748ADF/logo.png"
+}

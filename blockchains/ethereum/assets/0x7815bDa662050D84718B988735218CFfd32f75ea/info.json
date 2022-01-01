@@ -1,0 +1,10 @@
+{
+    "name": "YEL Token",
+    "symbol": "YEL",
+    "id": "0x7815bDa662050D84718B988735218CFfd32f75ea",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yel-finance",
+    "market_cap_rank": 1300,
+    "24_hr_volume_usd": 267730,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7815bDa662050D84718B988735218CFfd32f75ea/logo.png"
+}

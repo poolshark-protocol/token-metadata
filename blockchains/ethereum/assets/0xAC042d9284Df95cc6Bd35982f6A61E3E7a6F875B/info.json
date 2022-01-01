@@ -1,0 +1,10 @@
+{
+    "name": "Lobby",
+    "symbol": "LBY",
+    "id": "0xAC042d9284Df95cc6Bd35982f6A61E3E7a6F875B",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lobby",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 183951,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAC042d9284Df95cc6Bd35982f6A61E3E7a6F875B/logo.png"
+}

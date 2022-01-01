@@ -1,0 +1,10 @@
+{
+    "name": "1-UP",
+    "symbol": "1-UP",
+    "id": "0xC86817249634ac209bc73fCa1712bBd75E37407d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/1-up",
+    "market_cap_rank": 1426,
+    "24_hr_volume_usd": 159002,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC86817249634ac209bc73fCa1712bBd75E37407d/logo.png"
+}

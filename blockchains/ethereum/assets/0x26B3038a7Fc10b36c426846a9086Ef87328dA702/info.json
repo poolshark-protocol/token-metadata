@@ -1,0 +1,11 @@
+{
+    "name": "Yield Farming Token",
+    "symbol": "YFT",
+    "id": "0x26B3038a7Fc10b36c426846a9086Ef87328dA702",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yield-farming-token",
+    "market_cap_rank": 3311,
+    "24_hr_volume_usd": 1841.62,
+    "public_notice": "Warning: This coin has not been fully audited yet. This is yet another fork of Yearn.finance (YFI). For the original YFI, please visit https://www.coingecko.com/en/coins/yearn-finance",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26B3038a7Fc10b36c426846a9086Ef87328dA702/logo.png"
+}

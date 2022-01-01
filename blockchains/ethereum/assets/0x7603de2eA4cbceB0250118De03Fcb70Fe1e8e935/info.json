@@ -1,0 +1,10 @@
+{
+    "name": "AMC FIGHT NIGHT",
+    "symbol": "AMC",
+    "id": "0x7603de2eA4cbceB0250118De03Fcb70Fe1e8e935",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/amc-fight-night",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 111592,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7603de2eA4cbceB0250118De03Fcb70Fe1e8e935/logo.png"
+}

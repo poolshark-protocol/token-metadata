@@ -1,0 +1,10 @@
+{
+    "name": "Arowana Token",
+    "symbol": "ARW",
+    "id": "0x351cAa9045D65107b9d311D922D15887cfd634E4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arowana-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1942176,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x351cAa9045D65107b9d311D922D15887cfd634E4/logo.png"
+}

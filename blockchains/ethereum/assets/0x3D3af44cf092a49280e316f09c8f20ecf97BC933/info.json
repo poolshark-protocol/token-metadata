@@ -1,0 +1,10 @@
+{
+    "name": "U Token",
+    "symbol": "UCX",
+    "id": "0x3D3af44cf092a49280e316f09c8f20ecf97BC933",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ucx",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 63497,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3D3af44cf092a49280e316f09c8f20ecf97BC933/logo.png"
+}

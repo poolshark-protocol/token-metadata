@@ -1,0 +1,10 @@
+{
+    "name": "SAP Token",
+    "symbol": "SAP",
+    "id": "0xF6Ed276a69270A895d6E419D99dcB5AAA2f3Cb4A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/swapall",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 67887,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF6Ed276a69270A895d6E419D99dcB5AAA2f3Cb4A/logo.png"
+}

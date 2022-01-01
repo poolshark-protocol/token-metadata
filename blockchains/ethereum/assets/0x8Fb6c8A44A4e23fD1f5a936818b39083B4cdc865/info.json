@@ -1,0 +1,10 @@
+{
+    "name": "BitOnyx Token",
+    "symbol": "BTNYX",
+    "id": "0x8Fb6c8A44A4e23fD1f5a936818b39083B4cdc865",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitonyx-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 647.79,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8Fb6c8A44A4e23fD1f5a936818b39083B4cdc865/logo.png"
+}

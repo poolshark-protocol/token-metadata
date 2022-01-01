@@ -1,0 +1,10 @@
+{
+    "name": "Bloom Token",
+    "symbol": "BLT",
+    "id": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bloom",
+    "market_cap_rank": 1629,
+    "24_hr_volume_usd": 2057.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e/logo.png"
+}

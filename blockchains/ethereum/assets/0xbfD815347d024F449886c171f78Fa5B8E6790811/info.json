@@ -1,0 +1,10 @@
+{
+    "name": "AMPnet APX Token",
+    "symbol": "AAPX",
+    "id": "0xbfD815347d024F449886c171f78Fa5B8E6790811",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ampnet",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1331.86,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbfD815347d024F449886c171f78Fa5B8E6790811/logo.png"
+}

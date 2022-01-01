@@ -1,0 +1,10 @@
+{
+    "name": "Katalyo Token",
+    "symbol": "KTLYO",
+    "id": "0x24E3794605C84E580EEA4972738D633E8a7127c8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/katalyo",
+    "market_cap_rank": 2180,
+    "24_hr_volume_usd": 9200.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x24E3794605C84E580EEA4972738D633E8a7127c8/logo.png"
+}

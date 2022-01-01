@@ -1,0 +1,10 @@
+{
+    "name": "Welltrado token",
+    "symbol": "WTL",
+    "id": "0x9a0587EaE7eF64b2B38A10442a44CfA43EDd7D2A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/welltrado",
+    "market_cap_rank": 3369,
+    "24_hr_volume_usd": 0.01342139,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9a0587EaE7eF64b2B38A10442a44CfA43EDd7D2A/logo.png"
+}

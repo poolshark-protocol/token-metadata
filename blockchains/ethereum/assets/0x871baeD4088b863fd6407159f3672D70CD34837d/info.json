@@ -1,0 +1,10 @@
+{
+    "name": " 3X Long Ethereum Token",
+    "symbol": "ETHBULL",
+    "id": "0x871baeD4088b863fd6407159f3672D70CD34837d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/3x-long-ethereum-token",
+    "market_cap_rank": 750,
+    "24_hr_volume_usd": 2231921,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x871baeD4088b863fd6407159f3672D70CD34837d/logo.png"
+}

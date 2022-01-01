@@ -1,0 +1,10 @@
+{
+    "name": "Menlo One",
+    "symbol": "ONE",
+    "id": "0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/menlo-one",
+    "market_cap_rank": 2303,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4D807509aECe24C0fa5A102b6a3B059Ec6E14392/logo.png"
+}

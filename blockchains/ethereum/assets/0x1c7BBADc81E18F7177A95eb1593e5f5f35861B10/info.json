@@ -1,0 +1,10 @@
+{
+    "name": "Auric Network",
+    "symbol": "AUSCM",
+    "id": "0x1c7BBADc81E18F7177A95eb1593e5f5f35861B10",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/auric-network",
+    "market_cap_rank": 2674,
+    "24_hr_volume_usd": 59105,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1c7BBADc81E18F7177A95eb1593e5f5f35861B10/logo.png"
+}

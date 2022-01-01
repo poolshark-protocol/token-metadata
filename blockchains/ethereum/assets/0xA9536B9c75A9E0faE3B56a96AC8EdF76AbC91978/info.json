@@ -1,0 +1,10 @@
+{
+    "name": "Amun DeFi Index",
+    "symbol": "DFI",
+    "id": "0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/amun-defi-index",
+    "market_cap_rank": 2834,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978/logo.png"
+}

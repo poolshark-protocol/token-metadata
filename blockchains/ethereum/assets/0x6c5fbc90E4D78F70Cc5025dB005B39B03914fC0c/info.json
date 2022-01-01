@@ -1,0 +1,10 @@
+{
+    "name": "Aurox Token",
+    "symbol": "URUS",
+    "id": "0x6c5fbc90E4D78F70Cc5025dB005B39B03914fC0c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/urus-token",
+    "market_cap_rank": 605,
+    "24_hr_volume_usd": 1794063,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6c5fbc90E4D78F70Cc5025dB005B39B03914fC0c/logo.png"
+}

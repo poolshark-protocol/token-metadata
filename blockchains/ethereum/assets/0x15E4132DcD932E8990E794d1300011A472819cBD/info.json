@@ -1,0 +1,10 @@
+{
+    "name": "GRPL",
+    "symbol": "GRPL",
+    "id": "0x15E4132DcD932E8990E794d1300011A472819cBD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/grpl-finance-2",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.27,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x15E4132DcD932E8990E794d1300011A472819cBD/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Yearn Finance Diamond Token",
+    "symbol": "YFDT",
+    "id": "0x1378eC93Ab2B07ba5A0eAEf19Cf354A33f64B9FD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yearn-finance-diamond-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 335.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1378eC93Ab2B07ba5A0eAEf19Cf354A33f64B9FD/logo.png"
+}

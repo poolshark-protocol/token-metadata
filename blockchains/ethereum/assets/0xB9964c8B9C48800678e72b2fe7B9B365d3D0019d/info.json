@@ -1,0 +1,10 @@
+{
+    "name": "Smartchem",
+    "symbol": "SMAC",
+    "id": "0xB9964c8B9C48800678e72b2fe7B9B365d3D0019d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/smartchem",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 71146,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB9964c8B9C48800678e72b2fe7B9B365d3D0019d/logo.png"
+}

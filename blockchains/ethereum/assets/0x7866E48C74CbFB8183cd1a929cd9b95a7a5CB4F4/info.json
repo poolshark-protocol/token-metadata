@@ -1,0 +1,10 @@
+{
+    "name": "DexKit",
+    "symbol": "KIT",
+    "id": "0x7866E48C74CbFB8183cd1a929cd9b95a7a5CB4F4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dexkit",
+    "market_cap_rank": 1772,
+    "24_hr_volume_usd": 7567.95,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7866E48C74CbFB8183cd1a929cd9b95a7a5CB4F4/logo.png"
+}

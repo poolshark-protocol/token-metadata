@@ -1,0 +1,10 @@
+{
+    "name": "Snoop Doge",
+    "symbol": "SNOGE",
+    "id": "0x072c46F392E729C1f0D92a307c2C6DBA06B5D078",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/snoop-doge",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 36.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x072c46F392E729C1f0D92a307c2C6DBA06B5D078/logo.png"
+}

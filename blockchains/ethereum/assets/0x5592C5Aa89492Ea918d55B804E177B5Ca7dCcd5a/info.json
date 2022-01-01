@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped xBTC",
+    "symbol": "wxBTC",
+    "id": "0x5592C5Aa89492Ea918d55B804E177B5Ca7dCcd5a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-xbtc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.73,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5592C5Aa89492Ea918d55B804E177B5Ca7dCcd5a/logo.png"
+}

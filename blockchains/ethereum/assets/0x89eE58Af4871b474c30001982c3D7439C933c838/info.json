@@ -1,0 +1,10 @@
+{
+    "name": "yfBETA",
+    "symbol": "YFBETA",
+    "id": "0x89eE58Af4871b474c30001982c3D7439C933c838",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfbeta",
+    "market_cap_rank": 3032,
+    "24_hr_volume_usd": 7052.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x89eE58Af4871b474c30001982c3D7439C933c838/logo.png"
+}

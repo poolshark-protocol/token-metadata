@@ -1,0 +1,10 @@
+{
+    "name": "Efinity Token",
+    "symbol": "EFI",
+    "id": "0x656C00e1BcD96f256F224AD9112FF426Ef053733",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/efinity",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8595911,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x656C00e1BcD96f256F224AD9112FF426Ef053733/logo.png"
+}

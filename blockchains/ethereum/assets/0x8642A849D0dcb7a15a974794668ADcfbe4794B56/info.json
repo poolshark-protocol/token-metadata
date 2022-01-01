@@ -1,0 +1,10 @@
+{
+    "name": "Prosper",
+    "symbol": "PROS",
+    "id": "0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/prosper",
+    "market_cap_rank": 1512,
+    "24_hr_volume_usd": 4808853,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8642A849D0dcb7a15a974794668ADcfbe4794B56/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "FRUITS",
+    "symbol": "FRTS",
+    "id": "0x229B239b7d00AA2A41C8B74B1dB50a821f58D31a",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fruits",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 708768,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x229B239b7d00AA2A41C8B74B1dB50a821f58D31a/logo.png"
+}

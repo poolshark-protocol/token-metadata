@@ -1,0 +1,10 @@
+{
+    "name": "Options.Market",
+    "symbol": "OSM",
+    "id": "0x9B75848172677042269C63365B57B0A51c21d031",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/options-market",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7895.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9B75848172677042269C63365B57B0A51c21d031/logo.png"
+}

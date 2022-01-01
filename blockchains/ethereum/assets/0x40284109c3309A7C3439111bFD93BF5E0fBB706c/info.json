@@ -1,0 +1,10 @@
+{
+    "name": "MOTIV Protocol",
+    "symbol": "MOV",
+    "id": "0x40284109c3309A7C3439111bFD93BF5E0fBB706c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/motiv-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 234.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x40284109c3309A7C3439111bFD93BF5E0fBB706c/logo.png"
+}

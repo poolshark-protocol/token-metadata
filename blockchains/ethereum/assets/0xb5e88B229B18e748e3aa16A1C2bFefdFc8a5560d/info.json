@@ -1,0 +1,10 @@
+{
+    "name": "Global DeFi",
+    "symbol": "GDEFI",
+    "id": "0xb5e88B229B18e748e3aa16A1C2bFefdFc8a5560d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/global-defi",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb5e88B229B18e748e3aa16A1C2bFefdFc8a5560d/logo.png"
+}

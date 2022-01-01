@@ -1,0 +1,11 @@
+{
+    "name": "pTokens WSB",
+    "symbol": "WSB",
+    "id": "0xe1590A6FA0CFf9C960181cb77d8a873601772f64",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wall-street-bets-dapp",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 642082,
+    "public_notice": "WSBDApp is affiliated with Jaime Rogozinski, founder of WallStreetBets  <a href=\"https://www.reddit.com/r/wallstreetbets/\">subreddit</a>, but not directly to the subreddit itself",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe1590A6FA0CFf9C960181cb77d8a873601772f64/logo.png"
+}

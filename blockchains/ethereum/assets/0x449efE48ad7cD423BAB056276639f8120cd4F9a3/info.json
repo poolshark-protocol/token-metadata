@@ -1,0 +1,10 @@
+{
+    "name": "LibreFreelencer",
+    "symbol": "LibreF",
+    "id": "0x449efE48ad7cD423BAB056276639f8120cd4F9a3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/librefreelencer",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.00046783,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x449efE48ad7cD423BAB056276639f8120cd4F9a3/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Synth sADA",
+    "symbol": "sADA",
+    "id": "0xe36E2D3c7c34281FA3bC737950a68571736880A1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sada",
+    "market_cap_rank": 2623,
+    "24_hr_volume_usd": 104908,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe36E2D3c7c34281FA3bC737950a68571736880A1/logo.png"
+}

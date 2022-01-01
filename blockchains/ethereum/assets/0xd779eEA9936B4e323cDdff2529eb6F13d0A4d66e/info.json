@@ -1,0 +1,10 @@
+{
+    "name": "ENTER Governance Token",
+    "symbol": "ENTR",
+    "id": "0xd779eEA9936B4e323cDdff2529eb6F13d0A4d66e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/enterdao",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 554368,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd779eEA9936B4e323cDdff2529eb6F13d0A4d66e/logo.png"
+}

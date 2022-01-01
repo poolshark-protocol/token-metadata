@@ -1,0 +1,10 @@
+{
+    "name": "TosDis",
+    "symbol": "DIS",
+    "id": "0x220B71671b649c03714dA9c621285943f3cbcDC6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tosdis",
+    "market_cap_rank": 2269,
+    "24_hr_volume_usd": 33655,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x220B71671b649c03714dA9c621285943f3cbcDC6/logo.png"
+}

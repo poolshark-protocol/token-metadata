@@ -1,0 +1,10 @@
+{
+    "name": "Ledgity",
+    "symbol": "LTY",
+    "id": "0x85Ffb35957203dfD12061eAeCD708dB623Bd567C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ledgity",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7181.67,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x85Ffb35957203dfD12061eAeCD708dB623Bd567C/logo.png"
+}

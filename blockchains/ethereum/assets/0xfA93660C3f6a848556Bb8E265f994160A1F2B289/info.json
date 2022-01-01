@@ -1,0 +1,10 @@
+{
+    "name": "Community Business Token",
+    "symbol": "CBT",
+    "id": "0xfA93660C3f6a848556Bb8E265f994160A1F2B289",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/community-business-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1022.79,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfA93660C3f6a848556Bb8E265f994160A1F2B289/logo.png"
+}

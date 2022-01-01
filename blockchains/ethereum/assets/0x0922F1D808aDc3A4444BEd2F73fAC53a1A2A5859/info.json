@@ -1,0 +1,10 @@
+{
+    "name": "ChronoBase",
+    "symbol": "TIK",
+    "id": "0x0922F1D808aDc3A4444BEd2F73fAC53a1A2A5859",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chronobase",
+    "market_cap_rank": 2726,
+    "24_hr_volume_usd": 8.66,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0922F1D808aDc3A4444BEd2F73fAC53a1A2A5859/logo.png"
+}

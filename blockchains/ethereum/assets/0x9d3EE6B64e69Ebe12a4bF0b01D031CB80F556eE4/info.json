@@ -1,0 +1,10 @@
+{
+    "name": "Wrapped PECO",
+    "symbol": "PECO",
+    "id": "0x9d3EE6B64e69Ebe12a4bF0b01D031CB80F556eE4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polygon-ecosystem-index",
+    "market_cap_rank": 2364,
+    "24_hr_volume_usd": 1286.3,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d3EE6B64e69Ebe12a4bF0b01D031CB80F556eE4/logo.png"
+}

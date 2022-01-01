@@ -1,0 +1,10 @@
+{
+    "name": "GGCOIN",
+    "symbol": "GGC",
+    "id": "0x7F969C4D388Ca0AE39A4FdDB1A6f89878CA2fBf8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gg-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 40375,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7F969C4D388Ca0AE39A4FdDB1A6f89878CA2fBf8/logo.png"
+}

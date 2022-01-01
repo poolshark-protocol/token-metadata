@@ -1,0 +1,10 @@
+{
+    "name": "SANA",
+    "symbol": "SANA",
+    "id": "0x87CDc02f0812f08Cd50F946793706fAD9c265e2d",
+    "decimals": 16,
+    "coingecko_url": "https://www.coingecko.com/en/coins/storage-area-network-anywhere",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 24696,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87CDc02f0812f08Cd50F946793706fAD9c265e2d/logo.png"
+}

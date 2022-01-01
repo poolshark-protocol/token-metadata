@@ -1,0 +1,10 @@
+{
+    "name": "DNFT Protocol",
+    "symbol": "DNF",
+    "id": "0x7c8911c69257c074593fD9EFDC431F200be27107",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dnft-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 187493,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7c8911c69257c074593fD9EFDC431F200be27107/logo.png"
+}

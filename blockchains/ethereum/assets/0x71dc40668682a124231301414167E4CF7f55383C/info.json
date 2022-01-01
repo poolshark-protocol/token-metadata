@@ -1,0 +1,10 @@
+{
+    "name": "Mimir Token",
+    "symbol": "MIMIR",
+    "id": "0x71dc40668682a124231301414167E4CF7f55383C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mimir-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 50302,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x71dc40668682a124231301414167E4CF7f55383C/logo.png"
+}

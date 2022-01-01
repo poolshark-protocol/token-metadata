@@ -1,0 +1,10 @@
+{
+    "name": "HOM Token",
+    "symbol": "HOMT",
+    "id": "0xeF7A985E4FF9B5DcCD6eDdF58577486887288711",
+    "decimals": 15,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hom-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 39.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeF7A985E4FF9B5DcCD6eDdF58577486887288711/logo.png"
+}

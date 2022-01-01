@@ -1,0 +1,10 @@
+{
+    "name": "Neumark",
+    "symbol": "NEU",
+    "id": "0xA823E6722006afe99E91c30FF5295052fe6b8E32",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/neumark",
+    "market_cap_rank": 1747,
+    "24_hr_volume_usd": 2047.63,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA823E6722006afe99E91c30FF5295052fe6b8E32/logo.png"
+}

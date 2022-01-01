@@ -1,0 +1,10 @@
+{
+    "name": "JoJo Inu",
+    "symbol": "JOJO",
+    "id": "0xe18024f4838962D61eb591982390DFfC762f2cD7",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jojo-inu",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10653.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe18024f4838962D61eb591982390DFfC762f2cD7/logo.png"
+}

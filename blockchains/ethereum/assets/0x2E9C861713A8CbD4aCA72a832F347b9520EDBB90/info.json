@@ -1,0 +1,10 @@
+{
+    "name": "Crypto Application Token",
+    "symbol": "CAPP",
+    "id": "0x2E9C861713A8CbD4aCA72a832F347b9520EDBB90",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crypto-application-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8645825,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2E9C861713A8CbD4aCA72a832F347b9520EDBB90/logo.png"
+}

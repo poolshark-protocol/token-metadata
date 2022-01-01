@@ -1,0 +1,10 @@
+{
+    "name": "ASEC",
+    "symbol": "ASEC",
+    "id": "0x75B02Aa1084a12b8729F5acBE1078BD450AbE552",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/asec-frontier",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 407.95,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x75B02Aa1084a12b8729F5acBE1078BD450AbE552/logo.png"
+}

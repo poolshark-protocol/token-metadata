@@ -1,0 +1,10 @@
+{
+    "name": "Zild Finance Coin",
+    "symbol": "Zild",
+    "id": "0x006699d34AA3013605d468d2755A2Fe59A16B12B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zild-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18.41,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x006699d34AA3013605d468d2755A2Fe59A16B12B/logo.png"
+}

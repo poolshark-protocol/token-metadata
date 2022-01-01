@@ -1,0 +1,10 @@
+{
+    "name": "Golden Ratio Coin",
+    "symbol": "GOLDR",
+    "id": "0xcfE4F03C3AFbB9857b29fC706180Bf0044900D59",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/golden-ratio-coin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8.77,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcfE4F03C3AFbB9857b29fC706180Bf0044900D59/logo.png"
+}

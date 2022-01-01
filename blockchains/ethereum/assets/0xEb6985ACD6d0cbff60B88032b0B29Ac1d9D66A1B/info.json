@@ -1,0 +1,10 @@
+{
+    "name": "Bitbook Gambling",
+    "symbol": "BXK",
+    "id": "0xEb6985ACD6d0cbff60B88032b0B29Ac1d9D66A1B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bitbook-gambling",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 562.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEb6985ACD6d0cbff60B88032b0B29Ac1d9D66A1B/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Blockster",
+    "symbol": "BXR",
+    "id": "0x97A3BD8a445cC187c6A751F392e15C3B2134D695",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blockster",
+    "market_cap_rank": 2150,
+    "24_hr_volume_usd": 132341,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x97A3BD8a445cC187c6A751F392e15C3B2134D695/logo.png"
+}

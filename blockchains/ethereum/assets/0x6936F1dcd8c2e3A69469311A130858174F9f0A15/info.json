@@ -1,0 +1,10 @@
+{
+    "name": "Shiba Swim",
+    "symbol": "SSWIM",
+    "id": "0x6936F1dcd8c2e3A69469311A130858174F9f0A15",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shiba-swim",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6936F1dcd8c2e3A69469311A130858174F9f0A15/logo.png"
+}

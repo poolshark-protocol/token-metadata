@@ -1,0 +1,10 @@
+{
+    "name": "XRoad",
+    "symbol": "XRI",
+    "id": "0x9287AEFe51047Ef43F68612f80BAC17745b23AeC",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xroad",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5217.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9287AEFe51047Ef43F68612f80BAC17745b23AeC/logo.png"
+}

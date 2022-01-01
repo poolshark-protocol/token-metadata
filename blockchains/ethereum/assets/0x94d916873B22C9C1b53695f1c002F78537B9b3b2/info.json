@@ -1,0 +1,10 @@
+{
+    "name": "AlgoVest",
+    "symbol": "AVS",
+    "id": "0x94d916873B22C9C1b53695f1c002F78537B9b3b2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/algovest",
+    "market_cap_rank": 1622,
+    "24_hr_volume_usd": 10738.66,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x94d916873B22C9C1b53695f1c002F78537B9b3b2/logo.png"
+}

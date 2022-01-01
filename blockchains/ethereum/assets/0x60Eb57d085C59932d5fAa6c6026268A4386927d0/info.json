@@ -1,0 +1,10 @@
+{
+    "name": "LOCGame",
+    "symbol": "LOCG",
+    "id": "0x60Eb57d085C59932d5fAa6c6026268A4386927d0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/locgame",
+    "market_cap_rank": 1289,
+    "24_hr_volume_usd": 212709,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x60Eb57d085C59932d5fAa6c6026268A4386927d0/logo.png"
+}

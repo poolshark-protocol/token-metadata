@@ -1,0 +1,10 @@
+{
+    "name": "Studio Shibli",
+    "symbol": "SHIBLI",
+    "id": "0xB1A88c33091490218965787919fcc9862C1798eE",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/studio-shibli",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1623.67,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB1A88c33091490218965787919fcc9862C1798eE/logo.png"
+}

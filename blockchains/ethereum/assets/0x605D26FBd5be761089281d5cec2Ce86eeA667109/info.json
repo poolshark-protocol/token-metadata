@@ -1,0 +1,10 @@
+{
+    "name": "Digital Standard Unit",
+    "symbol": "DSU",
+    "id": "0x605D26FBd5be761089281d5cec2Ce86eeA667109",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/digital-standard-unit",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x605D26FBd5be761089281d5cec2Ce86eeA667109/logo.png"
+}

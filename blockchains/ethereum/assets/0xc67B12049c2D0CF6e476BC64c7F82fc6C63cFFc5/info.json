@@ -1,0 +1,10 @@
+{
+    "name": "GDT",
+    "symbol": "GDT",
+    "id": "0xc67B12049c2D0CF6e476BC64c7F82fc6C63cFFc5",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/globe-derivative-exchange",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 227970,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc67B12049c2D0CF6e476BC64c7F82fc6C63cFFc5/logo.png"
+}

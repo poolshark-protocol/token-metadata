@@ -1,0 +1,10 @@
+{
+    "name": "BSYS",
+    "symbol": "BSYS",
+    "id": "0x3004Cf8B4e28d60f4E305DF25a57Cd5faF37b8d5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bsys",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4.73,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3004Cf8B4e28d60f4E305DF25a57Cd5faF37b8d5/logo.png"
+}

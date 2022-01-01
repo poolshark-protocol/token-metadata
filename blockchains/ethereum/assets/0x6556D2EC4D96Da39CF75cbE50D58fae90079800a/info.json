@@ -1,0 +1,10 @@
+{
+    "name": "Lukki Operating Token",
+    "symbol": "LOT",
+    "id": "0x6556D2EC4D96Da39CF75cbE50D58fae90079800a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lukki-operating-token",
+    "market_cap_rank": 3086,
+    "24_hr_volume_usd": 1.24,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6556D2EC4D96Da39CF75cbE50D58fae90079800a/logo.png"
+}

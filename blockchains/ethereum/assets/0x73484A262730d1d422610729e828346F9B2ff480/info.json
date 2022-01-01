@@ -1,0 +1,10 @@
+{
+    "name": "BRCP",
+    "symbol": "BRCP",
+    "id": "0x73484A262730d1d422610729e828346F9B2ff480",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/brcp-token",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4721366,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x73484A262730d1d422610729e828346F9B2ff480/logo.png"
+}

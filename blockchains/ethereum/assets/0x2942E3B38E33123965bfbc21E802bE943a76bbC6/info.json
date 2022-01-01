@@ -1,0 +1,10 @@
+{
+    "name": "EHash Token",
+    "symbol": "EHASH",
+    "id": "0x2942E3B38E33123965bfbc21E802bE943a76bbC6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ehash",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8141.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2942E3B38E33123965bfbc21E802bE943a76bbC6/logo.png"
+}

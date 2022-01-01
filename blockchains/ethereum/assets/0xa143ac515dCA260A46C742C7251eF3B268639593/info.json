@@ -1,0 +1,10 @@
+{
+    "name": "Bulk Token",
+    "symbol": "BULK",
+    "id": "0xa143ac515dCA260A46C742C7251eF3B268639593",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bulk-network",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 325.35,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa143ac515dCA260A46C742C7251eF3B268639593/logo.png"
+}

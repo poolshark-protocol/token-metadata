@@ -1,0 +1,10 @@
+{
+    "name": "Sapchain Token",
+    "symbol": "SAP",
+    "id": "0x91F529E972D6Cf43d36ABFa91C1118122FF7F16C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sapchain",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1422.17,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x91F529E972D6Cf43d36ABFa91C1118122FF7F16C/logo.png"
+}

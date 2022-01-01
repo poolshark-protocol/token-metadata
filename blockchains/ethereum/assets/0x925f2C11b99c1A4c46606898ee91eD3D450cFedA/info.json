@@ -1,0 +1,10 @@
+{
+    "name": "CHOWCHOW.finance",
+    "symbol": "CHOW",
+    "id": "0x925f2C11b99c1A4c46606898ee91eD3D450cFedA",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chow-chow-finance",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2997.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x925f2C11b99c1A4c46606898ee91eD3D450cFedA/logo.png"
+}

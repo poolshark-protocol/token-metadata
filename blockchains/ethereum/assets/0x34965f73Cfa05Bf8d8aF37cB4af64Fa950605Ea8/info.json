@@ -1,0 +1,10 @@
+{
+    "name": "CoinWind Token",
+    "symbol": "COW",
+    "id": "0x34965f73Cfa05Bf8d8aF37cB4af64Fa950605Ea8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coinwind",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 51045,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x34965f73Cfa05Bf8d8aF37cB4af64Fa950605Ea8/logo.png"
+}

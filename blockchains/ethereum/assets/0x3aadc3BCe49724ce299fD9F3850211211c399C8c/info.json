@@ -1,0 +1,10 @@
+{
+    "name": "Coinstox Token",
+    "symbol": "CSX",
+    "id": "0x3aadc3BCe49724ce299fD9F3850211211c399C8c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coinstox",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1540.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3aadc3BCe49724ce299fD9F3850211211c399C8c/logo.png"
+}

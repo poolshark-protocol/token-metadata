@@ -1,0 +1,10 @@
+{
+    "name": "Swerve.fi DAI/USDC/USDT/TUSD",
+    "symbol": "swUSD",
+    "id": "0x77C6E4a580c0dCE4E5c7a17d0bc077188a83A059",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/swusd",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77C6E4a580c0dCE4E5c7a17d0bc077188a83A059/logo.png"
+}

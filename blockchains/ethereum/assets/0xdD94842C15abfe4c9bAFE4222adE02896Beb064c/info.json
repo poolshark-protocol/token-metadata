@@ -1,0 +1,10 @@
+{
+    "name": "W GREEN PAY",
+    "symbol": "WGP",
+    "id": "0xdD94842C15abfe4c9bAFE4222adE02896Beb064c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/w-green-pay",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 53.52,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdD94842C15abfe4c9bAFE4222adE02896Beb064c/logo.png"
+}

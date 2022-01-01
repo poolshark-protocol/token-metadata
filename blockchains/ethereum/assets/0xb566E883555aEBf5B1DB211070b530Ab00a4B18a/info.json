@@ -1,0 +1,10 @@
+{
+    "name": "DCTDAO",
+    "symbol": "DCTD",
+    "id": "0xb566E883555aEBf5B1DB211070b530Ab00a4B18a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dctdao",
+    "market_cap_rank": 2657,
+    "24_hr_volume_usd": 7871.06,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb566E883555aEBf5B1DB211070b530Ab00a4B18a/logo.png"
+}

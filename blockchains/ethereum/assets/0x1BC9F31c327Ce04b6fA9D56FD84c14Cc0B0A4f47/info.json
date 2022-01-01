@@ -1,0 +1,10 @@
+{
+    "name": "HygenerCoin",
+    "symbol": "HG",
+    "id": "0x1BC9F31c327Ce04b6fA9D56FD84c14Cc0B0A4f47",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hygenercoin",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.01,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1BC9F31c327Ce04b6fA9D56FD84c14Cc0B0A4f47/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Mycro Token",
+    "symbol": "MYO",
+    "id": "0x50987e6BE405ebac691f8988304562E5efc3B2ea",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mycro-ico",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2556.79,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x50987e6BE405ebac691f8988304562E5efc3B2ea/logo.png"
+}

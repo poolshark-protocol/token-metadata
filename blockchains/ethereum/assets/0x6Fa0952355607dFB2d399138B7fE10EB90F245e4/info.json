@@ -1,0 +1,10 @@
+{
+    "name": "Clash Token",
+    "symbol": "SCT",
+    "id": "0x6Fa0952355607dFB2d399138B7fE10EB90F245e4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/clash-token",
+    "market_cap_rank": 3187,
+    "24_hr_volume_usd": 486.08,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6Fa0952355607dFB2d399138B7fE10EB90F245e4/logo.png"
+}

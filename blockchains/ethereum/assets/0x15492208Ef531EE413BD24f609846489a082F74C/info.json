@@ -1,0 +1,10 @@
+{
+    "name": "TREKS",
+    "symbol": "TREKS",
+    "id": "0x15492208Ef531EE413BD24f609846489a082F74C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/playtreks",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 16520.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x15492208Ef531EE413BD24f609846489a082F74C/logo.png"
+}

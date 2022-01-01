@@ -1,0 +1,10 @@
+{
+    "name": "Floki Pup",
+    "symbol": "FLOKIPUP",
+    "id": "0x259fba5AE8b626483e1E589E8D60A5413a2157d2",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/floki-pup",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10209.6,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x259fba5AE8b626483e1E589E8D60A5413a2157d2/logo.png"
+}

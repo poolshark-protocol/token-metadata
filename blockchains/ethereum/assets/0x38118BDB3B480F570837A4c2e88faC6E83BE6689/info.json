@@ -1,0 +1,10 @@
+{
+    "name": "Werewolf Coin",
+    "symbol": "WWC",
+    "id": "0x38118BDB3B480F570837A4c2e88faC6E83BE6689",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/werewolf-coin",
+    "market_cap_rank": 952,
+    "24_hr_volume_usd": 69852,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x38118BDB3B480F570837A4c2e88faC6E83BE6689/logo.png"
+}

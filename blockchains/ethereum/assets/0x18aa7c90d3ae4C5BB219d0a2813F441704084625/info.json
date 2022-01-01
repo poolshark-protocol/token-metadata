@@ -1,0 +1,11 @@
+{
+    "name": "DecentralizeCurrency",
+    "symbol": "DCA",
+    "id": "0x18aa7c90d3ae4C5BB219d0a2813F441704084625",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/decentralized-currency-assets",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9.64,
+    "public_notice": "Contract address has changed from 0xa6281838f4a9c5736b2aa1cba9260d3f879623ca to 0x18aa7c90d3ae4C5BB219d0a2813F441704084625",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x18aa7c90d3ae4C5BB219d0a2813F441704084625/logo.png"
+}

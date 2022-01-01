@@ -1,0 +1,10 @@
+{
+    "name": "Reflex",
+    "symbol": "RFX",
+    "id": "0x159A1dFAe19057de57dFfFcbB3DA1aE784678965",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/reflex",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 31386,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x159A1dFAe19057de57dFfFcbB3DA1aE784678965/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Voucher Ethereum",
+    "symbol": "vETH",
+    "id": "0xc3D088842DcF02C13699F936BB83DFBBc6f721Ab",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/voucher-eth",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 130.44,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc3D088842DcF02C13699F936BB83DFBBc6f721Ab/logo.png"
+}

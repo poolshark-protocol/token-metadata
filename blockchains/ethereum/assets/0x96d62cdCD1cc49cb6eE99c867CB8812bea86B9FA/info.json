@@ -1,0 +1,10 @@
+{
+    "name": "Yearn Finance Protocol",
+    "symbol": "YFP",
+    "id": "0x96d62cdCD1cc49cb6eE99c867CB8812bea86B9FA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yearn-finance-protocol",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x96d62cdCD1cc49cb6eE99c867CB8812bea86B9FA/logo.png"
+}

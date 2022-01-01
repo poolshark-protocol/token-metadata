@@ -1,0 +1,10 @@
+{
+    "name": "Token of Power",
+    "symbol": "TOP",
+    "id": "0x0EBD5eC91680d3B0CEDbb1d5BB61851154D3eDb6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/token-of-power",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2800.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0EBD5eC91680d3B0CEDbb1d5BB61851154D3eDb6/logo.png"
+}

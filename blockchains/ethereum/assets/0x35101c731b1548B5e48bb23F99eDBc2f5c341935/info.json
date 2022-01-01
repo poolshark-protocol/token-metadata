@@ -1,0 +1,10 @@
+{
+    "name": "BlackHoleSwap-Compound DAI/USDC v1",
+    "symbol": "BHSc$",
+    "id": "0x35101c731b1548B5e48bb23F99eDBc2f5c341935",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blackholeswap-compound-dai-usdc",
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4025.86,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x35101c731b1548B5e48bb23F99eDBc2f5c341935/logo.png"
+}
