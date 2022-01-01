@@ -6,7 +6,7 @@ from operator import itemgetter
 # make background transparent for all images
 
 supported_chains = ['ethereum']
-
+sort_by_volume = []
 for chain in supported_chains:
     f = open('blockchains/' + chain + '/tokenlist.json','r')
     print(time.time())
@@ -17,13 +17,12 @@ for chain in supported_chains:
     for token in search_tokens:
         #print(token)
         if 'market_cap_rank' in token.keys() and token['market_cap_rank'] == None:
+            sort_by_volume.append(token)
             search_tokens.remove(token)
            # print('removed token')
         elif 'market_cap_rank' not in token.keys():
             print('coin found w/o market cap rank: ' + json.dumps(token))
             search_tokens.remove(token)
-        elif token == '{}':
-            print('found empty')
         
     for token in search_tokens:
         if 'name' not in token.keys() or token['name'] == '':

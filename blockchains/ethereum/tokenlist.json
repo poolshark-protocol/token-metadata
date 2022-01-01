@@ -3014,9 +3014,6 @@
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE46F290Cd59195a83e757891430d8D517d16b334/logo.png"
         },
         {
-            "name": "AltEstate token"
-        },
-        {
             "name": "Aludra Network",
             "symbol": "ALD",
             "id": "0xb339FcA531367067e98d7c4f9303Ffeadff7B881",
@@ -10544,11 +10541,6 @@
             "market_cap_rank": null,
             "24_hr_volume_usd": 3075.71,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6F2A550259532F7429530dCB93D86269629e3f2A/logo.png"
-        },
-        {
-            "name": "CloutContracts",
-            "symbol": "CCS",
-            "id": "0x1da4858ad385cc377165A298CC2CE3fce0C5fD31"
         },
         {
             "name": "Clover",
@@ -39873,11 +39865,6 @@
             "market_cap_rank": 3476,
             "24_hr_volume_usd": 35082,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x04E0Af0af1b7f0023c6B12af5a94Df59B0e8cF59/logo.png"
-        },
-        {
-            "name": "Sensorium",
-            "symbol": "SENSO",
-            "id": "0xC19B6A4Ac7C7Cc24459F08984Bbd09664af17bD1"
         },
         {
             "name": "Sentiment Token",
