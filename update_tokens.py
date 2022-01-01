@@ -17,8 +17,10 @@ supported_chains = ['ethereum']
 search_tokens_blacklist = ['RealT Token', 
                            'RealToken', 
                            'All.me', 
-                           'AltEstate Token', 
-                           'Cointorox', 
+                           'AltEstate Token',
+                           'CloutContracts',
+                           'Cointorox',
+                           'Cryptocurrency Top 10 Index',
                            'Curio Governance',
                            'DigixDAO',
                            'Energoncoin',
@@ -32,13 +34,19 @@ search_tokens_blacklist = ['RealT Token',
                            'LNX Protocol',
                            'Paypex',
                            'Prime DAI',
+                           'Qobit'
                            'Rapidz',
+                           'Sai',
+                           'SENSO',
+                           'Silent Notary',
                            'Spaghetti',
                            'SpideyFloki',
                            'Taxa Token',
                            'TOP Network',
                            'Union Fair Coin',
-                           'WM PROFESSIONAL'
+                           'WM PROFESSIONAL',
+                           'Wrapped IoTex',
+                           'Wrapped XMR by BTSE'
                           ]
 
 coins = cg.get_coins_list(include_platform=True)
@@ -77,13 +85,32 @@ for chain in supported_chains:
                         except:
                             print('429 - Too Many Requests: waiting 5 seconds')
                             time.sleep(5)
-                    try:        
+                    try: 
+                        img_data = requests.get(coin_info['image']['large']).content
+                    except:
+                        print('bad image URL...continuing')
+                        continue
+                    img = Image.open(BytesIO(img_data))
+                    img.save(path + '/logo.png')
+
+                    try:  
                         token['name'] = contract.functions.name().call()
+                    except:
+                        print('name() failed for' + coin + '..using coingecko name value..')
+                        token['name'] = coin['name']
+
+                    try:    
                         token['symbol'] = contract.functions.symbol().call()
-                        token['id'] = contract.address
+                    except:
+                        print('symbol() failed for' + coin + '..using coingecko symbol value..')
+                        token['symbol'] = coin['symbol'].upper()
+                      
+                    token['id'] = contract.address
+
+                    try:
                         token['decimals'] = contract.functions.decimals().call()
                     except:
-                        print('contract function failed for ' + json.dumps(coin) + '\ncontinuing..')
+                        print('decimals() failed for' + coin + '..continuing on..')
                         continue
 
                     token['coingecko_url'] = 'https://www.coingecko.com/en/coins/' + coin['id']
@@ -95,13 +122,7 @@ for chain in supported_chains:
 
                     if coin_info['public_notice'] != None:
                         token['public_notice'] = coin_info['public_notice']
-                    try: 
-                        img_data = requests.get(coin_info['image']['large']).content
-                    except:
-                        print('bad image URL...continuing')
-                        continue
-                    img = Image.open(BytesIO(img_data))
-                    img.save(path + '/logo.png')
+                    
 
                     token['logoURI'] = 'https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/' + path + '/logo.png'
                     
