@@ -2797,7 +2797,6 @@
             "24_hr_volume_usd": 7485.44,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe45Fc4290fd3159588f532058592Ea327d2e97D4/logo.png"
         },
-        {},
         {
             "name": "AlloHash",
             "symbol": "ALH",
@@ -3068,7 +3067,6 @@
             "24_hr_volume_usd": 111592,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7603de2eA4cbceB0250118De03Fcb70Fe1e8e935/logo.png"
         },
-        {},
         {
             "name": "American Akita",
             "symbol": "USKITA",
@@ -4363,7 +4361,6 @@
             "24_hr_volume_usd": 8.74,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x821144518dfE9e7b44fCF4d0824e15e8390d4637/logo.png"
         },
-        {},
         {
             "name": "Atomic Wallet Token",
             "symbol": "AWC",
@@ -4646,9 +4643,6 @@
             "market_cap_rank": null,
             "24_hr_volume_usd": 0.0,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdcDc1c1cC33AA817CbDBe8F5E2390BF7cc43dc4B/logo.png"
-        },
-        {
-            "name": ""
         },
         {
             "name": "AVINOC Token",
@@ -10961,7 +10955,6 @@
             "24_hr_volume_usd": 14.43,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0bC61DdED5F6710c637cf8288Eb6058766ce1921/logo.png"
         },
-        {},
         {
             "name": "Coinversation Token",
             "symbol": "CTO",
@@ -12358,7 +12351,6 @@
             "24_hr_volume_usd": 0.0,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4f56221252d117f35E2f6Ab937A3F77CAd38934D/logo.png"
         },
-        {},
         {
             "name": "CryptoEnergy",
             "symbol": "CNRG",
@@ -12804,7 +12796,6 @@
             "24_hr_volume_usd": 386671,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE1c7E30C42C24582888C758984f6e382096786bd/logo.png"
         },
-        {},
         {
             "name": "Curio Stable Coin",
             "symbol": "CSC",
@@ -13367,8 +13358,6 @@
             "24_hr_volume_usd": 83.03,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5a4623F305A8d7904ED68638AF3B4328678edDBF/logo.png"
         },
-        {},
-        {},
         {
             "name": "Data Token",
             "symbol": "DTA",
@@ -14101,7 +14090,6 @@
             "24_hr_volume_usd": 50.25,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x84cffa78B2fBbeeC8c37391d2B12A04d2030845e/logo.png"
         },
-        {},
         {
             "name": "Defiville Island Token",
             "symbol": "ISLA",
@@ -14655,7 +14643,6 @@
             "public_notice": "BUIDL, ARTE and UniFi have merged to become OS. https://ethos.eth.link/os.html",
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7b123f53421b1bF8533339BFBdc7C98aA94163db/logo.png"
         },
-        {},
         {
             "name": "DEFISocial",
             "symbol": "DFSocial",
@@ -15011,7 +14998,6 @@
             "24_hr_volume_usd": 3.87,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87B87A7583D8d8F15b58Bdd290318386Ac8eE174/logo.png"
         },
-        {},
         {
             "name": "Digix Gold Token",
             "symbol": "DGX",
@@ -17776,7 +17762,6 @@
             "24_hr_volume_usd": 51.97,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1e83916Ea2EF2D7a6064775662E163b2D4C330a7/logo.png"
         },
-        {},
         {
             "name": "Ethereum Gold Project",
             "symbol": "ETGP",
@@ -18574,7 +18559,6 @@
             "24_hr_volume_usd": 170682,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x83869DE76B9Ad8125e22b857f519F001588c0f62/logo.png"
         },
-        {},
         {
             "name": "ExNetwork Community Token",
             "symbol": "EXNT",
@@ -19975,9 +19959,6 @@
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x29CeDDCF0Da3c1D8068a7DFbD0FB06c2E438FF70/logo.png"
         },
         {
-            "name": ""
-        },
-        {
             "name": "Ross Ulbricht Genesis Collection",
             "symbol": "FREE",
             "id": "0x4CD0c43B0D53bc318cc5342b77EB6f124E47f526",
@@ -20312,7 +20293,6 @@
             "24_hr_volume_usd": 53457,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb0a0a070640B450eB136DC377208469ee4F49fbc/logo.png"
         },
-        {},
         {
             "name": "Futureswap Token",
             "symbol": "FST",
@@ -21083,7 +21063,6 @@
             "24_hr_volume_usd": 5735303,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC5bBaE50781Be1669306b9e001EFF57a2957b09d/logo.png"
         },
-        {},
         {
             "name": "Gilgamesh",
             "symbol": "Gil",
@@ -22636,7 +22615,6 @@
             "24_hr_volume_usd": 105997,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7968bc6a03017eA2de509AAA816F163Db0f35148/logo.png"
         },
-        {},
         {
             "name": "HEdpAY",
             "symbol": "Hdp.\u0444",
@@ -22800,7 +22778,6 @@
             "public_notice": "Hi Dollar has recently expanded to Binance Smart Chain. For more info, read <a href=\"https://resources.hi.com/get-hi-on-pancakeswap-heres-what-you-need-to-know/\">here</a>. ",
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC/logo.png"
         },
-        {},
         {
             "name": "Highstreet token",
             "symbol": "HIGH",
@@ -25806,7 +25783,6 @@
             "24_hr_volume_usd": 0.0,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7841B2A48D1F6e78ACeC359FEd6D874Eb8a0f63c/logo.png"
         },
-        {},
         {
             "name": "KeyFi Token",
             "symbol": "KEYFI",
@@ -27299,7 +27275,6 @@
             "24_hr_volume_usd": 1257.64,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe0c8087CE1a17bdd5D6c12eb52F8d7efF7791987/logo.png"
         },
-        {},
         {
             "name": "LinkaToken",
             "symbol": "LINKA",
@@ -28484,7 +28459,6 @@
             "public_notice": "MFTU is being swapped. More information can be found here: https://medium.com/@doyoumftu/the-great-correction-after-the-election-c13ce383f1a8",
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbA745513ACEbcBb977497C569D4F7d340f2A936B/logo.png"
         },
-        {},
         {
             "name": "MAKES",
             "symbol": "MKS",
@@ -34617,7 +34591,6 @@
             "24_hr_volume_usd": 129.98,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc1D204d77861dEf49b6E769347a883B15EC397Ff/logo.png"
         },
-        {},
         {
             "name": "PayPie",
             "symbol": "PPP",
@@ -36365,7 +36338,6 @@
             "24_hr_volume_usd": 19975.77,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x43D4A3cd90ddD2F8f4f693170C9c8098163502ad/logo.png"
         },
-        {},
         {
             "name": "PrimeWhiteRockCompany",
             "symbol": "PWC",
@@ -36406,7 +36378,6 @@
             "24_hr_volume_usd": 444615,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x61b5c3aeE3a25f6f83531D548A4d2EE58450f5D9/logo.png"
         },
-        {},
         {
             "name": "INVERSE",
             "symbol": "XIV",
@@ -37584,7 +37555,6 @@
             "24_hr_volume_usd": 0.0,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1306C7d95E59CfCDFF7AE3C13Db7F56AcC543815/logo.png"
         },
-        {},
         {
             "name": "Rare",
             "symbol": "RARE",
@@ -39182,7 +39152,6 @@
             "24_hr_volume_usd": 361865,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb753428af26E81097e7fD17f40c88aaA3E04902c/logo.png"
         },
-        {},
         {
             "name": "Saint Inu",
             "symbol": "SAINT",
@@ -40905,7 +40874,6 @@
             "24_hr_volume_usd": 589252,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3ebb4A4e91Ad83BE51F8d596533818b246F4bEe1/logo.png"
         },
-        {},
         {
             "name": "Silkchain Token",
             "symbol": "SILK",
@@ -41980,7 +41948,6 @@
             "24_hr_volume_usd": 139967,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x58FaD9E3C3AE54c9BA98c3f0E4bF88aB3E8Cf3c5/logo.png"
         },
-        {},
         {
             "name": "SPANK",
             "symbol": "SPANK",
@@ -42182,7 +42149,6 @@
             "24_hr_volume_usd": 133854,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd/logo.png"
         },
-        {},
         {
             "name": "Spidey Inu",
             "symbol": "SPIDEY INU",
@@ -45561,7 +45527,6 @@
             "coingecko_url": "https://www.coingecko.com/en/coins/topdog-vault-nftx",
             "market_cap_rank": null
         },
-        {},
         {
             "name": "TORChain",
             "symbol": "TOR",
@@ -47227,9 +47192,6 @@
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15/logo.png"
         },
         {
-            "name": ""
-        },
-        {
             "name": "UNION Protocol Governance Token",
             "symbol": "UNN",
             "id": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
@@ -47854,7 +47816,6 @@
             "24_hr_volume_usd": 2.01,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4954Db6391F4feB5468b6B943D4935353596aEC9/logo.png"
         },
-        {},
         {
             "name": "UseChain Token",
             "symbol": "USE",
@@ -49668,7 +49629,6 @@
             "24_hr_volume_usd": 2454.0,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0b63128C40737B13647552e0C926bCFEccC35f93/logo.png"
         },
-        {},
         {
             "name": "WOOL",
             "symbol": "WOOL",
@@ -50033,7 +49993,6 @@
             "24_hr_volume_usd": 96.81,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC98a910eDE52E7d5308525845F19e17470DbCCF7/logo.png"
         },
-        {},
         {
             "name": "Wrapped Kadena",
             "symbol": "WKDA",
@@ -52964,7 +52923,7 @@
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x12513335ffD5DAfc2334e98625d27c1CA84bff86/logo.png"
         },
         {
-            "name": "",
+            "name": "Aventus",
             "symbol": "AVT",
             "id": "0x0d88eD6E74bbFD96B831231638b66C05571e824F",
             "decimals": 18,

@@ -22,7 +22,11 @@ for chain in supported_chains:
         elif 'market_cap_rank' not in token.keys():
             print('coin found w/o market cap rank: ' + json.dumps(token))
             search_tokens.remove(token)
-        else:
-            print(token['market_cap_rank'])
-    print(search_tokens[0].keys())
+        elif token == '{}':
+            print('found empty')
+        
+    for token in search_tokens:
+        if 'name' not in token.keys() or token['name'] == '':
+            print(json.dumps(token))
+    print(len(search_tokens))
     sorted(search_tokens,key=itemgetter('market_cap_rank'))
