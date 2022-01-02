@@ -4,7 +4,8 @@
     "id": "0x27d9f34a4B6B4566c91C319B6626e8DCdF962818",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/poopay",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 15764.11,
+    "24_hr_volume_usd": 5884.09,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x27d9f34a4B6B4566c91C319B6626e8DCdF962818/logo.png"
 }

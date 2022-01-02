@@ -4,7 +4,8 @@
     "id": "0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blockmason-credit-protocol",
-    "market_cap_rank": 2741,
-    "24_hr_volume_usd": 4658.41,
+    "market_cap_usd": 517672,
+    "market_cap_rank": 2649,
+    "24_hr_volume_usd": 3497.46,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1c4481750daa5Ff521A2a7490d9981eD46465Dbd/logo.png"
 }

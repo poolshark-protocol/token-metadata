@@ -4,7 +4,8 @@
     "id": "0xAE9CBE6eBf72A51c9Fcea3830485614486318Fd4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/newtonium",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 36.44,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAE9CBE6eBf72A51c9Fcea3830485614486318Fd4/logo.png"
 }

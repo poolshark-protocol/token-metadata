@@ -4,7 +4,8 @@
     "id": "0xF411903cbC70a74d22900a5DE66A2dda66507255",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/verasity",
-    "market_cap_rank": 369,
-    "24_hr_volume_usd": 38883094,
+    "market_cap_usd": 155252444,
+    "market_cap_rank": 376,
+    "24_hr_volume_usd": 24121358,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF411903cbC70a74d22900a5DE66A2dda66507255/logo.png"
 }

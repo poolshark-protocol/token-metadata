@@ -4,7 +4,8 @@
     "id": "0xBD2F0Cd039E0BFcf88901C98c0bFAc5ab27566e3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dynamic-set-dollar",
-    "market_cap_rank": 2328,
-    "24_hr_volume_usd": 10931.44,
+    "market_cap_usd": 1045563,
+    "market_cap_rank": 2340,
+    "24_hr_volume_usd": 1571.25,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBD2F0Cd039E0BFcf88901C98c0bFAc5ab27566e3/logo.png"
 }

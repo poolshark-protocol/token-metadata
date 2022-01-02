@@ -4,7 +4,8 @@
     "id": "0xEF66F8c4224B423888a64f0157e56756459c2cF8",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/shibelon-mars",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 45.16,
+    "24_hr_volume_usd": 3271.14,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEF66F8c4224B423888a64f0157e56756459c2cF8/logo.png"
 }

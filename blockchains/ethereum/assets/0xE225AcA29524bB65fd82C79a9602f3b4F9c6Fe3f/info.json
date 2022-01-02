@@ -4,8 +4,9 @@
     "id": "0xE225AcA29524bB65fd82C79a9602f3b4F9c6Fe3f",
     "decimals": 5,
     "coingecko_url": "https://www.coingecko.com/en/coins/tratok",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1236.64,
+    "24_hr_volume_usd": 887.42,
     "public_notice": "Contract address has migrated from 0x0cbc9b02b8628ae08688b5cc8134dc09e36c443b to 0xe225aca29524bb65fd82c79a9602f3b4f9c6fe3f. See https://tratok.com/is-there-such-a-thing-as-too-much-anti-fraud-apparently-there-is/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE225AcA29524bB65fd82C79a9602f3b4F9c6Fe3f/logo.png"
 }

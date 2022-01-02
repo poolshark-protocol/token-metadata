@@ -4,7 +4,8 @@
     "id": "0xa5e48a6E56e164907263e901B98D9b11CCB46C47",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coinversation",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 17601.91,
+    "24_hr_volume_usd": 14427.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa5e48a6E56e164907263e901B98D9b11CCB46C47/logo.png"
 }

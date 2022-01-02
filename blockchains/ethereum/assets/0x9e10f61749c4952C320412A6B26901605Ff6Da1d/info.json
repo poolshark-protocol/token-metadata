@@ -4,7 +4,8 @@
     "id": "0x9e10f61749c4952C320412A6B26901605Ff6Da1d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/theos",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 14239.2,
+    "24_hr_volume_usd": 55527,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9e10f61749c4952C320412A6B26901605Ff6Da1d/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x9D47894f8BECB68B9cF3428d256311Affe8B068B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rope",
-    "market_cap_rank": 3132,
-    "24_hr_volume_usd": 308.1,
+    "market_cap_usd": 113274,
+    "market_cap_rank": 3135,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9D47894f8BECB68B9cF3428d256311Affe8B068B/logo.png"
 }

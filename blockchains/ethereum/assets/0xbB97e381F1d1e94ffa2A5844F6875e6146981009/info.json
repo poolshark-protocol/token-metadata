@@ -4,7 +4,8 @@
     "id": "0xbB97e381F1d1e94ffa2A5844F6875e6146981009",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wibx",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 56889,
+    "24_hr_volume_usd": 28115,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbB97e381F1d1e94ffa2A5844F6875e6146981009/logo.png"
 }

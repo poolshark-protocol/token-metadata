@@ -4,6 +4,7 @@
     "id": "0xB9cB7905981198ADd8059114B3b7dc7042B52f7b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tamy-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 35200,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB9cB7905981198ADd8059114B3b7dc7042B52f7b/logo.png"

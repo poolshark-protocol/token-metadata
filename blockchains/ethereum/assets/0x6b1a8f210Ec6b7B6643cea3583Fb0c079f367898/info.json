@@ -4,8 +4,9 @@
     "id": "0x6b1a8f210Ec6b7B6643cea3583Fb0c079f367898",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/baanx",
-    "market_cap_rank": 1823,
-    "24_hr_volume_usd": 14926.99,
+    "market_cap_usd": 3004909,
+    "market_cap_rank": 1808,
+    "24_hr_volume_usd": 4892.15,
     "public_notice": "Baanx (BXX) has recently migrated from their <a href=\"https://etherscan.io/token/0x54f9b4b4485543a815c51c412a9e20436a06491d\">old contract</a> to a <a href=\"https://etherscan.io/token/0x6b1a8f210ec6b7b6643cea3583fb0c079f367898\">new one</a>. For more information, please view this <a href=\"https://t.me/Baanx_Announcement/152\">announcement<a/> on Telegram.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6b1a8f210Ec6b7B6643cea3583Fb0c079f367898/logo.png"
 }

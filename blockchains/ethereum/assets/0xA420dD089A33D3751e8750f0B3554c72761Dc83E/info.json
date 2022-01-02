@@ -4,7 +4,8 @@
     "id": "0xA420dD089A33D3751e8750f0B3554c72761Dc83E",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/digifit",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 17471.6,
+    "24_hr_volume_usd": 20752,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA420dD089A33D3751e8750f0B3554c72761Dc83E/logo.png"
 }

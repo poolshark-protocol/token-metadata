@@ -4,7 +4,8 @@
     "id": "0x2C31b10ca416b82Cec4c5E93c615ca851213d48D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/force-dao",
-    "market_cap_rank": 3200,
-    "24_hr_volume_usd": 694.38,
+    "market_cap_usd": 85046,
+    "market_cap_rank": 3198,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C31b10ca416b82Cec4c5E93c615ca851213d48D/logo.png"
 }

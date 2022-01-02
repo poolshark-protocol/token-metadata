@@ -4,7 +4,8 @@
     "id": "0xf12EC0D3Dab64DdEfBdC96474bDe25af3FE1B327",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stacy",
-    "market_cap_rank": 3039,
-    "24_hr_volume_usd": 7205.29,
+    "market_cap_usd": 154728,
+    "market_cap_rank": 3053,
+    "24_hr_volume_usd": 159.94,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf12EC0D3Dab64DdEfBdC96474bDe25af3FE1B327/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/decentr",
-    "market_cap_rank": 1423,
-    "24_hr_volume_usd": 239092,
+    "market_cap_usd": 6841656,
+    "market_cap_rank": 1437,
+    "24_hr_volume_usd": 156607,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x30f271C9E86D2B7d00a6376Cd96A1cFBD5F0b9b3/logo.png"
 }

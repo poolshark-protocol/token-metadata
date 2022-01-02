@@ -4,7 +4,8 @@
     "id": "0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yieldwars-com",
-    "market_cap_rank": 3371,
+    "market_cap_usd": 21862,
+    "market_cap_rank": 3368,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf4A81C18816C9B0AB98FAC51B36Dcb63b0E58Fde/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/paraswap",
-    "market_cap_rank": 515,
-    "24_hr_volume_usd": 765985,
+    "market_cap_usd": 91392768,
+    "market_cap_rank": 496,
+    "24_hr_volume_usd": 1461111,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5/logo.png"
 }

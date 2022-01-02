@@ -4,7 +4,8 @@
     "id": "0x47DA5456bC2e1ce391b645Ce80F2E97192e4976a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/plgnet",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 213348,
+    "24_hr_volume_usd": 68439,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x47DA5456bC2e1ce391b645Ce80F2E97192e4976a/logo.png"
 }

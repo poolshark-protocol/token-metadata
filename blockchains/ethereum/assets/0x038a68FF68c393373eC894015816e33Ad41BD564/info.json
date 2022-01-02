@@ -4,7 +4,8 @@
     "id": "0x038a68FF68c393373eC894015816e33Ad41BD564",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/glitch-protocol",
-    "market_cap_rank": 762,
-    "24_hr_volume_usd": 3499082,
+    "market_cap_usd": 41366439,
+    "market_cap_rank": 725,
+    "24_hr_volume_usd": 3478154,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x038a68FF68c393373eC894015816e33Ad41BD564/logo.png"
 }

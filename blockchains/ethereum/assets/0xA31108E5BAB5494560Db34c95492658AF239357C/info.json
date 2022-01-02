@@ -4,7 +4,8 @@
     "id": "0xA31108E5BAB5494560Db34c95492658AF239357C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dacsee",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 3.19,
+    "24_hr_volume_usd": 9.2,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA31108E5BAB5494560Db34c95492658AF239357C/logo.png"
 }

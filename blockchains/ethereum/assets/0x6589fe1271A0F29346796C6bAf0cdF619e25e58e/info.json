@@ -4,7 +4,8 @@
     "id": "0x6589fe1271A0F29346796C6bAf0cdF619e25e58e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/grain-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1039.5,
+    "24_hr_volume_usd": 13348.86,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6589fe1271A0F29346796C6bAf0cdF619e25e58e/logo.png"
 }

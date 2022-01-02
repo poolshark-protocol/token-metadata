@@ -4,7 +4,8 @@
     "id": "0x4674a4F24C5f63D53F22490Fb3A08eAAAD739ff8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/brokoli",
-    "market_cap_rank": 1254,
-    "24_hr_volume_usd": 199394,
+    "market_cap_usd": 10964125,
+    "market_cap_rank": 1231,
+    "24_hr_volume_usd": 259496,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4674a4F24C5f63D53F22490Fb3A08eAAAD739ff8/logo.png"
 }

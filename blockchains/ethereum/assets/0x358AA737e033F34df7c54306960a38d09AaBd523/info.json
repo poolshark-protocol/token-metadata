@@ -4,7 +4,8 @@
     "id": "0x358AA737e033F34df7c54306960a38d09AaBd523",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ares-protocol",
+    "market_cap_usd": 1731884,
     "market_cap_rank": 2076,
-    "24_hr_volume_usd": 282896,
+    "24_hr_volume_usd": 325458,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x358AA737e033F34df7c54306960a38d09AaBd523/logo.png"
 }

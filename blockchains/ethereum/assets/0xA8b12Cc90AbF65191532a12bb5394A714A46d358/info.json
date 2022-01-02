@@ -4,7 +4,8 @@
     "id": "0xA8b12Cc90AbF65191532a12bb5394A714A46d358",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pbtc35a",
-    "market_cap_rank": 947,
-    "24_hr_volume_usd": 151833,
+    "market_cap_usd": 20907834,
+    "market_cap_rank": 959,
+    "24_hr_volume_usd": 33617,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA8b12Cc90AbF65191532a12bb5394A714A46d358/logo.png"
 }

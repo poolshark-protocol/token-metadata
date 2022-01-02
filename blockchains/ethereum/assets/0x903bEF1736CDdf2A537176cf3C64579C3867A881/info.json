@@ -4,7 +4,8 @@
     "id": "0x903bEF1736CDdf2A537176cf3C64579C3867A881",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/ichi-farm",
-    "market_cap_rank": 932,
-    "24_hr_volume_usd": 133329,
+    "market_cap_usd": 21643081,
+    "market_cap_rank": 941,
+    "24_hr_volume_usd": 21735,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x903bEF1736CDdf2A537176cf3C64579C3867A881/logo.png"
 }

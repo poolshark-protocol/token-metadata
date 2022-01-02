@@ -4,7 +4,8 @@
     "id": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mxc",
+    "market_cap_usd": 129492951,
     "market_cap_rank": 422,
-    "24_hr_volume_usd": 9524872,
+    "24_hr_volume_usd": 7769380,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e/logo.png"
 }

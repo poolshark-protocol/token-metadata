@@ -4,7 +4,8 @@
     "id": "0xDA0c94c73D127eE191955FB46bACd7FF999b2bcd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stakeborg-dao",
-    "market_cap_rank": 1130,
-    "24_hr_volume_usd": 15274.32,
+    "market_cap_usd": 14469420,
+    "market_cap_rank": 1100,
+    "24_hr_volume_usd": 426297,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDA0c94c73D127eE191955FB46bACd7FF999b2bcd/logo.png"
 }

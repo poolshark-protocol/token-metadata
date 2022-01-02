@@ -4,7 +4,8 @@
     "id": "0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/paint",
-    "market_cap_rank": 1969,
-    "24_hr_volume_usd": 14150.94,
+    "market_cap_usd": 1754671,
+    "market_cap_rank": 2069,
+    "24_hr_volume_usd": 40062,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4C6eC08CF3fc987c6C4BEB03184D335A2dFc4042/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/utu-coin",
-    "market_cap_rank": 1537,
-    "24_hr_volume_usd": 53148,
+    "market_cap_usd": 3247206,
+    "market_cap_rank": 1774,
+    "24_hr_volume_usd": 133243,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B/logo.png"
 }

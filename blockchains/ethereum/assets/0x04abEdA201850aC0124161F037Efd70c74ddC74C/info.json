@@ -4,7 +4,8 @@
     "id": "0x04abEdA201850aC0124161F037Efd70c74ddC74C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nest",
-    "market_cap_rank": 1124,
-    "24_hr_volume_usd": 494088,
+    "market_cap_usd": 14478188,
+    "market_cap_rank": 1101,
+    "24_hr_volume_usd": 379617,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x04abEdA201850aC0124161F037Efd70c74ddC74C/logo.png"
 }

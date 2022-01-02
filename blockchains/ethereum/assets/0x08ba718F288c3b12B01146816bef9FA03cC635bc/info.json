@@ -4,7 +4,8 @@
     "id": "0x08ba718F288c3b12B01146816bef9FA03cC635bc",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/centaurify",
-    "market_cap_rank": 2094,
-    "24_hr_volume_usd": 8893.86,
+    "market_cap_usd": 1680257,
+    "market_cap_rank": 2087,
+    "24_hr_volume_usd": 2560.33,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x08ba718F288c3b12B01146816bef9FA03cC635bc/logo.png"
 }

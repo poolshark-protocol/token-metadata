@@ -4,7 +4,8 @@
     "id": "0xe047705117Eb07e712C3d684f5B18E74577e83aC",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitcashpay-old",
-    "market_cap_rank": 3269,
+    "market_cap_usd": 53529,
+    "market_cap_rank": 3272,
     "24_hr_volume_usd": 50.21,
     "public_notice": "BitcashPay was hacked and has recently migrated to a <a href=\"https://www.coingecko.com/en/coins/bcpay-fintech?locale=en\">new contract</a>. Do not purchase any more of their old tokens. For more information, visit their official Twitter page.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe047705117Eb07e712C3d684f5B18E74577e83aC/logo.png"

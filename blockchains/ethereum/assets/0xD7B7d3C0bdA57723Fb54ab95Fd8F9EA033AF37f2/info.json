@@ -4,7 +4,8 @@
     "id": "0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pylon-finance",
-    "market_cap_rank": 2857,
-    "24_hr_volume_usd": 7535.18,
+    "market_cap_usd": 287401,
+    "market_cap_rank": 2877,
+    "24_hr_volume_usd": 6135.87,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD7B7d3C0bdA57723Fb54ab95Fd8F9EA033AF37f2/logo.png"
 }

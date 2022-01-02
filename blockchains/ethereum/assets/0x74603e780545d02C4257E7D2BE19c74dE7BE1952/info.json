@@ -4,7 +4,8 @@
     "id": "0x74603e780545d02C4257E7D2BE19c74dE7BE1952",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/etg-finance",
-    "market_cap_rank": 3380,
-    "24_hr_volume_usd": 100642,
+    "market_cap_usd": 15761.27,
+    "market_cap_rank": 3393,
+    "24_hr_volume_usd": 58071,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x74603e780545d02C4257E7D2BE19c74dE7BE1952/logo.png"
 }

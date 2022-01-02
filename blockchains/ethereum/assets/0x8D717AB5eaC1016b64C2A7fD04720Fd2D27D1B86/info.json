@@ -4,7 +4,8 @@
     "id": "0x8D717AB5eaC1016b64C2A7fD04720Fd2D27D1B86",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitcoinvend",
-    "market_cap_rank": 2617,
-    "24_hr_volume_usd": 15225.01,
+    "market_cap_usd": 485259,
+    "market_cap_rank": 2686,
+    "24_hr_volume_usd": 5076.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8D717AB5eaC1016b64C2A7fD04720Fd2D27D1B86/logo.png"
 }

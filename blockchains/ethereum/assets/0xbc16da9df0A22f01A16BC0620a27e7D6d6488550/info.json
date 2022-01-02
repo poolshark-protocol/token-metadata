@@ -4,7 +4,8 @@
     "id": "0xbc16da9df0A22f01A16BC0620a27e7D6d6488550",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/percent",
-    "market_cap_rank": 1792,
-    "24_hr_volume_usd": 477.06,
+    "market_cap_usd": 4217480,
+    "market_cap_rank": 1641,
+    "24_hr_volume_usd": 24653,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbc16da9df0A22f01A16BC0620a27e7D6d6488550/logo.png"
 }

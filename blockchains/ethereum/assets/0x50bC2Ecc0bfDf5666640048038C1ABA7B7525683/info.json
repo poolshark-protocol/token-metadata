@@ -4,8 +4,9 @@
     "id": "0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/carvertical",
-    "market_cap_rank": 1706,
-    "24_hr_volume_usd": 148021,
+    "market_cap_usd": 3954038,
+    "market_cap_rank": 1681,
+    "24_hr_volume_usd": 59367,
     "public_notice": "Contract address has changed from 0xda6cb58a0d0c01610a29c5a65c303e13e885887c to 0x50bc2ecc0bfdf5666640048038c1aba7b7525683 . see https://twitter.com/carVertical_com/status/1311257938942668800",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x50bC2Ecc0bfDf5666640048038C1ABA7B7525683/logo.png"
 }

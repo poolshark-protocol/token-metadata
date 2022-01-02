@@ -4,7 +4,8 @@
     "id": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/siren",
-    "market_cap_rank": 1205,
-    "24_hr_volume_usd": 383724,
+    "market_cap_usd": 11499220,
+    "market_cap_rank": 1208,
+    "24_hr_volume_usd": 43633,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de/logo.png"
 }

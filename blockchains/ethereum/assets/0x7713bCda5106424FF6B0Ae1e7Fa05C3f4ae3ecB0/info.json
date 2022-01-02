@@ -4,7 +4,8 @@
     "id": "0x7713bCda5106424FF6B0Ae1e7Fa05C3f4ae3ecB0",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/grafsound",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 5532.09,
+    "24_hr_volume_usd": 4400.44,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7713bCda5106424FF6B0Ae1e7Fa05C3f4ae3ecB0/logo.png"
 }

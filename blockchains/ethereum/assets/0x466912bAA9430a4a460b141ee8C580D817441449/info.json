@@ -4,7 +4,8 @@
     "id": "0x466912bAA9430a4a460b141ee8C580D817441449",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blockmax",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 52840,
+    "24_hr_volume_usd": 26416,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x466912bAA9430a4a460b141ee8C580D817441449/logo.png"
 }

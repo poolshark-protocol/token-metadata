@@ -4,6 +4,7 @@
     "id": "0x77a2Bf0bDa9775Fb3524a6720dD3b16bd455e2C2",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/safebreastinu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77a2Bf0bDa9775Fb3524a6720dD3b16bd455e2C2/logo.png"

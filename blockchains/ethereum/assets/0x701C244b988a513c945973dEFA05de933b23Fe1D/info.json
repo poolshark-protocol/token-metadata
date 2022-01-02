@@ -4,8 +4,9 @@
     "id": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/openanx",
-    "market_cap_rank": 1177,
-    "24_hr_volume_usd": 169136,
+    "market_cap_usd": 12196463,
+    "market_cap_rank": 1176,
+    "24_hr_volume_usd": 133315,
     "public_notice": "Previously known as openanx, Website has changed from https://www.openanx.org/en/ to  https://www.oax.org/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x701C244b988a513c945973dEFA05de933b23Fe1D/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x61fd1c62551850D0c04C76FcE614cBCeD0094498",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/idk",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 329.2,
+    "24_hr_volume_usd": 501.42,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x61fd1c62551850D0c04C76FcE614cBCeD0094498/logo.png"
 }

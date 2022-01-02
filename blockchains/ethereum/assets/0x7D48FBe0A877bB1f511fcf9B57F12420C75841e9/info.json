@@ -4,7 +4,8 @@
     "id": "0x7D48FBe0A877bB1f511fcf9B57F12420C75841e9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/door",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 8621.92,
+    "24_hr_volume_usd": 488.88,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7D48FBe0A877bB1f511fcf9B57F12420C75841e9/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x3757232B55E60da4A8793183aC030CfCE4c3865d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ydragon",
-    "market_cap_rank": 2089,
-    "24_hr_volume_usd": 2714.11,
+    "market_cap_usd": 1632376,
+    "market_cap_rank": 2109,
+    "24_hr_volume_usd": 407.45,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3757232B55E60da4A8793183aC030CfCE4c3865d/logo.png"
 }

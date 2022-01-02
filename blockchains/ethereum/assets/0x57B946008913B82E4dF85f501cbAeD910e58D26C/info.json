@@ -4,7 +4,8 @@
     "id": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/marlin",
-    "market_cap_rank": 647,
-    "24_hr_volume_usd": 10765669,
+    "market_cap_usd": 52686652,
+    "market_cap_rank": 648,
+    "24_hr_volume_usd": 7475136,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x57B946008913B82E4dF85f501cbAeD910e58D26C/logo.png"
 }

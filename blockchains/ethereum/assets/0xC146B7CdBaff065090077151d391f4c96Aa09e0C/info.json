@@ -4,8 +4,9 @@
     "id": "0xC146B7CdBaff065090077151d391f4c96Aa09e0C",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/multi-chain-capital-2",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2686757,
+    "24_hr_volume_usd": 2846294,
     "public_notice": "Old Multi-Chain Capital page at: https://www.coingecko.com/en/coins/multi-chain-capital-old?locale=en",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC146B7CdBaff065090077151d391f4c96Aa09e0C/logo.png"
 }

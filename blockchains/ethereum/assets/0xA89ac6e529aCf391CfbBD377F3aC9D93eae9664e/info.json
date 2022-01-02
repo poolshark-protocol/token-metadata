@@ -4,8 +4,9 @@
     "id": "0xA89ac6e529aCf391CfbBD377F3aC9D93eae9664e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/keep4r",
-    "market_cap_rank": 2707,
-    "24_hr_volume_usd": 5426.17,
+    "market_cap_usd": 447515,
+    "market_cap_rank": 2702,
+    "24_hr_volume_usd": 5770.81,
     "public_notice": "Notice: Kindly be aware that liquidity provided in Uniswap (or similar AMMs) can be influenced by many factors which may result in collapse in available liquidity. Please exercise caution when trading. This notice is NOT directed at any project in particular, and is more of a cautionary reminder for our users.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA89ac6e529aCf391CfbBD377F3aC9D93eae9664e/logo.png"
 }

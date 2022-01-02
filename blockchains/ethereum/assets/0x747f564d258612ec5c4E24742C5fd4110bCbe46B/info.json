@@ -4,7 +4,8 @@
     "id": "0x747f564d258612ec5c4E24742C5fd4110bCbe46B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nodeseeds",
-    "market_cap_rank": 1798,
+    "market_cap_usd": 2976965,
+    "market_cap_rank": 1815,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x747f564d258612ec5c4E24742C5fd4110bCbe46B/logo.png"
 }

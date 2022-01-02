@@ -4,6 +4,7 @@
     "id": "0x704De5696dF237c5B9ba0De9ba7e0C63dA8eA0Df",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/xaaveb",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 12333.43,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x704De5696dF237c5B9ba0De9ba7e0C63dA8eA0Df/logo.png"

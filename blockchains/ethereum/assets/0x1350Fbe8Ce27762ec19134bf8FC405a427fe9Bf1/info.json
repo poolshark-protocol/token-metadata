@@ -4,7 +4,8 @@
     "id": "0x1350Fbe8Ce27762ec19134bf8FC405a427fe9Bf1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/trips-community",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 6.45,
+    "24_hr_volume_usd": 172.58,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1350Fbe8Ce27762ec19134bf8FC405a427fe9Bf1/logo.png"
 }

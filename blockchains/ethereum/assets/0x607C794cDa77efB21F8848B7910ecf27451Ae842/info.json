@@ -4,7 +4,8 @@
     "id": "0x607C794cDa77efB21F8848B7910ecf27451Ae842",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defipie",
-    "market_cap_rank": 2711,
-    "24_hr_volume_usd": 58329,
+    "market_cap_usd": 445949,
+    "market_cap_rank": 2712,
+    "24_hr_volume_usd": 57826,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x607C794cDa77efB21F8848B7910ecf27451Ae842/logo.png"
 }

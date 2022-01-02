@@ -4,7 +4,8 @@
     "id": "0x3155BA85D5F96b2d030a4966AF206230e46849cb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/thorchain-erc20",
-    "market_cap_rank": 465,
-    "24_hr_volume_usd": 1297381,
+    "market_cap_usd": 104128603,
+    "market_cap_rank": 463,
+    "24_hr_volume_usd": 535213,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3155BA85D5F96b2d030a4966AF206230e46849cb/logo.png"
 }

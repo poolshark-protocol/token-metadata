@@ -4,7 +4,8 @@
     "id": "0x36ed7baaD9a571B5dad55d096C0Ed902188D6d3c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/infinity-pad",
-    "market_cap_rank": 925,
-    "24_hr_volume_usd": 77556,
+    "market_cap_usd": 21411104,
+    "market_cap_rank": 946,
+    "24_hr_volume_usd": 44354,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x36ed7baaD9a571B5dad55d096C0Ed902188D6d3c/logo.png"
 }

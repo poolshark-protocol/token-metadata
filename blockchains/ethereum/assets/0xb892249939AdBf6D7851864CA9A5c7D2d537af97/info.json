@@ -4,8 +4,9 @@
     "id": "0xb892249939AdBf6D7851864CA9A5c7D2d537af97",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gambler-shiba",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 458.83,
+    "24_hr_volume_usd": 530.93,
     "public_notice": "Gambler Shiba is conducting token migration, for more information, please read: https://twitter.com/GamblerShiba/status/1417875027689672705?s=20",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb892249939AdBf6D7851864CA9A5c7D2d537af97/logo.png"
 }

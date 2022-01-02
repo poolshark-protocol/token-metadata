@@ -4,7 +4,8 @@
     "id": "0x878CF148ccBb50426043a9AFFe54Ba408221C7fA",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/crypto-kombat",
-    "market_cap_rank": 2969,
-    "24_hr_volume_usd": 356.45,
+    "market_cap_usd": 211009,
+    "market_cap_rank": 2970,
+    "24_hr_volume_usd": 312.78,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x878CF148ccBb50426043a9AFFe54Ba408221C7fA/logo.png"
 }

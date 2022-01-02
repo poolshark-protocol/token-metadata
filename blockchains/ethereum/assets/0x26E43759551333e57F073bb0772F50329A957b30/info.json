@@ -4,7 +4,8 @@
     "id": "0x26E43759551333e57F073bb0772F50329A957b30",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/degenvc",
-    "market_cap_rank": 2730,
-    "24_hr_volume_usd": 5538.7,
+    "market_cap_usd": 398430,
+    "market_cap_rank": 2744,
+    "24_hr_volume_usd": 5277.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26E43759551333e57F073bb0772F50329A957b30/logo.png"
 }

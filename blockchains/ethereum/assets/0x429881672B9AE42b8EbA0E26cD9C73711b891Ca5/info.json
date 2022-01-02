@@ -4,7 +4,8 @@
     "id": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pickle-finance",
-    "market_cap_rank": 1457,
-    "24_hr_volume_usd": 1448456,
+    "market_cap_usd": 7037337,
+    "market_cap_rank": 1426,
+    "24_hr_volume_usd": 4408711,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5/logo.png"
 }

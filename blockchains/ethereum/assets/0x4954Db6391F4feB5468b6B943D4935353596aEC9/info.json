@@ -4,7 +4,8 @@
     "id": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/usdq",
-    "market_cap_rank": 3242,
-    "24_hr_volume_usd": 2.01,
+    "market_cap_usd": 63162,
+    "market_cap_rank": 3243,
+    "24_hr_volume_usd": 10.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4954Db6391F4feB5468b6B943D4935353596aEC9/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/bonded-finance",
-    "market_cap_rank": 1197,
-    "24_hr_volume_usd": 234816,
+    "market_cap_usd": 13125297,
+    "market_cap_rank": 1146,
+    "24_hr_volume_usd": 320960,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5Dc02Ea99285E17656b8350722694c35154DB1E8/logo.png"
 }

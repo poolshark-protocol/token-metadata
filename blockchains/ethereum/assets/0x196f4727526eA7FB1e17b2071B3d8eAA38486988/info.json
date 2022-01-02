@@ -4,7 +4,8 @@
     "id": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/reserve",
-    "market_cap_rank": 829,
-    "24_hr_volume_usd": 3573.62,
+    "market_cap_usd": 28389755,
+    "market_cap_rank": 842,
+    "24_hr_volume_usd": 1732.54,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x196f4727526eA7FB1e17b2071B3d8eAA38486988/logo.png"
 }

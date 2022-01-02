@@ -4,7 +4,8 @@
     "id": "0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/domraider",
-    "market_cap_rank": 1869,
-    "24_hr_volume_usd": 4085.46,
+    "market_cap_usd": 1404985,
+    "market_cap_rank": 2181,
+    "24_hr_volume_usd": 710.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9AF4f26941677C706cfEcf6D3379FF01bB85D5Ab/logo.png"
 }

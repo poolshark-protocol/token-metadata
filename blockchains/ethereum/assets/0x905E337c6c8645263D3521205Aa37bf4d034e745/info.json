@@ -4,7 +4,8 @@
     "id": "0x905E337c6c8645263D3521205Aa37bf4d034e745",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/medical-token-currency",
-    "market_cap_rank": 1485,
+    "market_cap_usd": 5820228,
+    "market_cap_rank": 1504,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x905E337c6c8645263D3521205Aa37bf4d034e745/logo.png"
 }

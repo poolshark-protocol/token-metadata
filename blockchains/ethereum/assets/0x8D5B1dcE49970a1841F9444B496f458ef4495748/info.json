@@ -4,7 +4,8 @@
     "id": "0x8D5B1dcE49970a1841F9444B496f458ef4495748",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/air-shiba",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 764.79,
+    "24_hr_volume_usd": 2412.53,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8D5B1dcE49970a1841F9444B496f458ef4495748/logo.png"
 }

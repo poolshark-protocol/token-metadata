@@ -4,7 +4,8 @@
     "id": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nexo",
-    "market_cap_rank": 97,
-    "24_hr_volume_usd": 6840679,
+    "market_cap_usd": 1476551049,
+    "market_cap_rank": 95,
+    "24_hr_volume_usd": 9129034,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206/logo.png"
 }

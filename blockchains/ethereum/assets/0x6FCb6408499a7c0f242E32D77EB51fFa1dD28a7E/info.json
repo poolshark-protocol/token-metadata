@@ -4,7 +4,8 @@
     "id": "0x6FCb6408499a7c0f242E32D77EB51fFa1dD28a7E",
     "decimals": 12,
     "coingecko_url": "https://www.coingecko.com/en/coins/hydradx",
-    "market_cap_rank": 802,
-    "24_hr_volume_usd": 4439.06,
+    "market_cap_usd": 30475166,
+    "market_cap_rank": 815,
+    "24_hr_volume_usd": 4400.71,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6FCb6408499a7c0f242E32D77EB51fFa1dD28a7E/logo.png"
 }

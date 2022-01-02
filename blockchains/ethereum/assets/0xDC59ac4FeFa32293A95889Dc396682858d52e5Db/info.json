@@ -4,7 +4,8 @@
     "id": "0xDC59ac4FeFa32293A95889Dc396682858d52e5Db",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/bean",
-    "market_cap_rank": 710,
-    "24_hr_volume_usd": 91695,
+    "market_cap_usd": 41388643,
+    "market_cap_rank": 718,
+    "24_hr_volume_usd": 86628,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDC59ac4FeFa32293A95889Dc396682858d52e5Db/logo.png"
 }

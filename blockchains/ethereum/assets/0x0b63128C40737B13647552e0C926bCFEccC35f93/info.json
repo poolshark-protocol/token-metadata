@@ -4,7 +4,8 @@
     "id": "0x0b63128C40737B13647552e0C926bCFEccC35f93",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wliti",
-    "market_cap_rank": 1177,
-    "24_hr_volume_usd": 2454.0,
+    "market_cap_usd": 11829383,
+    "market_cap_rank": 1190,
+    "24_hr_volume_usd": 7406.25,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0b63128C40737B13647552e0C926bCFEccC35f93/logo.png"
 }

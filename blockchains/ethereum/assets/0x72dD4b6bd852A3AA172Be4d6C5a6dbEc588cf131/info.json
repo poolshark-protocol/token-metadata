@@ -4,7 +4,8 @@
     "id": "0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/naga",
-    "market_cap_rank": 363,
-    "24_hr_volume_usd": 21234401,
+    "market_cap_usd": 117393956,
+    "market_cap_rank": 443,
+    "24_hr_volume_usd": 6151677,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72dD4b6bd852A3AA172Be4d6C5a6dbEc588cf131/logo.png"
 }

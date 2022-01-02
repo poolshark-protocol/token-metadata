@@ -4,7 +4,8 @@
     "id": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/anj",
-    "market_cap_rank": 682,
-    "24_hr_volume_usd": 105796,
+    "market_cap_usd": 45038583,
+    "market_cap_rank": 696,
+    "24_hr_volume_usd": 59650,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcD62b1C403fa761BAadFC74C525ce2B51780b184/logo.png"
 }

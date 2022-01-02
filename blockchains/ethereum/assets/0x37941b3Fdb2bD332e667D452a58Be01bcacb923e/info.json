@@ -4,7 +4,8 @@
     "id": "0x37941b3Fdb2bD332e667D452a58Be01bcacb923e",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/fren",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 14785.69,
+    "24_hr_volume_usd": 5597.86,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37941b3Fdb2bD332e667D452a58Be01bcacb923e/logo.png"
 }

@@ -4,6 +4,7 @@
     "id": "0xAB6E163cBEB3959b68b90beC722F5a9EEf82bA72",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-pro",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "public_notice": "Ethereum Pro is conducting a fork and therefore upgrading to a new contract address. For latest information, please read https://twitter.com/eprotoken/status/1417545778084593665",

@@ -4,7 +4,8 @@
     "id": "0x36CE7a52CDa404b8fa87a98d0d17EC7dd0B144ED",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pinkslip-finance",
-    "market_cap_rank": 2191,
-    "24_hr_volume_usd": 5349.26,
+    "market_cap_usd": 1363717,
+    "market_cap_rank": 2192,
+    "24_hr_volume_usd": 6857.41,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x36CE7a52CDa404b8fa87a98d0d17EC7dd0B144ED/logo.png"
 }

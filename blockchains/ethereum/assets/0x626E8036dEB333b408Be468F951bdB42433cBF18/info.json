@@ -4,7 +4,8 @@
     "id": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aioz-network",
-    "market_cap_rank": 369,
-    "24_hr_volume_usd": 1285705,
+    "market_cap_usd": 168888132,
+    "market_cap_rank": 359,
+    "24_hr_volume_usd": 1100494,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x626E8036dEB333b408Be468F951bdB42433cBF18/logo.png"
 }

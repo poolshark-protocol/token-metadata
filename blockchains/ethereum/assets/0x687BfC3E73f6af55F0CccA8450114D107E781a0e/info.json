@@ -4,7 +4,8 @@
     "id": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/qchi",
-    "market_cap_rank": 2577,
-    "24_hr_volume_usd": 2696.32,
+    "market_cap_usd": 626893,
+    "market_cap_rank": 2571,
+    "24_hr_volume_usd": 2079.67,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x687BfC3E73f6af55F0CccA8450114D107E781a0e/logo.png"
 }

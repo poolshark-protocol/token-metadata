@@ -4,7 +4,8 @@
     "id": "0x9eb6bE354d88fD88795a04DE899a57A77C545590",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gamestop-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 31990,
+    "24_hr_volume_usd": 18312.03,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9eb6bE354d88fD88795a04DE899a57A77C545590/logo.png"
 }

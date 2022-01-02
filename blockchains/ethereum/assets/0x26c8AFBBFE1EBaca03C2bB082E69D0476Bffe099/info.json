@@ -4,7 +4,8 @@
     "id": "0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cellframe",
-    "market_cap_rank": 922,
-    "24_hr_volume_usd": 848626,
+    "market_cap_usd": 23274546,
+    "market_cap_rank": 915,
+    "24_hr_volume_usd": 627890,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26c8AFBBFE1EBaca03C2bB082E69D0476Bffe099/logo.png"
 }

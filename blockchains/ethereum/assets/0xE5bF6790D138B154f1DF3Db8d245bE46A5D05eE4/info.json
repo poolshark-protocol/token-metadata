@@ -4,7 +4,8 @@
     "id": "0xE5bF6790D138B154f1DF3Db8d245bE46A5D05eE4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lyfe-land",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 355.62,
+    "24_hr_volume_usd": 607.34,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE5bF6790D138B154f1DF3Db8d245bE46A5D05eE4/logo.png"
 }

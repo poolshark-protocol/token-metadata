@@ -4,8 +4,9 @@
     "id": "0xB1e9157c2Fdcc5a856C8DA8b2d89b6C32b3c1229",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zenfuse",
-    "market_cap_rank": 1681,
-    "24_hr_volume_usd": 141368,
+    "market_cap_usd": 3819421,
+    "market_cap_rank": 1706,
+    "24_hr_volume_usd": 165538,
     "public_notice": "Zenfuse has upgraded its old smart contract (0xbbbfd95e5b8f1f4bd0694071fb3133be5b5d1ef6) to a new smart contract (0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229) on 14 October 2020.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB1e9157c2Fdcc5a856C8DA8b2d89b6C32b3c1229/logo.png"
 }

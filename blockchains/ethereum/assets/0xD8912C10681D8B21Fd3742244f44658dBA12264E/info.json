@@ -4,7 +4,8 @@
     "id": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pluton",
-    "market_cap_rank": 1252,
-    "24_hr_volume_usd": 167711,
+    "market_cap_usd": 10516189,
+    "market_cap_rank": 1250,
+    "24_hr_volume_usd": 151533,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD8912C10681D8B21Fd3742244f44658dBA12264E/logo.png"
 }

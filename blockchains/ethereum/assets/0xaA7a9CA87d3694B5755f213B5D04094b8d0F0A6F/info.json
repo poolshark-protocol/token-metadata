@@ -4,7 +4,8 @@
     "id": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/origintrail",
-    "market_cap_rank": 191,
-    "24_hr_volume_usd": 3326652,
+    "market_cap_usd": 463825302,
+    "market_cap_rank": 189,
+    "24_hr_volume_usd": 6694127,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F/logo.png"
 }

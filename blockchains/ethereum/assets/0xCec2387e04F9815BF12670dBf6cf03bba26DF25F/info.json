@@ -4,7 +4,8 @@
     "id": "0xCec2387e04F9815BF12670dBf6cf03bba26DF25F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yfilend-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 15.95,
+    "24_hr_volume_usd": 81.98,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCec2387e04F9815BF12670dBf6cf03bba26DF25F/logo.png"
 }

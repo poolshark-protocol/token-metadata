@@ -4,7 +4,8 @@
     "id": "0x428dc22668E6F3468273634067e5545ED5417A3E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/miraqle",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 318517,
+    "24_hr_volume_usd": 195820,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x428dc22668E6F3468273634067e5545ED5417A3E/logo.png"
 }

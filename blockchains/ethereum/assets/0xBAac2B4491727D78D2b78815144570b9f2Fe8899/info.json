@@ -4,7 +4,8 @@
     "id": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/the-doge-nft",
-    "market_cap_rank": 860,
-    "24_hr_volume_usd": 413337,
+    "market_cap_usd": 26116404,
+    "market_cap_rank": 875,
+    "24_hr_volume_usd": 314652,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBAac2B4491727D78D2b78815144570b9f2Fe8899/logo.png"
 }

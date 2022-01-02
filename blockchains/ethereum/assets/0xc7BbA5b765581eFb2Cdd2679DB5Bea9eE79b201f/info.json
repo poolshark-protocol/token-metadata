@@ -4,7 +4,8 @@
     "id": "0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gems-2",
-    "market_cap_rank": 2931,
-    "24_hr_volume_usd": 14599.54,
+    "market_cap_usd": 220246,
+    "market_cap_rank": 2956,
+    "24_hr_volume_usd": 5114.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc7BbA5b765581eFb2Cdd2679DB5Bea9eE79b201f/logo.png"
 }

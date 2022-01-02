@@ -4,7 +4,8 @@
     "id": "0xf3Db5Fa2C66B7aF3Eb0C0b782510816cbe4813b8",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/everex",
-    "market_cap_rank": 2290,
-    "24_hr_volume_usd": 18924.39,
+    "market_cap_usd": 1111280,
+    "market_cap_rank": 2305,
+    "24_hr_volume_usd": 10649.61,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf3Db5Fa2C66B7aF3Eb0C0b782510816cbe4813b8/logo.png"
 }

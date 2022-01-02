@@ -4,7 +4,8 @@
     "id": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pontoon",
-    "market_cap_rank": 1691,
-    "24_hr_volume_usd": 5684.18,
+    "market_cap_usd": 3873221,
+    "market_cap_rank": 1695,
+    "24_hr_volume_usd": 1229.26,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02/logo.png"
 }

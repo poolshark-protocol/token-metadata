@@ -4,7 +4,8 @@
     "id": "0x98ddC72bD02d448F68C4226f26122c66C5BD711E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/non-fungible-toke",
-    "market_cap_rank": 2658,
+    "market_cap_usd": 490672,
+    "market_cap_rank": 2677,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x98ddC72bD02d448F68C4226f26122c66C5BD711E/logo.png"
 }

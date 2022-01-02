@@ -4,6 +4,7 @@
     "id": "0xA017ac5faC5941f95010b12570B812C974469c2C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/proxeus",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA017ac5faC5941f95010b12570B812C974469c2C/logo.png"

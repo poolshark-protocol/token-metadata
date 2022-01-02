@@ -4,7 +4,8 @@
     "id": "0x1A3496C18d558bd9C6C8f609E1B129f67AB08163",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/deapcoin",
-    "market_cap_rank": 373,
-    "24_hr_volume_usd": 6817521,
+    "market_cap_usd": 158047747,
+    "market_cap_rank": 374,
+    "24_hr_volume_usd": 5891458,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1A3496C18d558bd9C6C8f609E1B129f67AB08163/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rook",
-    "market_cap_rank": 442,
-    "24_hr_volume_usd": 1345628,
+    "market_cap_usd": 113505360,
+    "market_cap_rank": 447,
+    "24_hr_volume_usd": 1924408,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a/logo.png"
 }

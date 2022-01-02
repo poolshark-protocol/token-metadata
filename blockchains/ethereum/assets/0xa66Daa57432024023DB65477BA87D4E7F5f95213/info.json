@@ -4,7 +4,8 @@
     "id": "0xa66Daa57432024023DB65477BA87D4E7F5f95213",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/huobi-pool-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 498443,
+    "24_hr_volume_usd": 59485,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa66Daa57432024023DB65477BA87D4E7F5f95213/logo.png"
 }

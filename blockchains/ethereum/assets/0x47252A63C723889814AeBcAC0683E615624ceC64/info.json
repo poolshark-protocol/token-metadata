@@ -4,7 +4,8 @@
     "id": "0x47252A63C723889814AeBcAC0683E615624ceC64",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nil-dao",
-    "market_cap_rank": 1765,
-    "24_hr_volume_usd": 30433,
+    "market_cap_usd": 3179902,
+    "market_cap_rank": 1792,
+    "24_hr_volume_usd": 5177.29,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x47252A63C723889814AeBcAC0683E615624ceC64/logo.png"
 }

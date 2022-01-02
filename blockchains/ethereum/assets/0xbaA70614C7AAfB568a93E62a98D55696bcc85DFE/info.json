@@ -4,7 +4,8 @@
     "id": "0xbaA70614C7AAfB568a93E62a98D55696bcc85DFE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unicap-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 16515.24,
+    "24_hr_volume_usd": 17179.03,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbaA70614C7AAfB568a93E62a98D55696bcc85DFE/logo.png"
 }

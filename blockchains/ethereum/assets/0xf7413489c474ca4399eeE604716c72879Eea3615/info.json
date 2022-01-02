@@ -4,7 +4,8 @@
     "id": "0xf7413489c474ca4399eeE604716c72879Eea3615",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/apyswap",
-    "market_cap_rank": 2185,
-    "24_hr_volume_usd": 38317,
+    "market_cap_usd": 1330002,
+    "market_cap_rank": 2208,
+    "24_hr_volume_usd": 22908,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf7413489c474ca4399eeE604716c72879Eea3615/logo.png"
 }

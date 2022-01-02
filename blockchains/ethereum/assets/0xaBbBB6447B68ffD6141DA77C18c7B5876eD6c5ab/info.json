@@ -4,7 +4,8 @@
     "id": "0xaBbBB6447B68ffD6141DA77C18c7B5876eD6c5ab",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/datx",
-    "market_cap_rank": 2980,
-    "24_hr_volume_usd": 10059.35,
+    "market_cap_usd": 204876,
+    "market_cap_rank": 2975,
+    "24_hr_volume_usd": 70106,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaBbBB6447B68ffD6141DA77C18c7B5876eD6c5ab/logo.png"
 }

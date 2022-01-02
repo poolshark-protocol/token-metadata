@@ -4,7 +4,8 @@
     "id": "0xa499648fD0e80FD911972BbEb069e4c20e68bF22",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/jenny-metaverse-dao-token",
-    "market_cap_rank": 1176,
-    "24_hr_volume_usd": 25091,
+    "market_cap_usd": 12491523,
+    "market_cap_rank": 1167,
+    "24_hr_volume_usd": 93913,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa499648fD0e80FD911972BbEb069e4c20e68bF22/logo.png"
 }

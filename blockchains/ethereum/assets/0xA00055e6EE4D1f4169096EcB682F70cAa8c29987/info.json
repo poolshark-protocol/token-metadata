@@ -4,7 +4,8 @@
     "id": "0xA00055e6EE4D1f4169096EcB682F70cAa8c29987",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wiva",
-    "market_cap_rank": 1811,
-    "24_hr_volume_usd": 1028.4,
+    "market_cap_usd": 2941516,
+    "market_cap_rank": 1822,
+    "24_hr_volume_usd": 592.53,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA00055e6EE4D1f4169096EcB682F70cAa8c29987/logo.png"
 }

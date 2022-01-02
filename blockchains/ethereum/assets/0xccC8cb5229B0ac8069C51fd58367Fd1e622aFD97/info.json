@@ -4,7 +4,8 @@
     "id": "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gods-unchained",
-    "market_cap_rank": 381,
-    "24_hr_volume_usd": 14043115,
+    "market_cap_usd": 148726454,
+    "market_cap_rank": 389,
+    "24_hr_volume_usd": 12257681,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97/logo.png"
 }

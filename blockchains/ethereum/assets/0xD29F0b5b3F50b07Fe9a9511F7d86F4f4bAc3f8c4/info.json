@@ -4,7 +4,8 @@
     "id": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/liquidity-network",
-    "market_cap_rank": 2881,
-    "24_hr_volume_usd": 122.44,
+    "market_cap_usd": 186530,
+    "market_cap_rank": 3006,
+    "24_hr_volume_usd": 0.02143254,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4/logo.png"
 }

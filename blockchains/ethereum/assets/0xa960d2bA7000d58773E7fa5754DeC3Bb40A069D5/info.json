@@ -4,7 +4,8 @@
     "id": "0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/one-dex",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.00602621,
+    "24_hr_volume_usd": 0.422916,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5/logo.png"
 }

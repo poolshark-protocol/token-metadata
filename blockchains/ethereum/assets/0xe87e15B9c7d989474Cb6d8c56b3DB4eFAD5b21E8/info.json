@@ -4,8 +4,9 @@
     "id": "0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hokkaidu-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 159765,
+    "24_hr_volume_usd": 191062,
     "public_notice": "Hokkaido Inu (HOKK) has recently performed a relaunch on multiple chains. For more information, please view this <a href=\"https://hokk.finance/migrationinfo\">announcement</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe87e15B9c7d989474Cb6d8c56b3DB4eFAD5b21E8/logo.png"
 }

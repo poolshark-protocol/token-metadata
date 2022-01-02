@@ -4,7 +4,8 @@
     "id": "0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/schain-wallet",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 11455.0,
+    "24_hr_volume_usd": 1275.77,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2cAd4991f62fc6Fcd8EC219f37E7DE52B688B75A/logo.png"
 }

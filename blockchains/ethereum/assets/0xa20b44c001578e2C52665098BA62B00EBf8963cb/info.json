@@ -4,7 +4,8 @@
     "id": "0xa20b44c001578e2C52665098BA62B00EBf8963cb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/reapit",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 57.29,
+    "24_hr_volume_usd": 144.02,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa20b44c001578e2C52665098BA62B00EBf8963cb/logo.png"
 }

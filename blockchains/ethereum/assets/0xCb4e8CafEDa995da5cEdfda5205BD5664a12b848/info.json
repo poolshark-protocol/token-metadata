@@ -4,7 +4,8 @@
     "id": "0xCb4e8CafEDa995da5cEdfda5205BD5664a12b848",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/shabu-shabu",
-    "market_cap_rank": 1044,
-    "24_hr_volume_usd": 11067.01,
+    "market_cap_usd": 42787254,
+    "market_cap_rank": 707,
+    "24_hr_volume_usd": 41563,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCb4e8CafEDa995da5cEdfda5205BD5664a12b848/logo.png"
 }

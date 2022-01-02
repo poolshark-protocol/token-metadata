@@ -4,7 +4,8 @@
     "id": "0x7e03521b9dA891Ca3F79A8728E2eaeb24886c5f9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/3x-long-matic-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2478968,
+    "24_hr_volume_usd": 2066508,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7e03521b9dA891Ca3F79A8728E2eaeb24886c5f9/logo.png"
 }

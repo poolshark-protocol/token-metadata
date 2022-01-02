@@ -4,8 +4,9 @@
     "id": "0x25B3E27f03FD51163818b111690066e1b088F800",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/multi-farm-capital",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 54217,
+    "24_hr_volume_usd": 23171,
     "public_notice": "Contract has migrated to v2. Read more at: https://twitter.com/MultiFarmCap_/status/1468557311719452678",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x25B3E27f03FD51163818b111690066e1b088F800/logo.png"
 }

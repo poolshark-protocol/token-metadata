@@ -4,7 +4,8 @@
     "id": "0x27C70Cd1946795B66be9d954418546998b546634",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/leash",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 5956088,
+    "24_hr_volume_usd": 8900011,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x27C70Cd1946795B66be9d954418546998b546634/logo.png"
 }

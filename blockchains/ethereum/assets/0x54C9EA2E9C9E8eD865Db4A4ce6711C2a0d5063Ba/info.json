@@ -4,7 +4,8 @@
     "id": "0x54C9EA2E9C9E8eD865Db4A4ce6711C2a0d5063Ba",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bartertrade",
-    "market_cap_rank": 2624,
-    "24_hr_volume_usd": 6947.19,
+    "market_cap_usd": 498531,
+    "market_cap_rank": 2671,
+    "24_hr_volume_usd": 8288.9,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x54C9EA2E9C9E8eD865Db4A4ce6711C2a0d5063Ba/logo.png"
 }

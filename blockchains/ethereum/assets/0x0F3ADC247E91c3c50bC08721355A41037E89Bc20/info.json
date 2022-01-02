@@ -4,7 +4,8 @@
     "id": "0x0F3ADC247E91c3c50bC08721355A41037E89Bc20",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/anchor-protocol",
+    "market_cap_usd": 675427745,
     "market_cap_rank": 156,
-    "24_hr_volume_usd": 22688508,
+    "24_hr_volume_usd": 13058587,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0F3ADC247E91c3c50bC08721355A41037E89Bc20/logo.png"
 }

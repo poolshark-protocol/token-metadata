@@ -4,7 +4,8 @@
     "id": "0xC581b735A1688071A1746c968e0798D642EDE491",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/tether-eurt",
-    "market_cap_rank": 683,
-    "24_hr_volume_usd": 12554803,
+    "market_cap_usd": 45641177,
+    "market_cap_rank": 690,
+    "24_hr_volume_usd": 7337179,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC581b735A1688071A1746c968e0798D642EDE491/logo.png"
 }

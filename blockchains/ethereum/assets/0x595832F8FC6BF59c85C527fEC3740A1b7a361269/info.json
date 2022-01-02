@@ -4,7 +4,8 @@
     "id": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/power-ledger",
-    "market_cap_rank": 336,
-    "24_hr_volume_usd": 9391402,
+    "market_cap_usd": 198577749,
+    "market_cap_rank": 331,
+    "24_hr_volume_usd": 26376489,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x595832F8FC6BF59c85C527fEC3740A1b7a361269/logo.png"
 }

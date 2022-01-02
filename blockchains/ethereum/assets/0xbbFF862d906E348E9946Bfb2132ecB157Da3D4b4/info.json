@@ -4,7 +4,8 @@
     "id": "0xbbFF862d906E348E9946Bfb2132ecB157Da3D4b4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sharder-protocol",
-    "market_cap_rank": 2412,
-    "24_hr_volume_usd": 69789,
+    "market_cap_usd": 1047487,
+    "market_cap_rank": 2332,
+    "24_hr_volume_usd": 67992,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbbFF862d906E348E9946Bfb2132ecB157Da3D4b4/logo.png"
 }

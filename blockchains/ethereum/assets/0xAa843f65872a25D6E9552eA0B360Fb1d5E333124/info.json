@@ -4,7 +4,8 @@
     "id": "0xAa843f65872a25D6E9552eA0B360Fb1d5E333124",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/eco-value-coin",
-    "market_cap_rank": 1097,
+    "market_cap_usd": 14328193,
+    "market_cap_rank": 1109,
     "24_hr_volume_usd": 4848.86,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAa843f65872a25D6E9552eA0B360Fb1d5E333124/logo.png"
 }

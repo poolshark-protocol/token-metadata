@@ -4,7 +4,8 @@
     "id": "0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/boba-network",
-    "market_cap_rank": 190,
-    "24_hr_volume_usd": 5408694,
+    "market_cap_usd": 482893570,
+    "market_cap_rank": 187,
+    "24_hr_volume_usd": 4532362,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x42bBFa2e77757C645eeaAd1655E0911a7553Efbc/logo.png"
 }

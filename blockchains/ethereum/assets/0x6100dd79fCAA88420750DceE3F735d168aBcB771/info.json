@@ -4,8 +4,9 @@
     "id": "0x6100dd79fCAA88420750DceE3F735d168aBcB771",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethereans",
-    "market_cap_rank": 1061,
-    "24_hr_volume_usd": 274978,
+    "market_cap_usd": 14689451,
+    "market_cap_rank": 1091,
+    "24_hr_volume_usd": 59313,
     "public_notice": "This page is for the new $OS token. An exploit was found that affected the old one, but all funds are safe, and holders of the old one can claim the new one here: https://os.ethos.eth.link. The team has published a full report of what happened here: https://medium.com/ethereansos/the-white-hat-rug-pull-your-eth-usdc-and-os-are-safe-all-is-well-3125bd5f3409",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6100dd79fCAA88420750DceE3F735d168aBcB771/logo.png"
 }

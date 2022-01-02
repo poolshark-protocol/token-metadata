@@ -4,7 +4,8 @@
     "id": "0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polka-city",
-    "market_cap_rank": 773,
-    "24_hr_volume_usd": 3349930,
+    "market_cap_usd": 35313170,
+    "market_cap_rank": 768,
+    "24_hr_volume_usd": 3973716,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaA8330FB2B4D5D07ABFE7A72262752a8505C6B37/logo.png"
 }

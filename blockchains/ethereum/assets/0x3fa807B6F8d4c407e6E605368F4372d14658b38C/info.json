@@ -4,7 +4,8 @@
     "id": "0x3fa807B6F8d4c407e6E605368F4372d14658b38C",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/rise-protocol",
-    "market_cap_rank": 3230,
-    "24_hr_volume_usd": 0.0,
+    "market_cap_usd": 59691,
+    "market_cap_rank": 3254,
+    "24_hr_volume_usd": 16.74,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3fa807B6F8d4c407e6E605368F4372d14658b38C/logo.png"
 }

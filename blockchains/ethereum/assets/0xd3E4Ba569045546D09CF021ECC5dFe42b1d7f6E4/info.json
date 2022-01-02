@@ -4,8 +4,9 @@
     "id": "0xd3E4Ba569045546D09CF021ECC5dFe42b1d7f6E4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/morpheus-network",
-    "market_cap_rank": 543,
-    "24_hr_volume_usd": 887718,
+    "market_cap_usd": 75515876,
+    "market_cap_rank": 553,
+    "24_hr_volume_usd": 335973,
     "public_notice": "Morpheus.Network has rebranded MRPH token to MNW. Kindly proceed to swap the tokens by following the instruction here: https://news.morpheus.network/the-morpheus-network-mnw-token-is-here-the-swap-has-now-begun-bec5ca2f30ba",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd3E4Ba569045546D09CF021ECC5dFe42b1d7f6E4/logo.png"
 }

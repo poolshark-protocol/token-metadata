@@ -4,7 +4,8 @@
     "id": "0x954b890704693af242613edEf1B603825afcD708",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cardstack",
-    "market_cap_rank": 877,
-    "24_hr_volume_usd": 180417,
+    "market_cap_usd": 23936701,
+    "market_cap_rank": 903,
+    "24_hr_volume_usd": 159730,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x954b890704693af242613edEf1B603825afcD708/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xcFbf70e33d5163E25B0dad73955c1BD9E8cd8BA2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/winstars",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 98.39,
+    "24_hr_volume_usd": 4.47,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcFbf70e33d5163E25B0dad73955c1BD9E8cd8BA2/logo.png"
 }

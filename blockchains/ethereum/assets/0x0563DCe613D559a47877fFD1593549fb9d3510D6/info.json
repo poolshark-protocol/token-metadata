@@ -4,7 +4,8 @@
     "id": "0x0563DCe613D559a47877fFD1593549fb9d3510D6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/superbid",
-    "market_cap_rank": 1289,
-    "24_hr_volume_usd": 415877,
+    "market_cap_usd": 9892129,
+    "market_cap_rank": 1267,
+    "24_hr_volume_usd": 128127,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0563DCe613D559a47877fFD1593549fb9d3510D6/logo.png"
 }

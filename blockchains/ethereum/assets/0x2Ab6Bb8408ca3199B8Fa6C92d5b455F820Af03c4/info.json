@@ -4,8 +4,9 @@
     "id": "0x2Ab6Bb8408ca3199B8Fa6C92d5b455F820Af03c4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/te-food",
-    "market_cap_rank": 1063,
-    "24_hr_volume_usd": 223614,
+    "market_cap_usd": 14500245,
+    "market_cap_rank": 1099,
+    "24_hr_volume_usd": 185471,
     "public_notice": "Token swap performed. Ticker changed from TFD to TONE. Refer to https://www.kucoin.com/news/en-kucoin-will-support-the-token-swap-of-tefood-from-ted-to-tone",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2Ab6Bb8408ca3199B8Fa6C92d5b455F820Af03c4/logo.png"
 }

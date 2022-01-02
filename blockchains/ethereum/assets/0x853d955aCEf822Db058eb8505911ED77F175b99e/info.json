@@ -4,7 +4,8 @@
     "id": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/frax",
-    "market_cap_rank": 84,
-    "24_hr_volume_usd": 35394963,
+    "market_cap_usd": 1833124226,
+    "market_cap_rank": 83,
+    "24_hr_volume_usd": 34539730,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x853d955aCEf822Db058eb8505911ED77F175b99e/logo.png"
 }

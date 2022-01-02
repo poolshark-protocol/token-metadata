@@ -4,6 +4,7 @@
     "id": "0xD27D76A1bA55ce5C0291CCd04feBBe793D22ebF4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/benepit",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 6.05,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD27D76A1bA55ce5C0291CCd04feBBe793D22ebF4/logo.png"

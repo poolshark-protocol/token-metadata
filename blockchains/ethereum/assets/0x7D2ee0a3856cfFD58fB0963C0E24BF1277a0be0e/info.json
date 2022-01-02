@@ -4,7 +4,8 @@
     "id": "0x7D2ee0a3856cfFD58fB0963C0E24BF1277a0be0e",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/zeno-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.0,
+    "24_hr_volume_usd": 86.55,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7D2ee0a3856cfFD58fB0963C0E24BF1277a0be0e/logo.png"
 }

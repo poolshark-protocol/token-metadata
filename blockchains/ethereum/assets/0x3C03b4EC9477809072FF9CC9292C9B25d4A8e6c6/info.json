@@ -4,8 +4,9 @@
     "id": "0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/covercompared",
-    "market_cap_rank": 1610,
-    "24_hr_volume_usd": 84803,
+    "market_cap_usd": 5559803,
+    "market_cap_rank": 1517,
+    "24_hr_volume_usd": 125151,
     "public_notice": "PolkaCover has been officially rebranded as CoverCompared. For more info, kindly visit https://covercompared.medium.com/a-new-era-25edc6c57b96",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x2863916C6ebDBBf0c6f02F87b7eB478509299868",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/simba-storage-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 581315,
+    "24_hr_volume_usd": 556482,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2863916C6ebDBBf0c6f02F87b7eB478509299868/logo.png"
 }

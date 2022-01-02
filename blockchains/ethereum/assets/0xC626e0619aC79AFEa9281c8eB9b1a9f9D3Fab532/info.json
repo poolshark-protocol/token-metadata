@@ -4,7 +4,8 @@
     "id": "0xC626e0619aC79AFEa9281c8eB9b1a9f9D3Fab532",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/freedom-reserve",
-    "market_cap_rank": 3305,
-    "24_hr_volume_usd": 1.82,
+    "market_cap_usd": 42144,
+    "market_cap_rank": 3303,
+    "24_hr_volume_usd": 0.463202,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC626e0619aC79AFEa9281c8eB9b1a9f9D3Fab532/logo.png"
 }

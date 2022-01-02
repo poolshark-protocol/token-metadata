@@ -4,7 +4,8 @@
     "id": "0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/genaro-network",
-    "market_cap_rank": 1641,
-    "24_hr_volume_usd": 318011,
+    "market_cap_usd": 4133344,
+    "market_cap_rank": 1655,
+    "24_hr_volume_usd": 126908,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6EC8a24CaBdc339A06a172F8223ea557055aDAa5/logo.png"
 }

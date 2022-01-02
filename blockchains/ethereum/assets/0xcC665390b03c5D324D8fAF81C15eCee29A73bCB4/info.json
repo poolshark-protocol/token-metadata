@@ -4,8 +4,9 @@
     "id": "0xcC665390b03c5D324D8fAF81C15eCee29A73bCB4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/chainswap",
-    "market_cap_rank": 2054,
-    "24_hr_volume_usd": 68093,
+    "market_cap_usd": 1827521,
+    "market_cap_rank": 2046,
+    "24_hr_volume_usd": 68254,
     "public_notice": "Chainswap has been hacked and the ETH-BSC bridge has been paused. Pancakeswap market is removed https://twitter.com/chain_swap/status/1418944764263780357?s=21 Token has migrated to 0xcc665390b03c5d324d8faf81c15ecee29a73bcb4",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcC665390b03c5D324D8fAF81C15eCee29A73bCB4/logo.png"
 }

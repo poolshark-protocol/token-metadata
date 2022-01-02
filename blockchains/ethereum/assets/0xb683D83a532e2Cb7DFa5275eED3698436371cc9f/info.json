@@ -4,7 +4,8 @@
     "id": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/btu-protocol",
-    "market_cap_rank": 624,
-    "24_hr_volume_usd": 2066.18,
+    "market_cap_usd": 40307909,
+    "market_cap_rank": 731,
+    "24_hr_volume_usd": 82.67,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb683D83a532e2Cb7DFa5275eED3698436371cc9f/logo.png"
 }

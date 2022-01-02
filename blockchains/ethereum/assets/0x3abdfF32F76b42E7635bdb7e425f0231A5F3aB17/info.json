@@ -4,7 +4,8 @@
     "id": "0x3abdfF32F76b42E7635bdb7e425f0231A5F3aB17",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/connectjob",
-    "market_cap_rank": 3430,
+    "market_cap_usd": 8974.98,
+    "market_cap_rank": 3431,
     "24_hr_volume_usd": 0.061851,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3abdfF32F76b42E7635bdb7e425f0231A5F3aB17/logo.png"
 }

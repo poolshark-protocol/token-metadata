@@ -4,7 +4,8 @@
     "id": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/latoken",
-    "market_cap_rank": 1293,
-    "24_hr_volume_usd": 15705.56,
+    "market_cap_usd": 8918495,
+    "market_cap_rank": 1312,
+    "24_hr_volume_usd": 2413.35,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xAb51e836BdCbc7Cc06D926C50D88328f1BB17148",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/world-credit-diamond-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 231.13,
+    "24_hr_volume_usd": 91.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAb51e836BdCbc7Cc06D926C50D88328f1BB17148/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stakewise",
-    "market_cap_rank": 1364,
-    "24_hr_volume_usd": 25664,
+    "market_cap_usd": 8311977,
+    "market_cap_rank": 1349,
+    "24_hr_volume_usd": 8410.56,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x48C3399719B582dD63eB5AADf12A40B4C3f52FA2/logo.png"
 }

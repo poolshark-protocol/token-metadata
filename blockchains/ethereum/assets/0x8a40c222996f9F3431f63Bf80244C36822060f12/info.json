@@ -4,7 +4,8 @@
     "id": "0x8a40c222996f9F3431f63Bf80244C36822060f12",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/finxflo",
-    "market_cap_rank": 1164,
-    "24_hr_volume_usd": 73774,
+    "market_cap_usd": 12817270,
+    "market_cap_rank": 1150,
+    "24_hr_volume_usd": 59605,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8a40c222996f9F3431f63Bf80244C36822060f12/logo.png"
 }

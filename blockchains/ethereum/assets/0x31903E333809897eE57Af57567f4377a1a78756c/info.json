@@ -4,7 +4,8 @@
     "id": "0x31903E333809897eE57Af57567f4377a1a78756c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cryptopunt",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 946.77,
+    "24_hr_volume_usd": 1439.99,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31903E333809897eE57Af57567f4377a1a78756c/logo.png"
 }

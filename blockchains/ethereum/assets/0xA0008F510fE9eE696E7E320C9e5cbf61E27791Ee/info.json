@@ -4,7 +4,8 @@
     "id": "0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gamb",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 73112,
+    "24_hr_volume_usd": 61114,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/shopping-io",
-    "market_cap_rank": 962,
-    "24_hr_volume_usd": 837709,
+    "market_cap_usd": 19999872,
+    "market_cap_rank": 982,
+    "24_hr_volume_usd": 235126,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7/logo.png"
 }

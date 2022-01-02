@@ -4,6 +4,7 @@
     "id": "0x8b6DD24Bcb2D0aeA92c3AbD4eB11103A5DB6D714",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dxiot",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8b6DD24Bcb2D0aeA92c3AbD4eB11103A5DB6D714/logo.png"

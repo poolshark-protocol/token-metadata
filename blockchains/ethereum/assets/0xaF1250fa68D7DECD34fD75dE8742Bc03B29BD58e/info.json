@@ -4,7 +4,8 @@
     "id": "0xaF1250fa68D7DECD34fD75dE8742Bc03B29BD58e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/invictus-hyprion-fund",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 27176,
+    "24_hr_volume_usd": 19298.5,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaF1250fa68D7DECD34fD75dE8742Bc03B29BD58e/logo.png"
 }

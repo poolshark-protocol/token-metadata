@@ -4,7 +4,8 @@
     "id": "0x507BDe03A87a6aA134d16634545E3D79c11c137D",
     "decimals": 12,
     "coingecko_url": "https://www.coingecko.com/en/coins/uniarts",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 11266.67,
+    "24_hr_volume_usd": 11712.76,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x507BDe03A87a6aA134d16634545E3D79c11c137D/logo.png"
 }

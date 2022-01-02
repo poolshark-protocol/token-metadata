@@ -4,7 +4,8 @@
     "id": "0xe3818504c1B32bF1557b16C238B2E01Fd3149C17",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pillar",
-    "market_cap_rank": 1615,
-    "24_hr_volume_usd": 3561.87,
+    "market_cap_usd": 4104150,
+    "market_cap_rank": 1662,
+    "24_hr_volume_usd": 15862.25,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe3818504c1B32bF1557b16C238B2E01Fd3149C17/logo.png"
 }

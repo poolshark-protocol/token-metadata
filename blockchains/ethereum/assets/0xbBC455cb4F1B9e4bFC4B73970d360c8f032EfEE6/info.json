@@ -4,7 +4,8 @@
     "id": "0xbBC455cb4F1B9e4bFC4B73970d360c8f032EfEE6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/slink",
-    "market_cap_rank": 815,
+    "market_cap_usd": 29656088,
+    "market_cap_rank": 826,
     "24_hr_volume_usd": 14406.65,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbBC455cb4F1B9e4bFC4B73970d360c8f032EfEE6/logo.png"
 }

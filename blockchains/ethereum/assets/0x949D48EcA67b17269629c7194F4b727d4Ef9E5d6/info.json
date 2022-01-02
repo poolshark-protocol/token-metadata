@@ -4,7 +4,8 @@
     "id": "0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/merit-circle",
-    "market_cap_rank": 312,
-    "24_hr_volume_usd": 11222530,
+    "market_cap_usd": 213543937,
+    "market_cap_rank": 315,
+    "24_hr_volume_usd": 5924746,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x949D48EcA67b17269629c7194F4b727d4Ef9E5d6/logo.png"
 }

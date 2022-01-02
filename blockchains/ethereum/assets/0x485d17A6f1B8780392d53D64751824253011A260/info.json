@@ -4,8 +4,9 @@
     "id": "0x485d17A6f1B8780392d53D64751824253011A260",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/chronobank",
-    "market_cap_rank": 421,
-    "24_hr_volume_usd": 292558,
+    "market_cap_usd": 126653525,
+    "market_cap_rank": 426,
+    "24_hr_volume_usd": 170786,
     "public_notice": "Contract address has changed from 0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53 to 0x485d17A6f1B8780392d53D64751824253011A260 . See https://chrono.tech/blog/timev2-is-live",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x485d17A6f1B8780392d53D64751824253011A260/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xCa5d29B3e74D59EBcDF09111495d86F319886A40",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/whey",
-    "market_cap_rank": 2973,
-    "24_hr_volume_usd": 230.87,
+    "market_cap_usd": 261869,
+    "market_cap_rank": 2910,
+    "24_hr_volume_usd": 109.71,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCa5d29B3e74D59EBcDF09111495d86F319886A40/logo.png"
 }

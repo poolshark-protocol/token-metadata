@@ -4,7 +4,8 @@
     "id": "0xBf825207c74B6C3C01aB807c4f4A4FcE26EBdf0f",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/daddybezos",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 626.52,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBf825207c74B6C3C01aB807c4f4A4FcE26EBdf0f/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xF49f43c1E8b0c8aC13E63ec7921692a199029d49",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coldbank",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 58938,
+    "24_hr_volume_usd": 12459.33,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF49f43c1E8b0c8aC13E63ec7921692a199029d49/logo.png"
 }

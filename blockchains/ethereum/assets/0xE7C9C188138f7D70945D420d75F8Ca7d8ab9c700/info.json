@@ -4,7 +4,8 @@
     "id": "0xE7C9C188138f7D70945D420d75F8Ca7d8ab9c700",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/basis-dollar-share",
-    "market_cap_rank": 3354,
-    "24_hr_volume_usd": 39880,
+    "market_cap_usd": 27518,
+    "market_cap_rank": 3347,
+    "24_hr_volume_usd": 31635,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE7C9C188138f7D70945D420d75F8Ca7d8ab9c700/logo.png"
 }

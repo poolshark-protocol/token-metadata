@@ -4,8 +4,9 @@
     "id": "0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/covesting",
-    "market_cap_rank": 1123,
-    "24_hr_volume_usd": 261107,
+    "market_cap_usd": 13300307,
+    "market_cap_rank": 1135,
+    "24_hr_volume_usd": 122369,
     "public_notice": "Smart contract address has changed from 0xe2fb6529ef566a080e6d23de0bd351311087d567 to 0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xADA86b1b313D1D5267E3FC0bB303f0A2b66D0Ea7/logo.png"
 }

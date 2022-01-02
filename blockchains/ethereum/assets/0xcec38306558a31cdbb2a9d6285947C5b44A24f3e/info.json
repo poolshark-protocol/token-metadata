@@ -4,7 +4,8 @@
     "id": "0xcec38306558a31cdbb2a9d6285947C5b44A24f3e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/digital-fantasy-sports",
-    "market_cap_rank": 3007,
+    "market_cap_usd": 180505,
+    "market_cap_rank": 3014,
     "24_hr_volume_usd": 0.139401,
     "public_notice": "Rebranded from Digital Fantasy Sports (DFS) to Fantasy Sports (DFS). New contract: https://etherscan.io/token/0xcec38306558a31cdbb2a9d6285947c5b44a24f3e // Old contract: https://etherscan.io/token/0x45ed02e374aef2e4b34c04e86ad9d45891d10751",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcec38306558a31cdbb2a9d6285947C5b44A24f3e/logo.png"

@@ -4,7 +4,8 @@
     "id": "0x0aA7eFE4945Db24d95cA6E117BBa65Ed326e291A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ojamu",
-    "market_cap_rank": 1466,
-    "24_hr_volume_usd": 224880,
+    "market_cap_usd": 5975319,
+    "market_cap_rank": 1491,
+    "24_hr_volume_usd": 408631,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0aA7eFE4945Db24d95cA6E117BBa65Ed326e291A/logo.png"
 }

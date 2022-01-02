@@ -4,8 +4,9 @@
     "id": "0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-meta",
-    "market_cap_rank": 1967,
-    "24_hr_volume_usd": 82710,
+    "market_cap_usd": 2178376,
+    "market_cap_rank": 1960,
+    "24_hr_volume_usd": 23695,
     "public_notice": "We've received allegations that the team has abandoned the project. Please proceed with caution.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFD957F21bd95E723645C07C48a2d8ACB8Ffb3794/logo.png"
 }

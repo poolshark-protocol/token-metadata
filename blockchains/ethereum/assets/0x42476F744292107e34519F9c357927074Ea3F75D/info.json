@@ -4,8 +4,9 @@
     "id": "0x42476F744292107e34519F9c357927074Ea3F75D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/loom-network-new",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 5132786,
+    "24_hr_volume_usd": 2117609,
     "public_notice": "LOOM is migrating to a new address (Current) from https://www.coingecko.com/en/coins/loom-network-old. For more information: https://medium.com/loom-network/loom-token-swap-launch-f9257a4ae066",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x42476F744292107e34519F9c357927074Ea3F75D/logo.png"
 }

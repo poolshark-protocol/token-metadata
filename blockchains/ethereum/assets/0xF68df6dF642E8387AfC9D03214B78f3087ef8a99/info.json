@@ -4,7 +4,8 @@
     "id": "0xF68df6dF642E8387AfC9D03214B78f3087ef8a99",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/doge-reloaded",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 168.32,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF68df6dF642E8387AfC9D03214B78f3087ef8a99/logo.png"
 }

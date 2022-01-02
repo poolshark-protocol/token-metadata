@@ -4,7 +4,8 @@
     "id": "0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/camp",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12428.37,
+    "24_hr_volume_usd": 4239.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE9E73E1aE76D17A16cC53E3e87a9a7dA78834d37/logo.png"
 }

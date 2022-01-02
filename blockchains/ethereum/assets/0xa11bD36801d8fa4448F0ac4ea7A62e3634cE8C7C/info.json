@@ -4,7 +4,8 @@
     "id": "0xa11bD36801d8fa4448F0ac4ea7A62e3634cE8C7C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/allbridge",
-    "market_cap_rank": 1336,
-    "24_hr_volume_usd": 239905,
+    "market_cap_usd": 8863875,
+    "market_cap_rank": 1319,
+    "24_hr_volume_usd": 248523,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa11bD36801d8fa4448F0ac4ea7A62e3634cE8C7C/logo.png"
 }

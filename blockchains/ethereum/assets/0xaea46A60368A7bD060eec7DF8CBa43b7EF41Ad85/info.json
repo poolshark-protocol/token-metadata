@@ -4,8 +4,9 @@
     "id": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fetch-ai",
-    "market_cap_rank": 222,
-    "24_hr_volume_usd": 45458936,
+    "market_cap_usd": 360522920,
+    "market_cap_rank": 224,
+    "24_hr_volume_usd": 31741542,
     "public_notice": "Fetch.ai recently launched the v2 Mainnet. Tokens can be converted between ERC-20 and Mainnet using an Interchain bridge. More information can be found here: https://medium.com/fetch-ai/how-to-join-the-fetch-ai-mainnet-and-take-it-to-the-next-level-73a8f741086e",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85/logo.png"
 }

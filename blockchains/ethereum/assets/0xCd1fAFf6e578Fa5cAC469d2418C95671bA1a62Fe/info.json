@@ -4,7 +4,8 @@
     "id": "0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/torum",
-    "market_cap_rank": 738,
-    "24_hr_volume_usd": 4808464,
+    "market_cap_usd": 40200485,
+    "market_cap_rank": 728,
+    "24_hr_volume_usd": 2862825,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0xd123575D94A7aD9Bff3ad037aE9d4d52f41a7518",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/mywish",
-    "market_cap_rank": 2306,
-    "24_hr_volume_usd": 2.28,
+    "market_cap_usd": 1095622,
+    "market_cap_rank": 2315,
+    "24_hr_volume_usd": 144.6,
     "public_notice": "This token is migrating from Ethereum Chain (0x1b22c32cd936cb97c28c5690a0695a82abf688e6) to Binance Chain. For more information: https://cryptomywish.medium.com/wish-token-binance-dex-swap-86b976cee936",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd123575D94A7aD9Bff3ad037aE9d4d52f41a7518/logo.png"
 }

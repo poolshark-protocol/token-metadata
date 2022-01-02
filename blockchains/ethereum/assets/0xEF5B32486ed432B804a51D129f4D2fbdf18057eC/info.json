@@ -4,7 +4,8 @@
     "id": "0xEF5B32486ed432B804a51D129f4D2fbdf18057eC",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/pirate-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 461.19,
+    "24_hr_volume_usd": 2001.49,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEF5B32486ed432B804a51D129f4D2fbdf18057eC/logo.png"
 }

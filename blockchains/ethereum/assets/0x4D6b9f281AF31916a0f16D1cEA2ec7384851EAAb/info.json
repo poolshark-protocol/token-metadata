@@ -4,7 +4,8 @@
     "id": "0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/neuromorphic-io",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 140.65,
+    "24_hr_volume_usd": 36.87,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4D6b9f281AF31916a0f16D1cEA2ec7384851EAAb/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xB26631c6dda06aD89B93C71400D25692de89c068",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/minds",
-    "market_cap_rank": 970,
-    "24_hr_volume_usd": 14258.45,
+    "market_cap_usd": 20739191,
+    "market_cap_rank": 963,
+    "24_hr_volume_usd": 185058,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB26631c6dda06aD89B93C71400D25692de89c068/logo.png"
 }

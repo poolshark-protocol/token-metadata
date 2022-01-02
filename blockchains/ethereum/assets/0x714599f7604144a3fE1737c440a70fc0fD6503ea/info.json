@@ -4,6 +4,7 @@
     "id": "0x714599f7604144a3fE1737c440a70fc0fD6503ea",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/raku-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 19.42,
     "public_notice": "Raku Coin has recently migrated from their <a href=\"https://etherscan.io/token/0x714599f7604144a3fe1737c440a70fc0fd6503ea\">old contract</a> to a <a href=\"https://bscscan.com/token/0xb8cd03a653713ea4e0ba039f507ca594f9f1abcb\">new one</a>. For more information, visit https://twitter.com/RakuCoin/status/1423548474532925445",

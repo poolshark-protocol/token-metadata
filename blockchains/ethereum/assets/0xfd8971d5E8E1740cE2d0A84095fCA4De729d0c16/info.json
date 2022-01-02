@@ -4,7 +4,8 @@
     "id": "0xfd8971d5E8E1740cE2d0A84095fCA4De729d0c16",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zilla",
-    "market_cap_rank": 3036,
-    "24_hr_volume_usd": 835.61,
+    "market_cap_usd": 136908,
+    "market_cap_rank": 3084,
+    "24_hr_volume_usd": 1775.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfd8971d5E8E1740cE2d0A84095fCA4De729d0c16/logo.png"
 }

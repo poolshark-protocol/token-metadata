@@ -4,7 +4,8 @@
     "id": "0x19fd4C760A7d4a38aeE9F226035cbC9Fdf434FFe",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cvp-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 11802.91,
+    "24_hr_volume_usd": 13541.47,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x19fd4C760A7d4a38aeE9F226035cbC9Fdf434FFe/logo.png"
 }

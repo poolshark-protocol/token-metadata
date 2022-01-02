@@ -4,7 +4,8 @@
     "id": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ptokens-btc",
-    "market_cap_rank": 714,
-    "24_hr_volume_usd": 544.17,
+    "market_cap_usd": 41082050,
+    "market_cap_rank": 723,
+    "24_hr_volume_usd": 109.78,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5228a22e72ccC52d415EcFd199F99D0665E7733b/logo.png"
 }

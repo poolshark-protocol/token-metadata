@@ -4,7 +4,8 @@
     "id": "0x239Dc02A28a0774738463E06245544a72745d5c5",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/hanzo-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 18116.67,
+    "24_hr_volume_usd": 5163.05,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x239Dc02A28a0774738463E06245544a72745d5c5/logo.png"
 }

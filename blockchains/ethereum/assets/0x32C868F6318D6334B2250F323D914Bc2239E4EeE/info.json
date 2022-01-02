@@ -4,7 +4,8 @@
     "id": "0x32C868F6318D6334B2250F323D914Bc2239E4EeE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/n3rd-finance",
-    "market_cap_rank": 2844,
-    "24_hr_volume_usd": 1344.46,
+    "market_cap_usd": 309586,
+    "market_cap_rank": 2846,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x32C868F6318D6334B2250F323D914Bc2239E4EeE/logo.png"
 }

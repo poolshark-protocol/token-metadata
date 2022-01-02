@@ -4,7 +4,8 @@
     "id": "0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/quiverx",
-    "market_cap_rank": 1968,
-    "24_hr_volume_usd": 372313,
+    "market_cap_usd": 2027127,
+    "market_cap_rank": 1987,
+    "24_hr_volume_usd": 387149,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6e0daDE58D2d89eBBe7aFc384e3E4f15b70b14D8/logo.png"
 }

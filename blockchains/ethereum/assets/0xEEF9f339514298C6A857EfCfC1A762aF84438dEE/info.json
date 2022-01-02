@@ -4,7 +4,8 @@
     "id": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hermez-network-token",
-    "market_cap_rank": 377,
-    "24_hr_volume_usd": 396852,
+    "market_cap_usd": 152413062,
+    "market_cap_rank": 380,
+    "24_hr_volume_usd": 180429,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEEF9f339514298C6A857EfCfC1A762aF84438dEE/logo.png"
 }

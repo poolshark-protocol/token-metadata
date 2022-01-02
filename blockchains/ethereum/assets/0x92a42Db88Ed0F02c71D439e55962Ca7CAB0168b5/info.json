@@ -4,7 +4,8 @@
     "id": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/tardigrades-finance",
-    "market_cap_rank": 2743,
-    "24_hr_volume_usd": 448.96,
+    "market_cap_usd": 403302,
+    "market_cap_rank": 2739,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5/logo.png"
 }

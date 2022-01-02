@@ -4,6 +4,7 @@
     "id": "0x0000A1c00009A619684135B824Ba02f7FbF3A572",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/alchemy-dao",
+    "market_cap_usd": 55295,
     "market_cap_rank": 3265,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0000A1c00009A619684135B824Ba02f7FbF3A572/logo.png"

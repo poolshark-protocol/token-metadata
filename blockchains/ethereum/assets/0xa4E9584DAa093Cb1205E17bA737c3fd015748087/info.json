@@ -4,6 +4,7 @@
     "id": "0xa4E9584DAa093Cb1205E17bA737c3fd015748087",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/forexcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.00872223,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa4E9584DAa093Cb1205E17bA737c3fd015748087/logo.png"

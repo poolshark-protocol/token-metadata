@@ -4,7 +4,8 @@
     "id": "0x108a850856Db3f85d0269a2693D896B394C80325",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/thorwallet",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 329546,
+    "24_hr_volume_usd": 112727,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x108a850856Db3f85d0269a2693D896B394C80325/logo.png"
 }

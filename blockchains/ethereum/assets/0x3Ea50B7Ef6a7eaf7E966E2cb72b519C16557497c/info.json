@@ -4,7 +4,8 @@
     "id": "0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/rocket-bunny",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 30.69,
+    "24_hr_volume_usd": 186.94,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3Ea50B7Ef6a7eaf7E966E2cb72b519C16557497c/logo.png"
 }

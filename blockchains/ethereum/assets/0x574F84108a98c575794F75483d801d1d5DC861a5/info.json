@@ -4,7 +4,8 @@
     "id": "0x574F84108a98c575794F75483d801d1d5DC861a5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/robotina",
-    "market_cap_rank": 2556,
-    "24_hr_volume_usd": 546.67,
+    "market_cap_usd": 1003591,
+    "market_cap_rank": 2359,
+    "24_hr_volume_usd": 147.23,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x574F84108a98c575794F75483d801d1d5DC861a5/logo.png"
 }

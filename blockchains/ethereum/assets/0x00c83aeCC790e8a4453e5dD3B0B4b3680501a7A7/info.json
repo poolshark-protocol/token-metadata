@@ -4,7 +4,8 @@
     "id": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/skale",
+    "market_cap_usd": 668337849,
     "market_cap_rank": 158,
-    "24_hr_volume_usd": 13992286,
+    "24_hr_volume_usd": 12361414,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png"
 }

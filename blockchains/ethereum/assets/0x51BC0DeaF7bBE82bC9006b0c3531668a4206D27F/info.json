@@ -4,6 +4,7 @@
     "id": "0x51BC0DeaF7bBE82bC9006b0c3531668a4206D27F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rakun",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 614.44,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x51BC0DeaF7bBE82bC9006b0c3531668a4206D27F/logo.png"

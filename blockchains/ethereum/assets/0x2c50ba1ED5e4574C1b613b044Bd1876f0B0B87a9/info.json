@@ -4,7 +4,8 @@
     "id": "0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kids-cash",
-    "market_cap_rank": 3130,
+    "market_cap_usd": 118296,
+    "market_cap_rank": 3128,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9/logo.png"
 }

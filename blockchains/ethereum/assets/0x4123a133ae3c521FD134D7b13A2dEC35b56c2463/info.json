@@ -4,7 +4,8 @@
     "id": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/qredo",
-    "market_cap_rank": 245,
-    "24_hr_volume_usd": 46741080,
+    "market_cap_usd": 283348667,
+    "market_cap_rank": 261,
+    "24_hr_volume_usd": 23500334,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4123a133ae3c521FD134D7b13A2dEC35b56c2463/logo.png"
 }

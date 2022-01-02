@@ -4,7 +4,8 @@
     "id": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/truefi",
-    "market_cap_rank": 346,
-    "24_hr_volume_usd": 5663264,
+    "market_cap_usd": 184857560,
+    "market_cap_rank": 344,
+    "24_hr_volume_usd": 4403316,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784/logo.png"
 }

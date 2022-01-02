@@ -4,7 +4,8 @@
     "id": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/compound-governance-token",
-    "market_cap_rank": 101,
-    "24_hr_volume_usd": 89142373,
+    "market_cap_usd": 1329745779,
+    "market_cap_rank": 98,
+    "24_hr_volume_usd": 75094471,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x3930E4dDb4d24ef2F4CB54C1f009a3694b708428",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/game-fanz",
-    "market_cap_rank": 3448,
+    "market_cap_usd": 6020.64,
+    "market_cap_rank": 3445,
     "24_hr_volume_usd": 0.00098641,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3930E4dDb4d24ef2F4CB54C1f009a3694b708428/logo.png"
 }

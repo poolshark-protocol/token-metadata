@@ -4,7 +4,8 @@
     "id": "0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/singulardtv",
-    "market_cap_rank": 1885,
-    "24_hr_volume_usd": 37.94,
+    "market_cap_usd": 139663,
+    "market_cap_rank": 3079,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009/logo.png"
 }

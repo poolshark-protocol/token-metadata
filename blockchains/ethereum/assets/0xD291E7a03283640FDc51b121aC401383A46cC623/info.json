@@ -4,7 +4,8 @@
     "id": "0xD291E7a03283640FDc51b121aC401383A46cC623",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rari-governance-token",
-    "market_cap_rank": 242,
-    "24_hr_volume_usd": 9059219,
+    "market_cap_usd": 304777662,
+    "market_cap_rank": 248,
+    "24_hr_volume_usd": 993424,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD291E7a03283640FDc51b121aC401383A46cC623/logo.png"
 }

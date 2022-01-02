@@ -4,7 +4,8 @@
     "id": "0xFc979087305A826c2B2a0056cFAbA50aad3E6439",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dafi-protocol",
-    "market_cap_rank": 1161,
-    "24_hr_volume_usd": 194862,
+    "market_cap_usd": 12179342,
+    "market_cap_rank": 1180,
+    "24_hr_volume_usd": 204652,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFc979087305A826c2B2a0056cFAbA50aad3E6439/logo.png"
 }

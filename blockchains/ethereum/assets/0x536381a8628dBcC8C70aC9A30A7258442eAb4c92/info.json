@@ -4,7 +4,8 @@
     "id": "0x536381a8628dBcC8C70aC9A30A7258442eAb4c92",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/pantos",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 56653,
+    "24_hr_volume_usd": 11931.44,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x536381a8628dBcC8C70aC9A30A7258442eAb4c92/logo.png"
 }

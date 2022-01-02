@@ -4,7 +4,8 @@
     "id": "0xFa898efdB91E35BD311c45b9B955F742b6719aa2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/baddest-alpha-ape-bundle",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 16761.62,
+    "24_hr_volume_usd": 60414,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFa898efdB91E35BD311c45b9B955F742b6719aa2/logo.png"
 }

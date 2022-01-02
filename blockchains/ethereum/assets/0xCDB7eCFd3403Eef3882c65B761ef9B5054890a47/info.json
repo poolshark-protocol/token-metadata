@@ -4,7 +4,8 @@
     "id": "0xCDB7eCFd3403Eef3882c65B761ef9B5054890a47",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hurify",
-    "market_cap_rank": 3198,
+    "market_cap_usd": 84305,
+    "market_cap_rank": 3207,
     "24_hr_volume_usd": 0.01318136,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCDB7eCFd3403Eef3882c65B761ef9B5054890a47/logo.png"
 }

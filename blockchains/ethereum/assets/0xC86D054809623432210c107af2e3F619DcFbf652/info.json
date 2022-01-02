@@ -4,7 +4,8 @@
     "id": "0xC86D054809623432210c107af2e3F619DcFbf652",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sentinel-protocol",
-    "market_cap_rank": 674,
-    "24_hr_volume_usd": 3521560,
+    "market_cap_usd": 47416841,
+    "market_cap_rank": 680,
+    "24_hr_volume_usd": 1033005,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC86D054809623432210c107af2e3F619DcFbf652/logo.png"
 }

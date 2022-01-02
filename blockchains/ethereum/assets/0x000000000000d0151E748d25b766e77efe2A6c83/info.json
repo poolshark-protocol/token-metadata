@@ -4,7 +4,8 @@
     "id": "0x000000000000d0151E748d25b766e77efe2A6c83",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/xdefi-governance-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1640.58,
+    "24_hr_volume_usd": 599.6,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x000000000000d0151E748d25b766e77efe2A6c83/logo.png"
 }

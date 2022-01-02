@@ -4,7 +4,8 @@
     "id": "0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/robonomics-network",
-    "market_cap_rank": 1249,
-    "24_hr_volume_usd": 333117,
+    "market_cap_usd": 10433711,
+    "market_cap_rank": 1253,
+    "24_hr_volume_usd": 506856,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7dE91B204C1C737bcEe6F000AAA6569Cf7061cb7/logo.png"
 }

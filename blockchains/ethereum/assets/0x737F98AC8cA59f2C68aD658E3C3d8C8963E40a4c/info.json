@@ -4,7 +4,8 @@
     "id": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/amon",
-    "market_cap_rank": 2223,
-    "24_hr_volume_usd": 854.36,
+    "market_cap_usd": 1305048,
+    "market_cap_rank": 2217,
+    "24_hr_volume_usd": 870.44,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c/logo.png"
 }

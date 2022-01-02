@@ -4,7 +4,8 @@
     "id": "0x10a34bbE9B3C5AD536cA23D5EefA81CA448e92fF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dsys",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 16664.08,
+    "24_hr_volume_usd": 13925.53,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x10a34bbE9B3C5AD536cA23D5EefA81CA448e92fF/logo.png"
 }

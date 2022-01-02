@@ -4,7 +4,8 @@
     "id": "0x692eb773E0b5B7A79EFac5A015C8b36A2577F65c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/swiss-finance",
-    "market_cap_rank": 2978,
+    "market_cap_usd": 198570,
+    "market_cap_rank": 2983,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x692eb773E0b5B7A79EFac5A015C8b36A2577F65c/logo.png"
 }

@@ -4,6 +4,7 @@
     "id": "0x15F5f5F29a819BF7B4B80BF55352E1e42707c94e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/die",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x15F5f5F29a819BF7B4B80BF55352E1e42707c94e/logo.png"

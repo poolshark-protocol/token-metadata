@@ -4,8 +4,9 @@
     "id": "0x546AED37d202d607F45Cbd2b8C0CaD0D25fBe339",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kawakami-inu",
-    "market_cap_rank": 1732,
-    "24_hr_volume_usd": 86178,
+    "market_cap_usd": 2754493,
+    "market_cap_rank": 1846,
+    "24_hr_volume_usd": 65927,
     "public_notice": "KAWA has recently migrated from their <a href=\"https://etherscan.io/token/0x17a4ae8b1ea75d51ab0f2875b80452f7e34c272a\">old contract</a> to a <a href=\"https://etherscan.io/token/0x546aed37d202d607f45cbd2b8c0cad0d25fbe339#balances\">new one</a>. For more information, visit https://twitter.com/Kawakami_Inu/status/1433658953821564930",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x546AED37d202d607F45Cbd2b8C0CaD0D25fBe339/logo.png"
 }

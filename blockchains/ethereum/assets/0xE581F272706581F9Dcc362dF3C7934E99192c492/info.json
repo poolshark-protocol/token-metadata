@@ -4,7 +4,8 @@
     "id": "0xE581F272706581F9Dcc362dF3C7934E99192c492",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/purr-vault-nftx",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 3588.18,
+    "24_hr_volume_usd": 1681.78,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE581F272706581F9Dcc362dF3C7934E99192c492/logo.png"
 }

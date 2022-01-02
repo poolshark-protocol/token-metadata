@@ -4,8 +4,9 @@
     "id": "0x7A8Ca2f815A260660158a38C34ca321A3605eCFE",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/bizzcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2791.37,
+    "24_hr_volume_usd": 4958.93,
     "public_notice": "We have received reports that Bizzcoin allegedly has elements of multi-level-marketing (MLM) scheme, users are advised to proceed with caution.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7A8Ca2f815A260660158a38C34ca321A3605eCFE/logo.png"
 }

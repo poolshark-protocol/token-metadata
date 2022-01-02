@@ -4,6 +4,7 @@
     "id": "0xD9964E1306dda055F5284c52048712c35DdB61Fd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitnautic",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 17.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD9964E1306dda055F5284c52048712c35DdB61Fd/logo.png"

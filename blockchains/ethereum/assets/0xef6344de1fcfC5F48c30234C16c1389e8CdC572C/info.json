@@ -4,8 +4,9 @@
     "id": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/encrypgen",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1217.75,
+    "24_hr_volume_usd": 103.28,
     "public_notice": "DNA has undergone a token swap, and has a new contract address. More details available here: https://encrypgen.com/the-big-dna-token-swap/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xef6344de1fcfC5F48c30234C16c1389e8CdC572C/logo.png"
 }

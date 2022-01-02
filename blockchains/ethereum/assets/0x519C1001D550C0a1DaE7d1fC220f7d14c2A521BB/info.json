@@ -4,7 +4,8 @@
     "id": "0x519C1001D550C0a1DaE7d1fC220f7d14c2A521BB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polkaswap",
-    "market_cap_rank": 568,
-    "24_hr_volume_usd": 994138,
+    "market_cap_usd": 68036158,
+    "market_cap_rank": 577,
+    "24_hr_volume_usd": 591517,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x519C1001D550C0a1DaE7d1fC220f7d14c2A521BB/logo.png"
 }

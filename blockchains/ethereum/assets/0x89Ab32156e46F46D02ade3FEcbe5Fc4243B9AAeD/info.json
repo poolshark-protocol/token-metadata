@@ -4,8 +4,9 @@
     "id": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pnetwork",
-    "market_cap_rank": 796,
-    "24_hr_volume_usd": 6231597,
+    "market_cap_usd": 31567217,
+    "market_cap_rank": 806,
+    "24_hr_volume_usd": 5540725,
     "public_notice": "Eidoo (EDO) has been upgraded to pNetwork (PNT), https://www.coingecko.com/en/coins/pnetwork/. For more information on the token upgrade, please read https://en.cryptonomist.ch/blog/eidoo/the-edo-to-pnt-upgrade-what-you-need-to-know-updated/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD/logo.png"
 }

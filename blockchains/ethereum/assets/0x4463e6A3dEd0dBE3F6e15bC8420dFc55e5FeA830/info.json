@@ -4,7 +4,8 @@
     "id": "0x4463e6A3dEd0dBE3F6e15bC8420dFc55e5FeA830",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/txa",
-    "market_cap_rank": 1427,
-    "24_hr_volume_usd": 86284,
+    "market_cap_usd": 6685468,
+    "market_cap_rank": 1442,
+    "24_hr_volume_usd": 297340,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4463e6A3dEd0dBE3F6e15bC8420dFc55e5FeA830/logo.png"
 }

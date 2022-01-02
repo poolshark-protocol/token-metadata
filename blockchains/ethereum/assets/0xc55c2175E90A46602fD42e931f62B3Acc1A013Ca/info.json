@@ -4,7 +4,8 @@
     "id": "0xc55c2175E90A46602fD42e931f62B3Acc1A013Ca",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mogul-productions",
-    "market_cap_rank": 884,
-    "24_hr_volume_usd": 320690,
+    "market_cap_usd": 24978612,
+    "market_cap_rank": 886,
+    "24_hr_volume_usd": 572630,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc55c2175E90A46602fD42e931f62B3Acc1A013Ca/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/origin-dollar",
-    "market_cap_rank": 247,
-    "24_hr_volume_usd": 2768994,
+    "market_cap_usd": 295758722,
+    "market_cap_rank": 254,
+    "24_hr_volume_usd": 621397,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86/logo.png"
 }

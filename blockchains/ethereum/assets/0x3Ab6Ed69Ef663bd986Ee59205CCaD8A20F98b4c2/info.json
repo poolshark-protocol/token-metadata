@@ -4,8 +4,9 @@
     "id": "0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/drep-new",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 4581301,
+    "24_hr_volume_usd": 18095755,
     "public_notice": "This token page refers to the new token swapped DREP. For old DREP lsiting (Prior to 100:1 token swap), please refer to https://www.coingecko.com/en/coins/drep/ <br> DREP has undergone a 100:1 token swap. (https://www.gate.io/id/article/19986) Contract address changed from 0x22de9912cd3d74953b1cd1f250b825133cc2c1b3 to 0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3Ab6Ed69Ef663bd986Ee59205CCaD8A20F98b4c2/logo.png"
 }

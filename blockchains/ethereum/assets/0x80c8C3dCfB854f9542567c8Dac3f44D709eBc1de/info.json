@@ -4,7 +4,8 @@
     "id": "0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/spaceswap-milk2",
-    "market_cap_rank": 1525,
-    "24_hr_volume_usd": 508266,
+    "market_cap_usd": 5879019,
+    "market_cap_rank": 1495,
+    "24_hr_volume_usd": 272878,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x80c8C3dCfB854f9542567c8Dac3f44D709eBc1de/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dia-data",
-    "market_cap_rank": 531,
-    "24_hr_volume_usd": 7998774,
+    "market_cap_usd": 80893446,
+    "market_cap_rank": 530,
+    "24_hr_volume_usd": 2594238,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419/logo.png"
 }

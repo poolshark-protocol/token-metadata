@@ -4,8 +4,9 @@
     "id": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/adex",
-    "market_cap_rank": 539,
-    "24_hr_volume_usd": 6936393,
+    "market_cap_usd": 80599217,
+    "market_cap_rank": 529,
+    "24_hr_volume_usd": 4588304,
     "public_notice": "Adex (ADX) has recently rebranded to Ambire AdEx (ADX). For more information, please view this <a href=\"https://twitter.com/AmbireAdEx/status/1448319436788838404\">announcement</a> on Twitter.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3/logo.png"
 }

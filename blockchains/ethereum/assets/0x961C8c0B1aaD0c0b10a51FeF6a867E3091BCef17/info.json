@@ -4,7 +4,8 @@
     "id": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defi-yield-protocol",
-    "market_cap_rank": 1275,
-    "24_hr_volume_usd": 329685,
+    "market_cap_usd": 10557395,
+    "market_cap_rank": 1246,
+    "24_hr_volume_usd": 7401614,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17/logo.png"
 }

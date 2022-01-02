@@ -4,7 +4,8 @@
     "id": "0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/xmark",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 20652,
+    "24_hr_volume_usd": 78192,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x36b679bd64Ed73DBfd88909cDCB892cB66Bd4CBb/logo.png"
 }

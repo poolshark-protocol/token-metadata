@@ -4,6 +4,7 @@
     "id": "0xf0814d0E47F2390a8082C4a1BD819FDDe50f9bFc",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/xptoken-io",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 40.33,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf0814d0E47F2390a8082C4a1BD819FDDe50f9bFc/logo.png"

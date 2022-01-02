@@ -4,7 +4,8 @@
     "id": "0x39Cacb4DcD57c0eB0C1446D9c16a26Ed43718b44",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/boruto-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 3168.83,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x39Cacb4DcD57c0eB0C1446D9c16a26Ed43718b44/logo.png"
 }

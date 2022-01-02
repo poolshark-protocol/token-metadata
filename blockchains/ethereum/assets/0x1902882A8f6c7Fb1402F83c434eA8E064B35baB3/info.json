@@ -4,7 +4,8 @@
     "id": "0x1902882A8f6c7Fb1402F83c434eA8E064B35baB3",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/x-ae-a-12",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1394.97,
+    "24_hr_volume_usd": 461.52,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1902882A8f6c7Fb1402F83c434eA8E064B35baB3/logo.png"
 }

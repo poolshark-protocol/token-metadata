@@ -4,7 +4,8 @@
     "id": "0xbD0a4bf098261673d5E6e600Fd87ddcd756e6764",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/hina-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 129039,
+    "24_hr_volume_usd": 130062,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbD0a4bf098261673d5E6e600Fd87ddcd756e6764/logo.png"
 }

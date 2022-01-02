@@ -4,7 +4,8 @@
     "id": "0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/jigstack",
-    "market_cap_rank": 1373,
-    "24_hr_volume_usd": 132053,
+    "market_cap_usd": 7720661,
+    "market_cap_rank": 1388,
+    "24_hr_volume_usd": 132208,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1F8A626883d7724DBd59eF51CBD4BF1Cf2016D13/logo.png"
 }

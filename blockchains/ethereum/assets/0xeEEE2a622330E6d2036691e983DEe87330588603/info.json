@@ -4,8 +4,9 @@
     "id": "0xeEEE2a622330E6d2036691e983DEe87330588603",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/askobar-network",
-    "market_cap_rank": 1648,
-    "24_hr_volume_usd": 30573,
+    "market_cap_usd": 4459268,
+    "market_cap_rank": 1607,
+    "24_hr_volume_usd": 6843.13,
     "public_notice": "Previously known as Askobar Network",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeEEE2a622330E6d2036691e983DEe87330588603/logo.png"
 }

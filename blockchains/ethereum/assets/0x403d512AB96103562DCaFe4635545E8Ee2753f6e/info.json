@@ -4,8 +4,9 @@
     "id": "0x403d512AB96103562DCaFe4635545E8Ee2753f6e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wild-credit",
-    "market_cap_rank": 1218,
-    "24_hr_volume_usd": 30934,
+    "market_cap_usd": 11259242,
+    "market_cap_rank": 1220,
+    "24_hr_volume_usd": 12912.5,
     "public_notice": "Wild Credit has migrated from the <a href=\"https://etherscan.io/token/0x08a75dbc7167714ceac1a8e43a8d643a4edd625a\">old contract</a> to a <a href=\"https://etherscan.io/token/0x403d512ab96103562dcafe4635545e8ee2753f6e\">new one</a>. Read more at their <a href=\"https://medium.com/wild-credit/wild-token-migration-28f47c0edac8\">Medium</a>.\u00a0",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x403d512AB96103562DCaFe4635545E8Ee2753f6e/logo.png"
 }

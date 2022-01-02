@@ -4,6 +4,7 @@
     "id": "0x903dFBC9bAC585feDaE3c2E327913abfd022E2E0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mainfinex",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x903dFBC9bAC585feDaE3c2E327913abfd022E2E0/logo.png"
 }

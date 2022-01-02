@@ -4,7 +4,8 @@
     "id": "0x1ed7AE1F0E2Fa4276DD7ddC786334a3dF81D50c0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/forty-seven-bank",
-    "market_cap_rank": 3030,
+    "market_cap_usd": 165152,
+    "market_cap_rank": 3034,
     "24_hr_volume_usd": 253.96,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1ed7AE1F0E2Fa4276DD7ddC786334a3dF81D50c0/logo.png"
 }

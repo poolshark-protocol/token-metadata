@@ -4,7 +4,8 @@
     "id": "0xd26a9C3437f7D121098c8C05C7413F5Cc70BB070",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/azuma-coin",
-    "market_cap_rank": 3332,
-    "24_hr_volume_usd": 114.23,
+    "market_cap_usd": 34062,
+    "market_cap_rank": 3328,
+    "24_hr_volume_usd": 105.54,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd26a9C3437f7D121098c8C05C7413F5Cc70BB070/logo.png"
 }

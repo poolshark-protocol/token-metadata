@@ -4,6 +4,7 @@
     "id": "0x1680CfdAD75dA2bb56Ded4f36BB9423C86ffa7B7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/web-token-pay",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 1.76,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1680CfdAD75dA2bb56Ded4f36BB9423C86ffa7B7/logo.png"

@@ -4,7 +4,8 @@
     "id": "0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cnn",
-    "market_cap_rank": 2690,
-    "24_hr_volume_usd": 6225.7,
+    "market_cap_usd": 502228,
+    "market_cap_rank": 2669,
+    "24_hr_volume_usd": 2454.13,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343/logo.png"
 }

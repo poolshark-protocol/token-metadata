@@ -4,7 +4,8 @@
     "id": "0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/genomesdao",
-    "market_cap_rank": 2183,
-    "24_hr_volume_usd": 14064.97,
+    "market_cap_usd": 1316229,
+    "market_cap_rank": 2218,
+    "24_hr_volume_usd": 6368.4,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E/logo.png"
 }

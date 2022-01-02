@@ -4,7 +4,8 @@
     "id": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/alchemix-usd",
-    "market_cap_rank": 246,
-    "24_hr_volume_usd": 14424.6,
+    "market_cap_usd": 291380229,
+    "market_cap_rank": 256,
+    "24_hr_volume_usd": 8902204,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9/logo.png"
 }

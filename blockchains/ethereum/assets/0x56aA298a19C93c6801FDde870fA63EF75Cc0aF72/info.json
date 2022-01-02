@@ -4,7 +4,8 @@
     "id": "0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-alibaba",
-    "market_cap_rank": 1148,
-    "24_hr_volume_usd": 105321,
+    "market_cap_usd": 12925937,
+    "market_cap_rank": 1144,
+    "24_hr_volume_usd": 265198,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72/logo.png"
 }

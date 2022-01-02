@@ -4,7 +4,8 @@
     "id": "0x212DD60D4Bf0DA8372fe8116474602d429E5735F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stobox-token",
-    "market_cap_rank": 1981,
-    "24_hr_volume_usd": 161605,
+    "market_cap_usd": 2023820,
+    "market_cap_rank": 1990,
+    "24_hr_volume_usd": 141516,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x212DD60D4Bf0DA8372fe8116474602d429E5735F/logo.png"
 }

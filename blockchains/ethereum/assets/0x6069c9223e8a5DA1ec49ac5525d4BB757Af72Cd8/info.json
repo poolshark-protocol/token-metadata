@@ -4,7 +4,8 @@
     "id": "0x6069c9223e8a5DA1ec49ac5525d4BB757Af72Cd8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/musk-gold",
-    "market_cap_rank": 1078,
-    "24_hr_volume_usd": 119026,
+    "market_cap_usd": 14861368,
+    "market_cap_rank": 1084,
+    "24_hr_volume_usd": 277230,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6069c9223e8a5DA1ec49ac5525d4BB757Af72Cd8/logo.png"
 }

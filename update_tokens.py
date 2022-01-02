@@ -63,16 +63,16 @@ for chain in supported_chains:
                 if coin['name'].startswith(term):
                     skip_token = True
                     #print('skipped token')
-                if os.path.exists('blockchains/' + chain + '/assets/' + Web3.toChecksumAddress(coin['platforms']['ethereum'])):
-                    skip_token = True
-                    #print('token already exists')
+                # if os.path.exists('blockchains/' + chain + '/assets/' + Web3.toChecksumAddress(coin['platforms']['ethereum'])):
+                #     skip_token = True
+                #     #print('token already exists')
 
             if skip_token == False:
                 contract = w3.eth.contract(Web3.toChecksumAddress(coin['platforms']['ethereum']), abi=erc20_abi)
                 path = 'blockchains/' + chain + '/assets/' + contract.address
                 if not os.path.exists(path):
                     os.makedirs(path)
-                if not os.path.exists(path + '/info.json'):
+                if coin['name'] != 'ADAPad':
                     token = {}
                     #try:
                     print(coin)
@@ -114,7 +114,11 @@ for chain in supported_chains:
                         continue
 
                     token['coingecko_url'] = 'https://www.coingecko.com/en/coins/' + coin['id']
-                    token['market_cap_rank'] = coin_info['market_cap_rank']
+                    if 'usd' in coin_info['market_data']['market_cap'].keys():
+                        token['market_cap_usd'] = coin_info['market_data']['market_cap']['usd']
+                    else:
+                        token['market_cap_usd'] = 0.0
+                    token['market_cap_rank'] = coin_info['market_data']['market_cap_rank']
                     
                     if coin_info['market_data']['total_volume'] != None and coin_info['market_data']['total_volume'] != '{}' and 'usd' in coin_info['market_data']['total_volume'].keys():
                         #print(coin_info['market_data']['total_volume'])
@@ -133,10 +137,12 @@ for chain in supported_chains:
                     
                     
                 else:
-                    print('token already exists')
-                    with open(path + '/info.json','r+') as token_info:
-                        token = json.load(token_info)
-                        print('found file: ' + json.dumps(coin))
+                    print('found token')
+                    break
+                    # print('token already exists')
+                    # with open(path + '/info.json','r+') as token_info:
+                    #     token = json.load(token_info)
+                    #     print('found file: ' + json.dumps(coin))
                     
                 tokens[chain].append(token)
             #else:
@@ -145,6 +151,6 @@ for chain in supported_chains:
     f = open('blockchains/' + chain + '/tokenlist.json','r')
     print(time.time())
     tokenlist = json.load(f)
-    tokenlist['search_tokens'] = tokenlist['search_tokens'] + tokens[chain]
+    tokenlist['search_tokens'] = tokens[chain] + tokenlist['search_tokens']
     fw = open('blockchains' + '/ethereum' + '/tokenlist.json','w')
     fw.write(json.dumps(tokenlist, indent=4))

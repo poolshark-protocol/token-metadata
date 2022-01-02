@@ -4,7 +4,8 @@
     "id": "0xC80c5E40220172B36aDee2c951f26F2a577810C5",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/bankera",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1251.11,
+    "24_hr_volume_usd": 6533.9,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC80c5E40220172B36aDee2c951f26F2a577810C5/logo.png"
 }

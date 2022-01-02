@@ -4,7 +4,8 @@
     "id": "0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dacxi",
-    "market_cap_rank": 811,
-    "24_hr_volume_usd": 357857,
+    "market_cap_usd": 26939351,
+    "market_cap_rank": 862,
+    "24_hr_volume_usd": 317781,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F/logo.png"
 }

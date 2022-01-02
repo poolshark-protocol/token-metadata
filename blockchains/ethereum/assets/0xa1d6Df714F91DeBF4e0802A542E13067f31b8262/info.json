@@ -4,7 +4,8 @@
     "id": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/redfox-labs-2",
-    "market_cap_rank": 386,
-    "24_hr_volume_usd": 3311532,
+    "market_cap_usd": 152242985,
+    "market_cap_rank": 382,
+    "24_hr_volume_usd": 2047830,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa1d6Df714F91DeBF4e0802A542E13067f31b8262/logo.png"
 }

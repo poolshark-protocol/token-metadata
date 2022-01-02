@@ -4,7 +4,8 @@
     "id": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/metaverse-index",
-    "market_cap_rank": 691,
-    "24_hr_volume_usd": 351508,
+    "market_cap_usd": 45760062,
+    "market_cap_rank": 689,
+    "24_hr_volume_usd": 159428,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72e364F2ABdC788b7E918bc238B21f109Cd634D7/logo.png"
 }

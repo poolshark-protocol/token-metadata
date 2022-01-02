@@ -4,7 +4,8 @@
     "id": "0x1B9BAF2A3EdeA91eE431f02d449a1044d5726669",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/clifford-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 3630231,
+    "24_hr_volume_usd": 2909794,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1B9BAF2A3EdeA91eE431f02d449a1044d5726669/logo.png"
 }

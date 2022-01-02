@@ -4,7 +4,8 @@
     "id": "0x3CBc780D2934d55A06069e837fABd3e6Fc23DAB0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dbx-2",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 180873,
+    "24_hr_volume_usd": 208064,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3CBc780D2934d55A06069e837fABd3e6Fc23DAB0/logo.png"
 }

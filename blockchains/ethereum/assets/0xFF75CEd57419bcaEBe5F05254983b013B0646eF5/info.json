@@ -4,8 +4,9 @@
     "id": "0xFF75CEd57419bcaEBe5F05254983b013B0646eF5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cook",
-    "market_cap_rank": 1611,
-    "24_hr_volume_usd": 278338,
+    "market_cap_usd": 4363963,
+    "market_cap_rank": 1633,
+    "24_hr_volume_usd": 230420,
     "public_notice": "Cook Protocol has recently expanded to Avalanche. Find out more on their Twitter.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFF75CEd57419bcaEBe5F05254983b013B0646eF5/logo.png"
 }

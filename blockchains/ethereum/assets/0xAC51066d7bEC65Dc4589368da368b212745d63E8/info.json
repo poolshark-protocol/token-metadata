@@ -4,7 +4,8 @@
     "id": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/my-neighbor-alice",
-    "market_cap_rank": 303,
-    "24_hr_volume_usd": 90269676,
+    "market_cap_usd": 232601904,
+    "market_cap_rank": 298,
+    "24_hr_volume_usd": 78817059,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAC51066d7bEC65Dc4589368da368b212745d63E8/logo.png"
 }

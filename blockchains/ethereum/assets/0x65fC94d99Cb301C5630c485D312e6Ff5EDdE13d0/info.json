@@ -4,7 +4,8 @@
     "id": "0x65fC94d99Cb301C5630c485D312e6Ff5EDdE13d0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mvp",
-    "market_cap_rank": 3159,
+    "market_cap_usd": 101393,
+    "market_cap_rank": 3162,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x65fC94d99Cb301C5630c485D312e6Ff5EDdE13d0/logo.png"
 }

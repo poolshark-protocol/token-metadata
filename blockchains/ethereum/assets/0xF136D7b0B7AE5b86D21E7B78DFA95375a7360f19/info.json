@@ -4,7 +4,8 @@
     "id": "0xF136D7b0B7AE5b86D21E7B78DFA95375a7360f19",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/toshi-token",
-    "market_cap_rank": 2476,
-    "24_hr_volume_usd": 2274.91,
+    "market_cap_usd": 740119,
+    "market_cap_rank": 2493,
+    "24_hr_volume_usd": 1858.53,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF136D7b0B7AE5b86D21E7B78DFA95375a7360f19/logo.png"
 }

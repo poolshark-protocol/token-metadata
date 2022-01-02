@@ -4,7 +4,8 @@
     "id": "0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/trueflip",
-    "market_cap_rank": 1320,
-    "24_hr_volume_usd": 354212,
+    "market_cap_usd": 8138831,
+    "market_cap_rank": 1363,
+    "24_hr_volume_usd": 293398,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9/logo.png"
 }

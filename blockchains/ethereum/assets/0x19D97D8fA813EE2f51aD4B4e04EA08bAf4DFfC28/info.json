@@ -4,7 +4,8 @@
     "id": "0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/badger-sett-badger",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1940.73,
+    "24_hr_volume_usd": 3201.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28/logo.png"
 }

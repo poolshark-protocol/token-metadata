@@ -4,8 +4,9 @@
     "id": "0x31Fdd1c6607F47C14a2821f599211c67AC20FA96",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/burency",
-    "market_cap_rank": 1150,
-    "24_hr_volume_usd": 189124,
+    "market_cap_usd": 12725419,
+    "market_cap_rank": 1157,
+    "24_hr_volume_usd": 101431,
     "public_notice": "Token contract has migrated from 0xc559db74236c1f1dd734e0b4c8d747bb57983e6a to 0x31fdd1c6607f47c14a2821f599211c67ac20fa96",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31Fdd1c6607F47C14a2821f599211c67AC20FA96/logo.png"
 }

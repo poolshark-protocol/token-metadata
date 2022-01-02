@@ -4,8 +4,9 @@
     "id": "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ooki",
-    "market_cap_rank": 597,
-    "24_hr_volume_usd": 21796450,
+    "market_cap_usd": 60802714,
+    "market_cap_rank": 608,
+    "24_hr_volume_usd": 20741405,
     "public_notice": "Migration from BZRX to OOKI starts 18 December 2021. Read more here: https://ooki.com/token-migration",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0De05F6447ab4D22c8827449EE4bA2D5C288379B/logo.png"
 }

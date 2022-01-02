@@ -4,8 +4,9 @@
     "id": "0xfeF4185594457050cC9c23980d301908FE057Bb1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/v-id-blockchain",
-    "market_cap_rank": 748,
-    "24_hr_volume_usd": 3451207,
+    "market_cap_usd": 37640269,
+    "market_cap_rank": 756,
+    "24_hr_volume_usd": 2875386,
     "public_notice": "Contract address change from 0x445f51299ef3307dbd75036dd896565f5b4bf7a5 to 0xfeF4185594457050cC9c23980d301908FE057Bb1",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfeF4185594457050cC9c23980d301908FE057Bb1/logo.png"
 }

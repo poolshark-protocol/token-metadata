@@ -4,6 +4,7 @@
     "id": "0xff744f2315C9d61d825B581C973576055C3da07E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hplus",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xff744f2315C9d61d825B581C973576055C3da07E/logo.png"

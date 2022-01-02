@@ -4,8 +4,9 @@
     "id": "0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dfohub",
+    "market_cap_usd": 8739051,
     "market_cap_rank": 1321,
-    "24_hr_volume_usd": 105249,
+    "24_hr_volume_usd": 68847,
     "public_notice": "BUIDL, ARTE and UniFi have merged to become OS. https://ethos.eth.link/os.html",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7b123f53421b1bF8533339BFBdc7C98aA94163db/logo.png"
 }

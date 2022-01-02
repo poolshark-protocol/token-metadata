@@ -4,7 +4,8 @@
     "id": "0x2216e873ea4282EbEf7A02aC5aeA220bE6391A7C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/smol",
-    "market_cap_rank": 3288,
+    "market_cap_usd": 46770,
+    "market_cap_rank": 3292,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2216e873ea4282EbEf7A02aC5aeA220bE6391A7C/logo.png"
 }

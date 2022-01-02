@@ -4,7 +4,8 @@
     "id": "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/xaurum",
-    "market_cap_rank": 1969,
-    "24_hr_volume_usd": 35428,
+    "market_cap_usd": 2393289,
+    "market_cap_rank": 1915,
+    "24_hr_volume_usd": 41819,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4DF812F6064def1e5e029f1ca858777CC98D2D81/logo.png"
 }

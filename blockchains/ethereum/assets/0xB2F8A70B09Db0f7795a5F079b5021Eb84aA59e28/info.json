@@ -4,6 +4,7 @@
     "id": "0xB2F8A70B09Db0f7795a5F079b5021Eb84aA59e28",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/mashima-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB2F8A70B09Db0f7795a5F079b5021Eb84aA59e28/logo.png"

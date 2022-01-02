@@ -4,7 +4,8 @@
     "id": "0x4Cab0AbC80fe1c0521CBB5E9810A1c88c3942f91",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rekt-2",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1210.41,
+    "24_hr_volume_usd": 633.06,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Cab0AbC80fe1c0521CBB5E9810A1c88c3942f91/logo.png"
 }

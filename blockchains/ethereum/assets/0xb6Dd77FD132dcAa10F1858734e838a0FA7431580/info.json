@@ -4,7 +4,8 @@
     "id": "0xb6Dd77FD132dcAa10F1858734e838a0FA7431580",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/filipcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 321.25,
+    "24_hr_volume_usd": 62.49,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb6Dd77FD132dcAa10F1858734e838a0FA7431580/logo.png"
 }

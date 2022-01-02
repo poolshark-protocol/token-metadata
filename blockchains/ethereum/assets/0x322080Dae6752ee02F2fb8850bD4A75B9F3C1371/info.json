@@ -4,6 +4,7 @@
     "id": "0x322080Dae6752ee02F2fb8850bD4A75B9F3C1371",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/shiba-chocolate",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x322080Dae6752ee02F2fb8850bD4A75B9F3C1371/logo.png"

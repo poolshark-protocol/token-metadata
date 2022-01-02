@@ -4,7 +4,8 @@
     "id": "0x03806Ce5ef69Bd9780EDFb04c29da1F23Db96294",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/energo",
-    "market_cap_rank": 2999,
-    "24_hr_volume_usd": 451.08,
+    "market_cap_usd": 172566,
+    "market_cap_rank": 3024,
+    "24_hr_volume_usd": 2488.93,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x03806Ce5ef69Bd9780EDFb04c29da1F23Db96294/logo.png"
 }

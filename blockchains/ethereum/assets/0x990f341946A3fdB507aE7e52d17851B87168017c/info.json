@@ -4,7 +4,8 @@
     "id": "0x990f341946A3fdB507aE7e52d17851B87168017c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/strong",
-    "market_cap_rank": 467,
-    "24_hr_volume_usd": 16847408,
+    "market_cap_usd": 95591632,
+    "market_cap_rank": 483,
+    "24_hr_volume_usd": 11769547,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x990f341946A3fdB507aE7e52d17851B87168017c/logo.png"
 }

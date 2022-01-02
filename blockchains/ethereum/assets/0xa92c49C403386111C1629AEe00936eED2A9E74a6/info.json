@@ -4,7 +4,8 @@
     "id": "0xa92c49C403386111C1629AEe00936eED2A9E74a6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kollector",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 24298,
+    "24_hr_volume_usd": 24251,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa92c49C403386111C1629AEe00936eED2A9E74a6/logo.png"
 }

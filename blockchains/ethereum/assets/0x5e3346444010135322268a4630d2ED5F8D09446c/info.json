@@ -4,7 +4,8 @@
     "id": "0x5e3346444010135322268a4630d2ED5F8D09446c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lockchain",
-    "market_cap_rank": 641,
-    "24_hr_volume_usd": 95532,
+    "market_cap_usd": 55380065,
+    "market_cap_rank": 633,
+    "24_hr_volume_usd": 91294,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5e3346444010135322268a4630d2ED5F8D09446c/logo.png"
 }

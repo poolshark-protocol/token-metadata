@@ -4,7 +4,8 @@
     "id": "0x607F4C5BB672230e8672085532f7e901544a7375",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/iexec-rlc",
-    "market_cap_rank": 308,
-    "24_hr_volume_usd": 10765284,
+    "market_cap_usd": 220426344,
+    "market_cap_rank": 309,
+    "24_hr_volume_usd": 7923778,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x607F4C5BB672230e8672085532f7e901544a7375/logo.png"
 }

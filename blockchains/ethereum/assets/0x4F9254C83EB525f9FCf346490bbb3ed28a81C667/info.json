@@ -4,7 +4,8 @@
     "id": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/celer-network",
-    "market_cap_rank": 198,
-    "24_hr_volume_usd": 60711346,
+    "market_cap_usd": 444489246,
+    "market_cap_rank": 196,
+    "24_hr_volume_usd": 52730044,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4F9254C83EB525f9FCf346490bbb3ed28a81C667/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x3AFA1902b1f8a802aBC18e5aD982D1bCd34AfE22",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/grearn",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 5.31,
+    "24_hr_volume_usd": 843.74,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3AFA1902b1f8a802aBC18e5aD982D1bCd34AfE22/logo.png"
 }

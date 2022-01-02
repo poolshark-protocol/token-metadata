@@ -4,7 +4,8 @@
     "id": "0x15bdA08c3afbf5955D6e9B235Fd55a1FD0DbC829",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/alpha-coin",
-    "market_cap_rank": 3318,
-    "24_hr_volume_usd": 0.087402,
+    "market_cap_usd": 37676,
+    "market_cap_rank": 3315,
+    "24_hr_volume_usd": 981.95,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x15bdA08c3afbf5955D6e9B235Fd55a1FD0DbC829/logo.png"
 }

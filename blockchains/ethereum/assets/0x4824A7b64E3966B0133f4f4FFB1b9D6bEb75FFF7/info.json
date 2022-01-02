@@ -4,7 +4,8 @@
     "id": "0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tokenclub",
-    "market_cap_rank": 962,
-    "24_hr_volume_usd": 2681990,
+    "market_cap_usd": 20966327,
+    "market_cap_rank": 959,
+    "24_hr_volume_usd": 4604108,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4824A7b64E3966B0133f4f4FFB1b9D6bEb75FFF7/logo.png"
 }

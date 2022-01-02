@@ -4,7 +4,8 @@
     "id": "0x6Ac665c0dE9a6ca72B85757b141aa9c428828aCA",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/rogue-west",
-    "market_cap_rank": 2314,
-    "24_hr_volume_usd": 472.74,
+    "market_cap_usd": 1025380,
+    "market_cap_rank": 2349,
+    "24_hr_volume_usd": 2684.38,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6Ac665c0dE9a6ca72B85757b141aa9c428828aCA/logo.png"
 }

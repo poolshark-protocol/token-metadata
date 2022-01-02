@@ -4,7 +4,8 @@
     "id": "0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/swissborg",
-    "market_cap_rank": 167,
-    "24_hr_volume_usd": 1606076,
+    "market_cap_usd": 578441020,
+    "market_cap_rank": 168,
+    "24_hr_volume_usd": 935524,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xba9d4199faB4f26eFE3551D490E3821486f135Ba/logo.png"
 }

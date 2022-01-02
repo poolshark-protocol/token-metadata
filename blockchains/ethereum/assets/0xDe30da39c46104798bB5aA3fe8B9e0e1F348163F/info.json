@@ -4,7 +4,8 @@
     "id": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gitcoin",
-    "market_cap_rank": 337,
-    "24_hr_volume_usd": 27202492,
+    "market_cap_usd": 193194227,
+    "market_cap_rank": 336,
+    "24_hr_volume_usd": 34140148,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F/logo.png"
 }

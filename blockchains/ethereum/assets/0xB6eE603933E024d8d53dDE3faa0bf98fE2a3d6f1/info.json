@@ -4,7 +4,8 @@
     "id": "0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defiat",
-    "market_cap_rank": 3123,
-    "24_hr_volume_usd": 80.89,
+    "market_cap_usd": 124348,
+    "market_cap_rank": 3114,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB6eE603933E024d8d53dDE3faa0bf98fE2a3d6f1/logo.png"
 }

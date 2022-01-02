@@ -4,7 +4,8 @@
     "id": "0x06F3C323f0238c72BF35011071f2b5B7F43A054c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/masq",
-    "market_cap_rank": 1819,
-    "24_hr_volume_usd": 127695,
+    "market_cap_usd": 2888086,
+    "market_cap_rank": 1823,
+    "24_hr_volume_usd": 74623,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06F3C323f0238c72BF35011071f2b5B7F43A054c/logo.png"
 }

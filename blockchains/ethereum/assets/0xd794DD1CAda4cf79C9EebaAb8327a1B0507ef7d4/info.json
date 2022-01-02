@@ -4,7 +4,8 @@
     "id": "0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hyve",
-    "market_cap_rank": 1258,
-    "24_hr_volume_usd": 555729,
+    "market_cap_usd": 9984316,
+    "market_cap_rank": 1269,
+    "24_hr_volume_usd": 183219,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd794DD1CAda4cf79C9EebaAb8327a1B0507ef7d4/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x53Bd789F2cDb846b227d8ffc7B46eD4263231FDf",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/simbcoin-swap",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2124.09,
+    "24_hr_volume_usd": 6075.55,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x53Bd789F2cDb846b227d8ffc7B46eD4263231FDf/logo.png"
 }

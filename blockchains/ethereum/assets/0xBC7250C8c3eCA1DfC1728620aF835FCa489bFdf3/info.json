@@ -4,7 +4,8 @@
     "id": "0xBC7250C8c3eCA1DfC1728620aF835FCa489bFdf3",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/gm",
-    "market_cap_rank": 492,
-    "24_hr_volume_usd": 8410997,
+    "market_cap_usd": 89967600,
+    "market_cap_rank": 498,
+    "24_hr_volume_usd": 7748493,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBC7250C8c3eCA1DfC1728620aF835FCa489bFdf3/logo.png"
 }

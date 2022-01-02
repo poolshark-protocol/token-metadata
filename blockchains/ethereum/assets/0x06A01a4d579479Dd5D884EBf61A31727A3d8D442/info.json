@@ -4,7 +4,8 @@
     "id": "0x06A01a4d579479Dd5D884EBf61A31727A3d8D442",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/skey-network",
-    "market_cap_rank": 885,
-    "24_hr_volume_usd": 322810,
+    "market_cap_usd": 23684586,
+    "market_cap_rank": 909,
+    "24_hr_volume_usd": 456234,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06A01a4d579479Dd5D884EBf61A31727A3d8D442/logo.png"
 }

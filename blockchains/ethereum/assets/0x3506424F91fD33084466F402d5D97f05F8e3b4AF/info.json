@@ -4,7 +4,8 @@
     "id": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/chiliz",
+    "market_cap_usd": 1574377485,
     "market_cap_rank": 90,
-    "24_hr_volume_usd": 120314077,
+    "24_hr_volume_usd": 83155074,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3506424F91fD33084466F402d5D97f05F8e3b4AF/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kanpeki",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 21802,
+    "24_hr_volume_usd": 25651,
     "public_notice": "Yield has rebranded to Kanpeki. Read more at: https://kanpeki.medium.com/we-are-now-ahem-kanpeki-c6b163de71ba",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436/logo.png"
 }

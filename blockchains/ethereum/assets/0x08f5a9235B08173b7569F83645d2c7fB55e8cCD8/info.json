@@ -4,7 +4,8 @@
     "id": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/tierion",
-    "market_cap_rank": 1442,
+    "market_cap_usd": 6501357,
+    "market_cap_rank": 1458,
     "24_hr_volume_usd": 0.01137977,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8/logo.png"
 }

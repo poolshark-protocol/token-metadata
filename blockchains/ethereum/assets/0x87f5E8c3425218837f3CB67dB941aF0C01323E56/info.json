@@ -4,8 +4,9 @@
     "id": "0x87f5E8c3425218837f3CB67dB941aF0C01323E56",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitcoin-one",
-    "market_cap_rank": 3472,
-    "24_hr_volume_usd": 0.00035934,
+    "market_cap_usd": 4598.64,
+    "market_cap_rank": 3454,
+    "24_hr_volume_usd": 10.62,
     "public_notice": "No longer operate as it has taken over by Bone Payment. See https://t.me/TheBitCoinONE and https://medium.com/@bitcointurbokoin/btk-btcone-is-closing-doors-dbdfcf50969d . Please exercise caution.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87f5E8c3425218837f3CB67dB941aF0C01323E56/logo.png"
 }

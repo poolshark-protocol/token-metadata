@@ -4,6 +4,7 @@
     "id": "0x6a625DDb2e2A2de0257C5129364dd80Bb4AfA3B9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ikomp",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6a625DDb2e2A2de0257C5129364dd80Bb4AfA3B9/logo.png"

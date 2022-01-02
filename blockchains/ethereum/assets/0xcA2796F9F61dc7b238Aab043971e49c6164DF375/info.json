@@ -4,8 +4,9 @@
     "id": "0xcA2796F9F61dc7b238Aab043971e49c6164DF375",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yggdrash",
-    "market_cap_rank": 2003,
-    "24_hr_volume_usd": 1364.66,
+    "market_cap_usd": 2494508,
+    "market_cap_rank": 1898,
+    "24_hr_volume_usd": 2613.75,
     "public_notice": "YEED has rebranded to <a href=\"https://www.coingecko.com/en/coins/mcs-token\">MCS Token</a>. For more information, visit https://medium.com/mcs-token-official/introducing-mcs-token-c89f9d50e08b",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcA2796F9F61dc7b238Aab043971e49c6164DF375/logo.png"
 }

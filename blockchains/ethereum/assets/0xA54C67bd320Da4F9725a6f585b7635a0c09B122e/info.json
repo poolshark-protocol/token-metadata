@@ -4,6 +4,7 @@
     "id": "0xA54C67bd320Da4F9725a6f585b7635a0c09B122e",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/timeminer",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA54C67bd320Da4F9725a6f585b7635a0c09B122e/logo.png"

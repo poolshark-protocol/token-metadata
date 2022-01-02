@@ -4,8 +4,9 @@
     "id": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/singularitynet",
-    "market_cap_rank": 321,
-    "24_hr_volume_usd": 1458596,
+    "market_cap_usd": 204628073,
+    "market_cap_rank": 323,
+    "24_hr_volume_usd": 746995,
     "public_notice": "AGI has recently been hardforked to AGIX. The old token AGI will no longer be traded. For more information, please visit https://blog.singularitynet.io/singularitynet-phase-ii-launch-sequence-activated-agi-token-to-be-hard-forked-to-10ede4b6c89",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5B7533812759B45C2B44C19e320ba2cD2681b542/logo.png"
 }

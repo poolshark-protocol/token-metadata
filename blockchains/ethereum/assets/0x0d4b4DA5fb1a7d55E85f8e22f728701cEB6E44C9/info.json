@@ -4,7 +4,8 @@
     "id": "0x0d4b4DA5fb1a7d55E85f8e22f728701cEB6E44C9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/digimax",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 198.1,
+    "24_hr_volume_usd": 149.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0d4b4DA5fb1a7d55E85f8e22f728701cEB6E44C9/logo.png"
 }

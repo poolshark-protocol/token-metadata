@@ -4,7 +4,8 @@
     "id": "0xC1D9B5A0776d7C8B98b8A838e5a0DD1Bc5Fdd53C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gridzone",
-    "market_cap_rank": 1320,
-    "24_hr_volume_usd": 58656,
+    "market_cap_usd": 11694112,
+    "market_cap_rank": 1198,
+    "24_hr_volume_usd": 429369,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC1D9B5A0776d7C8B98b8A838e5a0DD1Bc5Fdd53C/logo.png"
 }

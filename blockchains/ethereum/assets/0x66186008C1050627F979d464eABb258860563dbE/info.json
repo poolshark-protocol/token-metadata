@@ -4,7 +4,8 @@
     "id": "0x66186008C1050627F979d464eABb258860563dbE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/medishares",
-    "market_cap_rank": 2125,
-    "24_hr_volume_usd": 85868,
+    "market_cap_usd": 1554485,
+    "market_cap_rank": 2127,
+    "24_hr_volume_usd": 27011,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x66186008C1050627F979d464eABb258860563dbE/logo.png"
 }

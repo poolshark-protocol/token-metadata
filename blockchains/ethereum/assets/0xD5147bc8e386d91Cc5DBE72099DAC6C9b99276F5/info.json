@@ -4,7 +4,8 @@
     "id": "0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/renfil",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 21428,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5/logo.png"
 }

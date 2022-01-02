@@ -4,7 +4,8 @@
     "id": "0x6c936D4AE98E6d2172dB18c16C4b601C99918EE6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/life-crypto",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 716464,
+    "24_hr_volume_usd": 1545165,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6c936D4AE98E6d2172dB18c16C4b601C99918EE6/logo.png"
 }

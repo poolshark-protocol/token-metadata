@@ -4,7 +4,8 @@
     "id": "0xC697648021870Cc250Fbcd6EA8E77524f57b45C0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/podo-point",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 22729,
+    "24_hr_volume_usd": 11876.78,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC697648021870Cc250Fbcd6EA8E77524f57b45C0/logo.png"
 }

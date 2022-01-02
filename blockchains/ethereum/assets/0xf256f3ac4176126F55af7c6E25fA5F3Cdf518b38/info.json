@@ -4,7 +4,8 @@
     "id": "0xf256f3ac4176126F55af7c6E25fA5F3Cdf518b38",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cedars",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 48786,
+    "24_hr_volume_usd": 51784,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf256f3ac4176126F55af7c6E25fA5F3Cdf518b38/logo.png"
 }

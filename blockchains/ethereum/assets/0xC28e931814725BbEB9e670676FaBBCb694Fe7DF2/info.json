@@ -4,7 +4,8 @@
     "id": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/quadrant-protocol",
-    "market_cap_rank": 1528,
-    "24_hr_volume_usd": 66909,
+    "market_cap_usd": 5288513,
+    "market_cap_rank": 1538,
+    "24_hr_volume_usd": 51527,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2/logo.png"
 }

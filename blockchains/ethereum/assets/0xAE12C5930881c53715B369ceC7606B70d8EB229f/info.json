@@ -4,7 +4,8 @@
     "id": "0xAE12C5930881c53715B369ceC7606B70d8EB229f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coin98",
-    "market_cap_rank": 193,
-    "24_hr_volume_usd": 16581227,
+    "market_cap_usd": 461856784,
+    "market_cap_rank": 191,
+    "24_hr_volume_usd": 9574404,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAE12C5930881c53715B369ceC7606B70d8EB229f/logo.png"
 }

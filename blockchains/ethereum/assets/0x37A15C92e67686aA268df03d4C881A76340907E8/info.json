@@ -4,7 +4,8 @@
     "id": "0x37A15C92e67686aA268df03d4C881A76340907E8",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/pixiu-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 22.16,
+    "24_hr_volume_usd": 20.98,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37A15C92e67686aA268df03d4C881A76340907E8/logo.png"
 }

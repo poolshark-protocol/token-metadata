@@ -4,6 +4,7 @@
     "id": "0x1E5193ccC53f25638Aa22a940af899B692e10B09",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/alluo",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1E5193ccC53f25638Aa22a940af899B692e10B09/logo.png"
 }

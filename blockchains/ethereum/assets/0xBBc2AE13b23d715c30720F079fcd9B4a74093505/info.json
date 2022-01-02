@@ -4,7 +4,8 @@
     "id": "0xBBc2AE13b23d715c30720F079fcd9B4a74093505",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethernity-chain",
-    "market_cap_rank": 462,
-    "24_hr_volume_usd": 5514755,
+    "market_cap_usd": 103833139,
+    "market_cap_rank": 464,
+    "24_hr_volume_usd": 4131100,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBBc2AE13b23d715c30720F079fcd9B4a74093505/logo.png"
 }

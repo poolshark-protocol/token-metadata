@@ -4,7 +4,8 @@
     "id": "0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/roobee",
-    "market_cap_rank": 1574,
-    "24_hr_volume_usd": 1290971,
+    "market_cap_usd": 4745400,
+    "market_cap_rank": 1576,
+    "24_hr_volume_usd": 1167550,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA31B1767e09f842ECFd4bc471Fe44F830E3891AA/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cyberfi",
-    "market_cap_rank": 1359,
-    "24_hr_volume_usd": 186808,
+    "market_cap_usd": 8076307,
+    "market_cap_rank": 1367,
+    "24_hr_volume_usd": 415406,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/echolink",
-    "market_cap_rank": 3086,
-    "24_hr_volume_usd": 4865.36,
+    "market_cap_usd": 149274,
+    "market_cap_rank": 3065,
+    "24_hr_volume_usd": 2436.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa6a840E50bCaa50dA017b91A0D86B8b2d41156EE/logo.png"
 }

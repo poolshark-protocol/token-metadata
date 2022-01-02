@@ -4,7 +4,8 @@
     "id": "0xcA75C43f8c9AfD356c585ce7AA4490B48A95C466",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/inari",
-    "market_cap_rank": 1870,
-    "24_hr_volume_usd": 33307,
+    "market_cap_usd": 2424180,
+    "market_cap_rank": 1905,
+    "24_hr_volume_usd": 66156,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcA75C43f8c9AfD356c585ce7AA4490B48A95C466/logo.png"
 }

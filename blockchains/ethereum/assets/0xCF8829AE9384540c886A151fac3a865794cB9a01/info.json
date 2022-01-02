@@ -4,7 +4,8 @@
     "id": "0xCF8829AE9384540c886A151fac3a865794cB9a01",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/syncdao-governance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1042.7,
+    "24_hr_volume_usd": 17429.97,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCF8829AE9384540c886A151fac3a865794cB9a01/logo.png"
 }

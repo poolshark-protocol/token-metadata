@@ -4,8 +4,9 @@
     "id": "0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nxm",
+    "market_cap_usd": 864271968,
     "market_cap_rank": 130,
-    "24_hr_volume_usd": 3265.6,
+    "24_hr_volume_usd": 9329.39,
     "public_notice": "For Wrapped NXM (wNXM) tokens that are freely tradable outside of the Nexus Mutual platform, please refer to https://www.coingecko.com/en/coins/wrapped-nxm",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B/logo.png"
 }

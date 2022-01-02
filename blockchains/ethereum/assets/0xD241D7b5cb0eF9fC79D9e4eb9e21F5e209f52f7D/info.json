@@ -4,8 +4,9 @@
     "id": "0xD241D7b5cb0eF9fC79D9e4eb9e21F5e209f52f7D",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/hoo-token",
-    "market_cap_rank": 564,
-    "24_hr_volume_usd": 2030872,
+    "market_cap_usd": 70448421,
+    "market_cap_rank": 570,
+    "24_hr_volume_usd": 1829101,
     "public_notice": "Contract Address changed from 0x7592dc0c4bc7cfc91ae5a7d62dc96c949fd27193 to 0xd241d7b5cb0ef9fc79d9e4eb9e21f5e209f52f7d. Read more: https://medium.com/@Hoo_exchange/hoo-hoo-token-smart-contract-upgrade-completed-58065d35599f",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD241D7b5cb0eF9fC79D9e4eb9e21F5e209f52f7D/logo.png"
 }

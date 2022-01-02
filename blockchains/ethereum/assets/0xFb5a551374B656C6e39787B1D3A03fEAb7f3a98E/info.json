@@ -4,7 +4,8 @@
     "id": "0xFb5a551374B656C6e39787B1D3A03fEAb7f3a98E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/thingsoperatingsystem",
-    "market_cap_rank": 3156,
-    "24_hr_volume_usd": 3313.8,
+    "market_cap_usd": 101192,
+    "market_cap_rank": 3162,
+    "24_hr_volume_usd": 776.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFb5a551374B656C6e39787B1D3A03fEAb7f3a98E/logo.png"
 }

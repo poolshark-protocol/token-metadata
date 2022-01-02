@@ -4,7 +4,8 @@
     "id": "0xB6c3DC857845a713d3531cea5ac546F6767992F4",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/advertise-coin",
-    "market_cap_rank": 1765,
-    "24_hr_volume_usd": 20518,
+    "market_cap_usd": 3224112,
+    "market_cap_rank": 1785,
+    "24_hr_volume_usd": 21026,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB6c3DC857845a713d3531cea5ac546F6767992F4/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vether",
-    "market_cap_rank": 2601,
-    "24_hr_volume_usd": 300.15,
+    "market_cap_usd": 1107032,
+    "market_cap_rank": 2306,
+    "24_hr_volume_usd": 553.95,
     "public_notice": "Vether has upgraded their token contract to 0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279. For more information, read https://medium.com/@randomizedxyz/vether-upgrade-deployed-56141061263f",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279/logo.png"
 }

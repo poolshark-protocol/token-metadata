@@ -4,7 +4,8 @@
     "id": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/stableusd",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 148247,
+    "24_hr_volume_usd": 41239,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe/logo.png"
 }

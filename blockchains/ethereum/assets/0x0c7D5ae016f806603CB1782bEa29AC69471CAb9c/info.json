@@ -4,7 +4,8 @@
     "id": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bifrost",
-    "market_cap_rank": 304,
-    "24_hr_volume_usd": 2394525,
+    "market_cap_usd": 222696543,
+    "market_cap_rank": 305,
+    "24_hr_volume_usd": 1381799,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c/logo.png"
 }

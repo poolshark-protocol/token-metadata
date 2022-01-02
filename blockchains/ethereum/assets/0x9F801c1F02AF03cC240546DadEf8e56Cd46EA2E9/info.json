@@ -4,7 +4,8 @@
     "id": "0x9F801c1F02AF03cC240546DadEf8e56Cd46EA2E9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vaiot",
-    "market_cap_rank": 1432,
-    "24_hr_volume_usd": 107785,
+    "market_cap_usd": 6807253,
+    "market_cap_rank": 1437,
+    "24_hr_volume_usd": 50699,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9F801c1F02AF03cC240546DadEf8e56Cd46EA2E9/logo.png"
 }

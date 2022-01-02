@@ -4,7 +4,8 @@
     "id": "0xaa99199d1e9644b588796F3215089878440D58e0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/alphr",
-    "market_cap_rank": 2889,
-    "24_hr_volume_usd": 20848,
+    "market_cap_usd": 268860,
+    "market_cap_rank": 2898,
+    "24_hr_volume_usd": 36371,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaa99199d1e9644b588796F3215089878440D58e0/logo.png"
 }

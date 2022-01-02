@@ -4,7 +4,8 @@
     "id": "0x348B7f3106B5Da47405332534d06069fF9CE4d1B",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/elongate-duluxe",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1258.29,
+    "24_hr_volume_usd": 218.29,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x348B7f3106B5Da47405332534d06069fF9CE4d1B/logo.png"
 }

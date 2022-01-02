@@ -4,6 +4,7 @@
     "id": "0x2c644C3bBeA053ed95a6bC04A94C9CE928Ff9881",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/lance-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 46.56,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2c644C3bBeA053ed95a6bC04A94C9CE928Ff9881/logo.png"

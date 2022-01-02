@@ -4,7 +4,8 @@
     "id": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/revv",
-    "market_cap_rank": 769,
-    "24_hr_volume_usd": 1236456,
+    "market_cap_usd": 34134173,
+    "market_cap_rank": 777,
+    "24_hr_volume_usd": 1348687,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x557B933a7C2c45672B610F8954A3deB39a51A8Ca/logo.png"
 }

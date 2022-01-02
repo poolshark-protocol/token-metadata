@@ -4,7 +4,8 @@
     "id": "0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/crycash",
-    "market_cap_rank": 3297,
-    "24_hr_volume_usd": 0.143385,
+    "market_cap_usd": 43357,
+    "market_cap_rank": 3299,
+    "24_hr_volume_usd": 0.00165229,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF41e5Fbc2F6Aac200Dd8619E121CE1f05D150077/logo.png"
 }

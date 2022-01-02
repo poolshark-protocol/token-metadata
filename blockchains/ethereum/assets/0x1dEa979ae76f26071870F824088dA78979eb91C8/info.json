@@ -4,7 +4,8 @@
     "id": "0x1dEa979ae76f26071870F824088dA78979eb91C8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/spindle",
-    "market_cap_rank": 2777,
-    "24_hr_volume_usd": 0.02271429,
+    "market_cap_usd": 307578,
+    "market_cap_rank": 2853,
+    "24_hr_volume_usd": 51.29,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1dEa979ae76f26071870F824088dA78979eb91C8/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/qqq-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 105903,
+    "24_hr_volume_usd": 91873,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21/logo.png"
 }

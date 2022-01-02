@@ -4,7 +4,8 @@
     "id": "0x3D658390460295FB963f54dC0899cfb1c30776Df",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/circuits-of-value",
-    "market_cap_rank": 241,
-    "24_hr_volume_usd": 454681863,
+    "market_cap_usd": 247686018,
+    "market_cap_rank": 287,
+    "24_hr_volume_usd": 109511540,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3D658390460295FB963f54dC0899cfb1c30776Df/logo.png"
 }

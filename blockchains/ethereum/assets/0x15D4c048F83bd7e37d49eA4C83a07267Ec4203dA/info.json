@@ -4,7 +4,8 @@
     "id": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/gala",
-    "market_cap_rank": 52,
-    "24_hr_volume_usd": 392620147,
+    "market_cap_usd": 3496596373,
+    "market_cap_rank": 53,
+    "24_hr_volume_usd": 282139987,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA/logo.png"
 }

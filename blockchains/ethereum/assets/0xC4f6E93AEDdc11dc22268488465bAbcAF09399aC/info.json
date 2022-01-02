@@ -4,8 +4,9 @@
     "id": "0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hi-dollar",
-    "market_cap_rank": 452,
-    "24_hr_volume_usd": 434988,
+    "market_cap_usd": 99824222,
+    "market_cap_rank": 470,
+    "24_hr_volume_usd": 363671,
     "public_notice": "Hi Dollar has recently expanded to Binance Smart Chain. For more info, read <a href=\"https://resources.hi.com/get-hi-on-pancakeswap-heres-what-you-need-to-know/\">here</a>. ",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC4f6E93AEDdc11dc22268488465bAbcAF09399aC/logo.png"
 }

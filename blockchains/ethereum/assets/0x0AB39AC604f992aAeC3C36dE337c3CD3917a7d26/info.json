@@ -4,7 +4,8 @@
     "id": "0x0AB39AC604f992aAeC3C36dE337c3CD3917a7d26",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/keeps-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 501265,
+    "24_hr_volume_usd": 599459,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0AB39AC604f992aAeC3C36dE337c3CD3917a7d26/logo.png"
 }

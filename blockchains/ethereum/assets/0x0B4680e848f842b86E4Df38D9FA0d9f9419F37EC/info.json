@@ -4,7 +4,8 @@
     "id": "0x0B4680e848f842b86E4Df38D9FA0d9f9419F37EC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/beshare-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 171.45,
+    "24_hr_volume_usd": 8.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0B4680e848f842b86E4Df38D9FA0d9f9419F37EC/logo.png"
 }

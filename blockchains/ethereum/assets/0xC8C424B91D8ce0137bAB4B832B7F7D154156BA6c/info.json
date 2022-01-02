@@ -4,7 +4,8 @@
     "id": "0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/apm-coin",
-    "market_cap_rank": 1142,
-    "24_hr_volume_usd": 280297,
+    "market_cap_usd": 12751994,
+    "market_cap_rank": 1150,
+    "24_hr_volume_usd": 59688,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC8C424B91D8ce0137bAB4B832B7F7D154156BA6c/logo.png"
 }

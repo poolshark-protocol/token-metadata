@@ -4,7 +4,8 @@
     "id": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kyber-network-crystal",
-    "market_cap_rank": 407,
-    "24_hr_volume_usd": 2718784,
+    "market_cap_usd": 140843624,
+    "market_cap_rank": 403,
+    "24_hr_volume_usd": 3511332,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202/logo.png"
 }

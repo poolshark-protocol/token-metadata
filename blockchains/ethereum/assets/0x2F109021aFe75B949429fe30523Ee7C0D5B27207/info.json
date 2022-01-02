@@ -4,7 +4,8 @@
     "id": "0x2F109021aFe75B949429fe30523Ee7C0D5B27207",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/occamfi",
-    "market_cap_rank": 686,
-    "24_hr_volume_usd": 811346,
+    "market_cap_usd": 46749585,
+    "market_cap_rank": 684,
+    "24_hr_volume_usd": 413739,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2F109021aFe75B949429fe30523Ee7C0D5B27207/logo.png"
 }

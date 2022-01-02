@@ -4,7 +4,8 @@
     "id": "0x464FdB8AFFC9bac185A7393fd4298137866DCFB8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/realm",
-    "market_cap_rank": 1014,
-    "24_hr_volume_usd": 1639601,
+    "market_cap_usd": 19010646,
+    "market_cap_rank": 997,
+    "24_hr_volume_usd": 1588724,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x464FdB8AFFC9bac185A7393fd4298137866DCFB8/logo.png"
 }

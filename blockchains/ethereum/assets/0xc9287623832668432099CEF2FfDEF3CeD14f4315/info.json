@@ -4,7 +4,8 @@
     "id": "0xc9287623832668432099CEF2FfDEF3CeD14f4315",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/3x-long-tether-gold-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 101.82,
+    "24_hr_volume_usd": 74.05,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc9287623832668432099CEF2FfDEF3CeD14f4315/logo.png"
 }

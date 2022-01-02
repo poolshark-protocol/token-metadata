@@ -4,7 +4,8 @@
     "id": "0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/popcorn",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 6805.62,
+    "24_hr_volume_usd": 2411.95,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD0Cd466b34A24fcB2f87676278AF2005Ca8A78c4/logo.png"
 }

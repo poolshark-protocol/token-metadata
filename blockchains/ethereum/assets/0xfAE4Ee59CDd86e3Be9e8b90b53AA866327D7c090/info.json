@@ -4,7 +4,8 @@
     "id": "0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cpchain",
-    "market_cap_rank": 1915,
-    "24_hr_volume_usd": 896723,
+    "market_cap_usd": 2537271,
+    "market_cap_rank": 1891,
+    "24_hr_volume_usd": 910954,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090/logo.png"
 }

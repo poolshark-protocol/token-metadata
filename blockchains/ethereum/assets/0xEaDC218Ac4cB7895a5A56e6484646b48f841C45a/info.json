@@ -4,7 +4,8 @@
     "id": "0xEaDC218Ac4cB7895a5A56e6484646b48f841C45a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/metafinance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 32944,
+    "24_hr_volume_usd": 540.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEaDC218Ac4cB7895a5A56e6484646b48f841C45a/logo.png"
 }

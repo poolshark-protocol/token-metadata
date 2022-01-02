@@ -4,7 +4,8 @@
     "id": "0x147faF8De9d8D8DAAE129B187F0D02D819126750",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/geodb",
-    "market_cap_rank": 2172,
-    "24_hr_volume_usd": 25845,
+    "market_cap_usd": 1175608,
+    "market_cap_rank": 2254,
+    "24_hr_volume_usd": 8632.68,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x147faF8De9d8D8DAAE129B187F0D02D819126750/logo.png"
 }

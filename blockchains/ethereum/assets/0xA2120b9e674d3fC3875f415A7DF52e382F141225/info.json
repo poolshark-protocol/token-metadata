@@ -4,7 +4,8 @@
     "id": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/automata",
+    "market_cap_usd": 113332237,
     "market_cap_rank": 447,
-    "24_hr_volume_usd": 5593141,
+    "24_hr_volume_usd": 4465111,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA2120b9e674d3fC3875f415A7DF52e382F141225/logo.png"
 }

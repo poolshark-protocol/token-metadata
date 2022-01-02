@@ -4,7 +4,8 @@
     "id": "0xF9E3a323957B172FDB2dD89c30BBDA980CFAC395",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/astrolion",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 28.13,
+    "24_hr_volume_usd": 107.61,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF9E3a323957B172FDB2dD89c30BBDA980CFAC395/logo.png"
 }

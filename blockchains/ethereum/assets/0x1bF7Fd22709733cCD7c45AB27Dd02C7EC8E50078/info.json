@@ -4,7 +4,8 @@
     "id": "0x1bF7Fd22709733cCD7c45AB27Dd02C7EC8E50078",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/quiztok",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 511726,
+    "24_hr_volume_usd": 286975,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1bF7Fd22709733cCD7c45AB27Dd02C7EC8E50078/logo.png"
 }

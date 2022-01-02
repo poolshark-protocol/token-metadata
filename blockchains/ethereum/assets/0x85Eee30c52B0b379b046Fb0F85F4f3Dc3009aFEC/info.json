@@ -4,7 +4,8 @@
     "id": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/keep-network",
-    "market_cap_rank": 202,
-    "24_hr_volume_usd": 111934453,
+    "market_cap_usd": 407045051,
+    "market_cap_rank": 203,
+    "24_hr_volume_usd": 43995724,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x9F009D03E1b7F02065017C90e8e0D5Cb378eB015",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/fortune",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 238775,
+    "24_hr_volume_usd": 95008,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9F009D03E1b7F02065017C90e8e0D5Cb378eB015/logo.png"
 }

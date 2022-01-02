@@ -4,7 +4,8 @@
     "id": "0x8D3E855f3f55109D473735aB76F753218400fe96",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bundles",
-    "market_cap_rank": 1489,
-    "24_hr_volume_usd": 870995,
+    "market_cap_usd": 6495382,
+    "market_cap_rank": 1459,
+    "24_hr_volume_usd": 142848,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8D3E855f3f55109D473735aB76F753218400fe96/logo.png"
 }

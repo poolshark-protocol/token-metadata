@@ -4,7 +4,8 @@
     "id": "0xa2EF2757D2eD560c9e3758D1946d7bcccBD5A7fe",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/adventure-token",
-    "market_cap_rank": 2877,
+    "market_cap_usd": 279190,
+    "market_cap_rank": 2884,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa2EF2757D2eD560c9e3758D1946d7bcccBD5A7fe/logo.png"
 }

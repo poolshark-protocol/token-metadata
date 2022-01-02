@@ -4,7 +4,8 @@
     "id": "0x9903A4Cd589DA8e434f264deAFc406836418578E",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/harrison-first",
-    "market_cap_rank": 3278,
-    "24_hr_volume_usd": 139.33,
+    "market_cap_usd": 49895,
+    "market_cap_rank": 3281,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9903A4Cd589DA8e434f264deAFc406836418578E/logo.png"
 }

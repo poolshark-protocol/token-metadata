@@ -4,8 +4,9 @@
     "id": "0xB1e93236ab6073fdAC58adA5564897177D4bcC43",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/seele",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1387391,
+    "24_hr_volume_usd": 1266247,
     "public_notice": "Seele has just completed a chain swap where the contract address migrated from 0xb1eef147028e9f480dbc5ccaa3277d417d1b85f0 to 0xb1e93236ab6073fdac58ada5564897177d4bcc43 ",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB1e93236ab6073fdAC58adA5564897177D4bcC43/logo.png"
 }

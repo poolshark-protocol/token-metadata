@@ -4,7 +4,8 @@
     "id": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bios",
-    "market_cap_rank": 997,
-    "24_hr_volume_usd": 281097,
+    "market_cap_usd": 21427791,
+    "market_cap_rank": 948,
+    "24_hr_volume_usd": 95839,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAACa86B876ca011844b5798ECA7a67591A9743C8/logo.png"
 }

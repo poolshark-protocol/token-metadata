@@ -4,7 +4,8 @@
     "id": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/crd-network",
-    "market_cap_rank": 2078,
-    "24_hr_volume_usd": 12163.7,
+    "market_cap_usd": 1668847,
+    "market_cap_rank": 2092,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/level01-derivatives-exchange",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 537.24,
+    "24_hr_volume_usd": 0.0,
     "public_notice": "Contract address has changed from 0x056ac97cd9dee69660964278d6c689135e9780bc to 0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xfFE510a92434a0Df346C5E72a3494b043Cf249eB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lux-bio-exchange-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 154864,
+    "24_hr_volume_usd": 69574,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfFE510a92434a0Df346C5E72a3494b043Cf249eB/logo.png"
 }

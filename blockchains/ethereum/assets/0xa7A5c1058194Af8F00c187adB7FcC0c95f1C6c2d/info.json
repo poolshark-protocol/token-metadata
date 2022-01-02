@@ -4,7 +4,8 @@
     "id": "0xa7A5c1058194Af8F00c187adB7FcC0c95f1C6c2d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/space-iz",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 11677.44,
+    "24_hr_volume_usd": 11867.92,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa7A5c1058194Af8F00c187adB7FcC0c95f1C6c2d/logo.png"
 }

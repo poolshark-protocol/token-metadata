@@ -4,7 +4,8 @@
     "id": "0x9B9087756eCa997C5D595C840263001c9a26646D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dogefi",
-    "market_cap_rank": 2949,
-    "24_hr_volume_usd": 10872.73,
+    "market_cap_usd": 161401,
+    "market_cap_rank": 3043,
+    "24_hr_volume_usd": 5042.29,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9B9087756eCa997C5D595C840263001c9a26646D/logo.png"
 }

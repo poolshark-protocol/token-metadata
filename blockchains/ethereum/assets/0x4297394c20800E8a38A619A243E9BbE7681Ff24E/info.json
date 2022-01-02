@@ -4,7 +4,8 @@
     "id": "0x4297394c20800E8a38A619A243E9BbE7681Ff24E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hot-cross",
+    "market_cap_usd": 40825995,
     "market_cap_rank": 727,
-    "24_hr_volume_usd": 1719982,
+    "24_hr_volume_usd": 1290813,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4297394c20800E8a38A619A243E9BbE7681Ff24E/logo.png"
 }

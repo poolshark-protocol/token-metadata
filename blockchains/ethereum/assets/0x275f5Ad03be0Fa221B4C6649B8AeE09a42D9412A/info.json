@@ -4,7 +4,8 @@
     "id": "0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/monavale",
-    "market_cap_rank": 1428,
-    "24_hr_volume_usd": 38463,
+    "market_cap_usd": 6751029,
+    "market_cap_rank": 1442,
+    "24_hr_volume_usd": 24178,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x275f5Ad03be0Fa221B4C6649B8AeE09a42D9412A/logo.png"
 }

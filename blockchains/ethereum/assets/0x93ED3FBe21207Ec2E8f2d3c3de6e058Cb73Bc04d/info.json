@@ -4,7 +4,8 @@
     "id": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kleros",
-    "market_cap_rank": 598,
-    "24_hr_volume_usd": 536826,
+    "market_cap_usd": 62257589,
+    "market_cap_rank": 597,
+    "24_hr_volume_usd": 650164,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d/logo.png"
 }

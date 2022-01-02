@@ -4,7 +4,8 @@
     "id": "0x6149C26Cd2f7b5CCdb32029aF817123F6E37Df5B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/launchpool",
-    "market_cap_rank": 905,
-    "24_hr_volume_usd": 845607,
+    "market_cap_usd": 24134698,
+    "market_cap_rank": 895,
+    "24_hr_volume_usd": 635180,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6149C26Cd2f7b5CCdb32029aF817123F6E37Df5B/logo.png"
 }

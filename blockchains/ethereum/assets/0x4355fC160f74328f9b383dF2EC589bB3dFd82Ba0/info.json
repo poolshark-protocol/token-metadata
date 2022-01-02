@@ -4,7 +4,8 @@
     "id": "0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/opus",
-    "market_cap_rank": 3078,
-    "24_hr_volume_usd": 0.01012023,
+    "market_cap_usd": 140177,
+    "market_cap_rank": 3077,
+    "24_hr_volume_usd": 0.530364,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0/logo.png"
 }

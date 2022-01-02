@@ -4,7 +4,8 @@
     "id": "0x8cA9a0fbd8DB501F013F2e9e33a1B9dC129A48E0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/peoples-punk",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 53371,
+    "24_hr_volume_usd": 17207.6,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8cA9a0fbd8DB501F013F2e9e33a1B9dC129A48E0/logo.png"
 }

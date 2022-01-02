@@ -4,7 +4,8 @@
     "id": "0x9b2D81A1AE36E8e66A0875053429816f0B6b829E",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/grey-token",
-    "market_cap_rank": 1669,
-    "24_hr_volume_usd": 57882,
+    "market_cap_usd": 3981890,
+    "market_cap_rank": 1676,
+    "24_hr_volume_usd": 17983.8,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b2D81A1AE36E8e66A0875053429816f0B6b829E/logo.png"
 }

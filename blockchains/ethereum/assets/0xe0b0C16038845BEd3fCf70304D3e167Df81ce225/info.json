@@ -4,7 +4,8 @@
     "id": "0xe0b0C16038845BEd3fCf70304D3e167Df81ce225",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/crossswap",
-    "market_cap_rank": 1768,
-    "24_hr_volume_usd": 89935,
+    "market_cap_usd": 4383063,
+    "market_cap_rank": 1619,
+    "24_hr_volume_usd": 237872,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe0b0C16038845BEd3fCf70304D3e167Df81ce225/logo.png"
 }

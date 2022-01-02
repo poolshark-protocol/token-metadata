@@ -4,6 +4,7 @@
     "id": "0xd21730353086B0D6C34656CA74F4E4295DC9B8E0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/baby-cuban",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd21730353086B0D6C34656CA74F4E4295DC9B8E0/logo.png"

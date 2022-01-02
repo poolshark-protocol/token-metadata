@@ -4,7 +4,8 @@
     "id": "0x3079F61704E9eFa2BcF1db412f735d8d4cFa26f4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/happyfans",
-    "market_cap_rank": 1867,
-    "24_hr_volume_usd": 2510.09,
+    "market_cap_usd": 2590203,
+    "market_cap_rank": 1872,
+    "24_hr_volume_usd": 2715.19,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3079F61704E9eFa2BcF1db412f735d8d4cFa26f4/logo.png"
 }

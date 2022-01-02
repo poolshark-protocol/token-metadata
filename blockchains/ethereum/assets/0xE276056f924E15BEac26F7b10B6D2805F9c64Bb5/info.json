@@ -4,7 +4,8 @@
     "id": "0xE276056f924E15BEac26F7b10B6D2805F9c64Bb5",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/firulais",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1051.25,
+    "24_hr_volume_usd": 146.36,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE276056f924E15BEac26F7b10B6D2805F9c64Bb5/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0x4A8f5F96D5436e43112c2fBC6a9f70DA9e4E16D4",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/internxt",
-    "market_cap_rank": 974,
-    "24_hr_volume_usd": 144145,
+    "market_cap_usd": 19179622,
+    "market_cap_rank": 991,
+    "24_hr_volume_usd": 179523,
     "public_notice": "Internxt\u00a0has migrated from the <a href=\"https://etherscan.io/token/0xa8006c4ca56f24d6836727d106349320db7fef82\">old contract</a> to a <a href=\"https://etherscan.io/token/0x4a8f5f96d5436e43112c2fbc6a9f70da9e4e16d4\">new one</a>. Read more at their <a href=\"https://blog.internxt.com/say-hi-to-a-new-era-for-the-upgraded-internxt-token-82512ef7b6bd\">Medium Blog</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4A8f5F96D5436e43112c2fBC6a9f70DA9e4E16D4/logo.png"
 }

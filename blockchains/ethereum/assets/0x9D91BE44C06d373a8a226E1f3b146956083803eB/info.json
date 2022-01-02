@@ -4,6 +4,7 @@
     "id": "0x9D91BE44C06d373a8a226E1f3b146956083803eB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aave-knc-v1",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 3.7,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9D91BE44C06d373a8a226E1f3b146956083803eB/logo.png"

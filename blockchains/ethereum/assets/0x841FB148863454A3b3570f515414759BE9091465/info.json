@@ -4,7 +4,8 @@
     "id": "0x841FB148863454A3b3570f515414759BE9091465",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/shih-tzu",
-    "market_cap_rank": 1514,
-    "24_hr_volume_usd": 45002,
+    "market_cap_usd": 5234245,
+    "market_cap_rank": 1541,
+    "24_hr_volume_usd": 39883,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x841FB148863454A3b3570f515414759BE9091465/logo.png"
 }

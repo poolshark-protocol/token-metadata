@@ -4,7 +4,8 @@
     "id": "0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vibe",
-    "market_cap_rank": 1466,
-    "24_hr_volume_usd": 18996.12,
+    "market_cap_usd": 5433659,
+    "market_cap_rank": 1527,
+    "24_hr_volume_usd": 13709.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe8Ff5C9c75dEb346acAc493C463C8950Be03Dfba/logo.png"
 }

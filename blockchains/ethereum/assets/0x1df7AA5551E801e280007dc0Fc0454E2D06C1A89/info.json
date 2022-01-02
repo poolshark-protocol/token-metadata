@@ -4,8 +4,9 @@
     "id": "0x1df7AA5551E801e280007dc0Fc0454E2D06C1A89",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bkex-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1719181,
+    "24_hr_volume_usd": 1744444,
     "public_notice": "Contract address has changed from 0xd0bd12a8d5ebca1e2fa46da59f1993ec51c3d75c to 0x1df7aa5551e801e280007dc0fc0454e2d06c1a89",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1df7AA5551E801e280007dc0Fc0454E2D06C1A89/logo.png"
 }

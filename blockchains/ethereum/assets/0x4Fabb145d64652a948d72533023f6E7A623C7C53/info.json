@@ -4,7 +4,8 @@
     "id": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/binance-usd",
-    "market_cap_rank": 15,
-    "24_hr_volume_usd": 3541763769,
+    "market_cap_usd": 14490101604,
+    "market_cap_rank": 16,
+    "24_hr_volume_usd": 2222252886,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
 }

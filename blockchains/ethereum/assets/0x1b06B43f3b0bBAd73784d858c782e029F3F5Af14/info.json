@@ -4,7 +4,8 @@
     "id": "0x1b06B43f3b0bBAd73784d858c782e029F3F5Af14",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitwell-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 975.19,
+    "24_hr_volume_usd": 409.38,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1b06B43f3b0bBAd73784d858c782e029F3F5Af14/logo.png"
 }

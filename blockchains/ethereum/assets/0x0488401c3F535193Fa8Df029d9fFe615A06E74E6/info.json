@@ -4,7 +4,8 @@
     "id": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sparkpoint",
-    "market_cap_rank": 1074,
-    "24_hr_volume_usd": 558473,
+    "market_cap_usd": 15245740,
+    "market_cap_rank": 1065,
+    "24_hr_volume_usd": 283438,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x4bAE380B5D762D543d426331b8437926443ae9ec",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/xvix",
-    "market_cap_rank": 1514,
+    "market_cap_usd": 5478652,
+    "market_cap_rank": 1522,
     "24_hr_volume_usd": 0.0,
     "public_notice": "Token Migration to GMX is now live. Read more at : https://xvix.medium.com/xvix-gmx-migration-now-live-9c241f23dcb2",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4bAE380B5D762D543d426331b8437926443ae9ec/logo.png"

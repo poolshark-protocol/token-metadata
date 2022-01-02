@@ -4,7 +4,8 @@
     "id": "0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/aidi-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 247773,
+    "24_hr_volume_usd": 287663,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdA1E53E088023Fe4D1DC5a418581748f52CBd1b8/logo.png"
 }

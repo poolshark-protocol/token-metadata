@@ -4,6 +4,7 @@
     "id": "0x6cf9464B2C628Db187f2Bc1DDc0C43fDA72EfDd5",
     "decimals": 2,
     "coingecko_url": "https://www.coingecko.com/en/coins/sivasspor",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6cf9464B2C628Db187f2Bc1DDc0C43fDA72EfDd5/logo.png"
 }

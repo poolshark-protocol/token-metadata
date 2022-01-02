@@ -4,7 +4,8 @@
     "id": "0xd46df541148932690B81092f600f35208AFd4325",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/prism-network",
-    "market_cap_rank": 2765,
-    "24_hr_volume_usd": 1067.97,
+    "market_cap_usd": 553219,
+    "market_cap_rank": 2622,
+    "24_hr_volume_usd": 27.26,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd46df541148932690B81092f600f35208AFd4325/logo.png"
 }

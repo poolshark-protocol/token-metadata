@@ -4,7 +4,8 @@
     "id": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tokenlon",
-    "market_cap_rank": 736,
-    "24_hr_volume_usd": 1946650,
+    "market_cap_usd": 38945057,
+    "market_cap_rank": 742,
+    "24_hr_volume_usd": 1313909,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0000000000095413afC295d19EDeb1Ad7B71c952/logo.png"
 }

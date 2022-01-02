@@ -4,6 +4,7 @@
     "id": "0xd78e5B24AaE1BD03A488aF642770E2aBb986F9D5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ryi-platinum",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd78e5B24AaE1BD03A488aF642770E2aBb986F9D5/logo.png"

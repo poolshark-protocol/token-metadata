@@ -4,7 +4,8 @@
     "id": "0x83F873388Cd14b83A9f47FabDe3C9850b5C74548",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zero-utility-token",
-    "market_cap_rank": 2769,
-    "24_hr_volume_usd": 3.04,
+    "market_cap_usd": 372861,
+    "market_cap_rank": 2777,
+    "24_hr_volume_usd": 45.36,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x83F873388Cd14b83A9f47FabDe3C9850b5C74548/logo.png"
 }

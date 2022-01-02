@@ -4,7 +4,8 @@
     "id": "0xAbC430136A4dE71c9998242de8c1b4B97D2b9045",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/veros",
-    "market_cap_rank": 3005,
+    "market_cap_usd": 181460,
+    "market_cap_rank": 3010,
     "24_hr_volume_usd": 0.0,
     "public_notice": "Contract address updated from 0x92e78dae1315067a8819efd6dca432de9dcde2e9 to 0xAbC430136A4dE71c9998242de8c1b4B97D2b9045",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAbC430136A4dE71c9998242de8c1b4B97D2b9045/logo.png"

@@ -4,7 +4,8 @@
     "id": "0x7C2E5b7ec572199D3841f6a38F7D4868BD0798f1",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/havy-2",
-    "market_cap_rank": 3340,
-    "24_hr_volume_usd": 116.31,
+    "market_cap_usd": 32123,
+    "market_cap_rank": 3339,
+    "24_hr_volume_usd": 47.77,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7C2E5b7ec572199D3841f6a38F7D4868BD0798f1/logo.png"
 }

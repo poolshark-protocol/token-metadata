@@ -4,7 +4,8 @@
     "id": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fei-usd",
-    "market_cap_rank": 140,
-    "24_hr_volume_usd": 58616816,
+    "market_cap_usd": 780522495,
+    "market_cap_rank": 144,
+    "24_hr_volume_usd": 19022366,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo.png"
 }

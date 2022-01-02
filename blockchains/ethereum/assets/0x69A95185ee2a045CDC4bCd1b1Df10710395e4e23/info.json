@@ -4,7 +4,8 @@
     "id": "0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/poolz-finance",
-    "market_cap_rank": 958,
-    "24_hr_volume_usd": 313837,
+    "market_cap_usd": 21826997,
+    "market_cap_rank": 935,
+    "24_hr_volume_usd": 521820,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69A95185ee2a045CDC4bCd1b1Df10710395e4e23/logo.png"
 }

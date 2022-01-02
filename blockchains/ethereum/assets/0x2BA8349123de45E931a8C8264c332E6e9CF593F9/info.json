@@ -4,7 +4,8 @@
     "id": "0x2BA8349123de45E931a8C8264c332E6e9CF593F9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blockchain-monster-hunt",
-    "market_cap_rank": 755,
-    "24_hr_volume_usd": 574231,
+    "market_cap_usd": 34534410,
+    "market_cap_rank": 776,
+    "24_hr_volume_usd": 883281,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2BA8349123de45E931a8C8264c332E6e9CF593F9/logo.png"
 }

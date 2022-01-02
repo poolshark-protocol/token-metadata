@@ -4,7 +4,8 @@
     "id": "0x04E0Af0af1b7f0023c6B12af5a94Df59B0e8cF59",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sensitrust",
-    "market_cap_rank": 3476,
-    "24_hr_volume_usd": 35082,
+    "market_cap_usd": 2440.0,
+    "market_cap_rank": 3478,
+    "24_hr_volume_usd": 36456,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x04E0Af0af1b7f0023c6B12af5a94Df59B0e8cF59/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/goldmint",
-    "market_cap_rank": 2880,
+    "market_cap_usd": 277497,
+    "market_cap_rank": 2891,
     "24_hr_volume_usd": 6.46,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xeA7aA1eDd21735A5ab05EE3E90869016191e274E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/junca-cash",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 320094,
+    "24_hr_volume_usd": 142026,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeA7aA1eDd21735A5ab05EE3E90869016191e274E/logo.png"
 }

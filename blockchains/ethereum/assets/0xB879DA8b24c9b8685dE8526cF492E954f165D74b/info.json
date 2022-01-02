@@ -4,7 +4,8 @@
     "id": "0xB879DA8b24c9b8685dE8526cF492E954f165D74b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/moviebloc",
-    "market_cap_rank": 811,
-    "24_hr_volume_usd": 3956088,
+    "market_cap_usd": 30075184,
+    "market_cap_rank": 822,
+    "24_hr_volume_usd": 1509489,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB879DA8b24c9b8685dE8526cF492E954f165D74b/logo.png"
 }

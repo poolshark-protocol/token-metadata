@@ -4,7 +4,8 @@
     "id": "0x3ef36D53A168c44ed2Ec7a98129CA0308BC1AE45",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/digidinar-stabletoken",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 3.58,
+    "24_hr_volume_usd": 30.89,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3ef36D53A168c44ed2Ec7a98129CA0308BC1AE45/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xB02dB7Bd0Cbc93a31F3C92349B4a206368174Fc0",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/shokky",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 367.44,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB02dB7Bd0Cbc93a31F3C92349B4a206368174Fc0/logo.png"
 }

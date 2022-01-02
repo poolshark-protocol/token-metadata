@@ -4,7 +4,8 @@
     "id": "0x6b578F63A40173D85215CC01d6d79e553E8C993C",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/magick-dao",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 369.25,
+    "24_hr_volume_usd": 19467.18,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6b578F63A40173D85215CC01d6d79e553E8C993C/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x8F12Dfc7981DE79A8A34070a732471f2D335EecE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/crypto-excellence",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 10448.84,
+    "24_hr_volume_usd": 7537.85,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8F12Dfc7981DE79A8A34070a732471f2D335EecE/logo.png"
 }

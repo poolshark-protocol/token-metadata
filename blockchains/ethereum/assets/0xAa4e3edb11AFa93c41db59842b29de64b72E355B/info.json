@@ -4,7 +4,8 @@
     "id": "0xAa4e3edb11AFa93c41db59842b29de64b72E355B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/marginswap",
+    "market_cap_usd": 1791599,
     "market_cap_rank": 2054,
-    "24_hr_volume_usd": 6551.3,
+    "24_hr_volume_usd": 8163.91,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAa4e3edb11AFa93c41db59842b29de64b72E355B/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x3EF389f264e07fFF3106A3926F2a166d1393086F",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/sator",
-    "market_cap_rank": 2029,
-    "24_hr_volume_usd": 9003.91,
+    "market_cap_usd": 1806152,
+    "market_cap_rank": 2049,
+    "24_hr_volume_usd": 5415.25,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3EF389f264e07fFF3106A3926F2a166d1393086F/logo.png"
 }

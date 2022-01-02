@@ -4,6 +4,7 @@
     "id": "0xF61BF4d1A948487d61b8fa63808AAC06bda55F98",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tr3zor",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF61BF4d1A948487d61b8fa63808AAC06bda55F98/logo.png"
 }

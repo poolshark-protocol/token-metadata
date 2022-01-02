@@ -4,7 +4,8 @@
     "id": "0x3Ecb96039340630c8B82E5A7732bc88b2aeadE82",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bring-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 4.39,
+    "24_hr_volume_usd": 784.03,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3Ecb96039340630c8B82E5A7732bc88b2aeadE82/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x33bFD20660eeAF952E8D5Bc3236E1918701F17D0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rccc",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2208.32,
+    "24_hr_volume_usd": 2270.16,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x33bFD20660eeAF952E8D5Bc3236E1918701F17D0/logo.png"
 }

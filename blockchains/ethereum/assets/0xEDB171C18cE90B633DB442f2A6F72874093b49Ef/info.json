@@ -4,7 +4,8 @@
     "id": "0xEDB171C18cE90B633DB442f2A6F72874093b49Ef",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-ampleforth",
-    "market_cap_rank": 1271,
-    "24_hr_volume_usd": 2871.64,
+    "market_cap_usd": 8869138,
+    "market_cap_rank": 1315,
+    "24_hr_volume_usd": 27326,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEDB171C18cE90B633DB442f2A6F72874093b49Ef/logo.png"
 }

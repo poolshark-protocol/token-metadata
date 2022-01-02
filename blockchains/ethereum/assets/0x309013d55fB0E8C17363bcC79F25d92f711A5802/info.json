@@ -4,6 +4,7 @@
     "id": "0x309013d55fB0E8C17363bcC79F25d92f711A5802",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/soft-bitcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x309013d55fB0E8C17363bcC79F25d92f711A5802/logo.png"

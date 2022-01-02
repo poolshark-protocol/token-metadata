@@ -4,7 +4,8 @@
     "id": "0x7e9e431a0B8c4D532C745B1043c7FA29a48D4fBa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/eosdac",
-    "market_cap_rank": 2148,
-    "24_hr_volume_usd": 8716.45,
+    "market_cap_usd": 1437306,
+    "market_cap_rank": 2172,
+    "24_hr_volume_usd": 22394,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7e9e431a0B8c4D532C745B1043c7FA29a48D4fBa/logo.png"
 }

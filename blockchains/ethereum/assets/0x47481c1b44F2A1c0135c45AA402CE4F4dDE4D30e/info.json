@@ -4,7 +4,8 @@
     "id": "0x47481c1b44F2A1c0135c45AA402CE4F4dDE4D30e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/meetple",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 18501.83,
+    "24_hr_volume_usd": 4958.02,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x47481c1b44F2A1c0135c45AA402CE4F4dDE4D30e/logo.png"
 }

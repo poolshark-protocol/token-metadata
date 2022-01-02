@@ -4,7 +4,8 @@
     "id": "0xac4D22e40bf0B8eF4750a99ED4E935B99A42685E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aeryus",
-    "market_cap_rank": 3414,
+    "market_cap_usd": 11477.56,
+    "market_cap_rank": 3418,
     "24_hr_volume_usd": 0.00149221,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xac4D22e40bf0B8eF4750a99ED4E935B99A42685E/logo.png"
 }

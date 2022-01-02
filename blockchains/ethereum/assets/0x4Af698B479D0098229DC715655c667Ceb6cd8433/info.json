@@ -4,7 +4,8 @@
     "id": "0x4Af698B479D0098229DC715655c667Ceb6cd8433",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/maidcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1873.0,
+    "24_hr_volume_usd": 16061.89,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Af698B479D0098229DC715655c667Ceb6cd8433/logo.png"
 }

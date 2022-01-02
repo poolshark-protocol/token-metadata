@@ -4,7 +4,8 @@
     "id": "0x1d7Ca62F6Af49ec66f6680b8606E634E55Ef22C1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bscstarter",
-    "market_cap_rank": 1402,
-    "24_hr_volume_usd": 94038,
+    "market_cap_usd": 7414340,
+    "market_cap_rank": 1403,
+    "24_hr_volume_usd": 189487,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1d7Ca62F6Af49ec66f6680b8606E634E55Ef22C1/logo.png"
 }

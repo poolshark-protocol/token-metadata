@@ -4,7 +4,8 @@
     "id": "0x47e67BA66b0699500f18A53F94E2b9dB3D47437e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/playgame",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 3153.94,
+    "24_hr_volume_usd": 3862.9,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x47e67BA66b0699500f18A53F94E2b9dB3D47437e/logo.png"
 }

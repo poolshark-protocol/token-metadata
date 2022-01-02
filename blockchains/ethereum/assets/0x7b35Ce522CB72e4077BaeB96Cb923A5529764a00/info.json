@@ -4,7 +4,8 @@
     "id": "0x7b35Ce522CB72e4077BaeB96Cb923A5529764a00",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/impermax",
-    "market_cap_rank": 1652,
-    "24_hr_volume_usd": 163216,
+    "market_cap_usd": 4126637,
+    "market_cap_rank": 1658,
+    "24_hr_volume_usd": 121556,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7b35Ce522CB72e4077BaeB96Cb923A5529764a00/logo.png"
 }

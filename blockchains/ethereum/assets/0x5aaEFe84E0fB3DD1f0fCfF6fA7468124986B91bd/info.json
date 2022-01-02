@@ -4,7 +4,8 @@
     "id": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/evedo",
-    "market_cap_rank": 2129,
-    "24_hr_volume_usd": 960790,
+    "market_cap_usd": 1334532,
+    "market_cap_rank": 2210,
+    "24_hr_volume_usd": 734161,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd/logo.png"
 }

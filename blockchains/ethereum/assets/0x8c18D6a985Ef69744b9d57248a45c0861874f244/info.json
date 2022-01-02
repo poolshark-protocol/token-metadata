@@ -4,7 +4,8 @@
     "id": "0x8c18D6a985Ef69744b9d57248a45c0861874f244",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/clintex-cti",
+    "market_cap_usd": 3954854,
     "market_cap_rank": 1680,
-    "24_hr_volume_usd": 187071,
+    "24_hr_volume_usd": 84877,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8c18D6a985Ef69744b9d57248a45c0861874f244/logo.png"
 }

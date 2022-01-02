@@ -4,7 +4,8 @@
     "id": "0xE0A16435Df493Bd17A58CB2eE58675f5ea069517",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/greeneum-network",
-    "market_cap_rank": 3068,
-    "24_hr_volume_usd": 97.43,
+    "market_cap_usd": 146964,
+    "market_cap_rank": 3069,
+    "24_hr_volume_usd": 98.01,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE0A16435Df493Bd17A58CB2eE58675f5ea069517/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x537edD52ebcb9F48ff2f8a28c51FCdB9D6a6E0D4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/small-doge",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 38032,
+    "24_hr_volume_usd": 23733,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x537edD52ebcb9F48ff2f8a28c51FCdB9D6a6E0D4/logo.png"
 }

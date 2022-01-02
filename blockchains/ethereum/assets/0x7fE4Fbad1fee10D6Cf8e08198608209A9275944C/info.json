@@ -4,7 +4,8 @@
     "id": "0x7fE4Fbad1fee10D6Cf8e08198608209A9275944C",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/infinity",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 21894,
+    "24_hr_volume_usd": 14042.96,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7fE4Fbad1fee10D6Cf8e08198608209A9275944C/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xe217c5eb9eA6F94bA965fabd0e867aA47B6f986E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/arcanineinu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 131.23,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe217c5eb9eA6F94bA965fabd0e867aA47B6f986E/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x624d520BAB2E4aD83935Fa503fB130614374E850",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/smartshare",
-    "market_cap_rank": 2842,
-    "24_hr_volume_usd": 16311.49,
+    "market_cap_usd": 299547,
+    "market_cap_rank": 2858,
+    "24_hr_volume_usd": 6271.37,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x624d520BAB2E4aD83935Fa503fB130614374E850/logo.png"
 }

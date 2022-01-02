@@ -4,7 +4,8 @@
     "id": "0x06A00715E6F92210Af9d7680B584931FAF71A833",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/chronicle",
-    "market_cap_rank": 1387,
-    "24_hr_volume_usd": 1163387,
+    "market_cap_usd": 7526657,
+    "market_cap_rank": 1397,
+    "24_hr_volume_usd": 1330118,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06A00715E6F92210Af9d7680B584931FAF71A833/logo.png"
 }

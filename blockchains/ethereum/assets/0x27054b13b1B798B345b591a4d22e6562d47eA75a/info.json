@@ -4,7 +4,8 @@
     "id": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/airswap",
-    "market_cap_rank": 692,
-    "24_hr_volume_usd": 610457,
+    "market_cap_usd": 45056700,
+    "market_cap_rank": 698,
+    "24_hr_volume_usd": 353089,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x27054b13b1B798B345b591a4d22e6562d47eA75a/logo.png"
 }

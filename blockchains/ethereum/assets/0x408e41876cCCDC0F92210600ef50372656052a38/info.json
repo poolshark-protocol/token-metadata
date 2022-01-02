@@ -4,7 +4,8 @@
     "id": "0x408e41876cCCDC0F92210600ef50372656052a38",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/republic-protocol",
+    "market_cap_usd": 549025615,
     "market_cap_rank": 173,
-    "24_hr_volume_usd": 41827533,
+    "24_hr_volume_usd": 46378925,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
 }

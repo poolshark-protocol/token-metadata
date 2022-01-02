@@ -4,7 +4,8 @@
     "id": "0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/insurepal",
-    "market_cap_rank": 3047,
-    "24_hr_volume_usd": 94.41,
+    "market_cap_usd": 156657,
+    "market_cap_rank": 3050,
+    "24_hr_volume_usd": 39.83,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x64CdF819d3E75Ac8eC217B3496d7cE167Be42e80/logo.png"
 }

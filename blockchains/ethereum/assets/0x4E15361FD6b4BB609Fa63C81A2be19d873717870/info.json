@@ -4,7 +4,8 @@
     "id": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fantom",
-    "market_cap_rank": 32,
-    "24_hr_volume_usd": 728362389,
+    "market_cap_usd": 6579659907,
+    "market_cap_rank": 30,
+    "24_hr_volume_usd": 821172854,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4E15361FD6b4BB609Fa63C81A2be19d873717870/logo.png"
 }

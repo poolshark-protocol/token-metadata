@@ -4,8 +4,9 @@
     "id": "0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/somee-social-old",
-    "market_cap_rank": 2391,
-    "24_hr_volume_usd": 2713.47,
+    "market_cap_usd": 1331908,
+    "market_cap_rank": 2212,
+    "24_hr_volume_usd": 541.21,
     "public_notice": "Notice: ONG has migrated to SOMEE. Read more at : https://devs.somee.social/faq-ong-to-somee-migration/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd341d1680Eeee3255b8C4c75bCCE7EB57f144dAe/logo.png"
 }

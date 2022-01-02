@@ -4,7 +4,8 @@
     "id": "0xC08512927D12348F6620a698105e1BAac6EcD911",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/gyen",
-    "market_cap_rank": 510,
-    "24_hr_volume_usd": 1388345,
+    "market_cap_usd": 84167173,
+    "market_cap_rank": 518,
+    "24_hr_volume_usd": 633713,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC08512927D12348F6620a698105e1BAac6EcD911/logo.png"
 }

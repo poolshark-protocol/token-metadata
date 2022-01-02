@@ -4,7 +4,8 @@
     "id": "0x9ad37205d608B8b219e6a2573f922094CEc5c200",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/izumi-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 319283,
+    "24_hr_volume_usd": 294711,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9ad37205d608B8b219e6a2573f922094CEc5c200/logo.png"
 }

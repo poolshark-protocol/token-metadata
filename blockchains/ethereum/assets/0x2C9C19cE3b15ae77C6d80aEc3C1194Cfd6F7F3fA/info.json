@@ -4,7 +4,8 @@
     "id": "0x2C9C19cE3b15ae77C6d80aEc3C1194Cfd6F7F3fA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/2crazynft",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 57143,
+    "24_hr_volume_usd": 148843,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C9C19cE3b15ae77C6d80aEc3C1194Cfd6F7F3fA/logo.png"
 }

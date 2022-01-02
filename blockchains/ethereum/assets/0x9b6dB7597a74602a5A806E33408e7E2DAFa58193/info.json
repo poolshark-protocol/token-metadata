@@ -4,6 +4,7 @@
     "id": "0x9b6dB7597a74602a5A806E33408e7E2DAFa58193",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/spice-dao",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b6dB7597a74602a5A806E33408e7E2DAFa58193/logo.png"

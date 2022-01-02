@@ -4,7 +4,8 @@
     "id": "0x30Abb1a1e2913D0991Bbf06Dd79dfCC224361de9",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/looks-rare",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 270.14,
+    "24_hr_volume_usd": 150.38,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x30Abb1a1e2913D0991Bbf06Dd79dfCC224361de9/logo.png"
 }

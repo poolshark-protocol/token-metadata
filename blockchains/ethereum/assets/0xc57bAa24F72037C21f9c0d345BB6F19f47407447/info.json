@@ -4,6 +4,7 @@
     "id": "0xc57bAa24F72037C21f9c0d345BB6F19f47407447",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/topdog-vault-nftx",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc57bAa24F72037C21f9c0d345BB6F19f47407447/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/piedao-btc",
-    "market_cap_rank": 2575,
-    "24_hr_volume_usd": 538.88,
+    "market_cap_usd": 618469,
+    "market_cap_rank": 2576,
+    "24_hr_volume_usd": 711.98,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd/logo.png"
 }

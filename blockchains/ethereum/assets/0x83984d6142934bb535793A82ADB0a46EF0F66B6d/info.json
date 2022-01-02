@@ -4,7 +4,8 @@
     "id": "0x83984d6142934bb535793A82ADB0a46EF0F66B6d",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/remme",
-    "market_cap_rank": 2460,
-    "24_hr_volume_usd": 20947,
+    "market_cap_usd": 796864,
+    "market_cap_rank": 2465,
+    "24_hr_volume_usd": 8973.99,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x83984d6142934bb535793A82ADB0a46EF0F66B6d/logo.png"
 }

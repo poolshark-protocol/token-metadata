@@ -4,7 +4,8 @@
     "id": "0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pepemon-pepeballs",
-    "market_cap_rank": 2511,
-    "24_hr_volume_usd": 26730,
+    "market_cap_usd": 982646,
+    "market_cap_rank": 2367,
+    "24_hr_volume_usd": 19951.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4D2eE5DAe46C86DA2FF521F7657dad98834f97b8/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x2A4F6675469Ee5a31664925b486EBADDfb838dd0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/acu-platform",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 16623.93,
+    "24_hr_volume_usd": 95346,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2A4F6675469Ee5a31664925b486EBADDfb838dd0/logo.png"
 }

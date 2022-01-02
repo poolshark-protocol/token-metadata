@@ -4,8 +4,9 @@
     "id": "0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/distx",
-    "market_cap_rank": 3398,
-    "24_hr_volume_usd": 21.8,
+    "market_cap_usd": 13328.2,
+    "market_cap_rank": 3404,
+    "24_hr_volume_usd": 12490.49,
     "public_notice": "We have received reports that DISTX project team has abandoned the project, exercise caution when trading.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4B4701f3f827E1331fb22FF8e2BEaC24b17Eb055/logo.png"
 }

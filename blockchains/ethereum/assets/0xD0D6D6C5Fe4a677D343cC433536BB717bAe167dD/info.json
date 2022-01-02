@@ -4,7 +4,8 @@
     "id": "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/adtoken",
-    "market_cap_rank": 2784,
+    "market_cap_usd": 359292,
+    "market_cap_rank": 2794,
     "24_hr_volume_usd": 0.01128383,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD/logo.png"
 }

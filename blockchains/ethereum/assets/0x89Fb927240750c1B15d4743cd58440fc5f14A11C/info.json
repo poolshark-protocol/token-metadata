@@ -4,7 +4,8 @@
     "id": "0x89Fb927240750c1B15d4743cd58440fc5f14A11C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/attila",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 37084,
+    "24_hr_volume_usd": 44651,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x89Fb927240750c1B15d4743cd58440fc5f14A11C/logo.png"
 }

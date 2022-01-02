@@ -4,6 +4,7 @@
     "id": "0xE13Ef257cF4D5Df928ca11d230427C037666d466",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/witchain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.00243975,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE13Ef257cF4D5Df928ca11d230427C037666d466/logo.png"

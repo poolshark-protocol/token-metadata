@@ -4,7 +4,8 @@
     "id": "0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/planet",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 35178,
+    "24_hr_volume_usd": 27256,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x307d45Afbb7E84F82ef3D251A6bb0F00Edf632E4/logo.png"
 }

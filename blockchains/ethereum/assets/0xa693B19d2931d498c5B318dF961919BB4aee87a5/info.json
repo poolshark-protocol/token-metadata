@@ -4,7 +4,8 @@
     "id": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/terrausd-wormhole",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 3.03,
+    "24_hr_volume_usd": 2568212,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa693B19d2931d498c5B318dF961919BB4aee87a5/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dether",
-    "market_cap_rank": 2623,
-    "24_hr_volume_usd": 33405,
+    "market_cap_usd": 551372,
+    "market_cap_rank": 2624,
+    "24_hr_volume_usd": 26366,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190/logo.png"
 }

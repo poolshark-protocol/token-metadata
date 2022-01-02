@@ -4,7 +4,8 @@
     "id": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lcx",
-    "market_cap_rank": 470,
-    "24_hr_volume_usd": 3738767,
+    "market_cap_usd": 108477464,
+    "market_cap_rank": 457,
+    "24_hr_volume_usd": 3382859,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x037A54AaB062628C9Bbae1FDB1583c195585fe41/logo.png"
 }

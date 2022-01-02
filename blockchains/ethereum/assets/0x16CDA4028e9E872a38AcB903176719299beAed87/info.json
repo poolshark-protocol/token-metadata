@@ -4,7 +4,8 @@
     "id": "0x16CDA4028e9E872a38AcB903176719299beAed87",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mars4",
-    "market_cap_rank": 982,
-    "24_hr_volume_usd": 647535,
+    "market_cap_usd": 16862229,
+    "market_cap_rank": 1037,
+    "24_hr_volume_usd": 187171,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x16CDA4028e9E872a38AcB903176719299beAed87/logo.png"
 }

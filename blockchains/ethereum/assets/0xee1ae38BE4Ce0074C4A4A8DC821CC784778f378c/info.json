@@ -4,7 +4,8 @@
     "id": "0xee1ae38BE4Ce0074C4A4A8DC821CC784778f378c",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/vynk-chain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1762623,
+    "24_hr_volume_usd": 1651886,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xee1ae38BE4Ce0074C4A4A8DC821CC784778f378c/logo.png"
 }

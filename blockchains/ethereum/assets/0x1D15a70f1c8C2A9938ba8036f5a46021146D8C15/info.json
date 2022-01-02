@@ -4,6 +4,7 @@
     "id": "0x1D15a70f1c8C2A9938ba8036f5a46021146D8C15",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethereumvault",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1D15a70f1c8C2A9938ba8036f5a46021146D8C15/logo.png"

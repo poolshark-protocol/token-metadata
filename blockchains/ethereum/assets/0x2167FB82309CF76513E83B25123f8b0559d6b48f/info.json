@@ -4,7 +4,8 @@
     "id": "0x2167FB82309CF76513E83B25123f8b0559d6b48f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coinlion",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 447.65,
+    "24_hr_volume_usd": 2293.17,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2167FB82309CF76513E83B25123f8b0559d6b48f/logo.png"
 }

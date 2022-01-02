@@ -4,7 +4,8 @@
     "id": "0xE4f726Adc8e89C6a6017F01eadA77865dB22dA14",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/piedao-balanced-crypto-pie",
-    "market_cap_rank": 1891,
-    "24_hr_volume_usd": 0.0,
+    "market_cap_usd": 2297174,
+    "market_cap_rank": 1936,
+    "24_hr_volume_usd": 16008.23,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE4f726Adc8e89C6a6017F01eadA77865dB22dA14/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/arcblock",
-    "market_cap_rank": 1096,
-    "24_hr_volume_usd": 1292538,
+    "market_cap_usd": 14499572,
+    "market_cap_rank": 1097,
+    "24_hr_volume_usd": 2706791,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986/logo.png"
 }

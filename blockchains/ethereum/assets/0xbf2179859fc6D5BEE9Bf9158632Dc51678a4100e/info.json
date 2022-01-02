@@ -4,7 +4,8 @@
     "id": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aelf",
-    "market_cap_rank": 351,
-    "24_hr_volume_usd": 20190947,
+    "market_cap_usd": 190123157,
+    "market_cap_rank": 341,
+    "24_hr_volume_usd": 15900376,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e/logo.png"
 }

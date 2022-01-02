@@ -4,7 +4,8 @@
     "id": "0x877C7dEb5eB1fc5faAd30C71E3a6E39DC8b1519F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/heartbout",
-    "market_cap_rank": 3273,
-    "24_hr_volume_usd": 9416.19,
+    "market_cap_usd": 53472,
+    "market_cap_rank": 3274,
+    "24_hr_volume_usd": 228.73,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x877C7dEb5eB1fc5faAd30C71E3a6E39DC8b1519F/logo.png"
 }

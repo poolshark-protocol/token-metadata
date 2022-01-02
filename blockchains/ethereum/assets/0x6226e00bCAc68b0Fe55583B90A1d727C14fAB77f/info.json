@@ -4,7 +4,8 @@
     "id": "0x6226e00bCAc68b0Fe55583B90A1d727C14fAB77f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/multivac",
-    "market_cap_rank": 764,
-    "24_hr_volume_usd": 7987211,
+    "market_cap_usd": 34514124,
+    "market_cap_rank": 776,
+    "24_hr_volume_usd": 3671353,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6226e00bCAc68b0Fe55583B90A1d727C14fAB77f/logo.png"
 }

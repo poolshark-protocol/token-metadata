@@ -4,7 +4,8 @@
     "id": "0x1f19f83fC9a25F3C861260143E36c17706257986",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dao-invest",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1.42,
+    "24_hr_volume_usd": 40.34,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1f19f83fC9a25F3C861260143E36c17706257986/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xF0ACF8949e705E0ebb6CB42c2164B0B986454223",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/barter",
-    "market_cap_rank": 3403,
-    "24_hr_volume_usd": 170.68,
+    "market_cap_usd": 14119.02,
+    "market_cap_rank": 3400,
+    "24_hr_volume_usd": 190.09,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF0ACF8949e705E0ebb6CB42c2164B0B986454223/logo.png"
 }

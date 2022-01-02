@@ -4,7 +4,8 @@
     "id": "0xd0345D30FD918D7682398ACbCdf139C808998709",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lixir-protocol",
-    "market_cap_rank": 1921,
-    "24_hr_volume_usd": 695704,
+    "market_cap_usd": 3211037,
+    "market_cap_rank": 1788,
+    "24_hr_volume_usd": 92682,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd0345D30FD918D7682398ACbCdf139C808998709/logo.png"
 }

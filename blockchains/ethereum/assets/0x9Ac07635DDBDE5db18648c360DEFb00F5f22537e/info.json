@@ -4,7 +4,8 @@
     "id": "0x9Ac07635DDBDE5db18648c360DEFb00F5f22537e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/museum-of-crypto-art",
-    "market_cap_rank": 1860,
-    "24_hr_volume_usd": 22737,
+    "market_cap_usd": 2617988,
+    "market_cap_rank": 1869,
+    "24_hr_volume_usd": 9957.99,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9Ac07635DDBDE5db18648c360DEFb00F5f22537e/logo.png"
 }

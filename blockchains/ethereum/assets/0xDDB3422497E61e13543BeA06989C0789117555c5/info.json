@@ -4,7 +4,8 @@
     "id": "0xDDB3422497E61e13543BeA06989C0789117555c5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coti",
-    "market_cap_rank": 240,
-    "24_hr_volume_usd": 27912128,
+    "market_cap_usd": 337261731,
+    "market_cap_rank": 230,
+    "24_hr_volume_usd": 24653604,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDDB3422497E61e13543BeA06989C0789117555c5/logo.png"
 }

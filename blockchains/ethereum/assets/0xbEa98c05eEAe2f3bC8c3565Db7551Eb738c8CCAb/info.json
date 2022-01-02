@@ -4,7 +4,8 @@
     "id": "0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/geyser",
-    "market_cap_rank": 2050,
-    "24_hr_volume_usd": 17496.93,
+    "market_cap_usd": 1764890,
+    "market_cap_rank": 2065,
+    "24_hr_volume_usd": 7527.78,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbEa98c05eEAe2f3bC8c3565Db7551Eb738c8CCAb/logo.png"
 }

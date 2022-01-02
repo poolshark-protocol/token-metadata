@@ -4,7 +4,8 @@
     "id": "0x926Be13B4d93F29eA254E4e518f33099e45d7f06",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/poc-chain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 550.75,
+    "24_hr_volume_usd": 459.02,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x926Be13B4d93F29eA254E4e518f33099e45d7f06/logo.png"
 }

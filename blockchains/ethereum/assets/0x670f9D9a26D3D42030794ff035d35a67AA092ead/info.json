@@ -4,7 +4,8 @@
     "id": "0x670f9D9a26D3D42030794ff035d35a67AA092ead",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/xbullion",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 5161.31,
+    "24_hr_volume_usd": 6087.4,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x670f9D9a26D3D42030794ff035d35a67AA092ead/logo.png"
 }

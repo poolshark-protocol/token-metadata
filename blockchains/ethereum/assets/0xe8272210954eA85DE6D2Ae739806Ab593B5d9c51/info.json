@@ -4,7 +4,8 @@
     "id": "0xe8272210954eA85DE6D2Ae739806Ab593B5d9c51",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/alpha5",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 83371,
+    "24_hr_volume_usd": 87902,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe8272210954eA85DE6D2Ae739806Ab593B5d9c51/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x00B7db6B4431e345eee5cc23D21E8dbC1d5cADA3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cybertronchain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 43858,
+    "24_hr_volume_usd": 21216,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x00B7db6B4431e345eee5cc23D21E8dbC1d5cADA3/logo.png"
 }

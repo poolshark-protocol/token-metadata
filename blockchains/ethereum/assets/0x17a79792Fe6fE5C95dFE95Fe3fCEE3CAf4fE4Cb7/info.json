@@ -4,6 +4,7 @@
     "id": "0x17a79792Fe6fE5C95dFE95Fe3fCEE3CAf4fE4Cb7",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/aave-amm-usdt",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x17a79792Fe6fE5C95dFE95Fe3fCEE3CAf4fE4Cb7/logo.png"

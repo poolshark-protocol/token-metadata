@@ -4,7 +4,8 @@
     "id": "0x69BEaB403438253f13b6e92Db91F7FB849258263",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/neurotoken",
-    "market_cap_rank": 1944,
+    "market_cap_usd": 2201956,
+    "market_cap_rank": 1952,
     "24_hr_volume_usd": 9.5,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69BEaB403438253f13b6e92Db91F7FB849258263/logo.png"
 }

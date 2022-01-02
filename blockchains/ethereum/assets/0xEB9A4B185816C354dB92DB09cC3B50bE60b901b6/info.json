@@ -4,7 +4,8 @@
     "id": "0xEB9A4B185816C354dB92DB09cC3B50bE60b901b6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/origin-sport",
-    "market_cap_rank": 2406,
-    "24_hr_volume_usd": 85769,
+    "market_cap_usd": 857476,
+    "market_cap_rank": 2425,
+    "24_hr_volume_usd": 88291,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEB9A4B185816C354dB92DB09cC3B50bE60b901b6/logo.png"
 }

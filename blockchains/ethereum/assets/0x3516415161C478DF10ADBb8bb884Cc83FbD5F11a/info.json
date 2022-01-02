@@ -4,7 +4,8 @@
     "id": "0x3516415161C478DF10ADBb8bb884Cc83FbD5F11a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/alphadex",
-    "market_cap_rank": 3178,
-    "24_hr_volume_usd": 107.38,
+    "market_cap_usd": 93846,
+    "market_cap_rank": 3172,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3516415161C478DF10ADBb8bb884Cc83FbD5F11a/logo.png"
 }

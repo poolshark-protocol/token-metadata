@@ -4,7 +4,8 @@
     "id": "0x92e52a1A235d9A103D970901066CE910AAceFD37",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/ucash",
-    "market_cap_rank": 2160,
-    "24_hr_volume_usd": 0.00383116,
+    "market_cap_usd": 1326847,
+    "market_cap_rank": 2212,
+    "24_hr_volume_usd": 0.911323,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92e52a1A235d9A103D970901066CE910AAceFD37/logo.png"
 }

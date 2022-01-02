@@ -4,7 +4,8 @@
     "id": "0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/databroker-dao",
-    "market_cap_rank": 762,
-    "24_hr_volume_usd": 4951.12,
+    "market_cap_usd": 35205474,
+    "market_cap_rank": 772,
+    "24_hr_volume_usd": 1106.76,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x765f0C16D1Ddc279295c1a7C24B0883F62d33F75/logo.png"
 }

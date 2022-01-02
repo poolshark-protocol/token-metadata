@@ -4,7 +4,8 @@
     "id": "0x06f3CDabae564B0546529b4DD8FeF1bcD4235753",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/tilwiki",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 182.8,
+    "24_hr_volume_usd": 6.37,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06f3CDabae564B0546529b4DD8FeF1bcD4235753/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x9A0aBA393aac4dFbFf4333B06c407458002C6183",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/acoconut",
-    "market_cap_rank": 2800,
-    "24_hr_volume_usd": 45455,
+    "market_cap_usd": 385627,
+    "market_cap_rank": 2755,
+    "24_hr_volume_usd": 5984.01,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9A0aBA393aac4dFbFf4333B06c407458002C6183/logo.png"
 }

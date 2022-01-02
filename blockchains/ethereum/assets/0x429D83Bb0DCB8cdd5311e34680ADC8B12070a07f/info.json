@@ -4,7 +4,8 @@
     "id": "0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/platoncoin",
-    "market_cap_rank": 637,
-    "24_hr_volume_usd": 376542,
+    "market_cap_usd": 34991342,
+    "market_cap_rank": 773,
+    "24_hr_volume_usd": 89021,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x429D83Bb0DCB8cdd5311e34680ADC8B12070a07f/logo.png"
 }

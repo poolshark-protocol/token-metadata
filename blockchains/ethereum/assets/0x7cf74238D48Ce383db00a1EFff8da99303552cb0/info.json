@@ -4,7 +4,8 @@
     "id": "0x7cf74238D48Ce383db00a1EFff8da99303552cb0",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/i9-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.153403,
+    "24_hr_volume_usd": 1.15,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7cf74238D48Ce383db00a1EFff8da99303552cb0/logo.png"
 }

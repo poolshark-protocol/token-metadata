@@ -4,7 +4,8 @@
     "id": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/compound-usd-coin",
-    "market_cap_rank": 58,
-    "24_hr_volume_usd": 221320211,
+    "market_cap_usd": 2850887895,
+    "market_cap_rank": 60,
+    "24_hr_volume_usd": 62284439,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x39AA39c021dfbaE8faC545936693aC917d5E7563/logo.png"
 }

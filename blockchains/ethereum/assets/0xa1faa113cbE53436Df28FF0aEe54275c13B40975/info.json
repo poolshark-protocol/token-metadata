@@ -4,7 +4,8 @@
     "id": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/alpha-finance",
-    "market_cap_rank": 250,
-    "24_hr_volume_usd": 6098757,
+    "market_cap_usd": 308109405,
+    "market_cap_rank": 246,
+    "24_hr_volume_usd": 3154334,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa1faa113cbE53436Df28FF0aEe54275c13B40975/logo.png"
 }

@@ -4,6 +4,7 @@
     "id": "0x7e32c8727Cc19DD59a7a4d01b95Ae1cBFC8f4c77",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/aqua",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "public_notice": "Contract address has changed from 0xb5afccef680ee1d9bca47fde712007020197591e to 0x7e32c8727cc19dd59a7a4d01b95ae1cbfc8f4c77",

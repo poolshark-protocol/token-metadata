@@ -4,8 +4,9 @@
     "id": "0xb2617246d0c6c0087f18703d576831899ca94f01",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zignaly",
-    "market_cap_rank": 708,
-    "24_hr_volume_usd": 779581,
+    "market_cap_usd": 42062845,
+    "market_cap_rank": 713,
+    "24_hr_volume_usd": 1668764,
     "public_notice": "Zignaly has changed their contract due to the AscendEx hack. Old contract: 0x7bebd226154e865954a87650faefa8f485d36081 New contract: 0xb2617246d0c6c0087f18703d576831899ca94f01. Reference: https://twitter.com/zignaly/status/1470413602247135233",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb2617246d0c6c0087f18703d576831899ca94f01/logo.png"
 }

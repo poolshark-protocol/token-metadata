@@ -4,7 +4,8 @@
     "id": "0x817bbDbC3e8A1204f3691d14bB44992841e3dB35",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cudos",
-    "market_cap_rank": 547,
-    "24_hr_volume_usd": 680528,
+    "market_cap_usd": 77587783,
+    "market_cap_rank": 544,
+    "24_hr_volume_usd": 769178,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x817bbDbC3e8A1204f3691d14bB44992841e3dB35/logo.png"
 }

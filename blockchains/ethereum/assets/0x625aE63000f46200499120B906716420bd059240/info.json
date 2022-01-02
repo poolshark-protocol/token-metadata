@@ -4,6 +4,7 @@
     "id": "0x625aE63000f46200499120B906716420bd059240",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aave-susd-v1",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 857.42,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x625aE63000f46200499120B906716420bd059240/logo.png"

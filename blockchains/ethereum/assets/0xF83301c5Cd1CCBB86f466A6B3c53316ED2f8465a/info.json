@@ -4,7 +4,8 @@
     "id": "0xF83301c5Cd1CCBB86f466A6B3c53316ED2f8465a",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/comsa",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 3070.05,
+    "24_hr_volume_usd": 194.76,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF83301c5Cd1CCBB86f466A6B3c53316ED2f8465a/logo.png"
 }

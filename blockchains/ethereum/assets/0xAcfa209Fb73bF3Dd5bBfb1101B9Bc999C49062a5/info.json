@@ -4,7 +4,8 @@
     "id": "0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blockchain-certified-data-token",
-    "market_cap_rank": 1520,
-    "24_hr_volume_usd": 11206.59,
+    "market_cap_usd": 5449505,
+    "market_cap_rank": 1527,
+    "24_hr_volume_usd": 920.28,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAcfa209Fb73bF3Dd5bBfb1101B9Bc999C49062a5/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x6BFf2fE249601ed0Db3a87424a2E923118BB0312",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fyooz",
-    "market_cap_rank": 2957,
-    "24_hr_volume_usd": 40808,
+    "market_cap_usd": 212807,
+    "market_cap_rank": 2966,
+    "24_hr_volume_usd": 41274,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6BFf2fE249601ed0Db3a87424a2E923118BB0312/logo.png"
 }

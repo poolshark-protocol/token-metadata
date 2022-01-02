@@ -4,7 +4,8 @@
     "id": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/zum-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 326.55,
+    "24_hr_volume_usd": 810.73,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c/logo.png"
 }

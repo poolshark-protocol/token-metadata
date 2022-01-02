@@ -4,7 +4,8 @@
     "id": "0xcb86c6A22CB56B6cf40CaFEDb06BA0DF188a416E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/insure",
-    "market_cap_rank": 275,
-    "24_hr_volume_usd": 1194325,
+    "market_cap_usd": 260086223,
+    "market_cap_rank": 276,
+    "24_hr_volume_usd": 1247273,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcb86c6A22CB56B6cf40CaFEDb06BA0DF188a416E/logo.png"
 }

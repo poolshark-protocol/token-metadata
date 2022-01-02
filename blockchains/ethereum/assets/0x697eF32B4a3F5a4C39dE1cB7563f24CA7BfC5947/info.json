@@ -4,7 +4,8 @@
     "id": "0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/insula",
-    "market_cap_rank": 2812,
-    "24_hr_volume_usd": 1171.28,
+    "market_cap_usd": 339838,
+    "market_cap_rank": 2810,
+    "24_hr_volume_usd": 200.67,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x697eF32B4a3F5a4C39dE1cB7563f24CA7BfC5947/logo.png"
 }

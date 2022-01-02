@@ -4,7 +4,8 @@
     "id": "0xa0Bb0027C28ade4Ac628b7f81e7b93Ec71b4E020",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rug-proof",
-    "market_cap_rank": 3007,
+    "market_cap_usd": 181086,
+    "market_cap_rank": 3012,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa0Bb0027C28ade4Ac628b7f81e7b93Ec71b4E020/logo.png"
 }

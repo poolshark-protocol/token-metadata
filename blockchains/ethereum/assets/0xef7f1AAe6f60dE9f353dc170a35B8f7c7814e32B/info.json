@@ -4,6 +4,7 @@
     "id": "0xef7f1AAe6f60dE9f353dc170a35B8f7c7814e32B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/az-fundchain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.119097,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xef7f1AAe6f60dE9f353dc170a35B8f7c7814e32B/logo.png"

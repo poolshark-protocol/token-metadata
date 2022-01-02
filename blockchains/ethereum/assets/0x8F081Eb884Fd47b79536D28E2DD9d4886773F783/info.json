@@ -4,7 +4,8 @@
     "id": "0x8F081Eb884Fd47b79536D28E2DD9d4886773F783",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/bepay",
-    "market_cap_rank": 2345,
-    "24_hr_volume_usd": 11582.35,
+    "market_cap_usd": 1017062,
+    "market_cap_rank": 2346,
+    "24_hr_volume_usd": 2101.34,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8F081Eb884Fd47b79536D28E2DD9d4886773F783/logo.png"
 }

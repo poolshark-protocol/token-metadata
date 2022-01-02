@@ -4,6 +4,7 @@
     "id": "0x8F8e787989BC652eeA01A6C88a19f0f379BDF4FD",
     "decimals": 5,
     "coingecko_url": "https://www.coingecko.com/en/coins/helex-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 1720.92,
     "public_notice": "Contract updated from 0x66eb65d7ab8e9567ba0fa6e37c305956c5341574 to 0x8F8e787989BC652eeA01A6C88a19f0f379BDF4FD",

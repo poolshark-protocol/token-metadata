@@ -4,7 +4,8 @@
     "id": "0x8B1F49491477e0fB46a29fef53F1EA320D13c349",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/micromoney",
-    "market_cap_rank": 2971,
-    "24_hr_volume_usd": 200300,
+    "market_cap_usd": 180171,
+    "market_cap_rank": 3017,
+    "24_hr_volume_usd": 161405,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8B1F49491477e0fB46a29fef53F1EA320D13c349/logo.png"
 }

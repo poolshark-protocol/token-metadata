@@ -4,7 +4,8 @@
     "id": "0x4da08a1Bff50BE96bdeD5C7019227164b49C2bFc",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/mononoke-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 380907,
+    "24_hr_volume_usd": 295091,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4da08a1Bff50BE96bdeD5C7019227164b49C2bFc/logo.png"
 }

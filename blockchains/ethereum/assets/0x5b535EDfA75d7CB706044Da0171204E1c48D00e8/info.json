@@ -4,7 +4,8 @@
     "id": "0x5b535EDfA75d7CB706044Da0171204E1c48D00e8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/808ta-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1459.56,
+    "24_hr_volume_usd": 1422.65,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5b535EDfA75d7CB706044Da0171204E1c48D00e8/logo.png"
 }

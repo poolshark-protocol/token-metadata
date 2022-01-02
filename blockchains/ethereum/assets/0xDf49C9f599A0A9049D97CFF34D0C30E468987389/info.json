@@ -4,7 +4,8 @@
     "id": "0xDf49C9f599A0A9049D97CFF34D0C30E468987389",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/satt",
-    "market_cap_rank": 1283,
-    "24_hr_volume_usd": 116141,
+    "market_cap_usd": 8910328,
+    "market_cap_rank": 1312,
+    "24_hr_volume_usd": 111664,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDf49C9f599A0A9049D97CFF34D0C30E468987389/logo.png"
 }

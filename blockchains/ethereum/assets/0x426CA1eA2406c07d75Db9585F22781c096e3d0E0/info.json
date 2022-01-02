@@ -4,7 +4,8 @@
     "id": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/minereum",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 31889,
+    "24_hr_volume_usd": 26940,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x426CA1eA2406c07d75Db9585F22781c096e3d0E0/logo.png"
 }

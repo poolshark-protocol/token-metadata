@@ -4,8 +4,9 @@
     "id": "0xF0FAC7104aAC544e4a7CE1A55ADF2B5a25c65bD1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pamp-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 6.13,
+    "24_hr_volume_usd": 11.17,
     "public_notice": "Notice: We've received allegations that the team has abandoned the project. Please proceed with caution.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF0FAC7104aAC544e4a7CE1A55ADF2B5a25c65bD1/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xE99A894a69d7c2e3C92E61B64C505A6a57d2bC07",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hyperion",
-    "market_cap_rank": 3154,
+    "market_cap_usd": 103483,
+    "market_cap_rank": 3155,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE99A894a69d7c2e3C92E61B64C505A6a57d2bC07/logo.png"
 }

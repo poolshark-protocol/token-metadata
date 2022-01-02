@@ -4,6 +4,7 @@
     "id": "0xD8a8843b0a5aba6B030E92B3F4d669FaD8A5BE50",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/afrodex-labs-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD8a8843b0a5aba6B030E92B3F4d669FaD8A5BE50/logo.png"

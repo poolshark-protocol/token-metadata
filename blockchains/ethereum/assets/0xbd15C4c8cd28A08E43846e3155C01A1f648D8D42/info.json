@@ -4,7 +4,8 @@
     "id": "0xbd15C4c8cd28A08E43846e3155C01A1f648D8D42",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/beach-token",
-    "market_cap_rank": 1899,
-    "24_hr_volume_usd": 3326.74,
+    "market_cap_usd": 2423720,
+    "market_cap_rank": 1909,
+    "24_hr_volume_usd": 1622.85,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbd15C4c8cd28A08E43846e3155C01A1f648D8D42/logo.png"
 }

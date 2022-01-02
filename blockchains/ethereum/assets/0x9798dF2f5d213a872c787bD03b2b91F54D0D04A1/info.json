@@ -4,8 +4,9 @@
     "id": "0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/terablock",
-    "market_cap_rank": 2493,
-    "24_hr_volume_usd": 16111.77,
+    "market_cap_usd": 771414,
+    "market_cap_rank": 2483,
+    "24_hr_volume_usd": 9747.77,
     "public_notice": "TeraBlock (TBC) has recently migrated from their <a href=\"https://bscscan.com/token/0xeaf7d8395cce52daef138d39a1cefa51b97c15ae\">old contract</a> to a <a href=\"https://bscscan.com/token/0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1\">new one</a> on BSC and ETH. For more information, please see this <a href=\"https://myterablock.medium.com/terablocks-big-move-from-ethereum-to-binance-smart-chain-e14120483580\">Medium</a> announcement.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9798dF2f5d213a872c787bD03b2b91F54D0D04A1/logo.png"
 }

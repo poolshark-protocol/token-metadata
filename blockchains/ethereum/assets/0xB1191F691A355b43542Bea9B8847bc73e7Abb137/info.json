@@ -4,7 +4,8 @@
     "id": "0xB1191F691A355b43542Bea9B8847bc73e7Abb137",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kirobo",
-    "market_cap_rank": 431,
-    "24_hr_volume_usd": 145534,
+    "market_cap_usd": 119964465,
+    "market_cap_rank": 438,
+    "24_hr_volume_usd": 390962,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB1191F691A355b43542Bea9B8847bc73e7Abb137/logo.png"
 }

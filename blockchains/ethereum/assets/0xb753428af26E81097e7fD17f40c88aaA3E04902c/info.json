@@ -4,7 +4,8 @@
     "id": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/saffron-finance",
-    "market_cap_rank": 913,
-    "24_hr_volume_usd": 361865,
+    "market_cap_usd": 24050905,
+    "market_cap_rank": 900,
+    "24_hr_volume_usd": 168040,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb753428af26E81097e7fD17f40c88aaA3E04902c/logo.png"
 }

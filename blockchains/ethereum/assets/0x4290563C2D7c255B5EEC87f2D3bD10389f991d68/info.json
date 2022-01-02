@@ -4,7 +4,8 @@
     "id": "0x4290563C2D7c255B5EEC87f2D3bD10389f991d68",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unlimitedip",
-    "market_cap_rank": 2082,
-    "24_hr_volume_usd": 35374,
+    "market_cap_usd": 1674456,
+    "market_cap_rank": 2094,
+    "24_hr_volume_usd": 10886.96,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4290563C2D7c255B5EEC87f2D3bD10389f991d68/logo.png"
 }

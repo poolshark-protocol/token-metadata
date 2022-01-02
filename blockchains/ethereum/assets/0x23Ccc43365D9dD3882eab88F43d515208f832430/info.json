@@ -4,7 +4,8 @@
     "id": "0x23Ccc43365D9dD3882eab88F43d515208f832430",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/midas-protocol",
-    "market_cap_rank": 2521,
-    "24_hr_volume_usd": 68186,
+    "market_cap_usd": 711708,
+    "market_cap_rank": 2517,
+    "24_hr_volume_usd": 50527,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x23Ccc43365D9dD3882eab88F43d515208f832430/logo.png"
 }

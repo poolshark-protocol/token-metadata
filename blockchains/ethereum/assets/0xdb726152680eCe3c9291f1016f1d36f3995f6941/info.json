@@ -4,7 +4,8 @@
     "id": "0xdb726152680eCe3c9291f1016f1d36f3995f6941",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/media-network",
-    "market_cap_rank": 1283,
-    "24_hr_volume_usd": 47087,
+    "market_cap_usd": 9449885,
+    "market_cap_rank": 1284,
+    "24_hr_volume_usd": 127236,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdb726152680eCe3c9291f1016f1d36f3995f6941/logo.png"
 }

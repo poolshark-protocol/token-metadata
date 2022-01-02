@@ -4,7 +4,8 @@
     "id": "0xf5555732B3925356964695578feFcFfCD31bCbb8",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/promodio",
-    "market_cap_rank": 2332,
-    "24_hr_volume_usd": 38.18,
+    "market_cap_usd": 877546,
+    "market_cap_rank": 2420,
+    "24_hr_volume_usd": 9178.96,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf5555732B3925356964695578feFcFfCD31bCbb8/logo.png"
 }

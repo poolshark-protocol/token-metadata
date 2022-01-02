@@ -4,7 +4,8 @@
     "id": "0xEBB3cA3Babd51aFCD7e0968571874567DE02af5C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/meliodas",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.0,
+    "24_hr_volume_usd": 62.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEBB3cA3Babd51aFCD7e0968571874567DE02af5C/logo.png"
 }

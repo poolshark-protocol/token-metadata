@@ -4,8 +4,9 @@
     "id": "0xBd356a39BFf2cAda8E9248532DD879147221Cf76",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wom-token",
-    "market_cap_rank": 1003,
-    "24_hr_volume_usd": 284450,
+    "market_cap_usd": 18428233,
+    "market_cap_rank": 1001,
+    "24_hr_volume_usd": 110685,
     "public_notice": "change from 0xa982b2e19e90b2d9f7948e9c1b65d119f1ce88d6 to 0xBd356a39BFf2cAda8E9248532DD879147221Cf76 For more info: https://medium.com/wom-protocol/wom-token-completes-1-1-token-swap-following-kucoin-exchange-attack-1be3699b3fda",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBd356a39BFf2cAda8E9248532DD879147221Cf76/logo.png"
 }

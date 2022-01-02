@@ -4,8 +4,9 @@
     "id": "0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/radar",
-    "market_cap_rank": 1114,
-    "24_hr_volume_usd": 104314,
+    "market_cap_usd": 12731653,
+    "market_cap_rank": 1154,
+    "24_hr_volume_usd": 37882,
     "public_notice": "BotOcean has rebranded to Radar. For more information, visit https://twitter.com/radarprotocol <br> Radar has migrated to a new contract address (0xf03a2dc374d494fbe894563fe22ee544d826aa50). For more information, please read: https://radar.blog/radar-bsc-token-migration-a548024bd30c",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/noia-network",
-    "market_cap_rank": 435,
-    "24_hr_volume_usd": 948299,
+    "market_cap_usd": 136327639,
+    "market_cap_rank": 408,
+    "24_hr_volume_usd": 2083093,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa8c8CfB141A3bB59FEA1E2ea6B79b5ECBCD7b6ca/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xFAb5a05C933f1A2463E334E011992E897D56eF0a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/deli-of-thrones",
-    "market_cap_rank": 2647,
-    "24_hr_volume_usd": 38167,
+    "market_cap_usd": 513239,
+    "market_cap_rank": 2657,
+    "24_hr_volume_usd": 39350,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFAb5a05C933f1A2463E334E011992E897D56eF0a/logo.png"
 }

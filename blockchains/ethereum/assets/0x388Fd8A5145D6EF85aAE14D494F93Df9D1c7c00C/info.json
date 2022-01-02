@@ -4,7 +4,8 @@
     "id": "0x388Fd8A5145D6EF85aAE14D494F93Df9D1c7c00C",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitcoinregular",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.0,
+    "24_hr_volume_usd": 0.811438,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x388Fd8A5145D6EF85aAE14D494F93Df9D1c7c00C/logo.png"
 }

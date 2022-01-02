@@ -4,7 +4,8 @@
     "id": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/paxos-standard",
-    "market_cap_rank": 113,
-    "24_hr_volume_usd": 4417949,
+    "market_cap_usd": 1033202827,
+    "market_cap_rank": 115,
+    "24_hr_volume_usd": 3372390,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8E870D67F660D95d5be530380D0eC0bd388289E1/logo.png"
 }

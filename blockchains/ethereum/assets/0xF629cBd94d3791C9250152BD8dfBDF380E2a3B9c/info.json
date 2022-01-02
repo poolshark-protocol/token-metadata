@@ -4,7 +4,8 @@
     "id": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/enjincoin",
-    "market_cap_rank": 64,
-    "24_hr_volume_usd": 205138367,
+    "market_cap_usd": 2523802952,
+    "market_cap_rank": 65,
+    "24_hr_volume_usd": 115513551,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c/logo.png"
 }

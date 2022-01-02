@@ -4,7 +4,8 @@
     "id": "0x3209f98BeBF0149B769ce26D71F7aEA8E435EfEa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/traxia",
-    "market_cap_rank": 2276,
-    "24_hr_volume_usd": 1008.9,
+    "market_cap_usd": 1150323,
+    "market_cap_rank": 2278,
+    "24_hr_volume_usd": 714.03,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3209f98BeBF0149B769ce26D71F7aEA8E435EfEa/logo.png"
 }

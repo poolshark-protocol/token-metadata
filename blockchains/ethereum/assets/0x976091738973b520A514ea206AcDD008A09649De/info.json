@@ -4,6 +4,7 @@
     "id": "0x976091738973b520A514ea206AcDD008A09649De",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/mishka-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x976091738973b520A514ea206AcDD008A09649De/logo.png"

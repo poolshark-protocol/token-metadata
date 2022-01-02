@@ -4,7 +4,8 @@
     "id": "0xf79F9020560963422eCC9C0c04D3a21190BBf045",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/baby-saitama",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 19829.84,
+    "24_hr_volume_usd": 23183,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf79F9020560963422eCC9C0c04D3a21190BBf045/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xC0d4Ceb216B3BA9C3701B291766fDCbA977ceC3A",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/butterflydao",
-    "market_cap_rank": 210,
-    "24_hr_volume_usd": 27955996,
+    "market_cap_usd": 372616118,
+    "market_cap_rank": 216,
+    "24_hr_volume_usd": 27930678,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC0d4Ceb216B3BA9C3701B291766fDCbA977ceC3A/logo.png"
 }

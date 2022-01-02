@@ -4,7 +4,8 @@
     "id": "0x7346aD4c8cD1886Ff6D16072bCeA5DFC0bc24Ca2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/filecoin-standard-hashrate-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 946.81,
+    "24_hr_volume_usd": 890.98,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7346aD4c8cD1886Ff6D16072bCeA5DFC0bc24Ca2/logo.png"
 }

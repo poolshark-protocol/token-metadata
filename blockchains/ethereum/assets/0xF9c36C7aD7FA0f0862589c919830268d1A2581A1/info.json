@@ -4,6 +4,7 @@
     "id": "0xF9c36C7aD7FA0f0862589c919830268d1A2581A1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/boa",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF9c36C7aD7FA0f0862589c919830268d1A2581A1/logo.png"

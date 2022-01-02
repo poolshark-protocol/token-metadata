@@ -4,8 +4,9 @@
     "id": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/index-cooperative",
-    "market_cap_rank": 794,
-    "24_hr_volume_usd": 274629,
+    "market_cap_usd": 33704453,
+    "market_cap_rank": 784,
+    "24_hr_volume_usd": 73542,
     "public_notice": "The Index Cooperative liquidity mining smart contract has been upgraded to 0xB93b505Ed567982E2b6756177ddD23ab5745f309. For more information: https://medium.com/indexcoop/index-liquidity-mining-update-32b21274fc88",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0954906da0Bf32d5479e25f46056d22f08464cab/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/props",
-    "market_cap_rank": 2014,
-    "24_hr_volume_usd": 22369,
+    "market_cap_usd": 1954923,
+    "market_cap_rank": 2013,
+    "24_hr_volume_usd": 20946,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41/logo.png"
 }

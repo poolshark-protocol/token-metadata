@@ -4,7 +4,8 @@
     "id": "0x539F3615C1dBAfa0D008d87504667458acBd16Fa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fera",
-    "market_cap_rank": 2522,
-    "24_hr_volume_usd": 2714.63,
+    "market_cap_usd": 704013,
+    "market_cap_rank": 2517,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x539F3615C1dBAfa0D008d87504667458acBd16Fa/logo.png"
 }

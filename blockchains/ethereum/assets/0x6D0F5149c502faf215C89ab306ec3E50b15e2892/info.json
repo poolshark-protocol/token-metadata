@@ -4,7 +4,8 @@
     "id": "0x6D0F5149c502faf215C89ab306ec3E50b15e2892",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/portion",
-    "market_cap_rank": 2061,
-    "24_hr_volume_usd": 7102.27,
+    "market_cap_usd": 2143872,
+    "market_cap_rank": 1960,
+    "24_hr_volume_usd": 75785,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6D0F5149c502faf215C89ab306ec3E50b15e2892/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xFA3118B34522580c35Ae27F6cf52da1dBb756288",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/linkeye",
-    "market_cap_rank": 2024,
-    "24_hr_volume_usd": 243381,
+    "market_cap_usd": 1855127,
+    "market_cap_rank": 2038,
+    "24_hr_volume_usd": 81401,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFA3118B34522580c35Ae27F6cf52da1dBb756288/logo.png"
 }

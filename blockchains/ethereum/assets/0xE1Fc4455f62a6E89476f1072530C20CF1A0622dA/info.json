@@ -4,7 +4,8 @@
     "id": "0xE1Fc4455f62a6E89476f1072530C20CF1A0622dA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/phuture",
-    "market_cap_rank": 2095,
-    "24_hr_volume_usd": 11855.32,
+    "market_cap_usd": 1573172,
+    "market_cap_rank": 2124,
+    "24_hr_volume_usd": 3700.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE1Fc4455f62a6E89476f1072530C20CF1A0622dA/logo.png"
 }

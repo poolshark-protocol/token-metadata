@@ -4,8 +4,9 @@
     "id": "0x96184d9C811Ea0624fC30C80233B1d749B9E485B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dapp-com",
-    "market_cap_rank": 1530,
-    "24_hr_volume_usd": 181804,
+    "market_cap_usd": 5140184,
+    "market_cap_rank": 1552,
+    "24_hr_volume_usd": 73239,
     "public_notice": "DAPPT will undergo a 1:1 token swap and contract migration from <a href=\"https://etherscan.io/token/0x386cabc0b14a507a4e024dea15554342865b20de\">0x386cabc0b14a507a4e024dea15554342865b20de</a> to <a href=\"https://etherscan.io/token/0x96184d9c811ea0624fc30c80233b1d749b9e485b\">0x96184d9c811ea0624fc30c80233b1d749b9e485b</a> with snapshot taken on block 11097473 at 04:00 AM UTC on 21, October 2020. For more information, please refer to https://www.dapp.com/article/statement-regarding-the-kucoin-hack-and-dappt-swap-arrangement",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x96184d9C811Ea0624fC30C80233B1d749B9E485B/logo.png"
 }

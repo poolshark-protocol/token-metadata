@@ -4,7 +4,8 @@
     "id": "0xba2184520A1cC49a6159c57e61E1844E085615B6",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/hellogold",
-    "market_cap_rank": 2881,
-    "24_hr_volume_usd": 0.115444,
+    "market_cap_usd": 377691,
+    "market_cap_rank": 2768,
+    "24_hr_volume_usd": 722.42,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xba2184520A1cC49a6159c57e61E1844E085615B6/logo.png"
 }

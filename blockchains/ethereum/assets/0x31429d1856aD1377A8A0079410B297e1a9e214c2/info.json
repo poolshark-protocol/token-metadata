@@ -4,7 +4,8 @@
     "id": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/angle-protocol",
-    "market_cap_rank": 1074,
-    "24_hr_volume_usd": 660787,
+    "market_cap_usd": 14768789,
+    "market_cap_rank": 1091,
+    "24_hr_volume_usd": 770427,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31429d1856aD1377A8A0079410B297e1a9e214c2/logo.png"
 }

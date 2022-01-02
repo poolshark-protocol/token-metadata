@@ -4,6 +4,7 @@
     "id": "0xc9859fccC876e6b4B3C749C5D29EA04F48aCb74F",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/ino-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc9859fccC876e6b4B3C749C5D29EA04F48aCb74F/logo.png"

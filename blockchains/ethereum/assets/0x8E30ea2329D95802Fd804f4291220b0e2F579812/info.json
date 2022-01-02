@@ -4,7 +4,8 @@
     "id": "0x8E30ea2329D95802Fd804f4291220b0e2F579812",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/decentralized-vulnerability-platform",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 25034,
+    "24_hr_volume_usd": 10428.79,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8E30ea2329D95802Fd804f4291220b0e2F579812/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x9ab165D795019b6d8B3e971DdA91071421305e5a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aurora",
-    "market_cap_rank": 1184,
-    "24_hr_volume_usd": 225866,
+    "market_cap_usd": 12631906,
+    "market_cap_rank": 1159,
+    "24_hr_volume_usd": 127101,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9ab165D795019b6d8B3e971DdA91071421305e5a/logo.png"
 }

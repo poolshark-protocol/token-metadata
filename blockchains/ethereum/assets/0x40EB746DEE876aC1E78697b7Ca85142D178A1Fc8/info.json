@@ -4,7 +4,8 @@
     "id": "0x40EB746DEE876aC1E78697b7Ca85142D178A1Fc8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/iagon",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 51192,
+    "24_hr_volume_usd": 73431,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x40EB746DEE876aC1E78697b7Ca85142D178A1Fc8/logo.png"
 }

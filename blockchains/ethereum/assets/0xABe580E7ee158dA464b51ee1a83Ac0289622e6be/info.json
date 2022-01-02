@@ -4,7 +4,8 @@
     "id": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/offshift",
-    "market_cap_rank": 722,
-    "24_hr_volume_usd": 6943009,
+    "market_cap_usd": 47938237,
+    "market_cap_rank": 676,
+    "24_hr_volume_usd": 2052569,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xABe580E7ee158dA464b51ee1a83Ac0289622e6be/logo.png"
 }

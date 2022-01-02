@@ -4,7 +4,8 @@
     "id": "0x66fD97a78d8854fEc445cd1C80a07896B0b4851f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lunch-money",
-    "market_cap_rank": 3032,
+    "market_cap_usd": 164516,
+    "market_cap_rank": 3036,
     "24_hr_volume_usd": 0.02446745,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x66fD97a78d8854fEc445cd1C80a07896B0b4851f/logo.png"
 }

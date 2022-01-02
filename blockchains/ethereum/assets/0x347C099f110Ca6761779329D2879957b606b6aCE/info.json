@@ -4,7 +4,8 @@
     "id": "0x347C099f110Ca6761779329D2879957b606b6aCE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/joint",
-    "market_cap_rank": 3455,
-    "24_hr_volume_usd": 15366.85,
+    "market_cap_usd": 4768.29,
+    "market_cap_rank": 3454,
+    "24_hr_volume_usd": 19374.45,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x347C099f110Ca6761779329D2879957b606b6aCE/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/melon",
-    "market_cap_rank": 413,
-    "24_hr_volume_usd": 15786818,
+    "market_cap_usd": 143059853,
+    "market_cap_rank": 394,
+    "24_hr_volume_usd": 58569605,
     "public_notice": "Melonport has rebranding to Enzyme - for more information, please refer to https://medium.com/enzymefinance/introducing-enzyme-7100201a56b5",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892/logo.png"
 }

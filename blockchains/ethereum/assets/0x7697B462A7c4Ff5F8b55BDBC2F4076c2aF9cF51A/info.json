@@ -4,7 +4,8 @@
     "id": "0x7697B462A7c4Ff5F8b55BDBC2F4076c2aF9cF51A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sarcophagus",
-    "market_cap_rank": 1699,
-    "24_hr_volume_usd": 6762.76,
+    "market_cap_usd": 4147416,
+    "market_cap_rank": 1652,
+    "24_hr_volume_usd": 70149,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7697B462A7c4Ff5F8b55BDBC2F4076c2aF9cF51A/logo.png"
 }

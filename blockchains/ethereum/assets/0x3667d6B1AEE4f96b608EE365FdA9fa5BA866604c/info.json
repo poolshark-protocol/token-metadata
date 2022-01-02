@@ -4,8 +4,9 @@
     "id": "0x3667d6B1AEE4f96b608EE365FdA9fa5BA866604c",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/inubis",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 453.11,
+    "24_hr_volume_usd": 0.0,
     "public_notice": "Inubis (INUBIS) has recently migrated from their <a href=\"https://etherscan.io/token/0xab917b34b57f1c01c5df8ddc0f75828e3914fce6\">old contract</a> to a <a href=\"https://etherscan.io/token/0x3667d6B1AEE4f96b608EE365FdA9fa5BA866604c\">new one</a>. For more information, please view this <a href=\"https://twitter.com/InubisToken/status/1456778035005427716?t=5VHWdSUZVnn0LCZKrDcIKQ&s=19\">announcement</a> on Twitter. ",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3667d6B1AEE4f96b608EE365FdA9fa5BA866604c/logo.png"
 }

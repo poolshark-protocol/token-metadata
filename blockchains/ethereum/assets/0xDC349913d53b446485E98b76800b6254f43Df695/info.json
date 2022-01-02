@@ -4,7 +4,8 @@
     "id": "0xDC349913d53b446485E98b76800b6254f43Df695",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/bezoge-earth",
-    "market_cap_rank": 310,
-    "24_hr_volume_usd": 973289,
+    "market_cap_usd": 208777010,
+    "market_cap_rank": 318,
+    "24_hr_volume_usd": 772585,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDC349913d53b446485E98b76800b6254f43Df695/logo.png"
 }

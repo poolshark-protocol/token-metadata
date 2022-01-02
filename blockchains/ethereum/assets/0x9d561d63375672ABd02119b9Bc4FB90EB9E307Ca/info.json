@@ -4,7 +4,8 @@
     "id": "0x9d561d63375672ABd02119b9Bc4FB90EB9E307Ca",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ally-direct",
-    "market_cap_rank": 1928,
-    "24_hr_volume_usd": 3658.0,
+    "market_cap_usd": 2414571,
+    "market_cap_rank": 1911,
+    "24_hr_volume_usd": 18928.59,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d561d63375672ABd02119b9Bc4FB90EB9E307Ca/logo.png"
 }

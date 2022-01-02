@@ -4,7 +4,8 @@
     "id": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rally-2",
+    "market_cap_usd": 791803515,
     "market_cap_rank": 142,
-    "24_hr_volume_usd": 7128197,
+    "24_hr_volume_usd": 6426471,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b/logo.png"
 }

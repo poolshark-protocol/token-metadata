@@ -4,7 +4,8 @@
     "id": "0x84679bc467DC6c2c40ab04538813AfF3796351f1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/chonk",
-    "market_cap_rank": 2375,
-    "24_hr_volume_usd": 6540.55,
+    "market_cap_usd": 977724,
+    "market_cap_rank": 2368,
+    "24_hr_volume_usd": 2349.96,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x84679bc467DC6c2c40ab04538813AfF3796351f1/logo.png"
 }

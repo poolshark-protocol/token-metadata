@@ -4,7 +4,8 @@
     "id": "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mithril",
-    "market_cap_rank": 746,
-    "24_hr_volume_usd": 9912430,
+    "market_cap_usd": 37455028,
+    "market_cap_rank": 760,
+    "24_hr_volume_usd": 8032599,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB/logo.png"
 }

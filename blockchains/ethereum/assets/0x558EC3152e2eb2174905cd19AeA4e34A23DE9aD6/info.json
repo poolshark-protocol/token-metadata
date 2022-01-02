@@ -4,7 +4,8 @@
     "id": "0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bread",
-    "market_cap_rank": 596,
-    "24_hr_volume_usd": 957226,
+    "market_cap_usd": 61789088,
+    "market_cap_rank": 601,
+    "24_hr_volume_usd": 773460,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x558EC3152e2eb2174905cd19AeA4e34A23DE9aD6/logo.png"
 }

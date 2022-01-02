@@ -4,7 +4,8 @@
     "id": "0xA340f0937a8c00DB11C83Cc16CEC12310160F0b6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/3x-short-ethereum-classic-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1.98,
+    "24_hr_volume_usd": 8.13,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA340f0937a8c00DB11C83Cc16CEC12310160F0b6/logo.png"
 }

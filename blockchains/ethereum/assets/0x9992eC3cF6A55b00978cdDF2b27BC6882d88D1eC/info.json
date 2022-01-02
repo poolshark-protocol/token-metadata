@@ -4,8 +4,9 @@
     "id": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polymath",
-    "market_cap_rank": 195,
-    "24_hr_volume_usd": 12592435,
+    "market_cap_usd": 459852097,
+    "market_cap_rank": 191,
+    "24_hr_volume_usd": 14646464,
     "public_notice": "POLY is an ERC-20 token on Ethereum, which can now be upgraded 1:1 to POLYX, the native protocol token for Polymesh. For more information, please read: https://info.polymath.network/blog/introduction-to-polymesh-tokenomics",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC/logo.png"
 }

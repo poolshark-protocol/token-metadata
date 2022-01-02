@@ -4,7 +4,8 @@
     "id": "0x00000000000045166C45aF0FC6E4Cf31D9E14B9A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/topbidder",
-    "market_cap_rank": 1793,
-    "24_hr_volume_usd": 2986.16,
+    "market_cap_usd": 3091222,
+    "market_cap_rank": 1801,
+    "24_hr_volume_usd": 3424.63,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x00000000000045166C45aF0FC6E4Cf31D9E14B9A/logo.png"
 }

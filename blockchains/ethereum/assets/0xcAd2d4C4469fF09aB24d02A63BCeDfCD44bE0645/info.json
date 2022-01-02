@@ -4,7 +4,8 @@
     "id": "0xcAd2d4C4469fF09aB24d02A63BCeDfCD44bE0645",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/crypto-accept",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 897.8,
+    "24_hr_volume_usd": 952.91,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcAd2d4C4469fF09aB24d02A63BCeDfCD44bE0645/logo.png"
 }

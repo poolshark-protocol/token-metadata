@@ -4,7 +4,8 @@
     "id": "0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/armor",
-    "market_cap_rank": 1230,
-    "24_hr_volume_usd": 217341,
+    "market_cap_usd": 10484408,
+    "market_cap_rank": 1247,
+    "24_hr_volume_usd": 118543,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a/logo.png"
 }

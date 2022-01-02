@@ -4,7 +4,8 @@
     "id": "0xD567B5F02b9073aD3a982a099a23Bf019FF11d1c",
     "decimals": 5,
     "coingecko_url": "https://www.coingecko.com/en/coins/gamestarter",
-    "market_cap_rank": 659,
-    "24_hr_volume_usd": 1951963,
+    "market_cap_usd": 45151322,
+    "market_cap_rank": 696,
+    "24_hr_volume_usd": 2268410,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD567B5F02b9073aD3a982a099a23Bf019FF11d1c/logo.png"
 }

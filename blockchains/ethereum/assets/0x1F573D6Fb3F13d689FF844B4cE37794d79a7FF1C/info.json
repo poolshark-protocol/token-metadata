@@ -4,7 +4,8 @@
     "id": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bancor",
+    "market_cap_usd": 781159600,
     "market_cap_rank": 143,
-    "24_hr_volume_usd": 36527290,
+    "24_hr_volume_usd": 33913387,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
 }

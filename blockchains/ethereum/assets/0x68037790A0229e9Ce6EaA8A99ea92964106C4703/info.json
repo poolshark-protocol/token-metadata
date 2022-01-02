@@ -4,7 +4,8 @@
     "id": "0x68037790A0229e9Ce6EaA8A99ea92964106C4703",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/par-stablecoin",
-    "market_cap_rank": 1876,
-    "24_hr_volume_usd": 281657,
+    "market_cap_usd": 2539723,
+    "market_cap_rank": 1885,
+    "24_hr_volume_usd": 25979,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68037790A0229e9Ce6EaA8A99ea92964106C4703/logo.png"
 }

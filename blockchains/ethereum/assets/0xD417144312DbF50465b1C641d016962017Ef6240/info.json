@@ -4,7 +4,8 @@
     "id": "0xD417144312DbF50465b1C641d016962017Ef6240",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/covalent",
-    "market_cap_rank": 559,
-    "24_hr_volume_usd": 2526440,
+    "market_cap_usd": 72285251,
+    "market_cap_rank": 565,
+    "24_hr_volume_usd": 2532249,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD417144312DbF50465b1C641d016962017Ef6240/logo.png"
 }

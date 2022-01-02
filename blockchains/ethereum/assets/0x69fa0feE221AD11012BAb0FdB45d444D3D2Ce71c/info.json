@@ -4,7 +4,8 @@
     "id": "0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/thorstarter",
-    "market_cap_rank": 841,
-    "24_hr_volume_usd": 218431,
+    "market_cap_usd": 29480419,
+    "market_cap_rank": 828,
+    "24_hr_volume_usd": 676589,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c/logo.png"
 }

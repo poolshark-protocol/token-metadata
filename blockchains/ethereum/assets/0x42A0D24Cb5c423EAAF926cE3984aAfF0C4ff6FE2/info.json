@@ -4,7 +4,8 @@
     "id": "0x42A0D24Cb5c423EAAF926cE3984aAfF0C4ff6FE2",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/imperial-obelisk",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 862.44,
+    "24_hr_volume_usd": 1316.44,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x42A0D24Cb5c423EAAF926cE3984aAfF0C4ff6FE2/logo.png"
 }

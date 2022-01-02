@@ -4,7 +4,8 @@
     "id": "0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/compound-ether",
-    "market_cap_rank": 36,
-    "24_hr_volume_usd": 31483477,
+    "market_cap_usd": 5414542366,
+    "market_cap_rank": 37,
+    "24_hr_volume_usd": 119908597,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Ddc2D193948926D02f9B1fE9e1daa0718270ED5/logo.png"
 }

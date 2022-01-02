@@ -4,7 +4,8 @@
     "id": "0x73374Ea518De7adDD4c2B624C0e8B113955ee041",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/juggernaut",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 660090,
+    "24_hr_volume_usd": 482088,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x73374Ea518De7adDD4c2B624C0e8B113955ee041/logo.png"
 }

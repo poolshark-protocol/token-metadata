@@ -4,7 +4,8 @@
     "id": "0xF1cA9cb74685755965c7458528A36934Df52A3EF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/avinoc",
-    "market_cap_rank": 808,
-    "24_hr_volume_usd": 229100,
+    "market_cap_usd": 30143520,
+    "market_cap_rank": 820,
+    "24_hr_volume_usd": 78623,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF1cA9cb74685755965c7458528A36934Df52A3EF/logo.png"
 }

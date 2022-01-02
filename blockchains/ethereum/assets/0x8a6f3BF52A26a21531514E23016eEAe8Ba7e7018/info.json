@@ -4,7 +4,8 @@
     "id": "0x8a6f3BF52A26a21531514E23016eEAe8Ba7e7018",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/multiplier",
-    "market_cap_rank": 2384,
-    "24_hr_volume_usd": 751.67,
+    "market_cap_usd": 929467,
+    "market_cap_rank": 2395,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8a6f3BF52A26a21531514E23016eEAe8Ba7e7018/logo.png"
 }

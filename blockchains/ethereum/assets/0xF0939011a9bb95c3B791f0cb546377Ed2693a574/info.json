@@ -4,7 +4,8 @@
     "id": "0xF0939011a9bb95c3B791f0cb546377Ed2693a574",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zero-exchange",
-    "market_cap_rank": 2170,
-    "24_hr_volume_usd": 2058.83,
+    "market_cap_usd": 1393124,
+    "market_cap_rank": 2182,
+    "24_hr_volume_usd": 466.08,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF0939011a9bb95c3B791f0cb546377Ed2693a574/logo.png"
 }

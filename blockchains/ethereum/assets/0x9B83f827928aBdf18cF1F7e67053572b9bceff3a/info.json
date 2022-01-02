@@ -4,6 +4,7 @@
     "id": "0x9B83f827928aBdf18cF1F7e67053572b9bceff3a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/artem",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "public_notice": "Artem was redeployed from the <a href=\"https://etherscan.io/token/0x3C021662c2D7BAFcf31413388BE5465B2E797381\">old contract</a> to a <a href=\"https://etherscan.io/token/0x9b83f827928abdf18cf1f7e67053572b9bceff3a\">new one</a> with the ticker ARTEM.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9B83f827928aBdf18cF1F7e67053572b9bceff3a/logo.png"

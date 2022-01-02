@@ -4,8 +4,9 @@
     "id": "0x8f693ca8D21b157107184d29D398A8D082b38b76",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/streamr",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 82757,
+    "24_hr_volume_usd": 62451,
     "public_notice": "Notice: Streamr (DATA) is undergoing Migration from <a href=\"https://www.coingecko.com/en/coins/streamr-xdata\">Streamr XDATA (XDATA) </a>. Read more at: https://medium.com/streamrblog/its-time-to-upgrade-your-streamr-data-tokens-5d790833c639",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8f693ca8D21b157107184d29D398A8D082b38b76/logo.png"
 }

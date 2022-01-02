@@ -4,6 +4,7 @@
     "id": "0x2373c5DC96238A64CE4062e74000fd3dAcFD3bf7",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/angel-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2373c5DC96238A64CE4062e74000fd3dAcFD3bf7/logo.png"

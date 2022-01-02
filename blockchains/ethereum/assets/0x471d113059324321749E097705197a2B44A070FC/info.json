@@ -4,7 +4,8 @@
     "id": "0x471d113059324321749E097705197a2B44A070FC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kanga-exchange",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 48546,
+    "24_hr_volume_usd": 7474.61,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x471d113059324321749E097705197a2B44A070FC/logo.png"
 }

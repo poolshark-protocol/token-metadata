@@ -4,7 +4,8 @@
     "id": "0xe7976c4Efc60d9f4C200Cc1bCEF1A1e3B02c73e7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/max-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 59989,
+    "24_hr_volume_usd": 43879,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe7976c4Efc60d9f4C200Cc1bCEF1A1e3B02c73e7/logo.png"
 }

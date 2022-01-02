@@ -4,7 +4,8 @@
     "id": "0xE1Aee98495365fc179699C1bB3E761FA716beE62",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bezant",
-    "market_cap_rank": 2323,
-    "24_hr_volume_usd": 38.12,
+    "market_cap_usd": 1077817,
+    "market_cap_rank": 2321,
+    "24_hr_volume_usd": 55.38,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE1Aee98495365fc179699C1bB3E761FA716beE62/logo.png"
 }

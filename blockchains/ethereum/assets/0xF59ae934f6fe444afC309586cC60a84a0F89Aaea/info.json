@@ -4,7 +4,8 @@
     "id": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polkadex",
-    "market_cap_rank": 805,
-    "24_hr_volume_usd": 570557,
+    "market_cap_usd": 31716960,
+    "market_cap_rank": 803,
+    "24_hr_volume_usd": 363029,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea/logo.png"
 }

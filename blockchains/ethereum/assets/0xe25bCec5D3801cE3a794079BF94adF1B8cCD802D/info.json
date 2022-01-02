@@ -4,7 +4,8 @@
     "id": "0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/matrix-ai-network",
-    "market_cap_rank": 1523,
-    "24_hr_volume_usd": 344615,
+    "market_cap_usd": 5536791,
+    "market_cap_rank": 1520,
+    "24_hr_volume_usd": 330107,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/convex-finance",
+    "market_cap_usd": 2195732464,
     "market_cap_rank": 71,
-    "24_hr_volume_usd": 72504940,
+    "24_hr_volume_usd": 162368482,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B/logo.png"
 }

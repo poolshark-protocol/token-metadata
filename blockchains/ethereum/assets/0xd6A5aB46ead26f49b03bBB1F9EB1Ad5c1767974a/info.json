@@ -4,7 +4,8 @@
     "id": "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethermon",
-    "market_cap_rank": 1769,
-    "24_hr_volume_usd": 64073,
+    "market_cap_usd": 3375895,
+    "market_cap_rank": 1759,
+    "24_hr_volume_usd": 41846,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a/logo.png"
 }

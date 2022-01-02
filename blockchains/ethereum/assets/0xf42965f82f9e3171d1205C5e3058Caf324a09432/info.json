@@ -4,7 +4,8 @@
     "id": "0xf42965f82f9e3171d1205C5e3058Caf324a09432",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/alien-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 61780,
+    "24_hr_volume_usd": 50144,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf42965f82f9e3171d1205C5e3058Caf324a09432/logo.png"
 }

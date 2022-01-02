@@ -4,7 +4,8 @@
     "id": "0x48C1B2f3eFA85fbafb2ab951bF4Ba860a08cdBB7",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/showhand",
-    "market_cap_rank": 2956,
-    "24_hr_volume_usd": 698.72,
+    "market_cap_usd": 286916,
+    "market_cap_rank": 2875,
+    "24_hr_volume_usd": 766.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x48C1B2f3eFA85fbafb2ab951bF4Ba860a08cdBB7/logo.png"
 }

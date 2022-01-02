@@ -4,6 +4,7 @@
     "id": "0x2f3e054D233c93C59140c0905227c7C607c70cbb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coomcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "public_notice": "Kindly be aware that liquidity provided in Uniswap can be removed by providers at any moment (see rug pulling) and may result in a collapse in available liquidity. Please exercise caution when trading!",

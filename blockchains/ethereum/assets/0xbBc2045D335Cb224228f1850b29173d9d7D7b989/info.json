@@ -4,7 +4,8 @@
     "id": "0xbBc2045D335Cb224228f1850b29173d9d7D7b989",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/help-token",
-    "market_cap_rank": 3382,
+    "market_cap_usd": 19077.41,
+    "market_cap_rank": 3379,
     "24_hr_volume_usd": 0.04264375,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbBc2045D335Cb224228f1850b29173d9d7D7b989/logo.png"
 }

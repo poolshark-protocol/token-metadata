@@ -4,7 +4,8 @@
     "id": "0xD528cf2E081f72908e086F8800977df826B5a483",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/paribus",
-    "market_cap_rank": 643,
-    "24_hr_volume_usd": 8134326,
+    "market_cap_usd": 57408564,
+    "market_cap_rank": 621,
+    "24_hr_volume_usd": 4530428,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD528cf2E081f72908e086F8800977df826B5a483/logo.png"
 }

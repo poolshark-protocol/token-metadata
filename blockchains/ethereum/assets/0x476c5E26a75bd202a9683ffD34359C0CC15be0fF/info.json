@@ -4,7 +4,8 @@
     "id": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/serum",
-    "market_cap_rank": 187,
-    "24_hr_volume_usd": 66534112,
+    "market_cap_usd": 489665719,
+    "market_cap_rank": 184,
+    "24_hr_volume_usd": 45229778,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x476c5E26a75bd202a9683ffD34359C0CC15be0fF/logo.png"
 }

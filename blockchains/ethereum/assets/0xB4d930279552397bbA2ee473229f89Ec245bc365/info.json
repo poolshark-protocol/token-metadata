@@ -4,7 +4,8 @@
     "id": "0xB4d930279552397bbA2ee473229f89Ec245bc365",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mahadao",
-    "market_cap_rank": 899,
-    "24_hr_volume_usd": 7444014,
+    "market_cap_usd": 19740062,
+    "market_cap_rank": 985,
+    "24_hr_volume_usd": 2756080,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB4d930279552397bbA2ee473229f89Ec245bc365/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xe120c1ECBfdFeA7F0A8f0Ee30063491E8c26fedf",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/suretly",
-    "market_cap_rank": 3195,
-    "24_hr_volume_usd": 5.31,
+    "market_cap_usd": 85610,
+    "market_cap_rank": 3196,
+    "24_hr_volume_usd": 4.13,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe120c1ECBfdFeA7F0A8f0Ee30063491E8c26fedf/logo.png"
 }

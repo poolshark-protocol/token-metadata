@@ -4,8 +4,9 @@
     "id": "0x8c6Fa66c21aE3fC435790E451946a9Ea82E6e523",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/metafabric",
-    "market_cap_rank": 1465,
-    "24_hr_volume_usd": 810546,
+    "market_cap_usd": 6185760,
+    "market_cap_rank": 1475,
+    "24_hr_volume_usd": 154186,
     "public_notice": "MetaFabric has recently expanded to Binance Smart Chain. Find out more info on their Twitter.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8c6Fa66c21aE3fC435790E451946a9Ea82E6e523/logo.png"
 }

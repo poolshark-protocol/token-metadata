@@ -4,7 +4,8 @@
     "id": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/premia",
-    "market_cap_rank": 801,
-    "24_hr_volume_usd": 291259,
+    "market_cap_usd": 31784260,
+    "market_cap_rank": 802,
+    "24_hr_volume_usd": 240823,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70/logo.png"
 }

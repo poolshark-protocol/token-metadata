@@ -4,7 +4,8 @@
     "id": "0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hashcoin",
-    "market_cap_rank": 2319,
-    "24_hr_volume_usd": 5429.21,
+    "market_cap_usd": 1087251,
+    "market_cap_rank": 2318,
+    "24_hr_volume_usd": 3809.33,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2bBA3CF6DE6058cc1B4457Ce00deb359E2703d7F/logo.png"
 }

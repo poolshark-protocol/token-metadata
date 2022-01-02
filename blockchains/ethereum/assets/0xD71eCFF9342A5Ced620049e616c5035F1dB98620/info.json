@@ -4,7 +4,8 @@
     "id": "0xD71eCFF9342A5Ced620049e616c5035F1dB98620",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/seur",
-    "market_cap_rank": 451,
-    "24_hr_volume_usd": 34495,
+    "market_cap_usd": 106628344,
+    "market_cap_rank": 460,
+    "24_hr_volume_usd": 25545,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD71eCFF9342A5Ced620049e616c5035F1dB98620/logo.png"
 }

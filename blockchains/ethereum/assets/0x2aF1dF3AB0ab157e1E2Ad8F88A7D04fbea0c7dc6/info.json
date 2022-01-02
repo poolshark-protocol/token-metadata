@@ -4,7 +4,8 @@
     "id": "0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bankless-bed-index",
-    "market_cap_rank": 1574,
-    "24_hr_volume_usd": 44258,
+    "market_cap_usd": 4805410,
+    "market_cap_rank": 1577,
+    "24_hr_volume_usd": 6944.99,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2aF1dF3AB0ab157e1E2Ad8F88A7D04fbea0c7dc6/logo.png"
 }

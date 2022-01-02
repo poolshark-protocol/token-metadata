@@ -4,7 +4,8 @@
     "id": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/liquity-usd",
-    "market_cap_rank": 126,
-    "24_hr_volume_usd": 9003836,
+    "market_cap_usd": 849815811,
+    "market_cap_rank": 133,
+    "24_hr_volume_usd": 21461918,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0/logo.png"
 }

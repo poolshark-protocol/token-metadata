@@ -4,7 +4,8 @@
     "id": "0x4eE4f96838454E67Fce92B2c53b0f1a97D047179",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/meebitsdao-pool",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2261.23,
+    "24_hr_volume_usd": 708.16,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4eE4f96838454E67Fce92B2c53b0f1a97D047179/logo.png"
 }

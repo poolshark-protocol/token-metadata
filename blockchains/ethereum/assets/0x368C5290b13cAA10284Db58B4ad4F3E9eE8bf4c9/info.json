@@ -4,7 +4,8 @@
     "id": "0x368C5290b13cAA10284Db58B4ad4F3E9eE8bf4c9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kineko",
-    "market_cap_rank": 1582,
-    "24_hr_volume_usd": 15888.05,
+    "market_cap_usd": 4786675,
+    "market_cap_rank": 1577,
+    "24_hr_volume_usd": 18621.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x368C5290b13cAA10284Db58B4ad4F3E9eE8bf4c9/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x8752bf7AD53D25A4165b9370F2becc22dD8aE838",
     "decimals": 2,
     "coingecko_url": "https://www.coingecko.com/en/coins/blocknotex",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 112515,
+    "24_hr_volume_usd": 106690,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8752bf7AD53D25A4165b9370F2becc22dD8aE838/logo.png"
 }

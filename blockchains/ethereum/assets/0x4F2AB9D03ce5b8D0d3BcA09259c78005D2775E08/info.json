@@ -4,7 +4,8 @@
     "id": "0x4F2AB9D03ce5b8D0d3BcA09259c78005D2775E08",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/mewtwo-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 171611,
+    "24_hr_volume_usd": 198945,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4F2AB9D03ce5b8D0d3BcA09259c78005D2775E08/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x37fE0f067FA808fFBDd12891C0858532CFE7361d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/civilization",
-    "market_cap_rank": 879,
-    "24_hr_volume_usd": 99366,
+    "market_cap_usd": 41204337,
+    "market_cap_rank": 722,
+    "24_hr_volume_usd": 932318,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37fE0f067FA808fFBDd12891C0858532CFE7361d/logo.png"
 }

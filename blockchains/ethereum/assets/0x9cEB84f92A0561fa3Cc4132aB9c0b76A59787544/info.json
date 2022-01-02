@@ -4,7 +4,8 @@
     "id": "0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/doki-doki-finance",
-    "market_cap_rank": 2097,
-    "24_hr_volume_usd": 7233.25,
+    "market_cap_usd": 1589716,
+    "market_cap_rank": 2123,
+    "24_hr_volume_usd": 7004.61,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9cEB84f92A0561fa3Cc4132aB9c0b76A59787544/logo.png"
 }

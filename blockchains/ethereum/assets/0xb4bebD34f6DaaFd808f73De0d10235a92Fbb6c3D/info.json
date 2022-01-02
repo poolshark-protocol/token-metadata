@@ -4,8 +4,9 @@
     "id": "0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yearn-ecosystem-token-index",
-    "market_cap_rank": 2804,
-    "24_hr_volume_usd": 1.09,
+    "market_cap_usd": 550336,
+    "market_cap_rank": 2624,
+    "24_hr_volume_usd": 3667.34,
     "public_notice": "Swap, supply and withdrawal Liquidity on YETI has been enabled. See https://twitter.com/powerpoolcvp/status/1343888189283475456",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb4bebD34f6DaaFd808f73De0d10235a92Fbb6c3D/logo.png"
 }

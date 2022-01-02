@@ -4,7 +4,8 @@
     "id": "0x67a9099f0008C35C61c00042cd9Fb03684451097",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/game-stars",
-    "market_cap_rank": 3426,
+    "market_cap_usd": 9651.04,
+    "market_cap_rank": 3427,
     "24_hr_volume_usd": 4.38,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x67a9099f0008C35C61c00042cd9Fb03684451097/logo.png"
 }

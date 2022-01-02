@@ -4,7 +4,8 @@
     "id": "0x9d5963ba32e877871dfF3e2E697283dc64066271",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aga-rewards",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1742312,
+    "24_hr_volume_usd": 1999772,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d5963ba32e877871dfF3e2E697283dc64066271/logo.png"
 }

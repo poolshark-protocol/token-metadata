@@ -4,7 +4,8 @@
     "id": "0x8290D7a64F25e6b5002d98367E8367c1b532b534",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stable-uni",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 301772,
+    "24_hr_volume_usd": 758111,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8290D7a64F25e6b5002d98367E8367c1b532b534/logo.png"
 }

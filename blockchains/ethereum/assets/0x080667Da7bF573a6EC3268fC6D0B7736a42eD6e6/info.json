@@ -4,7 +4,8 @@
     "id": "0x080667Da7bF573a6EC3268fC6D0B7736a42eD6e6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ekta",
-    "market_cap_rank": 1528,
+    "market_cap_usd": 5236027,
+    "market_cap_rank": 1548,
     "24_hr_volume_usd": 2994.88,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x080667Da7bF573a6EC3268fC6D0B7736a42eD6e6/logo.png"
 }

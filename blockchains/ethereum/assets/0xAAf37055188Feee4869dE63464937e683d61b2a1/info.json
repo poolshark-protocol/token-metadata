@@ -4,7 +4,8 @@
     "id": "0xAAf37055188Feee4869dE63464937e683d61b2a1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/uchain",
-    "market_cap_rank": 3378,
-    "24_hr_volume_usd": 3389.33,
+    "market_cap_usd": 20256,
+    "market_cap_rank": 3377,
+    "24_hr_volume_usd": 1532.01,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAAf37055188Feee4869dE63464937e683d61b2a1/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/frax-share",
-    "market_cap_rank": 96,
-    "24_hr_volume_usd": 71780431,
+    "market_cap_usd": 1330562560,
+    "market_cap_rank": 97,
+    "24_hr_volume_usd": 27885960,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0/logo.png"
 }

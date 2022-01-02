@@ -4,6 +4,7 @@
     "id": "0x40E45890dff79e7D533797d964E64a2C0121F49a",
     "decimals": 7,
     "coingecko_url": "https://www.coingecko.com/en/coins/smart-trade-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 52465,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x40E45890dff79e7D533797d964E64a2C0121F49a/logo.png"

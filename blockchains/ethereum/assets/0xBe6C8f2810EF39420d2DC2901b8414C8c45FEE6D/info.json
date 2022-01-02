@@ -4,7 +4,8 @@
     "id": "0xBe6C8f2810EF39420d2DC2901b8414C8c45FEE6D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/micromines",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 151.71,
+    "24_hr_volume_usd": 142.51,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBe6C8f2810EF39420d2DC2901b8414C8c45FEE6D/logo.png"
 }

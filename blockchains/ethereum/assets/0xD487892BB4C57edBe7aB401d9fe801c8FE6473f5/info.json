@@ -4,7 +4,8 @@
     "id": "0xD487892BB4C57edBe7aB401d9fe801c8FE6473f5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/uhive",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 111170,
+    "24_hr_volume_usd": 99370,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD487892BB4C57edBe7aB401d9fe801c8FE6473f5/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x8606a8F28e1e2FD50B9074d65C01548B1F040B32",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/cryptrust",
-    "market_cap_rank": 3254,
-    "24_hr_volume_usd": 206.43,
+    "market_cap_usd": 66285,
+    "market_cap_rank": 3239,
+    "24_hr_volume_usd": 158.31,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8606a8F28e1e2FD50B9074d65C01548B1F040B32/logo.png"
 }

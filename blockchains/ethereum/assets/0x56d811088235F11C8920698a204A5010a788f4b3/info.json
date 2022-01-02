@@ -4,8 +4,9 @@
     "id": "0x56d811088235F11C8920698a204A5010a788f4b3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bzx-protocol",
-    "market_cap_rank": 407,
-    "24_hr_volume_usd": 12029.25,
+    "market_cap_usd": 136303232,
+    "market_cap_rank": 408,
+    "24_hr_volume_usd": 114619,
     "public_notice": "BZRXv1 token holders can easily migrate to the new BZRX token using our Staking Dashboard at https://staking.bzx.network. For more info : https://bzx.network/blog/bzrxv1-token-migration",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x56d811088235F11C8920698a204A5010a788f4b3/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x52F4D5EE6c91e01Be67CA1F64b11eD0EE370817d",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/cia",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 60208,
+    "24_hr_volume_usd": 18610.32,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x52F4D5EE6c91e01Be67CA1F64b11eD0EE370817d/logo.png"
 }

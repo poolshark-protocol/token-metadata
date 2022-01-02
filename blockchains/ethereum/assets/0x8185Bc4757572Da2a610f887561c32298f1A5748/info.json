@@ -4,7 +4,8 @@
     "id": "0x8185Bc4757572Da2a610f887561c32298f1A5748",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aluna",
-    "market_cap_rank": 2317,
-    "24_hr_volume_usd": 4550.99,
+    "market_cap_usd": 1071776,
+    "market_cap_rank": 2322,
+    "24_hr_volume_usd": 3407.62,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8185Bc4757572Da2a610f887561c32298f1A5748/logo.png"
 }

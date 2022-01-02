@@ -4,7 +4,8 @@
     "id": "0x423b5F62b328D0D6D44870F4Eee316befA0b2dF5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gonetwork",
-    "market_cap_rank": 3072,
-    "24_hr_volume_usd": 33209,
+    "market_cap_usd": 152598,
+    "market_cap_rank": 3061,
+    "24_hr_volume_usd": 27136,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x423b5F62b328D0D6D44870F4Eee316befA0b2dF5/logo.png"
 }

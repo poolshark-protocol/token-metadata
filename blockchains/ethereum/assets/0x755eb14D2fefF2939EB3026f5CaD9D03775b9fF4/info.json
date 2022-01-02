@@ -4,7 +4,8 @@
     "id": "0x755eb14D2fefF2939EB3026f5CaD9D03775b9fF4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bunnytoken",
-    "market_cap_rank": 3394,
+    "market_cap_usd": 15816.01,
+    "market_cap_rank": 3392,
     "24_hr_volume_usd": 0.271004,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x755eb14D2fefF2939EB3026f5CaD9D03775b9fF4/logo.png"
 }

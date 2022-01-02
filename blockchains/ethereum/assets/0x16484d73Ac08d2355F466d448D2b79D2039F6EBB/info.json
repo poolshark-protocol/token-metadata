@@ -4,7 +4,8 @@
     "id": "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fortknoxter",
-    "market_cap_rank": 1207,
-    "24_hr_volume_usd": 643203,
+    "market_cap_usd": 11599113,
+    "market_cap_rank": 1205,
+    "24_hr_volume_usd": 706659,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x16484d73Ac08d2355F466d448D2b79D2039F6EBB/logo.png"
 }

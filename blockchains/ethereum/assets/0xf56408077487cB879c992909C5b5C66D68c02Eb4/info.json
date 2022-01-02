@@ -4,7 +4,8 @@
     "id": "0xf56408077487cB879c992909C5b5C66D68c02Eb4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/riot-racers",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 6307.58,
+    "24_hr_volume_usd": 9278.54,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf56408077487cB879c992909C5b5C66D68c02Eb4/logo.png"
 }

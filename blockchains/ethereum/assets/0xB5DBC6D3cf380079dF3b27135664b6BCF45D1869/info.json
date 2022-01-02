@@ -4,7 +4,8 @@
     "id": "0xB5DBC6D3cf380079dF3b27135664b6BCF45D1869",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/project-shivom",
-    "market_cap_rank": 3011,
-    "24_hr_volume_usd": 27.05,
+    "market_cap_usd": 174537,
+    "market_cap_rank": 3020,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB5DBC6D3cf380079dF3b27135664b6BCF45D1869/logo.png"
 }

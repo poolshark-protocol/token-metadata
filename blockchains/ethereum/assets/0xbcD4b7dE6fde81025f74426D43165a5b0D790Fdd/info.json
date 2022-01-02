@@ -4,7 +4,8 @@
     "id": "0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/spiderdao",
-    "market_cap_rank": 1964,
-    "24_hr_volume_usd": 133854,
+    "market_cap_usd": 2089348,
+    "market_cap_rank": 1979,
+    "24_hr_volume_usd": 105610,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbcD4b7dE6fde81025f74426D43165a5b0D790Fdd/logo.png"
 }

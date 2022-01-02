@@ -4,7 +4,8 @@
     "id": "0x34Be5b8C30eE4fDe069DC878989686aBE9884470",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/senate",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 963428,
+    "24_hr_volume_usd": 8521704,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x34Be5b8C30eE4fDe069DC878989686aBE9884470/logo.png"
 }

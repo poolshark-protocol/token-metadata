@@ -4,7 +4,8 @@
     "id": "0x30680AC0a8A993088223925265fD7a76bEb87E7F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/araw-token",
-    "market_cap_rank": 3288,
-    "24_hr_volume_usd": 62.89,
+    "market_cap_usd": 40241,
+    "market_cap_rank": 3308,
+    "24_hr_volume_usd": 32.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x30680AC0a8A993088223925265fD7a76bEb87E7F/logo.png"
 }

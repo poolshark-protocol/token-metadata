@@ -4,7 +4,8 @@
     "id": "0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/revomon",
-    "market_cap_rank": 1033,
-    "24_hr_volume_usd": 870053,
+    "market_cap_usd": 15857892,
+    "market_cap_rank": 1053,
+    "24_hr_volume_usd": 753443,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x155040625D7ae3e9caDA9a73E3E44f76D3Ed1409/logo.png"
 }

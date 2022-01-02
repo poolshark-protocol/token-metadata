@@ -4,7 +4,8 @@
     "id": "0x8D1ce361eb68e9E05573443C407D4A3Bed23B033",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/piedao-defi",
-    "market_cap_rank": 2159,
-    "24_hr_volume_usd": 754.58,
+    "market_cap_usd": 1437264,
+    "market_cap_rank": 2167,
+    "24_hr_volume_usd": 4604.8,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8D1ce361eb68e9E05573443C407D4A3Bed23B033/logo.png"
 }

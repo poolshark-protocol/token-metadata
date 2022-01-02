@@ -4,6 +4,7 @@
     "id": "0x09E4BDFb273245063eF5E800D891eFF7d04f9B83",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/eth-price-action-candlestick-set",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 9045.51,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x09E4BDFb273245063eF5E800D891eFF7d04f9B83/logo.png"

@@ -4,7 +4,8 @@
     "id": "0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/cryptaur",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 15628.95,
+    "24_hr_volume_usd": 15143.2,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1/logo.png"
 }

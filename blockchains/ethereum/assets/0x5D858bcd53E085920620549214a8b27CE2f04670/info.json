@@ -4,7 +4,8 @@
     "id": "0x5D858bcd53E085920620549214a8b27CE2f04670",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pop-chest-token",
-    "market_cap_rank": 1374,
-    "24_hr_volume_usd": 85605,
+    "market_cap_usd": 7900102,
+    "market_cap_rank": 1380,
+    "24_hr_volume_usd": 55941,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5D858bcd53E085920620549214a8b27CE2f04670/logo.png"
 }

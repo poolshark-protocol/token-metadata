@@ -4,7 +4,8 @@
     "id": "0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-ishares-silver-trust",
-    "market_cap_rank": 1031,
-    "24_hr_volume_usd": 351151,
+    "market_cap_usd": 16906268,
+    "market_cap_rank": 1035,
+    "24_hr_volume_usd": 43180,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676/logo.png"
 }

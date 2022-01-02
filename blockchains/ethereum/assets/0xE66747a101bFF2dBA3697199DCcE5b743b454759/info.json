@@ -4,7 +4,8 @@
     "id": "0xE66747a101bFF2dBA3697199DCcE5b743b454759",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gatechain-token",
-    "market_cap_rank": 113,
-    "24_hr_volume_usd": 5345950,
+    "market_cap_usd": 1059497063,
+    "market_cap_rank": 111,
+    "24_hr_volume_usd": 2997026,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE66747a101bFF2dBA3697199DCcE5b743b454759/logo.png"
 }

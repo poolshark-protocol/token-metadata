@@ -4,7 +4,8 @@
     "id": "0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sylo",
-    "market_cap_rank": 892,
-    "24_hr_volume_usd": 16858552,
+    "market_cap_usd": 24575244,
+    "market_cap_rank": 890,
+    "24_hr_volume_usd": 2692089,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf293d23BF2CDc05411Ca0edDD588eb1977e8dcd4/logo.png"
 }

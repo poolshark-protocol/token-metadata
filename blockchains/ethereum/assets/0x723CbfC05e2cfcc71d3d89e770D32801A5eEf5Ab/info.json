@@ -4,7 +4,8 @@
     "id": "0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitcoin-pro",
-    "market_cap_rank": 1550,
-    "24_hr_volume_usd": 7595.79,
+    "market_cap_usd": 6526247,
+    "market_cap_rank": 1454,
+    "24_hr_volume_usd": 8969.47,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab/logo.png"
 }

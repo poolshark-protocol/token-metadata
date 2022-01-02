@@ -4,7 +4,8 @@
     "id": "0x8a14897eA5F668f36671678593fAe44Ae23B39FB",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/cerberusdao",
-    "market_cap_rank": 2309,
-    "24_hr_volume_usd": 16564.58,
+    "market_cap_usd": 1059576,
+    "market_cap_rank": 2329,
+    "24_hr_volume_usd": 26367,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8a14897eA5F668f36671678593fAe44Ae23B39FB/logo.png"
 }

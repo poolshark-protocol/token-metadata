@@ -4,8 +4,9 @@
     "id": "0x4EC1b60B96193a64AcAe44778e51f7BfF2007831",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/edge",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 81.0,
+    "24_hr_volume_usd": 1383.33,
     "public_notice": "EDGE has migrated to a <a href=\"0x4ec1b60b96193a64acae44778e51f7bff2007831\">new contract</a>. For more information, visit https://twitter.com/edgenetwork/status/1436026929166102537",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4EC1b60B96193a64AcAe44778e51f7BfF2007831/logo.png"
 }

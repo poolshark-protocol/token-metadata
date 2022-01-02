@@ -4,8 +4,9 @@
     "id": "0xCee1d3c3A02267e37E6B373060F79d5d7b9e1669",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yffi-finance",
-    "market_cap_rank": 3221,
-    "24_hr_volume_usd": 103895,
+    "market_cap_usd": 71912,
+    "market_cap_rank": 3228,
+    "24_hr_volume_usd": 38343,
     "public_notice": "Warning: This coin has not been fully audited yet. This is yet another fork of Yearn.finance (YFI). For the original YFI, please visit https://www.coingecko.com/en/coins/yearn-finance",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCee1d3c3A02267e37E6B373060F79d5d7b9e1669/logo.png"
 }

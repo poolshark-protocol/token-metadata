@@ -4,6 +4,7 @@
     "id": "0xbe6c01A67Bd0160FE3e731555aD014895B225Dfa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fundum",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 12.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbe6c01A67Bd0160FE3e731555aD014895B225Dfa/logo.png"

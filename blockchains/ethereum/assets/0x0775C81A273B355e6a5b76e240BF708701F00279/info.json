@@ -4,7 +4,8 @@
     "id": "0x0775C81A273B355e6a5b76e240BF708701F00279",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bulleon",
-    "market_cap_rank": 3488,
-    "24_hr_volume_usd": 0.00382407,
+    "market_cap_usd": 3853.87,
+    "market_cap_rank": 3464,
+    "24_hr_volume_usd": 0.00666032,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0775C81A273B355e6a5b76e240BF708701F00279/logo.png"
 }

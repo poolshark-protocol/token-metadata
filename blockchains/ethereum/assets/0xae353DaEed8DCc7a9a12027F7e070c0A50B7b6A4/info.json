@@ -4,7 +4,8 @@
     "id": "0xae353DaEed8DCc7a9a12027F7e070c0A50B7b6A4",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/innovaminex",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2073.68,
+    "24_hr_volume_usd": 1696.26,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xae353DaEed8DCc7a9a12027F7e070c0A50B7b6A4/logo.png"
 }

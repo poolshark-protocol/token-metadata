@@ -4,6 +4,7 @@
     "id": "0x05F9Abf4B0C5661E83B92c056A8791d5CCd7Ca52",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/joos-protocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 16.81,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x05F9Abf4B0C5661E83B92c056A8791d5CCd7Ca52/logo.png"

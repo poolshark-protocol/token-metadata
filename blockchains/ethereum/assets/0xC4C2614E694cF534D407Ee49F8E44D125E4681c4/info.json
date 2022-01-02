@@ -4,7 +4,8 @@
     "id": "0xC4C2614E694cF534D407Ee49F8E44D125E4681c4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/chain-games",
-    "market_cap_rank": 676,
-    "24_hr_volume_usd": 1459639,
+    "market_cap_usd": 47392181,
+    "market_cap_rank": 683,
+    "24_hr_volume_usd": 1348212,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC4C2614E694cF534D407Ee49F8E44D125E4681c4/logo.png"
 }

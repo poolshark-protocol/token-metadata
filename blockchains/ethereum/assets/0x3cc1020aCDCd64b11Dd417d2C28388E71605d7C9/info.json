@@ -4,7 +4,8 @@
     "id": "0x3cc1020aCDCd64b11Dd417d2C28388E71605d7C9",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/dogeman",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 629.97,
+    "24_hr_volume_usd": 219.44,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3cc1020aCDCd64b11Dd417d2C28388E71605d7C9/logo.png"
 }

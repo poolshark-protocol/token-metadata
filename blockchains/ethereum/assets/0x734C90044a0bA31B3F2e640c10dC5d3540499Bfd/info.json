@@ -4,7 +4,8 @@
     "id": "0x734C90044a0bA31B3F2e640c10dC5d3540499Bfd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tradestars",
-    "market_cap_rank": 1939,
-    "24_hr_volume_usd": 4875.55,
+    "market_cap_usd": 2520083,
+    "market_cap_rank": 1892,
+    "24_hr_volume_usd": 69879,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x734C90044a0bA31B3F2e640c10dC5d3540499Bfd/logo.png"
 }

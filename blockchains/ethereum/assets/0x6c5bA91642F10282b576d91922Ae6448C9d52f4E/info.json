@@ -4,7 +4,8 @@
     "id": "0x6c5bA91642F10282b576d91922Ae6448C9d52f4E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pha",
+    "market_cap_usd": 78958710,
     "market_cap_rank": 536,
-    "24_hr_volume_usd": 28637097,
+    "24_hr_volume_usd": 10233318,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6c5bA91642F10282b576d91922Ae6448C9d52f4E/logo.png"
 }

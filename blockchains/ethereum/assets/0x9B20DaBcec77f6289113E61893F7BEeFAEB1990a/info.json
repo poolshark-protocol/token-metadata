@@ -4,7 +4,8 @@
     "id": "0x9B20DaBcec77f6289113E61893F7BEeFAEB1990a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fairgame",
-    "market_cap_rank": 1187,
-    "24_hr_volume_usd": 7833943,
+    "market_cap_usd": 11907822,
+    "market_cap_rank": 1190,
+    "24_hr_volume_usd": 3611813,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9B20DaBcec77f6289113E61893F7BEeFAEB1990a/logo.png"
 }

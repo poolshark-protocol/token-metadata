@@ -4,7 +4,8 @@
     "id": "0x21cf09BC065082478Dcc9ccB5fd215A978Dc8d86",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/jem",
-    "market_cap_rank": 3313,
-    "24_hr_volume_usd": 67172,
+    "market_cap_usd": 38728,
+    "market_cap_rank": 3314,
+    "24_hr_volume_usd": 53947,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x21cf09BC065082478Dcc9ccB5fd215A978Dc8d86/logo.png"
 }

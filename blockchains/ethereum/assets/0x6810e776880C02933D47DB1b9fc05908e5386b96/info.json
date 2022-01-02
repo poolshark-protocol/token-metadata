@@ -4,7 +4,8 @@
     "id": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gnosis",
-    "market_cap_rank": 115,
-    "24_hr_volume_usd": 11462744,
+    "market_cap_usd": 988005777,
+    "market_cap_rank": 120,
+    "24_hr_volume_usd": 4410861,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
 }

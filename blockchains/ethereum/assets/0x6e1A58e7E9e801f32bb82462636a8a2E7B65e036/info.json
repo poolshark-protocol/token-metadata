@@ -4,7 +4,8 @@
     "id": "0x6e1A58e7E9e801f32bb82462636a8a2E7B65e036",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lcg",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 74565,
+    "24_hr_volume_usd": 51955,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6e1A58e7E9e801f32bb82462636a8a2E7B65e036/logo.png"
 }

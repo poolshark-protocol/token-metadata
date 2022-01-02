@@ -4,7 +4,8 @@
     "id": "0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dogelon-mars",
+    "market_cap_usd": 941351909,
     "market_cap_rank": 124,
-    "24_hr_volume_usd": 31720162,
+    "24_hr_volume_usd": 27357325,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x761D38e5ddf6ccf6Cf7c55759d5210750B5D60F3/logo.png"
 }

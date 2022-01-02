@@ -4,8 +4,9 @@
     "id": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aergo",
+    "market_cap_usd": 68030645,
     "market_cap_rank": 580,
-    "24_hr_volume_usd": 2560634,
+    "24_hr_volume_usd": 3874114,
     "public_notice": "Contract address has migrated from 0xae31b85bfe62747d0836b82608b4830361a3d37a to 0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6/logo.png"
 }

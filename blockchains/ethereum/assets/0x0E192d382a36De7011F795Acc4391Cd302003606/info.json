@@ -4,7 +4,8 @@
     "id": "0x0E192d382a36De7011F795Acc4391Cd302003606",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/futureswap",
-    "market_cap_rank": 741,
-    "24_hr_volume_usd": 749560,
+    "market_cap_usd": 50143517,
+    "market_cap_rank": 663,
+    "24_hr_volume_usd": 877633,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0E192d382a36De7011F795Acc4391Cd302003606/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x923108a439C4e8C2315c4f6521E5cE95B44e9B4c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/devery",
-    "market_cap_rank": 3132,
-    "24_hr_volume_usd": 5438.82,
+    "market_cap_usd": 106854,
+    "market_cap_rank": 3146,
+    "24_hr_volume_usd": 4940.2,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x923108a439C4e8C2315c4f6521E5cE95B44e9B4c/logo.png"
 }

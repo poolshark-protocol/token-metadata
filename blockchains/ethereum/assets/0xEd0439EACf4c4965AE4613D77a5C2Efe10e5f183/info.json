@@ -4,8 +4,9 @@
     "id": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/shroom-finance",
-    "market_cap_rank": 1012,
-    "24_hr_volume_usd": 341604,
+    "market_cap_usd": 16839129,
+    "market_cap_rank": 1037,
+    "24_hr_volume_usd": 166163,
     "public_notice": "Shroom Finance has rebranded to Niftyx Protocol. For more details, refer to: https://niftyx.medium.com/shroom-is-now-niftyx-the-global-layer-for-nfts-exchange-2f86212dbb15",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183/logo.png"
 }

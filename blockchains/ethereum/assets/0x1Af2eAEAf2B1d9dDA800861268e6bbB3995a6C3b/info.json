@@ -4,7 +4,8 @@
     "id": "0x1Af2eAEAf2B1d9dDA800861268e6bbB3995a6C3b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/1eco",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 490217,
+    "24_hr_volume_usd": 392557,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1Af2eAEAf2B1d9dDA800861268e6bbB3995a6C3b/logo.png"
 }

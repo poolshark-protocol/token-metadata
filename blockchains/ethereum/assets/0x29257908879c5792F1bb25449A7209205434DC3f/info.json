@@ -4,6 +4,7 @@
     "id": "0x29257908879c5792F1bb25449A7209205434DC3f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zbank-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.00102345,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x29257908879c5792F1bb25449A7209205434DC3f/logo.png"

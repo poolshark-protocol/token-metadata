@@ -4,7 +4,8 @@
     "id": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aavegotchi",
-    "market_cap_rank": 368,
-    "24_hr_volume_usd": 27777983,
+    "market_cap_usd": 157262145,
+    "market_cap_rank": 372,
+    "24_hr_volume_usd": 20944914,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3F382DbD960E3a9bbCeaE22651E88158d2791550/logo.png"
 }

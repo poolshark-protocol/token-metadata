@@ -4,7 +4,8 @@
     "id": "0x7051620d11042c4335069AaA4f10Cd3B4290C681",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/tcash",
-    "market_cap_rank": 2921,
-    "24_hr_volume_usd": 6.59,
+    "market_cap_usd": 260139,
+    "market_cap_rank": 2911,
+    "24_hr_volume_usd": 66.17,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7051620d11042c4335069AaA4f10Cd3B4290C681/logo.png"
 }

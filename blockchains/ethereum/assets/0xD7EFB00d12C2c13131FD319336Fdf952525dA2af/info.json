@@ -4,7 +4,8 @@
     "id": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/proton",
-    "market_cap_rank": 395,
-    "24_hr_volume_usd": 3986044,
+    "market_cap_usd": 142680246,
+    "market_cap_rank": 396,
+    "24_hr_volume_usd": 3130187,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD7EFB00d12C2c13131FD319336Fdf952525dA2af/logo.png"
 }

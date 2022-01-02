@@ -4,7 +4,8 @@
     "id": "0xdF290B162a7D3E0A328cF198308D421954f08b94",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/beyond-protocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 4415684,
+    "24_hr_volume_usd": 5227528,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdF290B162a7D3E0A328cF198308D421954f08b94/logo.png"
 }

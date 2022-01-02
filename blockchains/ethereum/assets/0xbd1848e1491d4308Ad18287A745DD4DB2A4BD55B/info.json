@@ -4,7 +4,8 @@
     "id": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mochi-market",
-    "market_cap_rank": 2233,
-    "24_hr_volume_usd": 13161.26,
+    "market_cap_usd": 1398080,
+    "market_cap_rank": 2182,
+    "24_hr_volume_usd": 31957,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B/logo.png"
 }

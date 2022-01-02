@@ -4,7 +4,8 @@
     "id": "0xdacD69347dE42baBfAEcD09dC88958378780FB62",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/atari",
-    "market_cap_rank": 628,
-    "24_hr_volume_usd": 813304,
+    "market_cap_usd": 56353131,
+    "market_cap_rank": 625,
+    "24_hr_volume_usd": 595614,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdacD69347dE42baBfAEcD09dC88958378780FB62/logo.png"
 }

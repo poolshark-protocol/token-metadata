@@ -4,7 +4,8 @@
     "id": "0xc0F1728d9513EFC316D0E93A0758c992f88b0809",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/swtcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 37.97,
+    "24_hr_volume_usd": 78.99,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc0F1728d9513EFC316D0E93A0758c992f88b0809/logo.png"
 }

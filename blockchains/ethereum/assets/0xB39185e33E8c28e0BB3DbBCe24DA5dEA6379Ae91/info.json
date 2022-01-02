@@ -4,7 +4,8 @@
     "id": "0xB39185e33E8c28e0BB3DbBCe24DA5dEA6379Ae91",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/phunk-vault-nftx",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 247804,
+    "24_hr_volume_usd": 35129,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB39185e33E8c28e0BB3DbBCe24DA5dEA6379Ae91/logo.png"
 }

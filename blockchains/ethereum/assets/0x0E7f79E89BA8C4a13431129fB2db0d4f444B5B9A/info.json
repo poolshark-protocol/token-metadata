@@ -4,6 +4,7 @@
     "id": "0x0E7f79E89BA8C4a13431129fB2db0d4f444B5B9A",
     "decimals": 16,
     "coingecko_url": "https://www.coingecko.com/en/coins/xank",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 4.12,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0E7f79E89BA8C4a13431129fB2db0d4f444B5B9A/logo.png"

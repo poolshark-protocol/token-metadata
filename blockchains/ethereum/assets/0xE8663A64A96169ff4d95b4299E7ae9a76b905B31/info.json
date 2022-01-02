@@ -4,7 +4,8 @@
     "id": "0xE8663A64A96169ff4d95b4299E7ae9a76b905B31",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/dprating",
-    "market_cap_rank": 2298,
-    "24_hr_volume_usd": 5985.89,
+    "market_cap_usd": 1189297,
+    "market_cap_rank": 2262,
+    "24_hr_volume_usd": 17951.82,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE8663A64A96169ff4d95b4299E7ae9a76b905B31/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x786448439d9401e0a8427aCf7Ca66A5114eb2368",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/dipper",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 200.71,
+    "24_hr_volume_usd": 698.91,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x786448439d9401e0a8427aCf7Ca66A5114eb2368/logo.png"
 }

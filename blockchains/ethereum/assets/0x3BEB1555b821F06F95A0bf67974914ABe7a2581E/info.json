@@ -4,7 +4,8 @@
     "id": "0x3BEB1555b821F06F95A0bf67974914ABe7a2581E",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/ghibli-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 775.48,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3BEB1555b821F06F95A0bf67974914ABe7a2581E/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x0eC78ED49C2D27b315D462d43B5BAB94d2C79bf8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zero-tech",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 57845,
+    "24_hr_volume_usd": 19573.49,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0eC78ED49C2D27b315D462d43B5BAB94d2C79bf8/logo.png"
 }

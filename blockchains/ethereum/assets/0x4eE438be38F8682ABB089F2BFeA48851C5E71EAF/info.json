@@ -4,7 +4,8 @@
     "id": "0x4eE438be38F8682ABB089F2BFeA48851C5E71EAF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cryptonovae",
-    "market_cap_rank": 1841,
-    "24_hr_volume_usd": 4341.5,
+    "market_cap_usd": 2684743,
+    "market_cap_rank": 1862,
+    "24_hr_volume_usd": 10085.7,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4eE438be38F8682ABB089F2BFeA48851C5E71EAF/logo.png"
 }

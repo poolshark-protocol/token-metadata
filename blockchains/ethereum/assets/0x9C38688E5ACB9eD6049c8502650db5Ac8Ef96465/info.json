@@ -4,7 +4,8 @@
     "id": "0x9C38688E5ACB9eD6049c8502650db5Ac8Ef96465",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/winding-tree",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 4088.51,
+    "24_hr_volume_usd": 104.27,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9C38688E5ACB9eD6049c8502650db5Ac8Ef96465/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x47daC6BD80f024575a6d367aF5Ba8e89202A09fc",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/oxo-farm",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 6960.33,
+    "24_hr_volume_usd": 7780.09,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x47daC6BD80f024575a6d367aF5Ba8e89202A09fc/logo.png"
 }

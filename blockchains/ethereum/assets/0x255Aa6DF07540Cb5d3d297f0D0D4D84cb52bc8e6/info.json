@@ -4,7 +4,8 @@
     "id": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/raiden-network",
-    "market_cap_rank": 1270,
-    "24_hr_volume_usd": 655947,
+    "market_cap_usd": 10085531,
+    "market_cap_rank": 1263,
+    "24_hr_volume_usd": 586329,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6/logo.png"
 }

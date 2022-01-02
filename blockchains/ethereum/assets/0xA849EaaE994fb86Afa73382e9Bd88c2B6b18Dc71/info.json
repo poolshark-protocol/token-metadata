@@ -4,7 +4,8 @@
     "id": "0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mass-vehicle-ledger",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1529281,
+    "24_hr_volume_usd": 754527,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA849EaaE994fb86Afa73382e9Bd88c2B6b18Dc71/logo.png"
 }

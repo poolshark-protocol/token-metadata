@@ -4,7 +4,8 @@
     "id": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nusd",
-    "market_cap_rank": 411,
-    "24_hr_volume_usd": 251490,
+    "market_cap_usd": 128558945,
+    "market_cap_rank": 423,
+    "24_hr_volume_usd": 387858,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xa1817B6d8D890F3943b61648992730373B71f156",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/mongoose",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1885095,
+    "24_hr_volume_usd": 589387,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa1817B6d8D890F3943b61648992730373B71f156/logo.png"
 }

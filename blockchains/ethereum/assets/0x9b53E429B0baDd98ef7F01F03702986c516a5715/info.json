@@ -4,7 +4,8 @@
     "id": "0x9b53E429B0baDd98ef7F01F03702986c516a5715",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hybrix",
-    "market_cap_rank": 1826,
-    "24_hr_volume_usd": 398.5,
+    "market_cap_usd": 2886627,
+    "market_cap_rank": 1824,
+    "24_hr_volume_usd": 409.77,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9b53E429B0baDd98ef7F01F03702986c516a5715/logo.png"
 }

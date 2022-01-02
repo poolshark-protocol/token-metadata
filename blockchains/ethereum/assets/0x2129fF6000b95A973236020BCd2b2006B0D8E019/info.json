@@ -4,7 +4,8 @@
     "id": "0x2129fF6000b95A973236020BCd2b2006B0D8E019",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/myx-network",
-    "market_cap_rank": 2227,
-    "24_hr_volume_usd": 230.84,
+    "market_cap_usd": 1278118,
+    "market_cap_rank": 2234,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2129fF6000b95A973236020BCd2b2006B0D8E019/logo.png"
 }

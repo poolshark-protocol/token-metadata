@@ -4,7 +4,8 @@
     "id": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unfederalreserve",
-    "market_cap_rank": 873,
-    "24_hr_volume_usd": 3654612,
+    "market_cap_usd": 25325112,
+    "market_cap_rank": 882,
+    "24_hr_volume_usd": 2195046,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x5Cb888182fBfFdb62C08fb4B5a343914F00FdfeE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/moneybrain-bips",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 812712,
+    "24_hr_volume_usd": 796897,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5Cb888182fBfFdb62C08fb4B5a343914F00FdfeE/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x900dB999074d9277c5DA2A43F252D74366230DA0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/giveth",
-    "market_cap_rank": 1426,
-    "24_hr_volume_usd": 179832,
+    "market_cap_usd": 7072798,
+    "market_cap_rank": 1424,
+    "24_hr_volume_usd": 53474,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x900dB999074d9277c5DA2A43F252D74366230DA0/logo.png"
 }

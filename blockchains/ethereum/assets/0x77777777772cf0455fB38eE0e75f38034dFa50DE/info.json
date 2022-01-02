@@ -4,7 +4,8 @@
     "id": "0x77777777772cf0455fB38eE0e75f38034dFa50DE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/xy-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 560589,
+    "24_hr_volume_usd": 47714,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77777777772cf0455fB38eE0e75f38034dFa50DE/logo.png"
 }

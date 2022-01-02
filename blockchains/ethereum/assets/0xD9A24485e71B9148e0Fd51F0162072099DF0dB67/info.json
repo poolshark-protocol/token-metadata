@@ -4,7 +4,8 @@
     "id": "0xD9A24485e71B9148e0Fd51F0162072099DF0dB67",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/oneperl",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 99868,
+    "24_hr_volume_usd": 336002,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD9A24485e71B9148e0Fd51F0162072099DF0dB67/logo.png"
 }

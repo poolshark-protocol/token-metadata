@@ -4,7 +4,8 @@
     "id": "0x1a57367C6194199e5D9aEa1cE027431682dfB411",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/matrixetf",
-    "market_cap_rank": 2365,
-    "24_hr_volume_usd": 46889,
+    "market_cap_usd": 1000296,
+    "market_cap_rank": 2360,
+    "24_hr_volume_usd": 47196,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1a57367C6194199e5D9aEa1cE027431682dfB411/logo.png"
 }

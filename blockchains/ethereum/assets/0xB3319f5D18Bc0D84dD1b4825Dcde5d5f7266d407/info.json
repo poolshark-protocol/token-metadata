@@ -4,7 +4,8 @@
     "id": "0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/compound-0x",
-    "market_cap_rank": 465,
-    "24_hr_volume_usd": 23025,
+    "market_cap_usd": 103719313,
+    "market_cap_rank": 463,
+    "24_hr_volume_usd": 942.17,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB3319f5D18Bc0D84dD1b4825Dcde5d5f7266d407/logo.png"
 }

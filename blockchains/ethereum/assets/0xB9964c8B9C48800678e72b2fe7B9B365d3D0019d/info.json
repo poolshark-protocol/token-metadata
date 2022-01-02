@@ -4,7 +4,8 @@
     "id": "0xB9964c8B9C48800678e72b2fe7B9B365d3D0019d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/smartchem",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 71146,
+    "24_hr_volume_usd": 112890,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB9964c8B9C48800678e72b2fe7B9B365d3D0019d/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dawn-protocol",
-    "market_cap_rank": 354,
-    "24_hr_volume_usd": 9694307,
+    "market_cap_usd": 173038130,
+    "market_cap_rank": 355,
+    "24_hr_volume_usd": 6707112,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xA17De0ab0a97Bc5e56fa8b39eBFc81CC3F1f349E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defiking",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.0,
+    "24_hr_volume_usd": 375.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA17De0ab0a97Bc5e56fa8b39eBFc81CC3F1f349E/logo.png"
 }

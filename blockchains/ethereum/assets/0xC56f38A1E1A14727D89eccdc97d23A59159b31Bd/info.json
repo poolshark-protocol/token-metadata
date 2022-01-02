@@ -4,7 +4,8 @@
     "id": "0xC56f38A1E1A14727D89eccdc97d23A59159b31Bd",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/beavis-and-butthead",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 984.7,
+    "24_hr_volume_usd": 1071.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC56f38A1E1A14727D89eccdc97d23A59159b31Bd/logo.png"
 }

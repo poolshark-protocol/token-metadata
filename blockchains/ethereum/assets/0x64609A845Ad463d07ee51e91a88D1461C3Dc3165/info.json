@@ -4,7 +4,8 @@
     "id": "0x64609A845Ad463d07ee51e91a88D1461C3Dc3165",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/ridge",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 128688,
+    "24_hr_volume_usd": 75049,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x64609A845Ad463d07ee51e91a88D1461C3Dc3165/logo.png"
 }

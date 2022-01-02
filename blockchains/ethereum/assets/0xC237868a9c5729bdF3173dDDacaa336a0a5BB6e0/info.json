@@ -4,7 +4,8 @@
     "id": "0xC237868a9c5729bdF3173dDDacaa336a0a5BB6e0",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/wagerr",
-    "market_cap_rank": 1277,
-    "24_hr_volume_usd": 2943.56,
+    "market_cap_usd": 9640820,
+    "market_cap_rank": 1278,
+    "24_hr_volume_usd": 2308.69,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC237868a9c5729bdF3173dDDacaa336a0a5BB6e0/logo.png"
 }

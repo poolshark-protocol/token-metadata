@@ -4,7 +4,8 @@
     "id": "0x72De803b67B6AB05B61EFab2Efdcd414D16eBF6D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ledgerscore",
-    "market_cap_rank": 2142,
-    "24_hr_volume_usd": 708.26,
+    "market_cap_usd": 1727177,
+    "market_cap_rank": 2078,
+    "24_hr_volume_usd": 11416.15,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72De803b67B6AB05B61EFab2Efdcd414D16eBF6D/logo.png"
 }

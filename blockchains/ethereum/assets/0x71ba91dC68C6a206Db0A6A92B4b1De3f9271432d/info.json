@@ -4,7 +4,8 @@
     "id": "0x71ba91dC68C6a206Db0A6A92B4b1De3f9271432d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mobiecoin",
-    "market_cap_rank": 894,
-    "24_hr_volume_usd": 528203,
+    "market_cap_usd": 24414483,
+    "market_cap_rank": 892,
+    "24_hr_volume_usd": 189203,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x71ba91dC68C6a206Db0A6A92B4b1De3f9271432d/logo.png"
 }

@@ -4,6 +4,7 @@
     "id": "0x650F44eD6F1FE0E1417cb4b3115d52494B4D9b6D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/meowshi",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x650F44eD6F1FE0E1417cb4b3115d52494B4D9b6D/logo.png"

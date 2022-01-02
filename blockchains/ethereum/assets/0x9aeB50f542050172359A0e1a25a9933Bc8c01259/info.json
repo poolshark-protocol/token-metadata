@@ -4,7 +4,8 @@
     "id": "0x9aeB50f542050172359A0e1a25a9933Bc8c01259",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/oin-finance",
-    "market_cap_rank": 1660,
-    "24_hr_volume_usd": 163446,
+    "market_cap_usd": 3658245,
+    "market_cap_rank": 1723,
+    "24_hr_volume_usd": 308698,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9aeB50f542050172359A0e1a25a9933Bc8c01259/logo.png"
 }

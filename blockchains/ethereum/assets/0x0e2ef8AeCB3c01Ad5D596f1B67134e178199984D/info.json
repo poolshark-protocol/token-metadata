@@ -4,8 +4,9 @@
     "id": "0x0e2ef8AeCB3c01Ad5D596f1B67134e178199984D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/new-landbox",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 49003,
+    "24_hr_volume_usd": 52715,
     "public_notice": "Token contract migrated from wallet address (0xc8001e5fe8188a7dbd8af5d91f172dc11ced22b5) to current address. ",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0e2ef8AeCB3c01Ad5D596f1B67134e178199984D/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xb0E99627bC29adEf1178f16117BF495351E81997",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dex-trade-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 17.75,
+    "24_hr_volume_usd": 0.062296,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb0E99627bC29adEf1178f16117BF495351E81997/logo.png"
 }

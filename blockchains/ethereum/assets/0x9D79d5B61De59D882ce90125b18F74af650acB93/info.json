@@ -4,7 +4,8 @@
     "id": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/neutrino-system-base-token",
-    "market_cap_rank": 750,
-    "24_hr_volume_usd": 30348,
+    "market_cap_usd": 38172839,
+    "market_cap_rank": 754,
+    "24_hr_volume_usd": 46900,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9D79d5B61De59D882ce90125b18F74af650acB93/logo.png"
 }

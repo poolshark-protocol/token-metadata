@@ -4,7 +4,8 @@
     "id": "0x03042482d64577A7bdb282260e2eA4c8a89C064B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/centaur",
-    "market_cap_rank": 1973,
-    "24_hr_volume_usd": 67612,
+    "market_cap_usd": 2232145,
+    "market_cap_rank": 1948,
+    "24_hr_volume_usd": 90585,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x03042482d64577A7bdb282260e2eA4c8a89C064B/logo.png"
 }

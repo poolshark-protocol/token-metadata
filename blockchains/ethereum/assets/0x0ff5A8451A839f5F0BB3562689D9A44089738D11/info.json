@@ -4,7 +4,8 @@
     "id": "0x0ff5A8451A839f5F0BB3562689D9A44089738D11",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dopex-rebate-token",
-    "market_cap_rank": 700,
-    "24_hr_volume_usd": 10975556,
+    "market_cap_usd": 49534682,
+    "market_cap_rank": 668,
+    "24_hr_volume_usd": 2540924,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0ff5A8451A839f5F0BB3562689D9A44089738D11/logo.png"
 }

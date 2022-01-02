@@ -4,7 +4,8 @@
     "id": "0x584B44853680ee34a0F337B712a8f66d816dF151",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ai-doctor",
-    "market_cap_rank": 3279,
-    "24_hr_volume_usd": 7375.68,
+    "market_cap_usd": 48961,
+    "market_cap_rank": 3285,
+    "24_hr_volume_usd": 1499.85,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x584B44853680ee34a0F337B712a8f66d816dF151/logo.png"
 }

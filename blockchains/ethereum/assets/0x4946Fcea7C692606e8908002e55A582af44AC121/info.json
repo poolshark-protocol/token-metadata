@@ -4,7 +4,8 @@
     "id": "0x4946Fcea7C692606e8908002e55A582af44AC121",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/foam-protocol",
-    "market_cap_rank": 993,
-    "24_hr_volume_usd": 50045,
+    "market_cap_usd": 18124012,
+    "market_cap_rank": 1009,
+    "24_hr_volume_usd": 12415.12,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4946Fcea7C692606e8908002e55A582af44AC121/logo.png"
 }

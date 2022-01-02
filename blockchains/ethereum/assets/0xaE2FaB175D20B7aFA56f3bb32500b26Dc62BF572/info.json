@@ -4,6 +4,7 @@
     "id": "0xaE2FaB175D20B7aFA56f3bb32500b26Dc62BF572",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tripedia",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 41.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaE2FaB175D20B7aFA56f3bb32500b26Dc62BF572/logo.png"

@@ -4,7 +4,8 @@
     "id": "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/edgeless",
-    "market_cap_rank": 1678,
-    "24_hr_volume_usd": 460.89,
+    "market_cap_usd": 3940763,
+    "market_cap_rank": 1680,
+    "24_hr_volume_usd": 79.24,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c/logo.png"
 }

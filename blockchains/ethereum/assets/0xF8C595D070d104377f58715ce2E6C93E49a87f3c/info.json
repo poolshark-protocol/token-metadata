@@ -4,7 +4,8 @@
     "id": "0xF8C595D070d104377f58715ce2E6C93E49a87f3c",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/dacc",
-    "market_cap_rank": 2844,
-    "24_hr_volume_usd": 536.18,
+    "market_cap_usd": 254205,
+    "market_cap_rank": 2916,
+    "24_hr_volume_usd": 705.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF8C595D070d104377f58715ce2E6C93E49a87f3c/logo.png"
 }

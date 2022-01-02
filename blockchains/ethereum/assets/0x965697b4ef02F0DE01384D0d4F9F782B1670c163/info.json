@@ -4,7 +4,8 @@
     "id": "0x965697b4ef02F0DE01384D0d4F9F782B1670c163",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/oxygen",
-    "market_cap_rank": 348,
-    "24_hr_volume_usd": 359142,
+    "market_cap_usd": 166528755,
+    "market_cap_rank": 361,
+    "24_hr_volume_usd": 923198,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x965697b4ef02F0DE01384D0d4F9F782B1670c163/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xe516D78d784C77D479977BE58905B3f2b1111126",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitspawn",
-    "market_cap_rank": 1792,
-    "24_hr_volume_usd": 259881,
+    "market_cap_usd": 3021924,
+    "market_cap_rank": 1807,
+    "24_hr_volume_usd": 90647,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe516D78d784C77D479977BE58905B3f2b1111126/logo.png"
 }

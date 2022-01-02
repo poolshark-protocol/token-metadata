@@ -4,7 +4,8 @@
     "id": "0x1aABf9B575e4329b8C8F272428AD5E43ab4AeFC8",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/bugg-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 112.27,
+    "24_hr_volume_usd": 4457.74,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1aABf9B575e4329b8C8F272428AD5E43ab4AeFC8/logo.png"
 }

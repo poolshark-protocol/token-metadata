@@ -4,7 +4,8 @@
     "id": "0xB2dbF14D0b47ED3Ba02bDb7C954e05A72deB7544",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mobifi",
-    "market_cap_rank": 1756,
-    "24_hr_volume_usd": 102656,
+    "market_cap_usd": 3242451,
+    "market_cap_rank": 1781,
+    "24_hr_volume_usd": 12891.14,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB2dbF14D0b47ED3Ba02bDb7C954e05A72deB7544/logo.png"
 }

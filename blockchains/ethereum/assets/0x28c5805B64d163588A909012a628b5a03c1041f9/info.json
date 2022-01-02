@@ -4,7 +4,8 @@
     "id": "0x28c5805B64d163588A909012a628b5a03c1041f9",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/chopper-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 51803,
+    "24_hr_volume_usd": 72441,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x28c5805B64d163588A909012a628b5a03c1041f9/logo.png"
 }

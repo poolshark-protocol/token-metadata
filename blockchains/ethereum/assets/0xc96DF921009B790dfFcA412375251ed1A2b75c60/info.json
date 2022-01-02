@@ -4,7 +4,8 @@
     "id": "0xc96DF921009B790dfFcA412375251ed1A2b75c60",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/ormeuscoin",
-    "market_cap_rank": 3157,
-    "24_hr_volume_usd": 123930,
+    "market_cap_usd": 101956,
+    "market_cap_rank": 3159,
+    "24_hr_volume_usd": 116287,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc96DF921009B790dfFcA412375251ed1A2b75c60/logo.png"
 }

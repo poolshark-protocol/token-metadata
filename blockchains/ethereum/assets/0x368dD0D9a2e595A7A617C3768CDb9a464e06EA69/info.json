@@ -4,7 +4,8 @@
     "id": "0x368dD0D9a2e595A7A617C3768CDb9a464e06EA69",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/soliditylabs",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 23199,
+    "24_hr_volume_usd": 5931.36,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x368dD0D9a2e595A7A617C3768CDb9a464e06EA69/logo.png"
 }

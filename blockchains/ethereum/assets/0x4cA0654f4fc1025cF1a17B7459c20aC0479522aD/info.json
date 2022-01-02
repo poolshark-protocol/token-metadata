@@ -4,7 +4,8 @@
     "id": "0x4cA0654f4fc1025cF1a17B7459c20aC0479522aD",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rigel-finance",
-    "market_cap_rank": 3442,
-    "24_hr_volume_usd": 120.9,
+    "market_cap_usd": 12711.1,
+    "market_cap_rank": 3406,
+    "24_hr_volume_usd": 206.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4cA0654f4fc1025cF1a17B7459c20aC0479522aD/logo.png"
 }

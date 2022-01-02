@@ -4,7 +4,8 @@
     "id": "0xD533a949740bb3306d119CC777fa900bA034cd52",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/curve-dao-token",
-    "market_cap_rank": 72,
-    "24_hr_volume_usd": 791390139,
+    "market_cap_usd": 2439625793,
+    "market_cap_rank": 66,
+    "24_hr_volume_usd": 1026368435,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sipher",
+    "market_cap_usd": 46676356,
     "market_cap_rank": 686,
-    "24_hr_volume_usd": 1238601,
+    "24_hr_volume_usd": 686649,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9F52c8ecbEe10e00D9faaAc5Ee9Ba0fF6550F511/logo.png"
 }

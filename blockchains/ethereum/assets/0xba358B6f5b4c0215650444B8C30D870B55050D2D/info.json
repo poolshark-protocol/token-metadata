@@ -4,7 +4,8 @@
     "id": "0xba358B6f5b4c0215650444B8C30D870B55050D2D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hub-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 20.58,
+    "24_hr_volume_usd": 1823.85,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xba358B6f5b4c0215650444B8C30D870B55050D2D/logo.png"
 }

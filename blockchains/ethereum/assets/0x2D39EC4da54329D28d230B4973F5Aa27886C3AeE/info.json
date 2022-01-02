@@ -4,7 +4,8 @@
     "id": "0x2D39EC4da54329D28d230B4973F5Aa27886C3AeE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nfx-coin",
-    "market_cap_rank": 3132,
+    "market_cap_usd": 114742,
+    "market_cap_rank": 3133,
     "24_hr_volume_usd": 0.02393979,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2D39EC4da54329D28d230B4973F5Aa27886C3AeE/logo.png"
 }

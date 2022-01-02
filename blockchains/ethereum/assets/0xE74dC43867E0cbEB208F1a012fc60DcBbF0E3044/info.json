@@ -4,7 +4,8 @@
     "id": "0xE74dC43867E0cbEB208F1a012fc60DcBbF0E3044",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defire",
-    "market_cap_rank": 1987,
-    "24_hr_volume_usd": 6593.63,
+    "market_cap_usd": 2037253,
+    "market_cap_rank": 1986,
+    "24_hr_volume_usd": 346.97,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE74dC43867E0cbEB208F1a012fc60DcBbF0E3044/logo.png"
 }

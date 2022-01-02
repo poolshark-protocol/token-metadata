@@ -4,7 +4,8 @@
     "id": "0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/medicalchain",
-    "market_cap_rank": 2223,
-    "24_hr_volume_usd": 13732.68,
+    "market_cap_usd": 1169301,
+    "market_cap_rank": 2271,
+    "24_hr_volume_usd": 7547.07,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x41dBECc1cdC5517C6f76f6a6E836aDbEe2754DE3/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0x0Cc9FCCFF81252F4bd8C5c6b359B14ae2Ed851cf",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/innovativebioresearchclassic",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 135.46,
+    "24_hr_volume_usd": 38.59,
     "public_notice": "Contract address changed from 0x8cc3e2bdc17682c622eb789eda23fbd6988c84da to 0x0Cc9FCCFF81252F4bd8C5c6b359B14ae2Ed851cf",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0Cc9FCCFF81252F4bd8C5c6b359B14ae2Ed851cf/logo.png"
 }

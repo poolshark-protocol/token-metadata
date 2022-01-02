@@ -4,7 +4,8 @@
     "id": "0x20c36f062a31865bED8a5B1e512D9a1A20AA333A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defidollar-dao",
-    "market_cap_rank": 2292,
-    "24_hr_volume_usd": 34377,
+    "market_cap_usd": 1131832,
+    "market_cap_rank": 2294,
+    "24_hr_volume_usd": 24544,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x20c36f062a31865bED8a5B1e512D9a1A20AA333A/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xE9f3cB0229eb8D0aAF03Ec84883950134eD20DDC",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/slt",
-    "market_cap_rank": 3364,
+    "market_cap_usd": 23766,
+    "market_cap_rank": 3361,
     "24_hr_volume_usd": 0.982044,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE9f3cB0229eb8D0aAF03Ec84883950134eD20DDC/logo.png"
 }

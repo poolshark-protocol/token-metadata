@@ -4,6 +4,7 @@
     "id": "0x17cd80AA8F4Aed7C403e4c6b9c2Cd3fABEf09D99",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/meta-pets",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x17cd80AA8F4Aed7C403e4c6b9c2Cd3fABEf09D99/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fancy-games",
-    "market_cap_rank": 845,
-    "24_hr_volume_usd": 3225037,
+    "market_cap_usd": 27208226,
+    "market_cap_rank": 860,
+    "24_hr_volume_usd": 2424233,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7f280daC515121DcdA3EaC69eB4C13a52392CACE/logo.png"
 }

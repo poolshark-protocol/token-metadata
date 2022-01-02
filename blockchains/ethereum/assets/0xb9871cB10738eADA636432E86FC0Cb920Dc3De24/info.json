@@ -4,7 +4,8 @@
     "id": "0xb9871cB10738eADA636432E86FC0Cb920Dc3De24",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pria",
-    "market_cap_rank": 3231,
+    "market_cap_usd": 70551,
+    "market_cap_rank": 3228,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb9871cB10738eADA636432E86FC0Cb920Dc3De24/logo.png"
 }

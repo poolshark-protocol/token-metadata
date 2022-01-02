@@ -4,7 +4,8 @@
     "id": "0xDDF825aA40aba689E040fd9bE863573999314773",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/shitzu-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.0,
+    "24_hr_volume_usd": 53.18,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDDF825aA40aba689E040fd9bE863573999314773/logo.png"
 }

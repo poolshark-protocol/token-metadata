@@ -4,7 +4,8 @@
     "id": "0x5aa5bA99105469B10bd82cd22b3166c88d187e3b",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/frieza-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 514.47,
+    "24_hr_volume_usd": 267.16,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5aa5bA99105469B10bd82cd22b3166c88d187e3b/logo.png"
 }

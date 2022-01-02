@@ -4,7 +4,8 @@
     "id": "0x0924D87605e51764A4620B8C41712a29e9c234C9",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/lunafox",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 6455.47,
+    "24_hr_volume_usd": 501.05,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0924D87605e51764A4620B8C41712a29e9c234C9/logo.png"
 }

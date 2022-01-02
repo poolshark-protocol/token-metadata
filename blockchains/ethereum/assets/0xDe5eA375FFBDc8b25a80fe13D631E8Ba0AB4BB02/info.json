@@ -4,7 +4,8 @@
     "id": "0xDe5eA375FFBDc8b25a80fe13D631E8Ba0AB4BB02",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gera-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 11509098,
+    "24_hr_volume_usd": 13136493,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDe5eA375FFBDc8b25a80fe13D631E8Ba0AB4BB02/logo.png"
 }

@@ -4,6 +4,7 @@
     "id": "0x6523203BD28d399068AcC14Db6B7f31D9bF43f1a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/balloon-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 19.44,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6523203BD28d399068AcC14Db6B7f31D9bF43f1a/logo.png"

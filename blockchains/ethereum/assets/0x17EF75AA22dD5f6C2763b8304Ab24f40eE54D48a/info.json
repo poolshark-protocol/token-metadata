@@ -4,7 +4,8 @@
     "id": "0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/revolution-populi",
-    "market_cap_rank": 762,
-    "24_hr_volume_usd": 111743,
+    "market_cap_usd": 39403873,
+    "market_cap_rank": 744,
+    "24_hr_volume_usd": 75955,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a/logo.png"
 }

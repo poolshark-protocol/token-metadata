@@ -4,8 +4,9 @@
     "id": "0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/digitex-futures-exchange",
-    "market_cap_rank": 1878,
-    "24_hr_volume_usd": 363046,
+    "market_cap_usd": 2548121,
+    "market_cap_rank": 1889,
+    "24_hr_volume_usd": 355792,
     "public_notice": "Notice: Digitex Futures Exchange is currently holding a 1:1 token swap, with the new contract address being 0xc666081073e8dff8d3d1c2292a29ae1a2153ec09. For more info, read: https://digitexfutures.com/blog/12580-2/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc666081073E8DfF8D3d1c2292A29aE1A2153eC09/logo.png"
 }

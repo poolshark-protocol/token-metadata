@@ -4,7 +4,8 @@
     "id": "0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dexe",
-    "market_cap_rank": 709,
-    "24_hr_volume_usd": 1433836,
+    "market_cap_usd": 41424563,
+    "market_cap_rank": 719,
+    "24_hr_volume_usd": 2863727,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6/logo.png"
 }

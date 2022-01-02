@@ -4,7 +4,8 @@
     "id": "0xE1bAD922F84b198A08292FB600319300ae32471b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/firmachain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1182966,
+    "24_hr_volume_usd": 891988,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE1bAD922F84b198A08292FB600319300ae32471b/logo.png"
 }

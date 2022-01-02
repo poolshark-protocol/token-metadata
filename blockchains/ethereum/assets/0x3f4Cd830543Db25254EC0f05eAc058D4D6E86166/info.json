@@ -4,7 +4,8 @@
     "id": "0x3f4Cd830543Db25254EC0f05eAc058D4D6E86166",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/jindoge",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 20.65,
+    "24_hr_volume_usd": 197.96,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3f4Cd830543Db25254EC0f05eAc058D4D6E86166/logo.png"
 }

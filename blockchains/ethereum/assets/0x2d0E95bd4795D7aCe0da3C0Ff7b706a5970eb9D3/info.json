@@ -4,7 +4,8 @@
     "id": "0x2d0E95bd4795D7aCe0da3C0Ff7b706a5970eb9D3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/all-sports",
-    "market_cap_rank": 2061,
-    "24_hr_volume_usd": 100088,
+    "market_cap_usd": 1893397,
+    "market_cap_rank": 2029,
+    "24_hr_volume_usd": 30924,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2d0E95bd4795D7aCe0da3C0Ff7b706a5970eb9D3/logo.png"
 }

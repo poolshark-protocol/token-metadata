@@ -4,7 +4,8 @@
     "id": "0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/orsgroup-io",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 268.81,
+    "24_hr_volume_usd": 76.87,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA/logo.png"
 }

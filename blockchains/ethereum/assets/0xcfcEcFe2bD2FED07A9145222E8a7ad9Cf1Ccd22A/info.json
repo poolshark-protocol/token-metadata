@@ -4,8 +4,9 @@
     "id": "0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A",
     "decimals": 11,
     "coingecko_url": "https://www.coingecko.com/en/coins/adshares",
-    "market_cap_rank": 640,
-    "24_hr_volume_usd": 1545734,
+    "market_cap_usd": 55985582,
+    "market_cap_rank": 630,
+    "24_hr_volume_usd": 497713,
     "public_notice": "11th Feb 2019 - Updated from ADST to ADS Coin (New chain) under the request of the team.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcfcEcFe2bD2FED07A9145222E8a7ad9Cf1Ccd22A/logo.png"
 }

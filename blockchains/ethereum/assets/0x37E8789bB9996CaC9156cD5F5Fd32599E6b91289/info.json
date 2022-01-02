@@ -4,7 +4,8 @@
     "id": "0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aidcoin",
-    "market_cap_rank": 2392,
-    "24_hr_volume_usd": 0.071666,
+    "market_cap_usd": 650634,
+    "market_cap_rank": 2557,
+    "24_hr_volume_usd": 1.26,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37E8789bB9996CaC9156cD5F5Fd32599E6b91289/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x9Ea1Ae46C15a4164B74463Bc26f8aA3b0EeA2e6E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mu-dank",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 41.09,
+    "24_hr_volume_usd": 11.62,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9Ea1Ae46C15a4164B74463Bc26f8aA3b0EeA2e6E/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x7659CE147D0e714454073a5dd7003544234b6Aa0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/xcad-network",
-    "market_cap_rank": 425,
-    "24_hr_volume_usd": 7334702,
+    "market_cap_usd": 133202634,
+    "market_cap_rank": 411,
+    "24_hr_volume_usd": 6356865,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7659CE147D0e714454073a5dd7003544234b6Aa0/logo.png"
 }

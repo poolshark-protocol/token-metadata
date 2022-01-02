@@ -4,7 +4,8 @@
     "id": "0x45F2aB0ca2116b2e1a70BF5e13293947b25d0272",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/global-reserve-system",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1100.43,
+    "24_hr_volume_usd": 1033.05,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x45F2aB0ca2116b2e1a70BF5e13293947b25d0272/logo.png"
 }

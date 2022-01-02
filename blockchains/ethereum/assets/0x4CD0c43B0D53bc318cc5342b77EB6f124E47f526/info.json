@@ -4,7 +4,8 @@
     "id": "0x4CD0c43B0D53bc318cc5342b77EB6f124E47f526",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/freerossdao",
-    "market_cap_rank": 877,
-    "24_hr_volume_usd": 1269387,
+    "market_cap_usd": 24535361,
+    "market_cap_rank": 892,
+    "24_hr_volume_usd": 620225,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4CD0c43B0D53bc318cc5342b77EB6f124E47f526/logo.png"
 }

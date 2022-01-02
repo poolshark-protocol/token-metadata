@@ -4,7 +4,8 @@
     "id": "0xAFbF03181833aB4E8DEc24D708a2a24c2bAaa4a4",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/mandox",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 148811,
+    "24_hr_volume_usd": 28713,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAFbF03181833aB4E8DEc24D708a2a24c2bAaa4a4/logo.png"
 }

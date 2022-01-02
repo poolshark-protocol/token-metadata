@@ -4,7 +4,8 @@
     "id": "0x9469D013805bFfB7D3DEBe5E7839237e535ec483",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/darwinia-network-native-token",
-    "market_cap_rank": 944,
-    "24_hr_volume_usd": 280001,
+    "market_cap_usd": 21624032,
+    "market_cap_rank": 941,
+    "24_hr_volume_usd": 265525,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9469D013805bFfB7D3DEBe5E7839237e535ec483/logo.png"
 }

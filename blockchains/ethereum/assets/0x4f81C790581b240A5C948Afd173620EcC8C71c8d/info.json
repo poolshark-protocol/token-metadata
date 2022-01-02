@@ -4,7 +4,8 @@
     "id": "0x4f81C790581b240A5C948Afd173620EcC8C71c8d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/decentral-games-governance",
-    "market_cap_rank": 494,
-    "24_hr_volume_usd": 90420,
+    "market_cap_usd": 94204630,
+    "market_cap_rank": 490,
+    "24_hr_volume_usd": 36431,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4f81C790581b240A5C948Afd173620EcC8C71c8d/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0x6A7Ef4998eB9d0f706238756949F311a59E05745",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/keysians-network",
-    "market_cap_rank": 2822,
-    "24_hr_volume_usd": 32460,
+    "market_cap_usd": 330695,
+    "market_cap_rank": 2823,
+    "24_hr_volume_usd": 26686,
     "public_notice": "Notice: Kindly be aware that liquidity provided in Uniswap can be removed by providers at any moment (see rug pulling) and may result in a collapse in available liquidity. Please exercise caution when trading!",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6A7Ef4998eB9d0f706238756949F311a59E05745/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dola-usd",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 140066,
+    "24_hr_volume_usd": 155016,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x865377367054516e17014CcdED1e7d814EDC9ce4/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x79126d32a86e6663F3aAac4527732d0701c1AE6c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dark-matter",
-    "market_cap_rank": 2715,
-    "24_hr_volume_usd": 5651.26,
+    "market_cap_usd": 425926,
+    "market_cap_rank": 2727,
+    "24_hr_volume_usd": 5716.66,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x79126d32a86e6663F3aAac4527732d0701c1AE6c/logo.png"
 }

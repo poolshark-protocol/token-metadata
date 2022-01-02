@@ -4,7 +4,8 @@
     "id": "0x236d53148F83706C3d670064809577385f923a75",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/siberian-husky",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 713.91,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x236d53148F83706C3d670064809577385f923a75/logo.png"
 }

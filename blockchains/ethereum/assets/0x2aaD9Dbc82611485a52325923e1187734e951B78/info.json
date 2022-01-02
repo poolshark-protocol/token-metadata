@@ -4,7 +4,8 @@
     "id": "0x2aaD9Dbc82611485a52325923e1187734e951B78",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/bytz",
-    "market_cap_rank": 543,
-    "24_hr_volume_usd": 130394,
+    "market_cap_usd": 77475598,
+    "market_cap_rank": 545,
+    "24_hr_volume_usd": 83641,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2aaD9Dbc82611485a52325923e1187734e951B78/logo.png"
 }

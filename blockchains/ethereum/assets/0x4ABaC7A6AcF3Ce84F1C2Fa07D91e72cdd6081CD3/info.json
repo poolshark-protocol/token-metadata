@@ -4,7 +4,8 @@
     "id": "0x4ABaC7A6AcF3Ce84F1C2Fa07D91e72cdd6081CD3",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/akamaru-inu",
-    "market_cap_rank": 3108,
-    "24_hr_volume_usd": 11985.89,
+    "market_cap_usd": 119393,
+    "market_cap_rank": 3122,
+    "24_hr_volume_usd": 11470.92,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4ABaC7A6AcF3Ce84F1C2Fa07D91e72cdd6081CD3/logo.png"
 }

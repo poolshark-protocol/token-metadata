@@ -4,7 +4,8 @@
     "id": "0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/oddz",
-    "market_cap_rank": 1302,
-    "24_hr_volume_usd": 161566,
+    "market_cap_usd": 8881691,
+    "market_cap_rank": 1316,
+    "24_hr_volume_usd": 609670,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6/logo.png"
 }

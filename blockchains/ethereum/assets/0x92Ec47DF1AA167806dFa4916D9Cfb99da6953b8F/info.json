@@ -4,8 +4,9 @@
     "id": "0x92Ec47DF1AA167806dFa4916D9Cfb99da6953b8F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/idavoll-network",
-    "market_cap_rank": 1192,
-    "24_hr_volume_usd": 22596,
+    "market_cap_usd": 11261840,
+    "market_cap_rank": 1221,
+    "24_hr_volume_usd": 18746.12,
     "public_notice": "Idavoll Network has rebranded to Idavoll DAO. ",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92Ec47DF1AA167806dFa4916D9Cfb99da6953b8F/logo.png"
 }

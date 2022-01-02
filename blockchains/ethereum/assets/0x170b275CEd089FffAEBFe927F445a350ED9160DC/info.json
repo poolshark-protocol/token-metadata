@@ -4,7 +4,8 @@
     "id": "0x170b275CEd089FffAEBFe927F445a350ED9160DC",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/owndata",
-    "market_cap_rank": 2641,
-    "24_hr_volume_usd": 1.04,
+    "market_cap_usd": 1068195,
+    "market_cap_rank": 2326,
+    "24_hr_volume_usd": 0.154474,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x170b275CEd089FffAEBFe927F445a350ED9160DC/logo.png"
 }

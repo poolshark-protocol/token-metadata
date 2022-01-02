@@ -4,6 +4,7 @@
     "id": "0x43D4A3cd90ddD2F8f4f693170C9c8098163502ad",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/prime",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 19975.77,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x43D4A3cd90ddD2F8f4f693170C9c8098163502ad/logo.png"

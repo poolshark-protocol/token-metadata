@@ -4,7 +4,8 @@
     "id": "0xEE1CeA7665bA7aa97e982EdeaeCb26B59a04d035",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/orao-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 59121,
+    "24_hr_volume_usd": 36555,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEE1CeA7665bA7aa97e982EdeaeCb26B59a04d035/logo.png"
 }

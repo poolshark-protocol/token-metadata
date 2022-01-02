@@ -4,7 +4,8 @@
     "id": "0xaAD483F97f13C6A20B9D05d07c397CE85c42C393",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/woonkly-power",
-    "market_cap_rank": 424,
-    "24_hr_volume_usd": 5818342,
+    "market_cap_usd": 120330959,
+    "market_cap_rank": 433,
+    "24_hr_volume_usd": 6362260,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaAD483F97f13C6A20B9D05d07c397CE85c42C393/logo.png"
 }

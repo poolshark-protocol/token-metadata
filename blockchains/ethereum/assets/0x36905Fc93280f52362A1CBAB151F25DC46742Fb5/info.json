@@ -4,7 +4,8 @@
     "id": "0x36905Fc93280f52362A1CBAB151F25DC46742Fb5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bottos",
-    "market_cap_rank": 2517,
-    "24_hr_volume_usd": 6122.35,
+    "market_cap_usd": 685227,
+    "market_cap_rank": 2535,
+    "24_hr_volume_usd": 3550.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x36905Fc93280f52362A1CBAB151F25DC46742Fb5/logo.png"
 }

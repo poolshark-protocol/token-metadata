@@ -4,7 +4,8 @@
     "id": "0xc133529e57681b2999708F9458Be5634e293995E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethernaal",
-    "market_cap_rank": 2551,
-    "24_hr_volume_usd": 3257.52,
+    "market_cap_usd": 658256,
+    "market_cap_rank": 2553,
+    "24_hr_volume_usd": 758.16,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc133529e57681b2999708F9458Be5634e293995E/logo.png"
 }

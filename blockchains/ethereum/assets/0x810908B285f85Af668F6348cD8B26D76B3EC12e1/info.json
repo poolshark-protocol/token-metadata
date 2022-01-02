@@ -4,6 +4,7 @@
     "id": "0x810908B285f85Af668F6348cD8B26D76B3EC12e1",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/swapcoinz",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 6.0,
     "public_notice": "Contract address has been changed from 0x8f9bfe5b6a5c3fea8c64ad41a5cf6f60ec4aa47c to 0x810908b285f85af668f6348cd8b26d76b3ec12e1",

@@ -4,6 +4,7 @@
     "id": "0xf3AFDC2525568Ffe743801C8C54bdeA1704c9adb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/turtle",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 488.2,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf3AFDC2525568Ffe743801C8C54bdeA1704c9adb/logo.png"

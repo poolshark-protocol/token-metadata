@@ -4,8 +4,9 @@
     "id": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/sentinel-group",
-    "market_cap_rank": 1430,
-    "24_hr_volume_usd": 135.77,
+    "market_cap_usd": 9465312,
+    "market_cap_rank": 1285,
+    "24_hr_volume_usd": 363.12,
     "public_notice": "Notice: Rebranding from $SENT to $DVPN. Read more at https://medium.com/sentinel/sentinel-a-rebrand-on-c%C3%B8smos-fe996a330668",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037/logo.png"
 }

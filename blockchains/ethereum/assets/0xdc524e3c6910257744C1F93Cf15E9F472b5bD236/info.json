@@ -4,7 +4,8 @@
     "id": "0xdc524e3c6910257744C1F93Cf15E9F472b5bD236",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/witch-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2740.02,
+    "24_hr_volume_usd": 43823,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdc524e3c6910257744C1F93Cf15E9F472b5bD236/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0x171D750d42d661B62C277a6B486ADb82348c3Eca",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/omnitude",
-    "market_cap_rank": 2763,
-    "24_hr_volume_usd": 207532,
+    "market_cap_usd": 373883,
+    "market_cap_rank": 2772,
+    "24_hr_volume_usd": 127208,
     "public_notice": "Omnitude has ceased operations until further funding can be obtained, for more information refer to https://t.me/omnitude/127",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x171D750d42d661B62C277a6B486ADb82348c3Eca/logo.png"
 }

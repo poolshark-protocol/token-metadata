@@ -4,7 +4,8 @@
     "id": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rai",
-    "market_cap_rank": 504,
-    "24_hr_volume_usd": 17755696,
+    "market_cap_usd": 86601288,
+    "market_cap_rank": 512,
+    "24_hr_volume_usd": 21999836,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919/logo.png"
 }

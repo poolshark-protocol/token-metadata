@@ -4,7 +4,8 @@
     "id": "0x4a9d711100afF9A444a3c40284F70269Bb3f0487",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/chellitcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 990434,
+    "24_hr_volume_usd": 855743,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4a9d711100afF9A444a3c40284F70269Bb3f0487/logo.png"
 }

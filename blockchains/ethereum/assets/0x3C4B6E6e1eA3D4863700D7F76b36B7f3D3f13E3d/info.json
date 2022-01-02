@@ -4,8 +4,9 @@
     "id": "0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethos",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 8239824,
+    "24_hr_volume_usd": 6225039,
     "public_notice": "Ethos has been rebranded to Voyager. VGX has recently migrated from their <a href=\"https://etherscan.io/token/0x5af2be193a6abca9c8817001f45744777db30756\">old contract</a> to a <a href=\"https://etherscan.io/token/0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d\">new one</a>. For more information, visit https://www.investvoyager.com/blog/official-token-swap-timeline-and-summary/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3C4B6E6e1eA3D4863700D7F76b36B7f3D3f13E3d/logo.png"
 }

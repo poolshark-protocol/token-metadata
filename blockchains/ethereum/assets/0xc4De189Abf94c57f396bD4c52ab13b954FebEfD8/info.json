@@ -4,7 +4,8 @@
     "id": "0xc4De189Abf94c57f396bD4c52ab13b954FebEfD8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/b20",
-    "market_cap_rank": 1902,
-    "24_hr_volume_usd": 49386,
+    "market_cap_usd": 2976187,
+    "market_cap_rank": 1818,
+    "24_hr_volume_usd": 42023,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc4De189Abf94c57f396bD4c52ab13b954FebEfD8/logo.png"
 }

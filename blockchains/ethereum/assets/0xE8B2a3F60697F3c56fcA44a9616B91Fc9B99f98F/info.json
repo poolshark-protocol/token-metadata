@@ -4,6 +4,7 @@
     "id": "0xE8B2a3F60697F3c56fcA44a9616B91Fc9B99f98F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/farswap",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 2.59,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE8B2a3F60697F3c56fcA44a9616B91Fc9B99f98F/logo.png"

@@ -4,7 +4,8 @@
     "id": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/keep3rv1",
-    "market_cap_rank": 263,
-    "24_hr_volume_usd": 113228151,
+    "market_cap_usd": 394985559,
+    "market_cap_rank": 208,
+    "24_hr_volume_usd": 197226347,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44/logo.png"
 }

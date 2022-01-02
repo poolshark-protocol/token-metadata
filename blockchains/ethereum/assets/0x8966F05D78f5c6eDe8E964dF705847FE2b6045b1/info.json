@@ -4,7 +4,8 @@
     "id": "0x8966F05D78f5c6eDe8E964dF705847FE2b6045b1",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/yeager-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 61449,
+    "24_hr_volume_usd": 115496,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8966F05D78f5c6eDe8E964dF705847FE2b6045b1/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0x25e4579f028E2629ED15C70a378D82209CfB5E7d",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/dds-store",
-    "market_cap_rank": 2436,
-    "24_hr_volume_usd": 0.0,
+    "market_cap_usd": 818255,
+    "market_cap_rank": 2457,
+    "24_hr_volume_usd": 365.3,
     "public_notice": "DDS has recently migrated from their <a href=\"https://etherscan.io/token/0xf9fbaefde7112f78fa9bfe813341f0f49f888cb3\">old contract</a> to a <a href=\"https://etherscan.io/token/0x25e4579f028e2629ed15c70a378d82209cfb5e7d\">new one</a>. For more information, visit their official Twitter page.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x25e4579f028E2629ED15C70a378D82209CfB5E7d/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xbA7970f10D9f0531941DcEd1dda7ef3016B24e5b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/based-gold",
-    "market_cap_rank": 3328,
-    "24_hr_volume_usd": 36.29,
+    "market_cap_usd": 65925,
+    "market_cap_rank": 3241,
+    "24_hr_volume_usd": 1624.86,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbA7970f10D9f0531941DcEd1dda7ef3016B24e5b/logo.png"
 }

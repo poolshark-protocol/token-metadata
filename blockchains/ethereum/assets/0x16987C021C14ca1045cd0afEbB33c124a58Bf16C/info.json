@@ -4,7 +4,8 @@
     "id": "0x16987C021C14ca1045cd0afEbB33c124a58Bf16C",
     "decimals": 2,
     "coingecko_url": "https://www.coingecko.com/en/coins/voyager",
-    "market_cap_rank": 3328,
+    "market_cap_usd": 34304,
+    "market_cap_rank": 3325,
     "24_hr_volume_usd": 0.01350327,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x16987C021C14ca1045cd0afEbB33c124a58Bf16C/logo.png"
 }

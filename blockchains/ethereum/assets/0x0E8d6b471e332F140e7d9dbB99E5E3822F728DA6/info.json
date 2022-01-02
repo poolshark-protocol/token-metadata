@@ -4,7 +4,8 @@
     "id": "0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/the-abyss",
-    "market_cap_rank": 1196,
-    "24_hr_volume_usd": 2028516,
+    "market_cap_usd": 10432632,
+    "market_cap_rank": 1251,
+    "24_hr_volume_usd": 746292,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6/logo.png"
 }

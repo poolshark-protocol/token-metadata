@@ -4,7 +4,8 @@
     "id": "0xA130E3a33a4d84b04c3918c4E5762223Ae252F80",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/swash",
-    "market_cap_rank": 1195,
-    "24_hr_volume_usd": 444830,
+    "market_cap_usd": 11837661,
+    "market_cap_rank": 1191,
+    "24_hr_volume_usd": 295307,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA130E3a33a4d84b04c3918c4E5762223Ae252F80/logo.png"
 }

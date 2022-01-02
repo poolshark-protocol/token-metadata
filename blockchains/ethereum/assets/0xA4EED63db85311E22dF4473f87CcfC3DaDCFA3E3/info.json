@@ -4,7 +4,8 @@
     "id": "0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rubic",
-    "market_cap_rank": 849,
-    "24_hr_volume_usd": 780463,
+    "market_cap_usd": 28874212,
+    "market_cap_rank": 834,
+    "24_hr_volume_usd": 818346,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA4EED63db85311E22dF4473f87CcfC3DaDCFA3E3/logo.png"
 }

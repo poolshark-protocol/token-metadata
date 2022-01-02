@@ -4,8 +4,9 @@
     "id": "0x6F3009663470475F0749A6b76195375f95495fcB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hatch-dao",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 77.05,
+    "24_hr_volume_usd": 18.96,
     "public_notice": "Notice: We've received allegations that the team has abandoned the project. Please proceed with caution.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6F3009663470475F0749A6b76195375f95495fcB/logo.png"
 }

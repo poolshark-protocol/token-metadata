@@ -4,7 +4,8 @@
     "id": "0x5b11aAcB6Bddb9ffab908FDCE739Bf4aed554327",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/truedeck",
-    "market_cap_rank": 2975,
-    "24_hr_volume_usd": 26513,
+    "market_cap_usd": 174057,
+    "market_cap_rank": 3023,
+    "24_hr_volume_usd": 28433,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5b11aAcB6Bddb9ffab908FDCE739Bf4aed554327/logo.png"
 }

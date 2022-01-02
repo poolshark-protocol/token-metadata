@@ -4,7 +4,8 @@
     "id": "0xeDEec5691f23E4914cF0183A4196bBEb30d027a0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-statera",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.115669,
+    "24_hr_volume_usd": 467.6,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeDEec5691f23E4914cF0183A4196bBEb30d027a0/logo.png"
 }

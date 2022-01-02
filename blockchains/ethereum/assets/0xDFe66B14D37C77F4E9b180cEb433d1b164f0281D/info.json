@@ -4,7 +4,8 @@
     "id": "0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stakehound-staked-ether",
-    "market_cap_rank": 2243,
+    "market_cap_usd": 1228326,
+    "market_cap_rank": 2248,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D/logo.png"
 }

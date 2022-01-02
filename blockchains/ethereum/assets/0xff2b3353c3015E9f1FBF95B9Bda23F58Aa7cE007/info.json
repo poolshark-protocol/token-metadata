@@ -4,7 +4,8 @@
     "id": "0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitscreener",
-    "market_cap_rank": 2041,
-    "24_hr_volume_usd": 2661.91,
+    "market_cap_usd": 1779816,
+    "market_cap_rank": 2057,
+    "24_hr_volume_usd": 2145.18,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xff2b3353c3015E9f1FBF95B9Bda23F58Aa7cE007/logo.png"
 }

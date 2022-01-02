@@ -4,7 +4,8 @@
     "id": "0xc40F23A3E9613E012944f7957edCe97899Fa920d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dhealth",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12570.76,
+    "24_hr_volume_usd": 16549.24,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc40F23A3E9613E012944f7957edCe97899Fa920d/logo.png"
 }

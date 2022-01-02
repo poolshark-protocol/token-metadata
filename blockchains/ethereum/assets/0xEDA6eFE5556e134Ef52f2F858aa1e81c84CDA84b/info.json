@@ -4,7 +4,8 @@
     "id": "0xEDA6eFE5556e134Ef52f2F858aa1e81c84CDA84b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/capital-finance",
-    "market_cap_rank": 3351,
+    "market_cap_usd": 29203,
+    "market_cap_rank": 3345,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEDA6eFE5556e134Ef52f2F858aa1e81c84CDA84b/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x6425c6BE902d692AE2db752B3c268AFAdb099D3b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/restart-energy",
-    "market_cap_rank": 1717,
+    "market_cap_usd": 3570500,
+    "market_cap_rank": 1735,
     "24_hr_volume_usd": 73396,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6425c6BE902d692AE2db752B3c268AFAdb099D3b/logo.png"
 }

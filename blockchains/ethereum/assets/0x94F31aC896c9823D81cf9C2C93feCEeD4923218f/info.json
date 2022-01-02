@@ -4,7 +4,8 @@
     "id": "0x94F31aC896c9823D81cf9C2C93feCEeD4923218f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yftether",
-    "market_cap_rank": 3020,
-    "24_hr_volume_usd": 5883.29,
+    "market_cap_usd": 172469,
+    "market_cap_rank": 3026,
+    "24_hr_volume_usd": 5556.51,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x94F31aC896c9823D81cf9C2C93feCEeD4923218f/logo.png"
 }

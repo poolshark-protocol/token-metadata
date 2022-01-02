@@ -4,7 +4,8 @@
     "id": "0x382f0160c24f5c515A19f155BAc14d479433A407",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/kleekai",
-    "market_cap_rank": 1089,
-    "24_hr_volume_usd": 429415,
+    "market_cap_usd": 14773116,
+    "market_cap_rank": 1087,
+    "24_hr_volume_usd": 164144,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x382f0160c24f5c515A19f155BAc14d479433A407/logo.png"
 }

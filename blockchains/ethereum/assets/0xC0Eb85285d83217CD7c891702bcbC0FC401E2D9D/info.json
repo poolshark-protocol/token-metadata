@@ -4,7 +4,8 @@
     "id": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/hiveterminal",
-    "market_cap_rank": 1538,
-    "24_hr_volume_usd": 52706,
+    "market_cap_usd": 5961940,
+    "market_cap_rank": 1493,
+    "24_hr_volume_usd": 119429,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D/logo.png"
 }

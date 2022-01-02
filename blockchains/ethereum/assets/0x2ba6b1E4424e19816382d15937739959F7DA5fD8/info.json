@@ -4,7 +4,8 @@
     "id": "0x2ba6b1E4424e19816382d15937739959F7DA5fD8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mex",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2187.13,
+    "24_hr_volume_usd": 1388.17,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2ba6b1E4424e19816382d15937739959F7DA5fD8/logo.png"
 }

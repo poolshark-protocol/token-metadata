@@ -4,7 +4,8 @@
     "id": "0x00AbA6fE5557De1a1d565658cBDdddf7C710a1eb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/easyfi",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 539089,
+    "24_hr_volume_usd": 420834,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x00AbA6fE5557De1a1d565658cBDdddf7C710a1eb/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x05EDFfBda103d90d5040829A105f687443e0CA3e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/woyager",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.00129537,
+    "24_hr_volume_usd": 0.00611973,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x05EDFfBda103d90d5040829A105f687443e0CA3e/logo.png"
 }

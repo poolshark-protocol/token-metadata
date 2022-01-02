@@ -4,7 +4,8 @@
     "id": "0x0bC61DdED5F6710c637cf8288Eb6058766ce1921",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coinsuper-ecosystem-network",
-    "market_cap_rank": 3229,
-    "24_hr_volume_usd": 14.43,
+    "market_cap_usd": 49517,
+    "market_cap_rank": 3282,
+    "24_hr_volume_usd": 10.01,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0bC61DdED5F6710c637cf8288Eb6058766ce1921/logo.png"
 }

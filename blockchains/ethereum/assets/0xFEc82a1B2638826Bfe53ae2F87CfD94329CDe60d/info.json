@@ -4,6 +4,7 @@
     "id": "0xFEc82a1B2638826Bfe53ae2F87CfD94329CDe60d",
     "decimals": 2,
     "coingecko_url": "https://www.coingecko.com/en/coins/adana-demirspor",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFEc82a1B2638826Bfe53ae2F87CfD94329CDe60d/logo.png"
 }

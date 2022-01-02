@@ -4,6 +4,7 @@
     "id": "0xf6Fd82dEdBBe0ffadb5e1ecc2a283AB52B9ED2B0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/etheal",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.03318603,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf6Fd82dEdBBe0ffadb5e1ecc2a283AB52B9ED2B0/logo.png"

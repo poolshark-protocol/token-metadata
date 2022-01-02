@@ -4,7 +4,8 @@
     "id": "0xd1b624f07a4D9B3e3746E33cb58f42dF079b5444",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nkcl-classic",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 34871,
+    "24_hr_volume_usd": 35586,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd1b624f07a4D9B3e3746E33cb58f42dF079b5444/logo.png"
 }

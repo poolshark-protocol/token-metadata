@@ -4,7 +4,8 @@
     "id": "0x8888889213DD4dA823EbDD1e235b09590633C150",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/marblecoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 325.62,
+    "24_hr_volume_usd": 49.24,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8888889213DD4dA823EbDD1e235b09590633C150/logo.png"
 }

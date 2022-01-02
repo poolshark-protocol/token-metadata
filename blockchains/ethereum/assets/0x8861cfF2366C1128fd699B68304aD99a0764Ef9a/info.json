@@ -4,7 +4,8 @@
     "id": "0x8861cfF2366C1128fd699B68304aD99a0764Ef9a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cyclone-protocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 130862,
+    "24_hr_volume_usd": 93758,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8861cfF2366C1128fd699B68304aD99a0764Ef9a/logo.png"
 }

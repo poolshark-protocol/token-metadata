@@ -4,7 +4,8 @@
     "id": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tbtc",
-    "market_cap_rank": 728,
-    "24_hr_volume_usd": 26673,
+    "market_cap_usd": 39884556,
+    "market_cap_rank": 731,
+    "24_hr_volume_usd": 4098.37,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa/logo.png"
 }

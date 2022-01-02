@@ -4,6 +4,7 @@
     "id": "0x224DB5E6180761df4C3d8936585f6b8b83879770",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/omlira",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 1684.38,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x224DB5E6180761df4C3d8936585f6b8b83879770/logo.png"

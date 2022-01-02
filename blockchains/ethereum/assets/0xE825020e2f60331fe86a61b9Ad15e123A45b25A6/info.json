@@ -4,7 +4,8 @@
     "id": "0xE825020e2f60331fe86a61b9Ad15e123A45b25A6",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/pitquidity",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1859.95,
+    "24_hr_volume_usd": 1343.77,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE825020e2f60331fe86a61b9Ad15e123A45b25A6/logo.png"
 }

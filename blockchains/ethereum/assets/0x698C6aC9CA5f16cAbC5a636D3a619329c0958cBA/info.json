@@ -4,7 +4,8 @@
     "id": "0x698C6aC9CA5f16cAbC5a636D3a619329c0958cBA",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/saja",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 19799.93,
+    "24_hr_volume_usd": 25935,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x698C6aC9CA5f16cAbC5a636D3a619329c0958cBA/logo.png"
 }

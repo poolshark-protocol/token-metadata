@@ -4,7 +4,8 @@
     "id": "0x17525E4f4Af59fbc29551bC4eCe6AB60Ed49CE31",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/piedao-yearn-ecosystem-pie",
-    "market_cap_rank": 3078,
-    "24_hr_volume_usd": 4370.3,
+    "market_cap_usd": 139312,
+    "market_cap_rank": 3081,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x17525E4f4Af59fbc29551bC4eCe6AB60Ed49CE31/logo.png"
 }

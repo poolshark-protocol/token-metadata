@@ -4,7 +4,8 @@
     "id": "0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kittenfinance",
-    "market_cap_rank": 2254,
-    "24_hr_volume_usd": 24262,
+    "market_cap_usd": 1155993,
+    "market_cap_rank": 2282,
+    "24_hr_volume_usd": 5930.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa/logo.png"
 }

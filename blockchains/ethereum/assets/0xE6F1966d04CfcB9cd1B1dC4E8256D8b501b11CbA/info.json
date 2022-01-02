@@ -4,7 +4,8 @@
     "id": "0xE6F1966d04CfcB9cd1B1dC4E8256D8b501b11CbA",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/safeearth",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1648.09,
+    "24_hr_volume_usd": 643.36,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE6F1966d04CfcB9cd1B1dC4E8256D8b501b11CbA/logo.png"
 }

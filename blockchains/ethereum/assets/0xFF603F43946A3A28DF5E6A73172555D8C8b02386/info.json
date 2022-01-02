@@ -4,7 +4,8 @@
     "id": "0xFF603F43946A3A28DF5E6A73172555D8C8b02386",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/oneroot-network",
-    "market_cap_rank": 2547,
-    "24_hr_volume_usd": 49745,
+    "market_cap_usd": 659745,
+    "market_cap_rank": 2551,
+    "24_hr_volume_usd": 65413,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFF603F43946A3A28DF5E6A73172555D8C8b02386/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mileverse",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 7084033,
+    "24_hr_volume_usd": 6777683,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x581911b360B6eB3a14eF295a83a91DC2bCE2D6f7/logo.png"
 }

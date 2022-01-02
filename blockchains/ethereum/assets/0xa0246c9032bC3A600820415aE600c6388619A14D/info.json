@@ -4,8 +4,9 @@
     "id": "0xa0246c9032bC3A600820415aE600c6388619A14D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/harvest-finance",
-    "market_cap_rank": 497,
-    "24_hr_volume_usd": 45569090,
+    "market_cap_usd": 120012501,
+    "market_cap_rank": 438,
+    "24_hr_volume_usd": 334630119,
     "public_notice": "Please take note that the main liquidity pool has been changed from FARM/USDC to FARM/ETH on Uniswap",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa0246c9032bC3A600820415aE600c6388619A14D/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x9A257C90Fa239fBA07771ef7da2d554D148c2E89",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/media-eye",
-    "market_cap_rank": 2033,
-    "24_hr_volume_usd": 12347.04,
+    "market_cap_usd": 2024889,
+    "market_cap_rank": 1990,
+    "24_hr_volume_usd": 39227,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9A257C90Fa239fBA07771ef7da2d554D148c2E89/logo.png"
 }

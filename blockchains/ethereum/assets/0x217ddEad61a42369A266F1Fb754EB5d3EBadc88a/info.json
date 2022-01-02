@@ -4,7 +4,8 @@
     "id": "0x217ddEad61a42369A266F1Fb754EB5d3EBadc88a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/don-key",
-    "market_cap_rank": 1206,
-    "24_hr_volume_usd": 433799,
+    "market_cap_usd": 11333500,
+    "market_cap_rank": 1220,
+    "24_hr_volume_usd": 309286,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x217ddEad61a42369A266F1Fb754EB5d3EBadc88a/logo.png"
 }

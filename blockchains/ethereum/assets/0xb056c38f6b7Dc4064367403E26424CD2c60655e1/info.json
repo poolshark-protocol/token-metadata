@@ -4,7 +4,8 @@
     "id": "0xb056c38f6b7Dc4064367403E26424CD2c60655e1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ceek",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 8212499,
+    "24_hr_volume_usd": 8939381,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb056c38f6b7Dc4064367403E26424CD2c60655e1/logo.png"
 }

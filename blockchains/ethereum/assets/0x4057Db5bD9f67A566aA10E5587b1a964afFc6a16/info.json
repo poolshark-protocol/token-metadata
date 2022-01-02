@@ -4,8 +4,9 @@
     "id": "0x4057Db5bD9f67A566aA10E5587b1a964afFc6a16",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/truefeedbackchain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 15465.33,
+    "24_hr_volume_usd": 3574.59,
     "public_notice": "Token has migrated to 0x4057db5bd9f67a566aa10e5587b1a964affc6a16. Read more at: https://truefeedbackio.medium.com/truefeedbacks-new-tokenomics-and-token-swap-a569e41b4a78",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4057Db5bD9f67A566aA10E5587b1a964afFc6a16/logo.png"
 }

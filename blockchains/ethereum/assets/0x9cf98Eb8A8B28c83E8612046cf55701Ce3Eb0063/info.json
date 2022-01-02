@@ -4,7 +4,8 @@
     "id": "0x9cf98Eb8A8B28c83E8612046cf55701Ce3Eb0063",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unreal-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 328.24,
+    "24_hr_volume_usd": 26592,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9cf98Eb8A8B28c83E8612046cf55701Ce3Eb0063/logo.png"
 }

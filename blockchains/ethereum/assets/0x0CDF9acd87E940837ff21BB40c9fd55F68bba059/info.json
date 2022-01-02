@@ -4,7 +4,8 @@
     "id": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/public-mint",
-    "market_cap_rank": 1260,
-    "24_hr_volume_usd": 251468,
+    "market_cap_usd": 10347643,
+    "market_cap_rank": 1256,
+    "24_hr_volume_usd": 54555,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0CDF9acd87E940837ff21BB40c9fd55F68bba059/logo.png"
 }

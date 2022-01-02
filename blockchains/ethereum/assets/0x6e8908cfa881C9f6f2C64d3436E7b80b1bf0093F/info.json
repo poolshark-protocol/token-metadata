@@ -4,7 +4,8 @@
     "id": "0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bistroo",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 10824.58,
+    "24_hr_volume_usd": 671.45,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F/logo.png"
 }

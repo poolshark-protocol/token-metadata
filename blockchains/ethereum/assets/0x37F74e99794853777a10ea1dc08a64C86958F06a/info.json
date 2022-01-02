@@ -4,7 +4,8 @@
     "id": "0x37F74e99794853777a10ea1dc08a64C86958F06a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/d-community",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 15072.0,
+    "24_hr_volume_usd": 17086.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37F74e99794853777a10ea1dc08a64C86958F06a/logo.png"
 }

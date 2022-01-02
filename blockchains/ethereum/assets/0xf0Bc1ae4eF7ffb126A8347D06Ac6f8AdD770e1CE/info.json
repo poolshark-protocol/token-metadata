@@ -4,7 +4,8 @@
     "id": "0xf0Bc1ae4eF7ffb126A8347D06Ac6f8AdD770e1CE",
     "decimals": 7,
     "coingecko_url": "https://www.coingecko.com/en/coins/1million-token",
-    "market_cap_rank": 2870,
-    "24_hr_volume_usd": 10910.56,
+    "market_cap_usd": 299258,
+    "market_cap_rank": 2904,
+    "24_hr_volume_usd": 11094.86,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf0Bc1ae4eF7ffb126A8347D06Ac6f8AdD770e1CE/logo.png"
 }

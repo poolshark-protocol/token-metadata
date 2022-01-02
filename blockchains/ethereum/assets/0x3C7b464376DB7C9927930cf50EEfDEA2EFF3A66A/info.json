@@ -4,6 +4,7 @@
     "id": "0x3C7b464376DB7C9927930cf50EEfDEA2EFF3A66A",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/usda",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 2.32,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3C7b464376DB7C9927930cf50EEfDEA2EFF3A66A/logo.png"

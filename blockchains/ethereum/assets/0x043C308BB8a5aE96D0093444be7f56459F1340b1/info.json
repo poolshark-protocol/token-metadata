@@ -4,7 +4,8 @@
     "id": "0x043C308BB8a5aE96D0093444be7f56459F1340b1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sumswap",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 190768,
+    "24_hr_volume_usd": 294226,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x043C308BB8a5aE96D0093444be7f56459F1340b1/logo.png"
 }

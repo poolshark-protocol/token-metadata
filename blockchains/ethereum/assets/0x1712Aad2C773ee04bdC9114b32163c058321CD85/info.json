@@ -4,7 +4,8 @@
     "id": "0x1712Aad2C773ee04bdC9114b32163c058321CD85",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/limitswap",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12706.05,
+    "24_hr_volume_usd": 3234.9,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1712Aad2C773ee04bdC9114b32163c058321CD85/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mushroom",
-    "market_cap_rank": 3319,
-    "24_hr_volume_usd": 1.89,
+    "market_cap_usd": 37525,
+    "market_cap_rank": 3316,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24/logo.png"
 }

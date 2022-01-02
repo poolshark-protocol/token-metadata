@@ -4,7 +4,8 @@
     "id": "0xC77b230F31b517F1ef362e59c173C2BE6540B5E8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vidy",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 49323,
+    "24_hr_volume_usd": 67653,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC77b230F31b517F1ef362e59c173C2BE6540B5E8/logo.png"
 }

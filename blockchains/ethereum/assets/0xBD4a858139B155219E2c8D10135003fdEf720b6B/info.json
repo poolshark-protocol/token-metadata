@@ -4,7 +4,8 @@
     "id": "0xBD4a858139B155219E2c8D10135003fdEf720b6B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/saren",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 263.3,
+    "24_hr_volume_usd": 798.19,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBD4a858139B155219E2c8D10135003fdEf720b6B/logo.png"
 }

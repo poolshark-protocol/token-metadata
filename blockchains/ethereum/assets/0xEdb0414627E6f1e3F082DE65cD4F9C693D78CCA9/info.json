@@ -4,7 +4,8 @@
     "id": "0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-twitter",
-    "market_cap_rank": 1205,
-    "24_hr_volume_usd": 82288,
+    "market_cap_usd": 11199947,
+    "market_cap_rank": 1223,
+    "24_hr_volume_usd": 10022.82,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEdb0414627E6f1e3F082DE65cD4F9C693D78CCA9/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x01b23286FF60a543ec29366aE8D6B6274cA20541",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/brother-music-platform",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12327131,
+    "24_hr_volume_usd": 8520038,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x01b23286FF60a543ec29366aE8D6B6274cA20541/logo.png"
 }

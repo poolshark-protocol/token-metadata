@@ -4,7 +4,8 @@
     "id": "0xaCd8F2523a4613Eee78904354187c81Bb05ae2b8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stand-cash",
-    "market_cap_rank": 3466,
-    "24_hr_volume_usd": 730.8,
+    "market_cap_usd": 4242.53,
+    "market_cap_rank": 3459,
+    "24_hr_volume_usd": 4479.86,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaCd8F2523a4613Eee78904354187c81Bb05ae2b8/logo.png"
 }

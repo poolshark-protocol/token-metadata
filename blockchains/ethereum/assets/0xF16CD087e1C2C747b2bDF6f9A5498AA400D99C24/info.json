@@ -4,7 +4,8 @@
     "id": "0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ibg-eth",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 17595.48,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24/logo.png"
 }

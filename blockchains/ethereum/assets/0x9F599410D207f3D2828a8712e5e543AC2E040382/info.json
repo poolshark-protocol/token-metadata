@@ -4,6 +4,7 @@
     "id": "0x9F599410D207f3D2828a8712e5e543AC2E040382",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tap-project",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9F599410D207f3D2828a8712e5e543AC2E040382/logo.png"

@@ -4,7 +4,8 @@
     "id": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dydx",
-    "market_cap_rank": 162,
-    "24_hr_volume_usd": 133166165,
+    "market_cap_usd": 617411045,
+    "market_cap_rank": 164,
+    "24_hr_volume_usd": 83660695,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92D6C1e31e14520e676a687F0a93788B716BEff5/logo.png"
 }

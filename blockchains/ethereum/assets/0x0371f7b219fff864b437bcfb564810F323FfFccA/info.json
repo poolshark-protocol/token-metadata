@@ -4,6 +4,7 @@
     "id": "0x0371f7b219fff864b437bcfb564810F323FfFccA",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitcurate",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 34.53,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0371f7b219fff864b437bcfb564810F323FfFccA/logo.png"

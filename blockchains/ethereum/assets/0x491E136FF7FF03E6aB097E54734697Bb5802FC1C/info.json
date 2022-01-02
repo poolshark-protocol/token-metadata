@@ -4,7 +4,8 @@
     "id": "0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kattana",
-    "market_cap_rank": 1242,
-    "24_hr_volume_usd": 121598,
+    "market_cap_usd": 10248923,
+    "market_cap_rank": 1260,
+    "24_hr_volume_usd": 130150,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x491E136FF7FF03E6aB097E54734697Bb5802FC1C/logo.png"
 }

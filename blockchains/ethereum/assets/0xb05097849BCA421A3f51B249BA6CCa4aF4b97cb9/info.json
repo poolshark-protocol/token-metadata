@@ -4,7 +4,8 @@
     "id": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/float-protocol-float",
-    "market_cap_rank": 1611,
-    "24_hr_volume_usd": 61216,
+    "market_cap_usd": 4297738,
+    "market_cap_rank": 1633,
+    "24_hr_volume_usd": 19009.44,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9/logo.png"
 }

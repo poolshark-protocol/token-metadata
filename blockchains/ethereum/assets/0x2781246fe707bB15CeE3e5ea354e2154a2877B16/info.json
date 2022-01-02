@@ -4,7 +4,8 @@
     "id": "0x2781246fe707bB15CeE3e5ea354e2154a2877B16",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/elysia",
-    "market_cap_rank": 855,
-    "24_hr_volume_usd": 1186562,
+    "market_cap_usd": 28890712,
+    "market_cap_rank": 832,
+    "24_hr_volume_usd": 3273902,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2781246fe707bB15CeE3e5ea354e2154a2877B16/logo.png"
 }

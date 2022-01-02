@@ -4,7 +4,8 @@
     "id": "0xc12d099be31567add4e4e4d0D45691C3F58f5663",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/auctus",
-    "market_cap_rank": 2173,
-    "24_hr_volume_usd": 1429.31,
+    "market_cap_usd": 1238295,
+    "market_cap_rank": 2241,
+    "24_hr_volume_usd": 0.03491203,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc12d099be31567add4e4e4d0D45691C3F58f5663/logo.png"
 }

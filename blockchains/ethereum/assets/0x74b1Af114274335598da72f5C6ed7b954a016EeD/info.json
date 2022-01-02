@@ -4,7 +4,8 @@
     "id": "0x74b1Af114274335598da72f5C6ed7b954a016EeD",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hitbtc-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 919259,
+    "24_hr_volume_usd": 1171917,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x74b1Af114274335598da72f5C6ed7b954a016EeD/logo.png"
 }

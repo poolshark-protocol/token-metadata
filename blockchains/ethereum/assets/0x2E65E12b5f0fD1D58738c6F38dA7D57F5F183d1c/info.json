@@ -4,7 +4,8 @@
     "id": "0x2E65E12b5f0fD1D58738c6F38dA7D57F5F183d1c",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/tepleton",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 81.37,
+    "24_hr_volume_usd": 76.32,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2E65E12b5f0fD1D58738c6F38dA7D57F5F183d1c/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xc74Cb1bBC2a1bc6E0C9E35ee176F832Ad7CDb3Ab",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/anons-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 8325.25,
+    "24_hr_volume_usd": 28516,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc74Cb1bBC2a1bc6E0C9E35ee176F832Ad7CDb3Ab/logo.png"
 }

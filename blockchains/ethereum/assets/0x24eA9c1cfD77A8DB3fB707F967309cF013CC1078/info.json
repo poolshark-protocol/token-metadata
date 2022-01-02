@@ -4,7 +4,8 @@
     "id": "0x24eA9c1cfD77A8DB3fB707F967309cF013CC1078",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/excavo-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 486.96,
+    "24_hr_volume_usd": 966.4,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x24eA9c1cfD77A8DB3fB707F967309cF013CC1078/logo.png"
 }

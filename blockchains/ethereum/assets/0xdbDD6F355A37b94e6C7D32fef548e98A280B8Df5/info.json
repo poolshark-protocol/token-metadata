@@ -4,7 +4,8 @@
     "id": "0xdbDD6F355A37b94e6C7D32fef548e98A280B8Df5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/uniwhales",
-    "market_cap_rank": 1475,
-    "24_hr_volume_usd": 18814.65,
+    "market_cap_usd": 6063326,
+    "market_cap_rank": 1484,
+    "24_hr_volume_usd": 4354.73,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdbDD6F355A37b94e6C7D32fef548e98A280B8Df5/logo.png"
 }

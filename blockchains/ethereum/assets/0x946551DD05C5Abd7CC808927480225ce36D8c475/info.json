@@ -4,7 +4,8 @@
     "id": "0x946551DD05C5Abd7CC808927480225ce36D8c475",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/one",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 222673,
+    "24_hr_volume_usd": 364972,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x946551DD05C5Abd7CC808927480225ce36D8c475/logo.png"
 }

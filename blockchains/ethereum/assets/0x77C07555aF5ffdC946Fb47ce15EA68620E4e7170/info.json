@@ -4,7 +4,8 @@
     "id": "0x77C07555aF5ffdC946Fb47ce15EA68620E4e7170",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/breezecoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 22544,
+    "24_hr_volume_usd": 21150,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77C07555aF5ffdC946Fb47ce15EA68620E4e7170/logo.png"
 }

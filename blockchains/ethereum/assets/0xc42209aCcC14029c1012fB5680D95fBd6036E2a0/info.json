@@ -4,7 +4,8 @@
     "id": "0xc42209aCcC14029c1012fB5680D95fBd6036E2a0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/paypie",
-    "market_cap_rank": 2223,
-    "24_hr_volume_usd": 0.261341,
+    "market_cap_usd": 936876,
+    "market_cap_rank": 2389,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc42209aCcC14029c1012fB5680D95fBd6036E2a0/logo.png"
 }

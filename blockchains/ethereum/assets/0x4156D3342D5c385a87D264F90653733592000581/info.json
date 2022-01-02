@@ -4,7 +4,8 @@
     "id": "0x4156D3342D5c385a87D264F90653733592000581",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/salt",
-    "market_cap_rank": 1265,
-    "24_hr_volume_usd": 14047.64,
+    "market_cap_usd": 10021370,
+    "market_cap_rank": 1266,
+    "24_hr_volume_usd": 2479.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4156D3342D5c385a87D264F90653733592000581/logo.png"
 }

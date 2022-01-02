@@ -4,7 +4,8 @@
     "id": "0xcB8d1260F9c92A3A545d409466280fFdD7AF7042",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nft-protocol",
-    "market_cap_rank": 1597,
-    "24_hr_volume_usd": 93667,
+    "market_cap_usd": 4280912,
+    "market_cap_rank": 1633,
+    "24_hr_volume_usd": 56194,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcB8d1260F9c92A3A545d409466280fFdD7AF7042/logo.png"
 }

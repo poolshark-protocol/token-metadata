@@ -4,7 +4,8 @@
     "id": "0x31BFdE4d0FBf3fa89b230D370e3B206e67Ef8b15",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/diginu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 130.73,
+    "24_hr_volume_usd": 551.86,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31BFdE4d0FBf3fa89b230D370e3B206e67Ef8b15/logo.png"
 }

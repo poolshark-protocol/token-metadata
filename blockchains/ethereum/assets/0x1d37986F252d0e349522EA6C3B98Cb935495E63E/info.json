@@ -4,7 +4,8 @@
     "id": "0x1d37986F252d0e349522EA6C3B98Cb935495E63E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/chartex",
-    "market_cap_rank": 2434,
-    "24_hr_volume_usd": 32144,
+    "market_cap_usd": 894167,
+    "market_cap_rank": 2416,
+    "24_hr_volume_usd": 4102.14,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1d37986F252d0e349522EA6C3B98Cb935495E63E/logo.png"
 }

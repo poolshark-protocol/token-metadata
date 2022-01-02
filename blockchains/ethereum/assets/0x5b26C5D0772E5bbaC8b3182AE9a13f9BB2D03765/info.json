@@ -4,7 +4,8 @@
     "id": "0x5b26C5D0772E5bbaC8b3182AE9a13f9BB2D03765",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/education-ecosystem",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 115.49,
+    "24_hr_volume_usd": 75.95,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5b26C5D0772E5bbaC8b3182AE9a13f9BB2D03765/logo.png"
 }

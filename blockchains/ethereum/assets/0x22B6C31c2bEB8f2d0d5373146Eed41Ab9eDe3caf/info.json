@@ -4,7 +4,8 @@
     "id": "0x22B6C31c2bEB8f2d0d5373146Eed41Ab9eDe3caf",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/cocktailbar",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 173406,
+    "24_hr_volume_usd": 228803,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x22B6C31c2bEB8f2d0d5373146Eed41Ab9eDe3caf/logo.png"
 }

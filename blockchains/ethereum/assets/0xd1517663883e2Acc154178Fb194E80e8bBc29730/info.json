@@ -4,7 +4,8 @@
     "id": "0xd1517663883e2Acc154178Fb194E80e8bBc29730",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/deipool",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1639.06,
+    "24_hr_volume_usd": 1315.31,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd1517663883e2Acc154178Fb194E80e8bBc29730/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xD85AD783cc94bd04196a13DC042A3054a9B52210",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tribeone",
-    "market_cap_rank": 1529,
-    "24_hr_volume_usd": 425767,
+    "market_cap_usd": 5338798,
+    "market_cap_rank": 1534,
+    "24_hr_volume_usd": 247523,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD85AD783cc94bd04196a13DC042A3054a9B52210/logo.png"
 }

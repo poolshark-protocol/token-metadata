@@ -4,7 +4,8 @@
     "id": "0xA5f1DbB0e55bc31f32c6d032BeE330288490e722",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/day-by-day",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 389168,
+    "24_hr_volume_usd": 378906,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA5f1DbB0e55bc31f32c6d032BeE330288490e722/logo.png"
 }

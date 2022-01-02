@@ -4,7 +4,8 @@
     "id": "0x1847e59d9C2f30c7fE0347BA3E53DA1ae8A7F0E8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nfta",
-    "market_cap_rank": 2751,
-    "24_hr_volume_usd": 314.76,
+    "market_cap_usd": 387982,
+    "market_cap_rank": 2754,
+    "24_hr_volume_usd": 109.6,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1847e59d9C2f30c7fE0347BA3E53DA1ae8A7F0E8/logo.png"
 }

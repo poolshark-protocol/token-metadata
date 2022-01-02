@@ -4,7 +4,8 @@
     "id": "0x4E08F03079c5CD3083eA331Ec61bCC87538B7665",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/doubledice-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12827.85,
+    "24_hr_volume_usd": 4890.99,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4E08F03079c5CD3083eA331Ec61bCC87538B7665/logo.png"
 }

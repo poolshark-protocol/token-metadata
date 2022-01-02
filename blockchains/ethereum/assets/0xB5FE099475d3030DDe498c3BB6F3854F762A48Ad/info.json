@@ -4,7 +4,8 @@
     "id": "0xB5FE099475d3030DDe498c3BB6F3854F762A48Ad",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fnkcom",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1222.34,
+    "24_hr_volume_usd": 668.12,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB5FE099475d3030DDe498c3BB6F3854F762A48Ad/logo.png"
 }

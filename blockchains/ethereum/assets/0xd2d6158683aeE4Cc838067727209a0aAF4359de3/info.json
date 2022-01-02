@@ -4,7 +4,8 @@
     "id": "0xd2d6158683aeE4Cc838067727209a0aAF4359de3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bounty0x",
-    "market_cap_rank": 2972,
-    "24_hr_volume_usd": 6391.17,
+    "market_cap_usd": 222336,
+    "market_cap_rank": 2953,
+    "24_hr_volume_usd": 29451,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd2d6158683aeE4Cc838067727209a0aAF4359de3/logo.png"
 }

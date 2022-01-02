@@ -4,6 +4,7 @@
     "id": "0xdff3d69a00759449F091561A0Af99a218982Bd7f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/our-pay",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 49.93,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdff3d69a00759449F091561A0Af99a218982Bd7f/logo.png"

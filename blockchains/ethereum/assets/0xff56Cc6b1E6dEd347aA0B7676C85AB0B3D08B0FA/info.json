@@ -4,7 +4,8 @@
     "id": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/orbs",
-    "market_cap_rank": 283,
-    "24_hr_volume_usd": 3543009,
+    "market_cap_usd": 246268792,
+    "market_cap_rank": 287,
+    "24_hr_volume_usd": 1427783,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA/logo.png"
 }

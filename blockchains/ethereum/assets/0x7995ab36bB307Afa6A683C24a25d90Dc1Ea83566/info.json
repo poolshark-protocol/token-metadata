@@ -4,7 +4,8 @@
     "id": "0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/hitchain",
-    "market_cap_rank": 1761,
-    "24_hr_volume_usd": 301809,
+    "market_cap_usd": 3483646,
+    "market_cap_rank": 1749,
+    "24_hr_volume_usd": 116370,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566/logo.png"
 }

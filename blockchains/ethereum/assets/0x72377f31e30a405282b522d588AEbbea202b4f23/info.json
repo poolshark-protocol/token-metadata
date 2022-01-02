@@ -4,8 +4,9 @@
     "id": "0x72377f31e30a405282b522d588AEbbea202b4f23",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/varen",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 59634,
+    "24_hr_volume_usd": 80719,
     "public_notice": "<a href=\"https://www.coingecko.com/en/coins/yf-link\">YF Link</a> is migrating to Varen. For more information refer to these posts: https://varen.exchange/migration and https://blog.yflink.io/we-are-migrating/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72377f31e30a405282b522d588AEbbea202b4f23/logo.png"
 }

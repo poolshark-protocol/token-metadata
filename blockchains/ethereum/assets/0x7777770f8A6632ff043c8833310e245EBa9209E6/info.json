@@ -4,7 +4,8 @@
     "id": "0x7777770f8A6632ff043c8833310e245EBa9209E6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tokens-of-babel",
-    "market_cap_rank": 3053,
+    "market_cap_usd": 153308,
+    "market_cap_rank": 3057,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7777770f8A6632ff043c8833310e245EBa9209E6/logo.png"
 }

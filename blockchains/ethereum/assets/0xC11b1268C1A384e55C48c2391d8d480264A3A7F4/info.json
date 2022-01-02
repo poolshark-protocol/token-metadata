@@ -4,7 +4,8 @@
     "id": "0xC11b1268C1A384e55C48c2391d8d480264A3A7F4",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/compound-wrapped-btc-legacy",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 33.67,
+    "24_hr_volume_usd": 33.65,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC11b1268C1A384e55C48c2391d8d480264A3A7F4/logo.png"
 }

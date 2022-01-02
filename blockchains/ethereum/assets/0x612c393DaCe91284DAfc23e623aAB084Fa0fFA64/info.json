@@ -4,7 +4,8 @@
     "id": "0x612c393DaCe91284DAfc23e623aAB084Fa0fFA64",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/cujo-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1843614,
+    "24_hr_volume_usd": 1277711,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x612c393DaCe91284DAfc23e623aAB084Fa0fFA64/logo.png"
 }

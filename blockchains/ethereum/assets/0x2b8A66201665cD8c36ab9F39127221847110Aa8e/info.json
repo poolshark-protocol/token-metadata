@@ -4,6 +4,7 @@
     "id": "0x2b8A66201665cD8c36ab9F39127221847110Aa8e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bakumatsu-swap-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 20554,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2b8A66201665cD8c36ab9F39127221847110Aa8e/logo.png"

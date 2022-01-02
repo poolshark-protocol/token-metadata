@@ -4,7 +4,8 @@
     "id": "0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gamecredits",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 169240,
+    "24_hr_volume_usd": 207907,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x63f88A2298a5c4AEE3c216Aa6D926B184a4b2437/logo.png"
 }

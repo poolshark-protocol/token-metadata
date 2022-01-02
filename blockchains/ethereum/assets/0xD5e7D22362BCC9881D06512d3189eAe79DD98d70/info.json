@@ -4,7 +4,8 @@
     "id": "0xD5e7D22362BCC9881D06512d3189eAe79DD98d70",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/miyazaki-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12170.71,
+    "24_hr_volume_usd": 2391.1,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD5e7D22362BCC9881D06512d3189eAe79DD98d70/logo.png"
 }

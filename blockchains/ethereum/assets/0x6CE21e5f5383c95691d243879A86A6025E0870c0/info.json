@@ -4,7 +4,8 @@
     "id": "0x6CE21e5f5383c95691d243879A86A6025E0870c0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hintchain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 55651,
+    "24_hr_volume_usd": 28114,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6CE21e5f5383c95691d243879A86A6025E0870c0/logo.png"
 }

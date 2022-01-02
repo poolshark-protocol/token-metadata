@@ -4,7 +4,8 @@
     "id": "0x6a6c2adA3Ce053561C2FbC3eE211F23d9b8C520a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tontoken",
-    "market_cap_rank": 1330,
-    "24_hr_volume_usd": 15742.42,
+    "market_cap_usd": 8227376,
+    "market_cap_rank": 1353,
+    "24_hr_volume_usd": 18678.36,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6a6c2adA3Ce053561C2FbC3eE211F23d9b8C520a/logo.png"
 }

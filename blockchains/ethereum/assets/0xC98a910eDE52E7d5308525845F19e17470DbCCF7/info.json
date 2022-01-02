@@ -4,6 +4,7 @@
     "id": "0xC98a910eDE52E7d5308525845F19e17470DbCCF7",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-ilcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 96.81,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC98a910eDE52E7d5308525845F19e17470DbCCF7/logo.png"

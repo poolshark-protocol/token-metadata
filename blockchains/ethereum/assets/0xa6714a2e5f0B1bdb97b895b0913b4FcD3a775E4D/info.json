@@ -4,7 +4,8 @@
     "id": "0xa6714a2e5f0B1bdb97b895b0913b4FcD3a775E4D",
     "decimals": 5,
     "coingecko_url": "https://www.coingecko.com/en/coins/promotionchain",
-    "market_cap_rank": 3344,
-    "24_hr_volume_usd": 1123.69,
+    "market_cap_usd": 34402,
+    "market_cap_rank": 3325,
+    "24_hr_volume_usd": 893.27,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa6714a2e5f0B1bdb97b895b0913b4FcD3a775E4D/logo.png"
 }

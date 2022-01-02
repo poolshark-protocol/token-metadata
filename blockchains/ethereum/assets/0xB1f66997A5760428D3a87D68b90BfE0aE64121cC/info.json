@@ -4,7 +4,8 @@
     "id": "0xB1f66997A5760428D3a87D68b90BfE0aE64121cC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lua-token",
-    "market_cap_rank": 1324,
-    "24_hr_volume_usd": 16448.06,
+    "market_cap_usd": 8616016,
+    "market_cap_rank": 1327,
+    "24_hr_volume_usd": 15427.06,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png"
 }

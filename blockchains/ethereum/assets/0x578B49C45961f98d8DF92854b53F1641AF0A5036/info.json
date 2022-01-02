@@ -4,7 +4,8 @@
     "id": "0x578B49C45961f98d8DF92854b53F1641AF0A5036",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/linka",
-    "market_cap_rank": 2049,
-    "24_hr_volume_usd": 2.35,
+    "market_cap_usd": 1201852,
+    "market_cap_rank": 2255,
+    "24_hr_volume_usd": 7.88,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x578B49C45961f98d8DF92854b53F1641AF0A5036/logo.png"
 }

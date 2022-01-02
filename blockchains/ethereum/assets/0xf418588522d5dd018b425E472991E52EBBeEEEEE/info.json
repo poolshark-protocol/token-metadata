@@ -4,7 +4,8 @@
     "id": "0xf418588522d5dd018b425E472991E52EBBeEEEEE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-push-notification-service",
-    "market_cap_rank": 765,
-    "24_hr_volume_usd": 1695890,
+    "market_cap_usd": 35221594,
+    "market_cap_rank": 771,
+    "24_hr_volume_usd": 712798,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf418588522d5dd018b425E472991E52EBBeEEEEE/logo.png"
 }

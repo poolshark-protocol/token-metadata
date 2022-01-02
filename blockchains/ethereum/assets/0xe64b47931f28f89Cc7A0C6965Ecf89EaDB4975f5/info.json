@@ -4,7 +4,8 @@
     "id": "0xe64b47931f28f89Cc7A0C6965Ecf89EaDB4975f5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ludos",
-    "market_cap_rank": 3443,
-    "24_hr_volume_usd": 12830.65,
+    "market_cap_usd": 5914.04,
+    "market_cap_rank": 3446,
+    "24_hr_volume_usd": 3624.55,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe64b47931f28f89Cc7A0C6965Ecf89EaDB4975f5/logo.png"
 }

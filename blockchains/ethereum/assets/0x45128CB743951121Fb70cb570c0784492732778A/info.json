@@ -4,7 +4,8 @@
     "id": "0x45128CB743951121Fb70cb570c0784492732778A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/metawhale-gold",
-    "market_cap_rank": 3325,
+    "market_cap_usd": 35158,
+    "market_cap_rank": 3323,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x45128CB743951121Fb70cb570c0784492732778A/logo.png"
 }

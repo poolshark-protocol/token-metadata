@@ -4,7 +4,8 @@
     "id": "0xE0dF31d06d72b2f5231489AF0edc422B372F49f1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/marsx",
-    "market_cap_rank": 1902,
-    "24_hr_volume_usd": 48165,
+    "market_cap_usd": 2093357,
+    "market_cap_rank": 1972,
+    "24_hr_volume_usd": 65340,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE0dF31d06d72b2f5231489AF0edc422B372F49f1/logo.png"
 }

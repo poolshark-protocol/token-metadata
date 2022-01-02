@@ -4,7 +4,8 @@
     "id": "0xEF40B859D21e4d566a3d713e756197c021BffaAa",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/apenft",
-    "market_cap_rank": 483,
-    "24_hr_volume_usd": 376336482,
+    "market_cap_usd": 93653418,
+    "market_cap_rank": 487,
+    "24_hr_volume_usd": 271254368,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEF40B859D21e4d566a3d713e756197c021BffaAa/logo.png"
 }

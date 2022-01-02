@@ -4,7 +4,8 @@
     "id": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aichain",
-    "market_cap_rank": 1927,
-    "24_hr_volume_usd": 89181,
+    "market_cap_usd": 2302650,
+    "market_cap_rank": 1935,
+    "24_hr_volume_usd": 94628,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C/logo.png"
 }

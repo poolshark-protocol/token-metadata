@@ -4,7 +4,8 @@
     "id": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/simple-token",
-    "market_cap_rank": 1958,
-    "24_hr_volume_usd": 16536.31,
+    "market_cap_usd": 2115991,
+    "market_cap_rank": 1970,
+    "24_hr_volume_usd": 5846.06,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA/logo.png"
 }

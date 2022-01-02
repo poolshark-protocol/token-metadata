@@ -4,6 +4,7 @@
     "id": "0x3A1c1d1c06bE03cDDC4d3332F7C20e1B37c97CE9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vybe",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3A1c1d1c06bE03cDDC4d3332F7C20e1B37c97CE9/logo.png"

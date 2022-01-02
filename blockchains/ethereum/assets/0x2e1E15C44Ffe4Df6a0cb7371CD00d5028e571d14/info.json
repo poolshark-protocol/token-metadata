@@ -4,7 +4,8 @@
     "id": "0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mettalex",
-    "market_cap_rank": 1633,
-    "24_hr_volume_usd": 150189,
+    "market_cap_usd": 3789152,
+    "market_cap_rank": 1707,
+    "24_hr_volume_usd": 111589,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2e1E15C44Ffe4Df6a0cb7371CD00d5028e571d14/logo.png"
 }

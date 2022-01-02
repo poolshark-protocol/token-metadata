@@ -4,7 +4,8 @@
     "id": "0x6b9F1F092E0B10015a4391A80cD3E6B6cefD1728",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/luckyseventoken",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.00783934,
+    "24_hr_volume_usd": 3.04,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6b9F1F092E0B10015a4391A80cD3E6B6cefD1728/logo.png"
 }

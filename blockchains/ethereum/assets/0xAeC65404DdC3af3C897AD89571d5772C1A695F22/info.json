@@ -4,7 +4,8 @@
     "id": "0xAeC65404DdC3af3C897AD89571d5772C1A695F22",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/phoenix-token",
-    "market_cap_rank": 2419,
-    "24_hr_volume_usd": 148106,
+    "market_cap_usd": 860627,
+    "market_cap_rank": 2426,
+    "24_hr_volume_usd": 158906,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAeC65404DdC3af3C897AD89571d5772C1A695F22/logo.png"
 }

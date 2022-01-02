@@ -4,7 +4,8 @@
     "id": "0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bella-protocol",
-    "market_cap_rank": 550,
-    "24_hr_volume_usd": 5172240,
+    "market_cap_usd": 79039276,
+    "market_cap_rank": 536,
+    "24_hr_volume_usd": 5288659,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA91ac63D040dEB1b7A5E4d4134aD23eb0ba07e14/logo.png"
 }

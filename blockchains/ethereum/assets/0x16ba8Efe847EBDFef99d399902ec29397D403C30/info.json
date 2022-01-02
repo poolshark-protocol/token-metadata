@@ -4,7 +4,8 @@
     "id": "0x16ba8Efe847EBDFef99d399902ec29397D403C30",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/oh-finance",
-    "market_cap_rank": 2007,
-    "24_hr_volume_usd": 13629.36,
+    "market_cap_usd": 2006522,
+    "market_cap_rank": 1994,
+    "24_hr_volume_usd": 10171.55,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x16ba8Efe847EBDFef99d399902ec29397D403C30/logo.png"
 }

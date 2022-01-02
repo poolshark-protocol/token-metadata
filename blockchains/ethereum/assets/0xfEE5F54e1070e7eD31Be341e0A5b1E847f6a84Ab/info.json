@@ -4,7 +4,8 @@
     "id": "0xfEE5F54e1070e7eD31Be341e0A5b1E847f6a84Ab",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zug",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 19650.65,
+    "24_hr_volume_usd": 16966.68,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfEE5F54e1070e7eD31Be341e0A5b1E847f6a84Ab/logo.png"
 }

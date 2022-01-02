@@ -4,7 +4,8 @@
     "id": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/perpetual-protocol",
-    "market_cap_rank": 171,
-    "24_hr_volume_usd": 12818711,
+    "market_cap_usd": 570961458,
+    "market_cap_rank": 169,
+    "24_hr_volume_usd": 8947012,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png"
 }

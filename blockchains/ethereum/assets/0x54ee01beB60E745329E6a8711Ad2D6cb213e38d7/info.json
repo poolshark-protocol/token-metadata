@@ -4,8 +4,9 @@
     "id": "0x54ee01beB60E745329E6a8711Ad2D6cb213e38d7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dfsocial",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 10.73,
+    "24_hr_volume_usd": 243.5,
     "public_notice": "DFSOCIAL is migrating from Ethereum mainnet to BSC mainnet and rebrands the token to DSFG. Token migration will end on Oct 31. For more information, please read  https://defisocial.medium.com/new-dfsocial-era-dfsg-token-launch-42ed44eb6df3",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x54ee01beB60E745329E6a8711Ad2D6cb213e38d7/logo.png"
 }

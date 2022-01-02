@@ -4,7 +4,8 @@
     "id": "0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nifty-league",
-    "market_cap_rank": 1307,
-    "24_hr_volume_usd": 268526,
+    "market_cap_usd": 8482464,
+    "market_cap_rank": 1334,
+    "24_hr_volume_usd": 115478,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638/logo.png"
 }

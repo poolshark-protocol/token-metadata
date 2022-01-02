@@ -4,7 +4,8 @@
     "id": "0xf2051511B9b121394FA75B8F7d4E7424337af687",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/daohaus",
-    "market_cap_rank": 1158,
-    "24_hr_volume_usd": 115890,
+    "market_cap_usd": 13435052,
+    "market_cap_rank": 1129,
+    "24_hr_volume_usd": 37317,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf2051511B9b121394FA75B8F7d4E7424337af687/logo.png"
 }

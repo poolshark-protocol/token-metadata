@@ -4,7 +4,8 @@
     "id": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
     "decimals": 15,
     "coingecko_url": "https://www.coingecko.com/en/coins/boxx",
-    "market_cap_rank": 3196,
+    "market_cap_usd": 86682,
+    "market_cap_rank": 3195,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x780116D91E5592E58a3b3c76A351571b39abCEc6/logo.png"
 }

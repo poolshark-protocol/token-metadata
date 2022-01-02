@@ -4,7 +4,8 @@
     "id": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/arpa-chain",
-    "market_cap_rank": 477,
-    "24_hr_volume_usd": 15854659,
+    "market_cap_usd": 97165262,
+    "market_cap_rank": 475,
+    "24_hr_volume_usd": 7205616,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBA50933C268F567BDC86E1aC131BE072C6B0b71a/logo.png"
 }

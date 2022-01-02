@@ -4,7 +4,8 @@
     "id": "0x74faaB6986560fD1140508e4266D8a7b87274Ffd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hyperdao",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1720832,
+    "24_hr_volume_usd": 2187361,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x74faaB6986560fD1140508e4266D8a7b87274Ffd/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xc36b4311B21Fc0c2eAd46f1eA6ce97c9C4D98D3d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/creaticles",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 72781,
+    "24_hr_volume_usd": 31800,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc36b4311B21Fc0c2eAd46f1eA6ce97c9C4D98D3d/logo.png"
 }

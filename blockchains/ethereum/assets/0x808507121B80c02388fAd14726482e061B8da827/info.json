@@ -4,7 +4,8 @@
     "id": "0x808507121B80c02388fAd14726482e061B8da827",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pendle",
-    "market_cap_rank": 985,
-    "24_hr_volume_usd": 729805,
+    "market_cap_usd": 20364757,
+    "market_cap_rank": 975,
+    "24_hr_volume_usd": 376026,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x808507121B80c02388fAd14726482e061B8da827/logo.png"
 }

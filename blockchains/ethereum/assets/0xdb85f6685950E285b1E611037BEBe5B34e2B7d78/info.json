@@ -4,7 +4,8 @@
     "id": "0xdb85f6685950E285b1E611037BEBe5B34e2B7d78",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zano",
-    "market_cap_rank": 827,
-    "24_hr_volume_usd": 382902,
+    "market_cap_usd": 27304688,
+    "market_cap_rank": 858,
+    "24_hr_volume_usd": 365221,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdb85f6685950E285b1E611037BEBe5B34e2B7d78/logo.png"
 }

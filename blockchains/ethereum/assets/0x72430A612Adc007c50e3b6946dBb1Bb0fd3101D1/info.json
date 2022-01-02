@@ -4,7 +4,8 @@
     "id": "0x72430A612Adc007c50e3b6946dBb1Bb0fd3101D1",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/thingschain",
-    "market_cap_rank": 3234,
-    "24_hr_volume_usd": 199.76,
+    "market_cap_usd": 78148,
+    "market_cap_rank": 3217,
+    "24_hr_volume_usd": 0.00312866,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72430A612Adc007c50e3b6946dBb1Bb0fd3101D1/logo.png"
 }

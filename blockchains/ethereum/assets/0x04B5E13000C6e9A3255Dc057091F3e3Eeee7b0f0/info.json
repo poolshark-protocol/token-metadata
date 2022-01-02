@@ -4,7 +4,8 @@
     "id": "0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unifund",
-    "market_cap_rank": 2938,
-    "24_hr_volume_usd": 279.14,
+    "market_cap_usd": 226733,
+    "market_cap_rank": 2948,
+    "24_hr_volume_usd": 854.27,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x04B5E13000C6e9A3255Dc057091F3e3Eeee7b0f0/logo.png"
 }

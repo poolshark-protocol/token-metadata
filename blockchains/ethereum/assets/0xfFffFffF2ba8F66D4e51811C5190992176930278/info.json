@@ -4,7 +4,8 @@
     "id": "0xfFffFffF2ba8F66D4e51811C5190992176930278",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/furucombo",
-    "market_cap_rank": 1249,
-    "24_hr_volume_usd": 62061,
+    "market_cap_usd": 10024688,
+    "market_cap_rank": 1267,
+    "24_hr_volume_usd": 99341,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfFffFffF2ba8F66D4e51811C5190992176930278/logo.png"
 }

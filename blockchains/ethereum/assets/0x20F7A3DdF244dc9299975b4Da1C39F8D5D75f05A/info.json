@@ -4,7 +4,8 @@
     "id": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/sapien",
-    "market_cap_rank": 2087,
-    "24_hr_volume_usd": 41.98,
+    "market_cap_usd": 1626422,
+    "market_cap_rank": 2109,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A/logo.png"
 }

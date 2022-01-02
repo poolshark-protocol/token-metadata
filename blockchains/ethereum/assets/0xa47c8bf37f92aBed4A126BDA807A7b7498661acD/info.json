@@ -4,7 +4,8 @@
     "id": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-ust",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 7073123,
+    "24_hr_volume_usd": 10053337,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa47c8bf37f92aBed4A126BDA807A7b7498661acD/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/trustswap",
-    "market_cap_rank": 512,
-    "24_hr_volume_usd": 867995,
+    "market_cap_usd": 88943807,
+    "market_cap_rank": 506,
+    "24_hr_volume_usd": 846079,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe/logo.png"
 }

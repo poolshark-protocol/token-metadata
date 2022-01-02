@@ -4,7 +4,8 @@
     "id": "0x9C4A4204B79dd291D6b6571C5BE8BbcD0622F050",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tracer-dao",
-    "market_cap_rank": 994,
-    "24_hr_volume_usd": 2537717,
+    "market_cap_usd": 16546711,
+    "market_cap_rank": 1041,
+    "24_hr_volume_usd": 42793,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9C4A4204B79dd291D6b6571C5BE8BbcD0622F050/logo.png"
 }

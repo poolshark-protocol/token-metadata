@@ -4,7 +4,8 @@
     "id": "0x8564653879a18C560E7C0Ea0E084c516C62F5653",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/upbots",
-    "market_cap_rank": 1226,
-    "24_hr_volume_usd": 139475,
+    "market_cap_usd": 10736306,
+    "market_cap_rank": 1238,
+    "24_hr_volume_usd": 186780,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8564653879a18C560E7C0Ea0E084c516C62F5653/logo.png"
 }

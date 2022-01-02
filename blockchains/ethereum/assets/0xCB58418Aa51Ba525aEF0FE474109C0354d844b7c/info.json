@@ -4,8 +4,9 @@
     "id": "0xCB58418Aa51Ba525aEF0FE474109C0354d844b7c",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/laika-protocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.0,
+    "24_hr_volume_usd": 110.8,
     "public_notice": "Laika Protocol has recently migrated their BSC address from the <a href=\"https://bscscan.com/token/0x2a49de60cc6204c3afc3e770fdb30a0554147519\">old contract</a> to a <a href=\"https://bscscan.com/token/0xc3a304aDCc921c6e4c7E5d796751A3C8fB8E4337\">new one</a>. Find out more on their Twitter and Telegram.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCB58418Aa51Ba525aEF0FE474109C0354d844b7c/logo.png"
 }

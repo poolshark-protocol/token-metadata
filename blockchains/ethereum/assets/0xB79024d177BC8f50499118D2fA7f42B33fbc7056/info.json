@@ -4,7 +4,8 @@
     "id": "0xB79024d177BC8f50499118D2fA7f42B33fbc7056",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/egame",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 14417.09,
+    "24_hr_volume_usd": 6611.13,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB79024d177BC8f50499118D2fA7f42B33fbc7056/logo.png"
 }

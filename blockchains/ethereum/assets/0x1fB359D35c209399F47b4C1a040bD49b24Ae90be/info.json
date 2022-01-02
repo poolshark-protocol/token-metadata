@@ -4,6 +4,7 @@
     "id": "0x1fB359D35c209399F47b4C1a040bD49b24Ae90be",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/autobahn",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1fB359D35c209399F47b4C1a040bD49b24Ae90be/logo.png"
 }

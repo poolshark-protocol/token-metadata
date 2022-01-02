@@ -4,7 +4,8 @@
     "id": "0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/netkoin",
-    "market_cap_rank": 3094,
-    "24_hr_volume_usd": 82.11,
+    "market_cap_usd": 129606,
+    "market_cap_rank": 3106,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5D4d57cd06Fa7fe99e26fdc481b468f77f05073C/logo.png"
 }

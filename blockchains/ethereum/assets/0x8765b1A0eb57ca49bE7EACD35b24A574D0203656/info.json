@@ -4,7 +4,8 @@
     "id": "0x8765b1A0eb57ca49bE7EACD35b24A574D0203656",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/metagamehub-dao",
-    "market_cap_rank": 1757,
-    "24_hr_volume_usd": 17733.18,
+    "market_cap_usd": 3349697,
+    "market_cap_rank": 1767,
+    "24_hr_volume_usd": 19348.48,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8765b1A0eb57ca49bE7EACD35b24A574D0203656/logo.png"
 }

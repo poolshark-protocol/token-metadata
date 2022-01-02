@@ -4,7 +4,8 @@
     "id": "0xb439B8731ee047799019eF0b745a51d256B116Af",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bullionfx",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 14857.26,
+    "24_hr_volume_usd": 19399.41,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb439B8731ee047799019eF0b745a51d256B116Af/logo.png"
 }

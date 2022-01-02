@@ -4,7 +4,8 @@
     "id": "0xeb269732ab75A6fD61Ea60b06fE994cD32a83549",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/usdx-stablecoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1.35,
+    "24_hr_volume_usd": 0.04002078,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeb269732ab75A6fD61Ea60b06fE994cD32a83549/logo.png"
 }

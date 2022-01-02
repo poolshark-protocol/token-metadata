@@ -4,7 +4,8 @@
     "id": "0xF80D589b3Dbe130c270a69F1a69D050f268786Df",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/datamine",
-    "market_cap_rank": 2787,
-    "24_hr_volume_usd": 4502.79,
+    "market_cap_usd": 359244,
+    "market_cap_rank": 2791,
+    "24_hr_volume_usd": 500.17,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF80D589b3Dbe130c270a69F1a69D050f268786Df/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x30365Ed4Ca8173013ad948b9842f34ac71d01f7C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dirham-crypto",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 170328,
+    "24_hr_volume_usd": 166902,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x30365Ed4Ca8173013ad948b9842f34ac71d01f7C/logo.png"
 }

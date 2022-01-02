@@ -4,7 +4,8 @@
     "id": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/loopring",
-    "market_cap_rank": 61,
-    "24_hr_volume_usd": 265149145,
+    "market_cap_usd": 2602527321,
+    "market_cap_rank": 62,
+    "24_hr_volume_usd": 109611347,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
 }

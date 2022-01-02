@@ -4,7 +4,8 @@
     "id": "0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/temco",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 826403,
+    "24_hr_volume_usd": 289321,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2Fc246aA66F0da5bB1368F688548ecBBE9bdee5d/logo.png"
 }

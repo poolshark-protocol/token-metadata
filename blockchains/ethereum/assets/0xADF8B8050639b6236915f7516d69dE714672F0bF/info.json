@@ -4,7 +4,8 @@
     "id": "0xADF8B8050639b6236915f7516d69dE714672F0bF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/scanetchain",
-    "market_cap_rank": 3454,
+    "market_cap_usd": 4807.17,
+    "market_cap_rank": 3453,
     "24_hr_volume_usd": 9.17,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xADF8B8050639b6236915f7516d69dE714672F0bF/logo.png"
 }

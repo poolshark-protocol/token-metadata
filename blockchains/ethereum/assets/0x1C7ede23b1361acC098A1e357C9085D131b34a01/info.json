@@ -4,7 +4,8 @@
     "id": "0x1C7ede23b1361acC098A1e357C9085D131b34a01",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/shinedao",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 7401.16,
+    "24_hr_volume_usd": 4439.68,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1C7ede23b1361acC098A1e357C9085D131b34a01/logo.png"
 }

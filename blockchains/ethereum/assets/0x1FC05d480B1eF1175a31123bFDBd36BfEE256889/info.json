@@ -4,7 +4,8 @@
     "id": "0x1FC05d480B1eF1175a31123bFDBd36BfEE256889",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/noob-finance",
-    "market_cap_rank": 3491,
-    "24_hr_volume_usd": 0.200604,
+    "market_cap_usd": 313.95,
+    "market_cap_rank": 3489,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1FC05d480B1eF1175a31123bFDBd36BfEE256889/logo.png"
 }

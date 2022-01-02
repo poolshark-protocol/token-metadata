@@ -4,7 +4,8 @@
     "id": "0xa12D7e5319f5b43476eF19D1569E10097caCdFE2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/myth-token",
-    "market_cap_rank": 3238,
-    "24_hr_volume_usd": 3223.01,
+    "market_cap_usd": 66548,
+    "market_cap_rank": 3234,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa12D7e5319f5b43476eF19D1569E10097caCdFE2/logo.png"
 }

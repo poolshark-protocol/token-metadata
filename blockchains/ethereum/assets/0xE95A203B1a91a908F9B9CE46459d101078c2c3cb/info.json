@@ -4,7 +4,8 @@
     "id": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ankreth",
-    "market_cap_rank": 352,
-    "24_hr_volume_usd": 270788,
+    "market_cap_usd": 176338298,
+    "market_cap_rank": 351,
+    "24_hr_volume_usd": 188248,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x968F6f898a6Df937fC1859b323aC2F14643e3fED",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/newscrypto-coin",
-    "market_cap_rank": 595,
-    "24_hr_volume_usd": 12325163,
+    "market_cap_usd": 61266600,
+    "market_cap_rank": 604,
+    "24_hr_volume_usd": 8546222,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x968F6f898a6Df937fC1859b323aC2F14643e3fED/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x0c3685559Af6F3d20C501b1076A8056A0A14426a",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/mini-saitama",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 73113,
+    "24_hr_volume_usd": 6820.91,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0c3685559Af6F3d20C501b1076A8056A0A14426a/logo.png"
 }

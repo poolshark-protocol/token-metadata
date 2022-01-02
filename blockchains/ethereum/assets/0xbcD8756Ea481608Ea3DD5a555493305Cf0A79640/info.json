@@ -4,6 +4,7 @@
     "id": "0xbcD8756Ea481608Ea3DD5a555493305Cf0A79640",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/paparazzi",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 3.64,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbcD8756Ea481608Ea3DD5a555493305Cf0A79640/logo.png"

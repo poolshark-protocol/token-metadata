@@ -4,7 +4,8 @@
     "id": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cartesi",
-    "market_cap_rank": 224,
-    "24_hr_volume_usd": 22097644,
+    "market_cap_usd": 349746466,
+    "market_cap_rank": 225,
+    "24_hr_volume_usd": 13532555,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png"
 }

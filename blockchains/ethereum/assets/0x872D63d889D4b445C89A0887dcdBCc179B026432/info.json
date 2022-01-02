@@ -4,7 +4,8 @@
     "id": "0x872D63d889D4b445C89A0887dcdBCc179B026432",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/axus-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1645.97,
+    "24_hr_volume_usd": 3561.45,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x872D63d889D4b445C89A0887dcdBCc179B026432/logo.png"
 }

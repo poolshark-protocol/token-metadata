@@ -4,7 +4,8 @@
     "id": "0x77E9618179820961eE99a988983BC9AB41fF3112",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dragon-x",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 312.51,
+    "24_hr_volume_usd": 3656.56,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77E9618179820961eE99a988983BC9AB41fF3112/logo.png"
 }

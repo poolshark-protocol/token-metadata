@@ -4,7 +4,8 @@
     "id": "0x37d299eF5548BF19503Cb72C085799e331F9097d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vegannation-greencoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 74.62,
+    "24_hr_volume_usd": 74.5,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37d299eF5548BF19503Cb72C085799e331F9097d/logo.png"
 }

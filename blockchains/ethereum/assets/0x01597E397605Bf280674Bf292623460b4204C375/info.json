@@ -4,8 +4,9 @@
     "id": "0x01597E397605Bf280674Bf292623460b4204C375",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bent-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 360002,
+    "24_hr_volume_usd": 1550413,
     "public_notice": "Please note that there is a possible exploitation for Bent Finance. Kindly trade with caution. For more info, visit: https://twitter.com/BENT_Finance/status/1473109745942687745",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x01597E397605Bf280674Bf292623460b4204C375/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x1a3564852D8EdE7c8249805E71718bd7AA93Dd6d",
     "decimals": 2,
     "coingecko_url": "https://www.coingecko.com/en/coins/x-power-chain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 7917.08,
+    "24_hr_volume_usd": 5253.9,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1a3564852D8EdE7c8249805E71718bd7AA93Dd6d/logo.png"
 }

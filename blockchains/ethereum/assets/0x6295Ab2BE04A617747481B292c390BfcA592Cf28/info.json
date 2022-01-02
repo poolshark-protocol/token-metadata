@@ -4,7 +4,8 @@
     "id": "0x6295Ab2BE04A617747481B292c390BfcA592Cf28",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tokendesk",
-    "market_cap_rank": 3401,
+    "market_cap_usd": 13970.96,
+    "market_cap_rank": 3400,
     "24_hr_volume_usd": 0.376944,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6295Ab2BE04A617747481B292c390BfcA592Cf28/logo.png"
 }

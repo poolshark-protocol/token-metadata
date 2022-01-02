@@ -4,7 +4,8 @@
     "id": "0x111111111117dC0aa78b770fA6A738034120C302",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/1inch",
-    "market_cap_rank": 114,
-    "24_hr_volume_usd": 82232996,
+    "market_cap_usd": 1058206197,
+    "market_cap_rank": 113,
+    "24_hr_volume_usd": 64186198,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png"
 }

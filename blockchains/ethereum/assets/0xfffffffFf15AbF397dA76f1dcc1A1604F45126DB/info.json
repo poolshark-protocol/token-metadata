@@ -4,7 +4,8 @@
     "id": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fsw-token",
-    "market_cap_rank": 2081,
-    "24_hr_volume_usd": 74829,
+    "market_cap_usd": 1647872,
+    "market_cap_rank": 2104,
+    "24_hr_volume_usd": 68269,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB/logo.png"
 }

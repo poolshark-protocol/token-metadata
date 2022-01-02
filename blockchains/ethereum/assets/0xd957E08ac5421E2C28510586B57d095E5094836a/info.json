@@ -4,6 +4,7 @@
     "id": "0xd957E08ac5421E2C28510586B57d095E5094836a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vortex-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 140.95,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd957E08ac5421E2C28510586B57d095E5094836a/logo.png"

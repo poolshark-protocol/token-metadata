@@ -4,7 +4,8 @@
     "id": "0x2C82c73d5B34AA015989462b2948cd616a37641F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/spectre-utility-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 202.47,
+    "24_hr_volume_usd": 16.36,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2C82c73d5B34AA015989462b2948cd616a37641F/logo.png"
 }

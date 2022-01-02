@@ -4,7 +4,8 @@
     "id": "0xeCcf15A4B5976a1365BAeD5297058B4cA42777C0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nosturis",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.06388,
+    "24_hr_volume_usd": 9.137e-05,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeCcf15A4B5976a1365BAeD5297058B4cA42777C0/logo.png"
 }

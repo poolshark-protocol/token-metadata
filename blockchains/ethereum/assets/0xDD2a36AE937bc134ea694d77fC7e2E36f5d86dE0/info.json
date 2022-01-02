@@ -4,7 +4,8 @@
     "id": "0xDD2a36AE937bc134ea694d77fC7e2E36f5d86dE0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/weld",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 179867,
+    "24_hr_volume_usd": 192560,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDD2a36AE937bc134ea694d77fC7e2E36f5d86dE0/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ampleforth-governance-token",
-    "market_cap_rank": 527,
-    "24_hr_volume_usd": 4914997,
+    "market_cap_usd": 80436104,
+    "market_cap_rank": 529,
+    "24_hr_volume_usd": 4786104,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x77FbA179C79De5B7653F68b5039Af940AdA60ce0/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0xBbff34E47E559ef680067a6B1c980639EEb64D24",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/leverj-gluon",
-    "market_cap_rank": 1833,
-    "24_hr_volume_usd": 154.48,
+    "market_cap_usd": 2747210,
+    "market_cap_rank": 1849,
+    "24_hr_volume_usd": 0.0,
     "public_notice": "LEV is being migrated to L2 at a rate of 1 LEV per 1 L2. For LEV stats, visit https://www.coingecko.com/en/coins/leverj. For more information, read Leverj.io's announcement https://blog.leverj.io/introducing-layer2-d2b503e27039",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBbff34E47E559ef680067a6B1c980639EEb64D24/logo.png"
 }

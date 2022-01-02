@@ -4,8 +4,9 @@
     "id": "0x4Bb3205bf648B7F59EF90Dee0F1B62F6116Bc7ca",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/beyond-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 110422,
+    "24_hr_volume_usd": 97748,
     "public_notice": "Beyond Finance has rebranded to BeyondFi",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Bb3205bf648B7F59EF90Dee0F1B62F6116Bc7ca/logo.png"
 }

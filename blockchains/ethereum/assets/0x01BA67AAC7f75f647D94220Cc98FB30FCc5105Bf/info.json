@@ -4,7 +4,8 @@
     "id": "0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lyra-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 33034,
+    "24_hr_volume_usd": 40538,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf/logo.png"
 }

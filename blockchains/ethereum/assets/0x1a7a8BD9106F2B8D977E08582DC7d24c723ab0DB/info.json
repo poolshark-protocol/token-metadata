@@ -4,7 +4,8 @@
     "id": "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/appcoins",
-    "market_cap_rank": 2281,
-    "24_hr_volume_usd": 17145.95,
+    "market_cap_usd": 1154097,
+    "market_cap_rank": 2276,
+    "24_hr_volume_usd": 13312.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB/logo.png"
 }

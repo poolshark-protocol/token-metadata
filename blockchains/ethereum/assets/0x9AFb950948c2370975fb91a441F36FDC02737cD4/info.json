@@ -4,7 +4,8 @@
     "id": "0x9AFb950948c2370975fb91a441F36FDC02737cD4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/huobi-fil",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 311714,
+    "24_hr_volume_usd": 185122,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9AFb950948c2370975fb91a441F36FDC02737cD4/logo.png"
 }

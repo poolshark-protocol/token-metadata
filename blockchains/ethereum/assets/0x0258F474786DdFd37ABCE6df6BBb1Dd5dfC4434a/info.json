@@ -4,8 +4,9 @@
     "id": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/orion-protocol",
-    "market_cap_rank": 299,
-    "24_hr_volume_usd": 31654085,
+    "market_cap_usd": 212472447,
+    "market_cap_rank": 315,
+    "24_hr_volume_usd": 17339297,
     "public_notice": "Orion Protocol has reissued ORN 1:1 via token swap, with automatic distribution of new tokens to all ORN holders (http://blog.orionprotocol.io/tokenswap) New Token Address:0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a/logo.png"
 }

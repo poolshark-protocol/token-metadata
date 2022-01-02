@@ -4,7 +4,8 @@
     "id": "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mch-coin",
-    "market_cap_rank": 1649,
-    "24_hr_volume_usd": 387031,
+    "market_cap_usd": 4484928,
+    "market_cap_rank": 1602,
+    "24_hr_volume_usd": 166564,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3/logo.png"
 }

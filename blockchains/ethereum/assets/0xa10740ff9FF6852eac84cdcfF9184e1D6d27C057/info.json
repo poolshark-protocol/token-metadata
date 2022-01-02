@@ -4,7 +4,8 @@
     "id": "0xa10740ff9FF6852eac84cdcfF9184e1D6d27C057",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-gen-0-cryptokitties",
-    "market_cap_rank": 2530,
-    "24_hr_volume_usd": 1795.41,
+    "market_cap_usd": 695431,
+    "market_cap_rank": 2526,
+    "24_hr_volume_usd": 149.9,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa10740ff9FF6852eac84cdcfF9184e1D6d27C057/logo.png"
 }

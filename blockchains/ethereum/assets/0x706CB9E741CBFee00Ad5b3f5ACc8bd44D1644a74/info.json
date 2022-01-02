@@ -4,7 +4,8 @@
     "id": "0x706CB9E741CBFee00Ad5b3f5ACc8bd44D1644a74",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/yfox-finance",
-    "market_cap_rank": 3083,
-    "24_hr_volume_usd": 1061.98,
+    "market_cap_usd": 115271,
+    "market_cap_rank": 3132,
+    "24_hr_volume_usd": 8807.18,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x706CB9E741CBFee00Ad5b3f5ACc8bd44D1644a74/logo.png"
 }

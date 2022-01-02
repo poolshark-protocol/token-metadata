@@ -4,7 +4,8 @@
     "id": "0xaB37e1358b639Fd877f015027Bb62d3ddAa7557E",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/lien",
-    "market_cap_rank": 2599,
-    "24_hr_volume_usd": 128673,
+    "market_cap_usd": 509194,
+    "market_cap_rank": 2662,
+    "24_hr_volume_usd": 16600.71,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaB37e1358b639Fd877f015027Bb62d3ddAa7557E/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x975769557510167d25BEed6E32806537173E292C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/derivex",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 4593.07,
+    "24_hr_volume_usd": 2999.33,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x975769557510167d25BEed6E32806537173E292C/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x84d821F7FbDD595c4C4A50842913e6b1E07d7a53",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bnpl-pay",
-    "market_cap_rank": 1446,
-    "24_hr_volume_usd": 39246,
+    "market_cap_usd": 6532941,
+    "market_cap_rank": 1459,
+    "24_hr_volume_usd": 15925.18,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x84d821F7FbDD595c4C4A50842913e6b1E07d7a53/logo.png"
 }

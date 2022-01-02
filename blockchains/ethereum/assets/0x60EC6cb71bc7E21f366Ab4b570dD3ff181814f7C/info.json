@@ -4,6 +4,7 @@
     "id": "0x60EC6cb71bc7E21f366Ab4b570dD3ff181814f7C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aevolve-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 89.04,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x60EC6cb71bc7E21f366Ab4b570dD3ff181814f7C/logo.png"

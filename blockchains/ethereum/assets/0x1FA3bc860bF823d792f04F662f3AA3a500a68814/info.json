@@ -4,7 +4,8 @@
     "id": "0x1FA3bc860bF823d792f04F662f3AA3a500a68814",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/1x-short-bitcoin-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 258087,
+    "24_hr_volume_usd": 74881,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1FA3bc860bF823d792f04F662f3AA3a500a68814/logo.png"
 }

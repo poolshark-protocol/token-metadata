@@ -4,7 +4,8 @@
     "id": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lido-dao",
-    "market_cap_rank": 314,
-    "24_hr_volume_usd": 4057941,
+    "market_cap_usd": 243754112,
+    "market_cap_rank": 290,
+    "24_hr_volume_usd": 5276465,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32/logo.png"
 }

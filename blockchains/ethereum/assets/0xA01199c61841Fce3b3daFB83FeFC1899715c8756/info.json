@@ -4,7 +4,8 @@
     "id": "0xA01199c61841Fce3b3daFB83FeFC1899715c8756",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cirus",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2801524,
+    "24_hr_volume_usd": 3285642,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA01199c61841Fce3b3daFB83FeFC1899715c8756/logo.png"
 }

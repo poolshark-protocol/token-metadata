@@ -4,7 +4,8 @@
     "id": "0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polaris-share",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 318959,
+    "24_hr_volume_usd": 202005,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc691bc298a304d591Ad9b352c7A8D216dE9f2CED/logo.png"
 }

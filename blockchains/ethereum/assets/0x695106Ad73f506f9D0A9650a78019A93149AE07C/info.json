@@ -4,7 +4,8 @@
     "id": "0x695106Ad73f506f9D0A9650a78019A93149AE07C",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/bns-token",
-    "market_cap_rank": 627,
-    "24_hr_volume_usd": 67662,
+    "market_cap_usd": 54277739,
+    "market_cap_rank": 637,
+    "24_hr_volume_usd": 51164,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x695106Ad73f506f9D0A9650a78019A93149AE07C/logo.png"
 }

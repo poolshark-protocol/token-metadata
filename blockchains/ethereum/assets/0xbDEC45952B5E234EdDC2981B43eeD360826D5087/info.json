@@ -4,7 +4,8 @@
     "id": "0xbDEC45952B5E234EdDC2981B43eeD360826D5087",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mogu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 51924,
+    "24_hr_volume_usd": 38700,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbDEC45952B5E234EdDC2981B43eeD360826D5087/logo.png"
 }

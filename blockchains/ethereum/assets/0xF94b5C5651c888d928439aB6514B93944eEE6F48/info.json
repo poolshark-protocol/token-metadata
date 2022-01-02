@@ -4,7 +4,8 @@
     "id": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yield-app",
-    "market_cap_rank": 731,
-    "24_hr_volume_usd": 1085186,
+    "market_cap_usd": 40015070,
+    "market_cap_rank": 737,
+    "24_hr_volume_usd": 336490,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF94b5C5651c888d928439aB6514B93944eEE6F48/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xb3BACe433288645114FE8e8aA91F87659CBF665b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wallet-plus-x",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 126.74,
+    "24_hr_volume_usd": 41.16,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb3BACe433288645114FE8e8aA91F87659CBF665b/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/machix",
-    "market_cap_rank": 2530,
-    "24_hr_volume_usd": 1.7,
+    "market_cap_usd": 665057,
+    "market_cap_rank": 2548,
+    "24_hr_volume_usd": 0.45254,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd15eCDCF5Ea68e3995b2D0527A0aE0a3258302F8/logo.png"
 }

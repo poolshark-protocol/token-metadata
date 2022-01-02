@@ -4,7 +4,8 @@
     "id": "0x64A60493D888728Cf42616e034a0dfEAe38EFCF0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/one-ledger",
-    "market_cap_rank": 1080,
-    "24_hr_volume_usd": 223945,
+    "market_cap_usd": 14787312,
+    "market_cap_rank": 1089,
+    "24_hr_volume_usd": 162187,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x64A60493D888728Cf42616e034a0dfEAe38EFCF0/logo.png"
 }

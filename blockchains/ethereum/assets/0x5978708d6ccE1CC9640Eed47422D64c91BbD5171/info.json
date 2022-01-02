@@ -4,7 +4,8 @@
     "id": "0x5978708d6ccE1CC9640Eed47422D64c91BbD5171",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/loltoken",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 4117.96,
+    "24_hr_volume_usd": 3795.35,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5978708d6ccE1CC9640Eed47422D64c91BbD5171/logo.png"
 }

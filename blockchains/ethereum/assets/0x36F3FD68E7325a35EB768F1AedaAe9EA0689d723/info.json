@@ -4,7 +4,8 @@
     "id": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/empty-set-dollar",
-    "market_cap_rank": 1909,
-    "24_hr_volume_usd": 11313.98,
+    "market_cap_usd": 3265869,
+    "market_cap_rank": 1774,
+    "24_hr_volume_usd": 633412,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723/logo.png"
 }

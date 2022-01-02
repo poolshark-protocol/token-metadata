@@ -4,8 +4,9 @@
     "id": "0x04F2694C8fcee23e8Fd0dfEA1d4f5Bb8c352111F",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/staked-olympus",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 61468,
+    "24_hr_volume_usd": 120904,
     "public_notice": "Olympus (OHM): https://www.coingecko.com/en/coins/olympus <br> Wrapped Staked Olympus (wSOHM): https://www.coingecko.com/en/coins/wrapped-staked-olympus",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x04F2694C8fcee23e8Fd0dfEA1d4f5Bb8c352111F/logo.png"
 }

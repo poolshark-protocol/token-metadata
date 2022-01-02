@@ -4,7 +4,8 @@
     "id": "0xd9af2d11d788da0097076f4Eb21bd1C5533743D9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/legal-block",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 5.08,
+    "24_hr_volume_usd": 10.54,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd9af2d11d788da0097076f4Eb21bd1C5533743D9/logo.png"
 }

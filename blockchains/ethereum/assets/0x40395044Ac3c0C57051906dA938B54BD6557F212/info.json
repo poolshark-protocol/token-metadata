@@ -4,7 +4,8 @@
     "id": "0x40395044Ac3c0C57051906dA938B54BD6557F212",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/mobilego",
-    "market_cap_rank": 2392,
-    "24_hr_volume_usd": 53337,
+    "market_cap_usd": 906561,
+    "market_cap_rank": 2409,
+    "24_hr_volume_usd": 44199,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x40395044Ac3c0C57051906dA938B54BD6557F212/logo.png"
 }

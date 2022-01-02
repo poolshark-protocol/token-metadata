@@ -4,7 +4,8 @@
     "id": "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/populous",
-    "market_cap_rank": 924,
-    "24_hr_volume_usd": 541901,
+    "market_cap_usd": 21236074,
+    "market_cap_rank": 949,
+    "24_hr_volume_usd": 501780,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a/logo.png"
 }

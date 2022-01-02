@@ -4,7 +4,8 @@
     "id": "0x83869DE76B9Ad8125e22b857f519F001588c0f62",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/exmo-coin",
-    "market_cap_rank": 1952,
-    "24_hr_volume_usd": 170682,
+    "market_cap_usd": 2212063,
+    "market_cap_rank": 1953,
+    "24_hr_volume_usd": 134679,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x83869DE76B9Ad8125e22b857f519F001588c0f62/logo.png"
 }

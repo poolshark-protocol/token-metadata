@@ -4,7 +4,8 @@
     "id": "0x5D21eF5f25a985380B65c8e943A0082fEDa0Db84",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-cash",
-    "market_cap_rank": 3203,
-    "24_hr_volume_usd": 19.4,
+    "market_cap_usd": 82108,
+    "market_cap_rank": 3205,
+    "24_hr_volume_usd": 0.00595159,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5D21eF5f25a985380B65c8e943A0082fEDa0Db84/logo.png"
 }

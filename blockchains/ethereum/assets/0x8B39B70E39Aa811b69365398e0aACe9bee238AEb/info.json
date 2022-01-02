@@ -4,7 +4,8 @@
     "id": "0x8B39B70E39Aa811b69365398e0aACe9bee238AEb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polkafoundry",
-    "market_cap_rank": 699,
-    "24_hr_volume_usd": 454937,
+    "market_cap_usd": 45714945,
+    "market_cap_rank": 687,
+    "24_hr_volume_usd": 305860,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8B39B70E39Aa811b69365398e0aACe9bee238AEb/logo.png"
 }

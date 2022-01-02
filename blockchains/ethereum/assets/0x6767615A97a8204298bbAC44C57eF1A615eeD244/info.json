@@ -4,6 +4,7 @@
     "id": "0x6767615A97a8204298bbAC44C57eF1A615eeD244",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cribnb",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6767615A97a8204298bbAC44C57eF1A615eeD244/logo.png"

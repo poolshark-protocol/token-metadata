@@ -4,7 +4,8 @@
     "id": "0x76960Dccd5a1fe799F7c29bE9F19ceB4627aEb2f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/red",
-    "market_cap_rank": 2545,
-    "24_hr_volume_usd": 9905.61,
+    "market_cap_usd": 793998,
+    "market_cap_rank": 2467,
+    "24_hr_volume_usd": 33480,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x76960Dccd5a1fe799F7c29bE9F19ceB4627aEb2f/logo.png"
 }

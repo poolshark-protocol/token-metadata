@@ -4,7 +4,8 @@
     "id": "0x8e87F1811De0025D2335174dbc7338a43dF6d7cc",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/virtual-goods-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2628.76,
+    "24_hr_volume_usd": 1675.25,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8e87F1811De0025D2335174dbc7338a43dF6d7cc/logo.png"
 }

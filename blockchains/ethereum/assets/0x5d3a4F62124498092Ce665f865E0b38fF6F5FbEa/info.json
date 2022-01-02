@@ -4,7 +4,8 @@
     "id": "0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ideaology",
-    "market_cap_rank": 1679,
-    "24_hr_volume_usd": 651503,
+    "market_cap_usd": 4056620,
+    "market_cap_rank": 1667,
+    "24_hr_volume_usd": 528448,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5d3a4F62124498092Ce665f865E0b38fF6F5FbEa/logo.png"
 }

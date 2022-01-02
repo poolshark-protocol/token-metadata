@@ -4,7 +4,8 @@
     "id": "0x131157c6760f78f7dDF877C0019Eba175BA4b6F6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bigshortbets",
-    "market_cap_rank": 1482,
-    "24_hr_volume_usd": 1431.8,
+    "market_cap_usd": 6031395,
+    "market_cap_rank": 1489,
+    "24_hr_volume_usd": 672.78,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x131157c6760f78f7dDF877C0019Eba175BA4b6F6/logo.png"
 }

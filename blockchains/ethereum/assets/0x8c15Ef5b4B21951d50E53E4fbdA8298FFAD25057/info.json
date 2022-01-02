@@ -4,8 +4,9 @@
     "id": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fx-coin",
+    "market_cap_usd": 402326826,
     "market_cap_rank": 206,
-    "24_hr_volume_usd": 3704875,
+    "24_hr_volume_usd": 3149376,
     "public_notice": "Guide to Stake/Convert NPXS / NPXSEM to f(x) tokens - https://functionx.io/#/token",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057/logo.png"
 }

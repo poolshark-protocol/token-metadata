@@ -4,7 +4,8 @@
     "id": "0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/tronclassic",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.0,
+    "24_hr_volume_usd": 1.6,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaD5Fe5B0B8eC8fF4565204990E4405B2Da117d8e/logo.png"
 }

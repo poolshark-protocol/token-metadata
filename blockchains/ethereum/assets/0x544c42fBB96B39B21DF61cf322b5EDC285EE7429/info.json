@@ -4,7 +4,8 @@
     "id": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/insurace",
-    "market_cap_rank": 713,
-    "24_hr_volume_usd": 3917637,
+    "market_cap_usd": 41499437,
+    "market_cap_rank": 718,
+    "24_hr_volume_usd": 3600146,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
 }

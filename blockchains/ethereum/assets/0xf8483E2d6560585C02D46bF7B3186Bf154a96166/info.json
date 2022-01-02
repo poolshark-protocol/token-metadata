@@ -4,7 +4,8 @@
     "id": "0xf8483E2d6560585C02D46bF7B3186Bf154a96166",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/ideachain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 4.72,
+    "24_hr_volume_usd": 5.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf8483E2d6560585C02D46bF7B3186Bf154a96166/logo.png"
 }

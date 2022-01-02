@@ -4,7 +4,8 @@
     "id": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nucleus-vision",
-    "market_cap_rank": 1499,
-    "24_hr_volume_usd": 157626,
+    "market_cap_usd": 5766018,
+    "market_cap_rank": 1505,
+    "24_hr_volume_usd": 62610,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x809826cceAb68c387726af962713b64Cb5Cb3CCA/logo.png"
 }

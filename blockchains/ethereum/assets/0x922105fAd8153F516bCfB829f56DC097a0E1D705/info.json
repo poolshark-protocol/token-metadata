@@ -4,7 +4,8 @@
     "id": "0x922105fAd8153F516bCfB829f56DC097a0E1D705",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yee",
-    "market_cap_rank": 1377,
-    "24_hr_volume_usd": 444013,
+    "market_cap_usd": 7019057,
+    "market_cap_rank": 1427,
+    "24_hr_volume_usd": 277721,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x922105fAd8153F516bCfB829f56DC097a0E1D705/logo.png"
 }

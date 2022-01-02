@@ -4,7 +4,8 @@
     "id": "0xCF58b4E4863C0D085bd1C65B3f2932e261547fab",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/lorde-edge",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1756.26,
+    "24_hr_volume_usd": 578.59,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCF58b4E4863C0D085bd1C65B3f2932e261547fab/logo.png"
 }

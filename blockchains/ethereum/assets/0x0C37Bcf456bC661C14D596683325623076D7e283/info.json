@@ -4,8 +4,9 @@
     "id": "0x0C37Bcf456bC661C14D596683325623076D7e283",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aeron",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 328.13,
+    "24_hr_volume_usd": 3990.67,
     "public_notice": "Aeron's token upgrade from ARN to ARNX: https://i.aeron.aero/migrate. Contract address changed from 0xba5f11b16b155792cf3b2e6880e8706859a8aeb6 to 0x0C37Bcf456bC661C14D596683325623076D7e283",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0C37Bcf456bC661C14D596683325623076D7e283/logo.png"
 }

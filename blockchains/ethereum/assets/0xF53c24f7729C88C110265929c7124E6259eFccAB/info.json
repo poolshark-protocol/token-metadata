@@ -4,7 +4,8 @@
     "id": "0xF53c24f7729C88C110265929c7124E6259eFccAB",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/bobo-cash",
-    "market_cap_rank": 2651,
+    "market_cap_usd": 506915,
+    "market_cap_rank": 2663,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF53c24f7729C88C110265929c7124E6259eFccAB/logo.png"
 }

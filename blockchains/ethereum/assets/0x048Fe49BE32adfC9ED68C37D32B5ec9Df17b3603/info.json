@@ -4,7 +4,8 @@
     "id": "0x048Fe49BE32adfC9ED68C37D32B5ec9Df17b3603",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/skrumble-network",
-    "market_cap_rank": 2017,
-    "24_hr_volume_usd": 244122,
+    "market_cap_usd": 1812558,
+    "market_cap_rank": 2048,
+    "24_hr_volume_usd": 86411,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x048Fe49BE32adfC9ED68C37D32B5ec9Df17b3603/logo.png"
 }

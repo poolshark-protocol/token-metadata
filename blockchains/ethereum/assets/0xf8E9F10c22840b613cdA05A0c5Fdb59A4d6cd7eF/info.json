@@ -4,7 +4,8 @@
     "id": "0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dogsofelon",
-    "market_cap_rank": 1390,
-    "24_hr_volume_usd": 463522,
+    "market_cap_usd": 7158083,
+    "market_cap_rank": 1418,
+    "24_hr_volume_usd": 259805,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf8E9F10c22840b613cdA05A0c5Fdb59A4d6cd7eF/logo.png"
 }

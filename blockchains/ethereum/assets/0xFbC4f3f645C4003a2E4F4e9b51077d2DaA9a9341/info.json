@@ -4,7 +4,8 @@
     "id": "0xFbC4f3f645C4003a2E4F4e9b51077d2DaA9a9341",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zedxion",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 20305,
+    "24_hr_volume_usd": 64873,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFbC4f3f645C4003a2E4F4e9b51077d2DaA9a9341/logo.png"
 }

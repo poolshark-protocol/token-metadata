@@ -4,7 +4,8 @@
     "id": "0xB56A1f3310578f23120182Fb2e58c087EFE6e147",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/all-coins-yield-capital",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 488700,
+    "24_hr_volume_usd": 1250414,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB56A1f3310578f23120182Fb2e58c087EFE6e147/logo.png"
 }

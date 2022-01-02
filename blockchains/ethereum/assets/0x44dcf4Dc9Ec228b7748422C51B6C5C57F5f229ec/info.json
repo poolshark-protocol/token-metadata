@@ -4,7 +4,8 @@
     "id": "0x44dcf4Dc9Ec228b7748422C51B6C5C57F5f229ec",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/quannabu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 828.43,
+    "24_hr_volume_usd": 28.87,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x44dcf4Dc9Ec228b7748422C51B6C5C57F5f229ec/logo.png"
 }

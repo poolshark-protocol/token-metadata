@@ -4,8 +4,9 @@
     "id": "0x15874d65e649880c2614e7a480cb7c9A55787FF6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethereummax",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 191221,
+    "24_hr_volume_usd": 232205,
     "public_notice": "Contract Address has been changed - Announcement https://twitter.com/ethereum_max/status/1397615924446830592",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x15874d65e649880c2614e7a480cb7c9A55787FF6/logo.png"
 }

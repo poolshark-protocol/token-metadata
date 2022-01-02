@@ -4,7 +4,8 @@
     "id": "0x244c5276Ea5bB927575417156038d7381b44Ab2c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bridge-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 112.69,
+    "24_hr_volume_usd": 0.109101,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x244c5276Ea5bB927575417156038d7381b44Ab2c/logo.png"
 }

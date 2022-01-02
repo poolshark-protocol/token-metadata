@@ -4,7 +4,8 @@
     "id": "0x34f797e7190C131cF630524655A618b5BD8738e7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bacondao",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2105.63,
+    "24_hr_volume_usd": 110855,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x34f797e7190C131cF630524655A618b5BD8738e7/logo.png"
 }

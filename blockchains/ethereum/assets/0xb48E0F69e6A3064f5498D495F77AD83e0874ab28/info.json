@@ -4,7 +4,8 @@
     "id": "0xb48E0F69e6A3064f5498D495F77AD83e0874ab28",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cxn-network",
-    "market_cap_rank": 3031,
+    "market_cap_usd": 165915,
+    "market_cap_rank": 3032,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb48E0F69e6A3064f5498D495F77AD83e0874ab28/logo.png"
 }

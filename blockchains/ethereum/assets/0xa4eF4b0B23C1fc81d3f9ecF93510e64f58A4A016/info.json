@@ -4,7 +4,8 @@
     "id": "0xa4eF4b0B23C1fc81d3f9ecF93510e64f58A4A016",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/1million-nfts",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 963.29,
+    "24_hr_volume_usd": 39.48,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa4eF4b0B23C1fc81d3f9ecF93510e64f58A4A016/logo.png"
 }

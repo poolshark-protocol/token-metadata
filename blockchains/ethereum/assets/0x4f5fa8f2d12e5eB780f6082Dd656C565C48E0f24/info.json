@@ -4,7 +4,8 @@
     "id": "0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gourmetgalaxy",
-    "market_cap_rank": 2413,
-    "24_hr_volume_usd": 222562,
+    "market_cap_usd": 935191,
+    "market_cap_rank": 2392,
+    "24_hr_volume_usd": 48025,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4f5fa8f2d12e5eB780f6082Dd656C565C48E0f24/logo.png"
 }

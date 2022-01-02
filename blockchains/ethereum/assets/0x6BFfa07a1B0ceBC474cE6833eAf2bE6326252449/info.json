@@ -4,7 +4,8 @@
     "id": "0x6BFfa07a1B0ceBC474cE6833eAf2bE6326252449",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/baepay",
-    "market_cap_rank": 2746,
-    "24_hr_volume_usd": 1022.72,
+    "market_cap_usd": 398062,
+    "market_cap_rank": 2744,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6BFfa07a1B0ceBC474cE6833eAf2bE6326252449/logo.png"
 }

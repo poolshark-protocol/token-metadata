@@ -4,7 +4,8 @@
     "id": "0x998b3B82bC9dBA173990Be7afb772788B5aCB8Bd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/banca",
-    "market_cap_rank": 2556,
-    "24_hr_volume_usd": 98.63,
+    "market_cap_usd": 670026,
+    "market_cap_rank": 2544,
+    "24_hr_volume_usd": 13672.93,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x998b3B82bC9dBA173990Be7afb772788B5aCB8Bd/logo.png"
 }

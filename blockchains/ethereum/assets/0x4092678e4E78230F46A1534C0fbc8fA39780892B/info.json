@@ -4,7 +4,8 @@
     "id": "0x4092678e4E78230F46A1534C0fbc8fA39780892B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/odyssey",
-    "market_cap_rank": 1853,
-    "24_hr_volume_usd": 33502,
+    "market_cap_usd": 2835228,
+    "market_cap_rank": 1838,
+    "24_hr_volume_usd": 42025,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4092678e4E78230F46A1534C0fbc8fA39780892B/logo.png"
 }

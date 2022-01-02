@@ -4,7 +4,8 @@
     "id": "0xaC0104Cca91D167873B8601d2e71EB3D4D8c33e0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/crowns",
-    "market_cap_rank": 1019,
-    "24_hr_volume_usd": 3848879,
+    "market_cap_usd": 18953470,
+    "market_cap_rank": 995,
+    "24_hr_volume_usd": 4845161,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaC0104Cca91D167873B8601d2e71EB3D4D8c33e0/logo.png"
 }

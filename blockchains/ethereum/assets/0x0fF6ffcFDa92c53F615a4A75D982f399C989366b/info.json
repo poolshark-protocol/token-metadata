@@ -4,7 +4,8 @@
     "id": "0x0fF6ffcFDa92c53F615a4A75D982f399C989366b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unilayer",
-    "market_cap_rank": 1332,
-    "24_hr_volume_usd": 1691599,
+    "market_cap_usd": 8304565,
+    "market_cap_rank": 1349,
+    "24_hr_volume_usd": 1164119,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0fF6ffcFDa92c53F615a4A75D982f399C989366b/logo.png"
 }

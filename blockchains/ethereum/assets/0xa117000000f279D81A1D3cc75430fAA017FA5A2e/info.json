@@ -4,8 +4,9 @@
     "id": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aragon",
-    "market_cap_rank": 176,
-    "24_hr_volume_usd": 264574613,
+    "market_cap_usd": 499135590,
+    "market_cap_rank": 182,
+    "24_hr_volume_usd": 162199612,
     "public_notice": "<b>Contract Migration</b>: Aragon has underwent a smart contract upgrade. Read more here: https://aragon.org/blog/antv2 <br> To Upgrade your ANT, please visit the migration portal link at https://upgrade.aragon.org/#/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa117000000f279D81A1D3cc75430fAA017FA5A2e/logo.png"
 }

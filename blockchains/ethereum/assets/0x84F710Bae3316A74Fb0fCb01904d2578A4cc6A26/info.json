@@ -4,7 +4,8 @@
     "id": "0x84F710Bae3316A74Fb0fCb01904d2578A4cc6A26",
     "decimals": 1,
     "coingecko_url": "https://www.coingecko.com/en/coins/philips-pay-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 14.36,
+    "24_hr_volume_usd": 4.72,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x84F710Bae3316A74Fb0fCb01904d2578A4cc6A26/logo.png"
 }

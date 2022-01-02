@@ -4,7 +4,8 @@
     "id": "0xea3983Fc6D0fbbC41fb6F6091f68F3e08894dC06",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unido-ep",
-    "market_cap_rank": 1305,
-    "24_hr_volume_usd": 453668,
+    "market_cap_usd": 8487283,
+    "market_cap_rank": 1334,
+    "24_hr_volume_usd": 835374,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xea3983Fc6D0fbbC41fb6F6091f68F3e08894dC06/logo.png"
 }

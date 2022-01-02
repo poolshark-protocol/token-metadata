@@ -4,7 +4,8 @@
     "id": "0x0AbdAce70D3790235af448C88547603b945604ea",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/district0x",
-    "market_cap_rank": 473,
-    "24_hr_volume_usd": 3424002,
+    "market_cap_usd": 100890273,
+    "market_cap_rank": 468,
+    "24_hr_volume_usd": 1874108,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0AbdAce70D3790235af448C88547603b945604ea/logo.png"
 }

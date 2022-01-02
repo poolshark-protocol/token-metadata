@@ -4,7 +4,8 @@
     "id": "0x37092DBF8C26DA9Cc805683B4Cc0B942E92DE2fd",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/blue-eyes-white-doge",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 185.82,
+    "24_hr_volume_usd": 58.36,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37092DBF8C26DA9Cc805683B4Cc0B942E92DE2fd/logo.png"
 }

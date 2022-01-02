@@ -4,7 +4,8 @@
     "id": "0x43E577338d6C07bc92a06C8CA4B781470515dFA8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/oblichain",
-    "market_cap_rank": 2693,
+    "market_cap_usd": 450251,
+    "market_cap_rank": 2702,
     "24_hr_volume_usd": 54.23,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x43E577338d6C07bc92a06C8CA4B781470515dFA8/logo.png"
 }

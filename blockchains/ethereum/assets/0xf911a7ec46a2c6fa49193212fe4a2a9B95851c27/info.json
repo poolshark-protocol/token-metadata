@@ -4,7 +4,8 @@
     "id": "0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/antiample",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 170.57,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27/logo.png"
 }

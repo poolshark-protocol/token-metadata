@@ -4,7 +4,8 @@
     "id": "0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/surf-finance",
-    "market_cap_rank": 2095,
-    "24_hr_volume_usd": 5948.45,
+    "market_cap_usd": 1666303,
+    "market_cap_rank": 2096,
+    "24_hr_volume_usd": 7971.35,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c/logo.png"
 }

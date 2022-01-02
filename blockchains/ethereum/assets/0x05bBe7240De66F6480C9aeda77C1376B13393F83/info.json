@@ -4,7 +4,8 @@
     "id": "0x05bBe7240De66F6480C9aeda77C1376B13393F83",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/xeno-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 9663686,
+    "24_hr_volume_usd": 11652867,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x05bBe7240De66F6480C9aeda77C1376B13393F83/logo.png"
 }

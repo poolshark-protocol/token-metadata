@@ -4,7 +4,8 @@
     "id": "0x773258b03c730F84aF10dFcB1BfAa7487558B8Ac",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/secret-finance",
-    "market_cap_rank": 1200,
-    "24_hr_volume_usd": 1220443,
+    "market_cap_usd": 13093818,
+    "market_cap_rank": 1143,
+    "24_hr_volume_usd": 1035285,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x773258b03c730F84aF10dFcB1BfAa7487558B8Ac/logo.png"
 }

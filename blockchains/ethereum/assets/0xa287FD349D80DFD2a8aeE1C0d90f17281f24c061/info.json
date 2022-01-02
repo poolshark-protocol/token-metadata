@@ -4,7 +4,8 @@
     "id": "0xa287FD349D80DFD2a8aeE1C0d90f17281f24c061",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/reucoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 18281.3,
+    "24_hr_volume_usd": 25327,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa287FD349D80DFD2a8aeE1C0d90f17281f24c061/logo.png"
 }

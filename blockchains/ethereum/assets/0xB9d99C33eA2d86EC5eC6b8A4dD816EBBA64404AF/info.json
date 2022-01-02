@@ -4,7 +4,8 @@
     "id": "0xB9d99C33eA2d86EC5eC6b8A4dD816EBBA64404AF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/k21",
+    "market_cap_usd": 20125403,
     "market_cap_rank": 977,
-    "24_hr_volume_usd": 2894806,
+    "24_hr_volume_usd": 2482734,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB9d99C33eA2d86EC5eC6b8A4dD816EBBA64404AF/logo.png"
 }

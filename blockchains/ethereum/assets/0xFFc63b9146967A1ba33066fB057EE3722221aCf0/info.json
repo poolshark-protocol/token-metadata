@@ -4,7 +4,8 @@
     "id": "0xFFc63b9146967A1ba33066fB057EE3722221aCf0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/alpha-platform",
-    "market_cap_rank": 3498,
+    "market_cap_usd": 82.18,
+    "market_cap_rank": 3497,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFFc63b9146967A1ba33066fB057EE3722221aCf0/logo.png"
 }

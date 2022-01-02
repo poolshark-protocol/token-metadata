@@ -4,7 +4,8 @@
     "id": "0x30BCd71b8d21FE830e493b30e90befbA29de9114",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/penguin-party-fish",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 25861,
+    "24_hr_volume_usd": 8838.72,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x30BCd71b8d21FE830e493b30e90befbA29de9114/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xcF78C7dD70d6F30F6E3609e905e78305Da98c863",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ownix",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 21.04,
+    "24_hr_volume_usd": 1471.67,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcF78C7dD70d6F30F6E3609e905e78305Da98c863/logo.png"
 }

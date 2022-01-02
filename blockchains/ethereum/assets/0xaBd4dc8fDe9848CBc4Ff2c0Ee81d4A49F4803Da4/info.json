@@ -4,7 +4,8 @@
     "id": "0xaBd4dc8fDe9848CBc4Ff2c0Ee81d4A49F4803Da4",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/squeeze-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12352.57,
+    "24_hr_volume_usd": 6589.9,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaBd4dc8fDe9848CBc4Ff2c0Ee81d4A49F4803Da4/logo.png"
 }

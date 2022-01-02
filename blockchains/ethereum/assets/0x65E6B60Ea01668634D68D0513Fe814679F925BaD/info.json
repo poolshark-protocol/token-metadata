@@ -4,7 +4,8 @@
     "id": "0x65E6B60Ea01668634D68D0513Fe814679F925BaD",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pixelverse",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 103734,
+    "24_hr_volume_usd": 78394,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x65E6B60Ea01668634D68D0513Fe814679F925BaD/logo.png"
 }

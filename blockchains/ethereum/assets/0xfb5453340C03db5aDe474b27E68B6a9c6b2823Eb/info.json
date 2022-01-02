@@ -4,7 +4,8 @@
     "id": "0xfb5453340C03db5aDe474b27E68B6a9c6b2823Eb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/robot",
-    "market_cap_rank": 1018,
-    "24_hr_volume_usd": 4695.95,
+    "market_cap_usd": 17529597,
+    "market_cap_rank": 1022,
+    "24_hr_volume_usd": 1378.91,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfb5453340C03db5aDe474b27E68B6a9c6b2823Eb/logo.png"
 }

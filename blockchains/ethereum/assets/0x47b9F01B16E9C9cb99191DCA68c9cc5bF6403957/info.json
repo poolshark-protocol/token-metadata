@@ -4,7 +4,8 @@
     "id": "0x47b9F01B16E9C9cb99191DCA68c9cc5bF6403957",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/onston",
-    "market_cap_rank": 1021,
-    "24_hr_volume_usd": 29460967,
+    "market_cap_usd": 21164389,
+    "market_cap_rank": 951,
+    "24_hr_volume_usd": 28193228,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x47b9F01B16E9C9cb99191DCA68c9cc5bF6403957/logo.png"
 }

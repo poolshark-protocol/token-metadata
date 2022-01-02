@@ -4,7 +4,8 @@
     "id": "0x0acC0FEE1D86D2cD5AF372615bf59b298D50cd69",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/invest-like-stakeborg-index",
-    "market_cap_rank": 1979,
-    "24_hr_volume_usd": 554927,
+    "market_cap_usd": 2106235,
+    "market_cap_rank": 1969,
+    "24_hr_volume_usd": 16523.85,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0acC0FEE1D86D2cD5AF372615bf59b298D50cd69/logo.png"
 }

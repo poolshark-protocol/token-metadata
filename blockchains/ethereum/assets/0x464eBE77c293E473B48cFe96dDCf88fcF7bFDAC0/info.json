@@ -4,7 +4,8 @@
     "id": "0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kryll",
-    "market_cap_rank": 654,
-    "24_hr_volume_usd": 1512651,
+    "market_cap_usd": 62923708,
+    "market_cap_rank": 593,
+    "24_hr_volume_usd": 12573810,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x464eBE77c293E473B48cFe96dDCf88fcF7bFDAC0/logo.png"
 }

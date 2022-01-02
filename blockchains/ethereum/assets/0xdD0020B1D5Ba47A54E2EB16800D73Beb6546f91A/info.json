@@ -4,8 +4,9 @@
     "id": "0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/axpire",
-    "market_cap_rank": 1804,
-    "24_hr_volume_usd": 9299.21,
+    "market_cap_usd": 3051724,
+    "market_cap_rank": 1802,
+    "24_hr_volume_usd": 3750.9,
     "public_notice": "Contract address migrated from 0xc39e626a04c5971d770e319760d7926502975e47 to current address. For more information: https://axpire.medium.com/the-axpr-token-swap-completed-965f1d7a0f6a",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdD0020B1D5Ba47A54E2EB16800D73Beb6546f91A/logo.png"
 }

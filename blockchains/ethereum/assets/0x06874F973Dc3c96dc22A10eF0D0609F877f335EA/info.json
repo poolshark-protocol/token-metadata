@@ -4,7 +4,8 @@
     "id": "0x06874F973Dc3c96dc22A10eF0D0609F877f335EA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defi-stoa",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 188603,
+    "24_hr_volume_usd": 210143,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06874F973Dc3c96dc22A10eF0D0609F877f335EA/logo.png"
 }

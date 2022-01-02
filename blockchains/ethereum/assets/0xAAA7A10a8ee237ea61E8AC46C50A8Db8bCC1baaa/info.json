@@ -4,7 +4,8 @@
     "id": "0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/qanplatform",
-    "market_cap_rank": 421,
-    "24_hr_volume_usd": 2391359,
+    "market_cap_usd": 124931883,
+    "market_cap_rank": 428,
+    "24_hr_volume_usd": 982637,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAAA7A10a8ee237ea61E8AC46C50A8Db8bCC1baaa/logo.png"
 }

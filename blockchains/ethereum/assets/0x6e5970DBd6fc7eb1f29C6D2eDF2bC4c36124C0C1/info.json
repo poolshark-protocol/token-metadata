@@ -4,7 +4,8 @@
     "id": "0x6e5970DBd6fc7eb1f29C6D2eDF2bC4c36124C0C1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polytrade",
-    "market_cap_rank": 1557,
-    "24_hr_volume_usd": 786530,
+    "market_cap_usd": 5163838,
+    "market_cap_rank": 1549,
+    "24_hr_volume_usd": 421705,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6e5970DBd6fc7eb1f29C6D2eDF2bC4c36124C0C1/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hydro-protocol",
-    "market_cap_rank": 1895,
-    "24_hr_volume_usd": 56056,
+    "market_cap_usd": 2506314,
+    "market_cap_rank": 1896,
+    "24_hr_volume_usd": 43107,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9AF839687F6C94542ac5ece2e317dAAE355493A1/logo.png"
 }

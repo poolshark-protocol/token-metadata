@@ -4,7 +4,8 @@
     "id": "0xe912b8bA2513D7e29b7b2E5B14398dbf77503Fb4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/inventoryclub",
-    "market_cap_rank": 1557,
+    "market_cap_usd": 4929876,
+    "market_cap_rank": 1569,
     "24_hr_volume_usd": 9.51,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe912b8bA2513D7e29b7b2E5B14398dbf77503Fb4/logo.png"
 }

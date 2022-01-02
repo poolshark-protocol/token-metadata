@@ -4,7 +4,8 @@
     "id": "0x14C926F2290044B647e1Bf2072e67B495eff1905",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bethereum",
-    "market_cap_rank": 2798,
-    "24_hr_volume_usd": 11398.11,
+    "market_cap_usd": 333386,
+    "market_cap_rank": 2820,
+    "24_hr_volume_usd": 14966.69,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x14C926F2290044B647e1Bf2072e67B495eff1905/logo.png"
 }

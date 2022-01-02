@@ -4,8 +4,9 @@
     "id": "0xf34960d9d60be18cC1D5Afc1A6F012A723a28811",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/kucoin-shares",
+    "market_cap_usd": 1724528551,
     "market_cap_rank": 88,
-    "24_hr_volume_usd": 16818442,
+    "24_hr_volume_usd": 9965279,
     "public_notice": "Kucoin Shares has rebranded to Kucoin Token. Contract address has changed from 0x039b5649a59967e3e936d7471f9c3700100ee1ab to 0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf34960d9d60be18cC1D5Afc1A6F012A723a28811/logo.png"
 }

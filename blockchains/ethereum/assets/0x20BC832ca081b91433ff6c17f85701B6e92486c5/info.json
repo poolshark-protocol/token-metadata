@@ -4,7 +4,8 @@
     "id": "0x20BC832ca081b91433ff6c17f85701B6e92486c5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/reth2",
-    "market_cap_rank": 1535,
+    "market_cap_usd": 5205468,
+    "market_cap_rank": 1545,
     "24_hr_volume_usd": 276.87,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x20BC832ca081b91433ff6c17f85701B6e92486c5/logo.png"
 }

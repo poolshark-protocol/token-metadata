@@ -4,7 +4,8 @@
     "id": "0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/zoracles",
-    "market_cap_rank": 1968,
-    "24_hr_volume_usd": 214221,
+    "market_cap_usd": 1522558,
+    "market_cap_rank": 2140,
+    "24_hr_volume_usd": 105763,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD8E3FB3b08eBA982F2754988d70D57eDc0055ae6/logo.png"
 }

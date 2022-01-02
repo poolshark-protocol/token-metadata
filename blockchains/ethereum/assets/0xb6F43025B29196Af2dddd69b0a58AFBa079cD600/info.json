@@ -4,7 +4,8 @@
     "id": "0xb6F43025B29196Af2dddd69b0a58AFBa079cD600",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/intelligent-investment-chain",
-    "market_cap_rank": 2905,
-    "24_hr_volume_usd": 22840,
+    "market_cap_usd": 263992,
+    "market_cap_rank": 2907,
+    "24_hr_volume_usd": 5796.07,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb6F43025B29196Af2dddd69b0a58AFBa079cD600/logo.png"
 }

@@ -4,6 +4,7 @@
     "id": "0x3f5DF2F90DF67E10974fBcB1729c00D3f87c0EB4",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/shincoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 3.29,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3f5DF2F90DF67E10974fBcB1729c00D3f87c0EB4/logo.png"

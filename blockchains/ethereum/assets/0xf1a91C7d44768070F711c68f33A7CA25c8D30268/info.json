@@ -4,7 +4,8 @@
     "id": "0xf1a91C7d44768070F711c68f33A7CA25c8D30268",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/charli3",
-    "market_cap_rank": 1040,
-    "24_hr_volume_usd": 295616,
+    "market_cap_usd": 16419047,
+    "market_cap_rank": 1042,
+    "24_hr_volume_usd": 95857,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf1a91C7d44768070F711c68f33A7CA25c8D30268/logo.png"
 }

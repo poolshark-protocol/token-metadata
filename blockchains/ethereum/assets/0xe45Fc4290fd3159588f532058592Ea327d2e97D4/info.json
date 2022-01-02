@@ -4,7 +4,8 @@
     "id": "0xe45Fc4290fd3159588f532058592Ea327d2e97D4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/alliance-cargo-direct",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 7485.44,
+    "24_hr_volume_usd": 306.1,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe45Fc4290fd3159588f532058592Ea327d2e97D4/logo.png"
 }

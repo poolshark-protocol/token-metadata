@@ -4,7 +4,8 @@
     "id": "0x9a96E767bFCcE8E80370BE00821ED5BA283D4A17",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gogo-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12050.16,
+    "24_hr_volume_usd": 13970.45,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9a96E767bFCcE8E80370BE00821ED5BA283D4A17/logo.png"
 }

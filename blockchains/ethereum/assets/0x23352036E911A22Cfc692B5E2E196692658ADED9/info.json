@@ -4,7 +4,8 @@
     "id": "0x23352036E911A22Cfc692B5E2E196692658ADED9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/friendz",
-    "market_cap_rank": 2499,
-    "24_hr_volume_usd": 73124,
+    "market_cap_usd": 826771,
+    "market_cap_rank": 2452,
+    "24_hr_volume_usd": 69948,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x23352036E911A22Cfc692B5E2E196692658ADED9/logo.png"
 }

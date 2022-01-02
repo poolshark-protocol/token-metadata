@@ -4,7 +4,8 @@
     "id": "0xc314b0E758D5FF74f63e307A86EbfE183C95767b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/adappter-token",
-    "market_cap_rank": 805,
-    "24_hr_volume_usd": 4327596,
+    "market_cap_usd": 30338952,
+    "market_cap_rank": 818,
+    "24_hr_volume_usd": 1869575,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc314b0E758D5FF74f63e307A86EbfE183C95767b/logo.png"
 }

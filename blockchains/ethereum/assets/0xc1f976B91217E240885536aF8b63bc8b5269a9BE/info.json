@@ -4,8 +4,9 @@
     "id": "0xc1f976B91217E240885536aF8b63bc8b5269a9BE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/public-index-network",
-    "market_cap_rank": 1736,
-    "24_hr_volume_usd": 11794.45,
+    "market_cap_usd": 3282501,
+    "market_cap_rank": 1773,
+    "24_hr_volume_usd": 2562.54,
     "public_notice": "FLO has upgraded to Public Index Network. For more information, read here - https://medium.com/public-index-network/upgrading-flo-to-pin-to-build-content-rich-web3-applications-d3b679b8f6ab",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc1f976B91217E240885536aF8b63bc8b5269a9BE/logo.png"
 }

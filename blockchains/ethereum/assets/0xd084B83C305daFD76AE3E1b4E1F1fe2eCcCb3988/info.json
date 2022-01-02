@@ -4,7 +4,8 @@
     "id": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/terra-virtua-kolect",
-    "market_cap_rank": 497,
-    "24_hr_volume_usd": 6953997,
+    "market_cap_usd": 89599702,
+    "market_cap_rank": 502,
+    "24_hr_volume_usd": 6482031,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988/logo.png"
 }

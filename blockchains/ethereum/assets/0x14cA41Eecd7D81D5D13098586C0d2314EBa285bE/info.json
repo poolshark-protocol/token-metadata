@@ -4,6 +4,7 @@
     "id": "0x14cA41Eecd7D81D5D13098586C0d2314EBa285bE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/just-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 2.22,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x14cA41Eecd7D81D5D13098586C0d2314EBa285bE/logo.png"

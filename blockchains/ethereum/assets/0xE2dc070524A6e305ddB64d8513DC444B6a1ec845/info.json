@@ -4,7 +4,8 @@
     "id": "0xE2dc070524A6e305ddB64d8513DC444B6a1ec845",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/neon-exchange",
-    "market_cap_rank": 809,
-    "24_hr_volume_usd": 286.18,
+    "market_cap_usd": 30438984,
+    "market_cap_rank": 816,
+    "24_hr_volume_usd": 2.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE2dc070524A6e305ddB64d8513DC444B6a1ec845/logo.png"
 }

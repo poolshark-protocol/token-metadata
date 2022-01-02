@@ -4,7 +4,8 @@
     "id": "0x888888848B652B3E3a0f34c96E00EEC0F3a23F72",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/alien-worlds",
-    "market_cap_rank": 270,
-    "24_hr_volume_usd": 54404987,
+    "market_cap_usd": 278859702,
+    "market_cap_rank": 264,
+    "24_hr_volume_usd": 46192666,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x888888848B652B3E3a0f34c96E00EEC0F3a23F72/logo.png"
 }

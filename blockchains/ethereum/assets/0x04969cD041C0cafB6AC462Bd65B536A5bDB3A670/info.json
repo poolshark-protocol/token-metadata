@@ -4,7 +4,8 @@
     "id": "0x04969cD041C0cafB6AC462Bd65B536A5bDB3A670",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-ecomi",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 291105,
+    "24_hr_volume_usd": 123120,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x04969cD041C0cafB6AC462Bd65B536A5bDB3A670/logo.png"
 }

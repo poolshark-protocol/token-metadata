@@ -4,6 +4,7 @@
     "id": "0x9378db8054788bCe01AE902a19A4F64a1BD4767f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bit-store-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9378db8054788bCe01AE902a19A4F64a1BD4767f/logo.png"
 }

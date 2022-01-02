@@ -4,7 +4,8 @@
     "id": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dhedge-dao",
-    "market_cap_rank": 1085,
-    "24_hr_volume_usd": 372096,
+    "market_cap_usd": 15157567,
+    "market_cap_rank": 1075,
+    "24_hr_volume_usd": 319888,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84/logo.png"
 }

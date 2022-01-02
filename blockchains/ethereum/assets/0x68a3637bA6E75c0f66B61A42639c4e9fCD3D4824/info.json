@@ -4,7 +4,8 @@
     "id": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/moonswap",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 108317,
+    "24_hr_volume_usd": 96228,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824/logo.png"
 }

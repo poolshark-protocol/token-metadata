@@ -4,7 +4,8 @@
     "id": "0x78F225869c08d478c34e5f645d07A87d3fe8eb78",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/piedao-defi-large-cap",
-    "market_cap_rank": 1976,
-    "24_hr_volume_usd": 43032,
+    "market_cap_usd": 2046859,
+    "market_cap_rank": 1981,
+    "24_hr_volume_usd": 45562,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x78F225869c08d478c34e5f645d07A87d3fe8eb78/logo.png"
 }

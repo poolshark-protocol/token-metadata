@@ -4,7 +4,8 @@
     "id": "0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/waltonchain",
-    "market_cap_rank": 830,
-    "24_hr_volume_usd": 4405121,
+    "market_cap_usd": 28306775,
+    "market_cap_rank": 842,
+    "24_hr_volume_usd": 2936098,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb7cB1C96dB6B22b0D3d9536E0108d062BD488F74/logo.png"
 }

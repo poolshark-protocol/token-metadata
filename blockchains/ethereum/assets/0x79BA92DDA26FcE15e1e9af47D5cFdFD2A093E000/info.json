@@ -4,7 +4,8 @@
     "id": "0x79BA92DDA26FcE15e1e9af47D5cFdFD2A093E000",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sergs",
-    "market_cap_rank": 3000,
+    "market_cap_usd": 184376,
+    "market_cap_rank": 3006,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x79BA92DDA26FcE15e1e9af47D5cFdFD2A093E000/logo.png"
 }

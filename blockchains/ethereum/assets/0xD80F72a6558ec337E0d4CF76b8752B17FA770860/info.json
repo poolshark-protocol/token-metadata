@@ -4,7 +4,8 @@
     "id": "0xD80F72a6558ec337E0d4CF76b8752B17FA770860",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rewards",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 122.28,
+    "24_hr_volume_usd": 97.58,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD80F72a6558ec337E0d4CF76b8752B17FA770860/logo.png"
 }

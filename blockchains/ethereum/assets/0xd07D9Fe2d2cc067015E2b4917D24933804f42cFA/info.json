@@ -4,7 +4,8 @@
     "id": "0xd07D9Fe2d2cc067015E2b4917D24933804f42cFA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tolar",
-    "market_cap_rank": 2537,
-    "24_hr_volume_usd": 44541,
+    "market_cap_usd": 501489,
+    "market_cap_rank": 2570,
+    "24_hr_volume_usd": 40472,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd07D9Fe2d2cc067015E2b4917D24933804f42cFA/logo.png"
 }

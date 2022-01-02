@@ -4,7 +4,8 @@
     "id": "0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/handle-fi",
-    "market_cap_rank": 1965,
-    "24_hr_volume_usd": 45702,
+    "market_cap_usd": 1986572,
+    "market_cap_rank": 2001,
+    "24_hr_volume_usd": 32861,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDb298285FE4C5410B05390cA80e8Fbe9DE1F259B/logo.png"
 }

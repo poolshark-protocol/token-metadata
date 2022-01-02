@@ -4,8 +4,9 @@
     "id": "0x90D702f071d2af33032943137AD0aB4280705817",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yffs",
-    "market_cap_rank": 3408,
-    "24_hr_volume_usd": 825.16,
+    "market_cap_usd": 11361.55,
+    "market_cap_rank": 3419,
+    "24_hr_volume_usd": 726.32,
     "public_notice": "Notice: We've received allegations that the team has abandoned the project. Please proceed with caution.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x90D702f071d2af33032943137AD0aB4280705817/logo.png"
 }

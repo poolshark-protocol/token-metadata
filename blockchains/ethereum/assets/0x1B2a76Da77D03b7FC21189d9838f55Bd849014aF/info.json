@@ -4,7 +4,8 @@
     "id": "0x1B2a76Da77D03b7FC21189d9838f55Bd849014aF",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/defiscale",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 522.16,
+    "24_hr_volume_usd": 2370.64,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1B2a76Da77D03b7FC21189d9838f55Bd849014aF/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vesper-finance",
-    "market_cap_rank": 977,
-    "24_hr_volume_usd": 585622,
+    "market_cap_usd": 21129654,
+    "market_cap_rank": 954,
+    "24_hr_volume_usd": 517046,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421/logo.png"
 }

@@ -4,6 +4,7 @@
     "id": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rublix",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 333.89,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E/logo.png"

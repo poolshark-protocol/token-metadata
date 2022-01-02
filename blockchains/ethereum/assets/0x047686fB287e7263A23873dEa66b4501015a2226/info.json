@@ -4,7 +4,8 @@
     "id": "0x047686fB287e7263A23873dEa66b4501015a2226",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blockchain-cuties-universe",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 353.3,
+    "24_hr_volume_usd": 1.65,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x047686fB287e7263A23873dEa66b4501015a2226/logo.png"
 }

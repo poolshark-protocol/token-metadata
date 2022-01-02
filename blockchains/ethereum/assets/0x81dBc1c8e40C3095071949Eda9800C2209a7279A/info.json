@@ -4,7 +4,8 @@
     "id": "0x81dBc1c8e40C3095071949Eda9800C2209a7279A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pupper",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 24.65,
+    "24_hr_volume_usd": 3037.17,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x81dBc1c8e40C3095071949Eda9800C2209a7279A/logo.png"
 }

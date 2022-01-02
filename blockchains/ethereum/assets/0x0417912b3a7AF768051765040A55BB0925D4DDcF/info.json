@@ -4,7 +4,8 @@
     "id": "0x0417912b3a7AF768051765040A55BB0925D4DDcF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/liquidity-dividends-protocol",
-    "market_cap_rank": 2948,
+    "market_cap_usd": 218145,
+    "market_cap_rank": 2960,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0417912b3a7AF768051765040A55BB0925D4DDcF/logo.png"
 }

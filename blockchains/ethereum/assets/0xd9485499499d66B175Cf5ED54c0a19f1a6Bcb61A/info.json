@@ -4,7 +4,8 @@
     "id": "0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/usechain",
-    "market_cap_rank": 2060,
-    "24_hr_volume_usd": 807.74,
+    "market_cap_usd": 2564219,
+    "market_cap_rank": 1882,
+    "24_hr_volume_usd": 1038.11,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A/logo.png"
 }

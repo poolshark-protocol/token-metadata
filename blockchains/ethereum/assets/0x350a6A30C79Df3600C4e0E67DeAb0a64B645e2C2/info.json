@@ -4,7 +4,8 @@
     "id": "0x350a6A30C79Df3600C4e0E67DeAb0a64B645e2C2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stronghold",
-    "market_cap_rank": 3516,
+    "market_cap_usd": 1.4e-11,
+    "market_cap_rank": 3514,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x350a6A30C79Df3600C4e0E67DeAb0a64B645e2C2/logo.png"
 }

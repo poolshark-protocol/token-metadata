@@ -4,6 +4,7 @@
     "id": "0xFb9553aFa2B5c19c5F8e5b8eE175Fc01abD1555F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hybrid-bank-cash",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 94.06,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFb9553aFa2B5c19c5F8e5b8eE175Fc01abD1555F/logo.png"

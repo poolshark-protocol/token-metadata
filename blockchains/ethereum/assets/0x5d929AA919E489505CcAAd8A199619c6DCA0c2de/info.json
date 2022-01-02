@@ -4,7 +4,8 @@
     "id": "0x5d929AA919E489505CcAAd8A199619c6DCA0c2de",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/baasid",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 158152,
+    "24_hr_volume_usd": 103486,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5d929AA919E489505CcAAd8A199619c6DCA0c2de/logo.png"
 }

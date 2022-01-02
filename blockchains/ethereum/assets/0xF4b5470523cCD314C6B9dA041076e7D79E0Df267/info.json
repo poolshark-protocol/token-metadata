@@ -4,7 +4,8 @@
     "id": "0xF4b5470523cCD314C6B9dA041076e7D79E0Df267",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blockbank",
-    "market_cap_rank": 1392,
-    "24_hr_volume_usd": 164919,
+    "market_cap_usd": 8172457,
+    "market_cap_rank": 1359,
+    "24_hr_volume_usd": 199478,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF4b5470523cCD314C6B9dA041076e7D79E0Df267/logo.png"
 }

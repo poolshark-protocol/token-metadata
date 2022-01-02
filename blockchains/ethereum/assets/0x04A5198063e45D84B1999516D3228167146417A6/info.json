@@ -4,7 +4,8 @@
     "id": "0x04A5198063e45D84B1999516D3228167146417A6",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/shirainu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 50237,
+    "24_hr_volume_usd": 180898,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x04A5198063e45D84B1999516D3228167146417A6/logo.png"
 }

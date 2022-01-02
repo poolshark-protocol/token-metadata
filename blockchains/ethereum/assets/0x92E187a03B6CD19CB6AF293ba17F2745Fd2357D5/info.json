@@ -4,8 +4,9 @@
     "id": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unit-protocol-duck",
-    "market_cap_rank": 1531,
-    "24_hr_volume_usd": 46756,
+    "market_cap_usd": 5360981,
+    "market_cap_rank": 1533,
+    "24_hr_volume_usd": 26546,
     "public_notice": "Migration Page is live : https://migration.unit.xyz/  You can swap your $COL to $DUCK here. For 100 COL you can receive 1 DUCK. ",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5/logo.png"
 }

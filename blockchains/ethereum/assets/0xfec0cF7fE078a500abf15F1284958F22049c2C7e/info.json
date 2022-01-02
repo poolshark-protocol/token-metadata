@@ -4,7 +4,8 @@
     "id": "0xfec0cF7fE078a500abf15F1284958F22049c2C7e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/maecenas",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 607.04,
+    "24_hr_volume_usd": 120.07,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfec0cF7fE078a500abf15F1284958F22049c2C7e/logo.png"
 }

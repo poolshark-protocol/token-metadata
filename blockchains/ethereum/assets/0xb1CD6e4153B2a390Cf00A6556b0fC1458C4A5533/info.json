@@ -4,6 +4,7 @@
     "id": "0xb1CD6e4153B2a390Cf00A6556b0fC1458C4A5533",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethbnt",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 24.46,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb1CD6e4153B2a390Cf00A6556b0fC1458C4A5533/logo.png"

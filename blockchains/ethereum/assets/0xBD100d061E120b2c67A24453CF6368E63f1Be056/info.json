@@ -4,7 +4,8 @@
     "id": "0xBD100d061E120b2c67A24453CF6368E63f1Be056",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/idefiyieldprotocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 47247,
+    "24_hr_volume_usd": 29582,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBD100d061E120b2c67A24453CF6368E63f1Be056/logo.png"
 }

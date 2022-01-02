@@ -4,7 +4,8 @@
     "id": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/data-economy-index",
+    "market_cap_usd": 2194891,
     "market_cap_rank": 1956,
-    "24_hr_volume_usd": 111436,
+    "24_hr_volume_usd": 11879.01,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/contracoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 368869,
+    "24_hr_volume_usd": 420127,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8/logo.png"
 }

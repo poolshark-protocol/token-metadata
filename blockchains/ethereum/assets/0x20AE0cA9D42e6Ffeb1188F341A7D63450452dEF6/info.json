@@ -4,7 +4,8 @@
     "id": "0x20AE0cA9D42e6Ffeb1188F341A7D63450452dEF6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cipher",
-    "market_cap_rank": 3185,
-    "24_hr_volume_usd": 1539.18,
+    "market_cap_usd": 168324,
+    "market_cap_rank": 3029,
+    "24_hr_volume_usd": 1176.91,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x20AE0cA9D42e6Ffeb1188F341A7D63450452dEF6/logo.png"
 }

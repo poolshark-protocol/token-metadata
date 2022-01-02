@@ -4,7 +4,8 @@
     "id": "0x943ED852DadB5C3938ECdC6883718df8142DE4C8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fanstime",
-    "market_cap_rank": 2518,
-    "24_hr_volume_usd": 50758,
+    "market_cap_usd": 702563,
+    "market_cap_rank": 2519,
+    "24_hr_volume_usd": 412843,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x943ED852DadB5C3938ECdC6883718df8142DE4C8/logo.png"
 }

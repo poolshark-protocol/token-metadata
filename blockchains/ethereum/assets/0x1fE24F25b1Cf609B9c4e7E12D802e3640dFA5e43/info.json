@@ -4,7 +4,8 @@
     "id": "0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/chain-guardians",
-    "market_cap_rank": 673,
-    "24_hr_volume_usd": 1936885,
+    "market_cap_usd": 48738702,
+    "market_cap_rank": 672,
+    "24_hr_volume_usd": 1284839,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1fE24F25b1Cf609B9c4e7E12D802e3640dFA5e43/logo.png"
 }

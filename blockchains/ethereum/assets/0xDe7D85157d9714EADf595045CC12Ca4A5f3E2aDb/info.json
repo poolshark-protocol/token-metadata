@@ -4,7 +4,8 @@
     "id": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stp-network",
-    "market_cap_rank": 394,
-    "24_hr_volume_usd": 7198876,
+    "market_cap_usd": 139137127,
+    "market_cap_rank": 405,
+    "24_hr_volume_usd": 2087365,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb/logo.png"
 }

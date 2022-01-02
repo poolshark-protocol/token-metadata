@@ -4,7 +4,8 @@
     "id": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/libra-credit",
-    "market_cap_rank": 1885,
-    "24_hr_volume_usd": 90467,
+    "market_cap_usd": 2595181,
+    "market_cap_rank": 1871,
+    "24_hr_volume_usd": 43848,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfe5F141Bf94fE84bC28deD0AB966c16B17490657/logo.png"
 }

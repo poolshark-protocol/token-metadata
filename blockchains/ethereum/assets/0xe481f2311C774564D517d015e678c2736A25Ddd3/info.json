@@ -4,7 +4,8 @@
     "id": "0xe481f2311C774564D517d015e678c2736A25Ddd3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defhold",
-    "market_cap_rank": 2643,
-    "24_hr_volume_usd": 6070.93,
+    "market_cap_usd": 491029,
+    "market_cap_rank": 2680,
+    "24_hr_volume_usd": 5511.32,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe481f2311C774564D517d015e678c2736A25Ddd3/logo.png"
 }

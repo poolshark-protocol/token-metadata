@@ -4,8 +4,9 @@
     "id": "0xbA745513ACEbcBb977497C569D4F7d340f2A936B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mainstream-for-the-underground",
-    "market_cap_rank": 3431,
-    "24_hr_volume_usd": 3796.07,
+    "market_cap_usd": 7925.7,
+    "market_cap_rank": 3433,
+    "24_hr_volume_usd": 3655.08,
     "public_notice": "MFTU is being swapped. More information can be found here: https://medium.com/@doyoumftu/the-great-correction-after-the-election-c13ce383f1a8",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbA745513ACEbcBb977497C569D4F7d340f2A936B/logo.png"
 }

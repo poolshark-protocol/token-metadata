@@ -4,7 +4,8 @@
     "id": "0xd31695a1d35E489252CE57b129FD4b1B05E6AcaC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tokpie",
-    "market_cap_rank": 1470,
-    "24_hr_volume_usd": 15416.46,
+    "market_cap_usd": 6116038,
+    "market_cap_rank": 1486,
+    "24_hr_volume_usd": 16930.08,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd31695a1d35E489252CE57b129FD4b1B05E6AcaC/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x5D2C6545d16e3f927a25b4567E39e2cf5076BeF4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kappa",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 22431,
+    "24_hr_volume_usd": 856.05,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5D2C6545d16e3f927a25b4567E39e2cf5076BeF4/logo.png"
 }

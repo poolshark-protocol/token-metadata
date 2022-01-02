@@ -4,7 +4,8 @@
     "id": "0x0E58ED58E150dba5fd8e5D4A49F54C7e1E880124",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/relite-finance",
-    "market_cap_rank": 2312,
-    "24_hr_volume_usd": 6380.31,
+    "market_cap_usd": 1121760,
+    "market_cap_rank": 2296,
+    "24_hr_volume_usd": 8803.12,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0E58ED58E150dba5fd8e5D4A49F54C7e1E880124/logo.png"
 }

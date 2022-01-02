@@ -4,7 +4,8 @@
     "id": "0xD0D42005e7B3c0812b1268F0e5FAF97Ff2423651",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/koromaru",
-    "market_cap_rank": 1609,
-    "24_hr_volume_usd": 442118,
+    "market_cap_usd": 4498946,
+    "market_cap_rank": 1598,
+    "24_hr_volume_usd": 469187,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD0D42005e7B3c0812b1268F0e5FAF97Ff2423651/logo.png"
 }

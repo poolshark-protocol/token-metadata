@@ -4,7 +4,8 @@
     "id": "0x4B34c0CBeEF271F895d339c5F76322d71A60782B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yearn-finance-management",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 19.51,
+    "24_hr_volume_usd": 0.700373,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4B34c0CBeEF271F895d339c5F76322d71A60782B/logo.png"
 }

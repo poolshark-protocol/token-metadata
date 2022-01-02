@@ -4,8 +4,9 @@
     "id": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethlend",
-    "market_cap_rank": 404,
-    "24_hr_volume_usd": 306.84,
+    "market_cap_usd": 132339082,
+    "market_cap_rank": 413,
+    "24_hr_volume_usd": 3810.09,
     "public_notice": "LEND is being migrated to AAVE at a rate of 100 LEND per 1 AAVE. For AAVE stats, visit https://www.coingecko.com/en/coins/aave. For more information, read Aave's announcement https://medium.com/aave/migration-and-staking-101-fe8fda3e2a30",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/logo.png"
 }

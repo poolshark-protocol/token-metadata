@@ -4,7 +4,8 @@
     "id": "0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/xmon",
-    "market_cap_rank": 551,
-    "24_hr_volume_usd": 566423,
+    "market_cap_usd": 72267921,
+    "market_cap_rank": 562,
+    "24_hr_volume_usd": 306011,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/quark-chain",
-    "market_cap_rank": 396,
-    "24_hr_volume_usd": 1956683,
+    "market_cap_usd": 139566187,
+    "market_cap_rank": 405,
+    "24_hr_volume_usd": 951020,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664/logo.png"
 }

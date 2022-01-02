@@ -4,7 +4,8 @@
     "id": "0x34364BEe11607b1963d66BCA665FDE93fCA666a8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/you-chain",
-    "market_cap_rank": 1846,
-    "24_hr_volume_usd": 152267,
+    "market_cap_usd": 2706885,
+    "market_cap_rank": 1855,
+    "24_hr_volume_usd": 147911,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x34364BEe11607b1963d66BCA665FDE93fCA666a8/logo.png"
 }

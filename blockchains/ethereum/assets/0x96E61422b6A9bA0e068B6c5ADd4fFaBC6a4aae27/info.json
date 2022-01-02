@@ -4,7 +4,8 @@
     "id": "0x96E61422b6A9bA0e068B6c5ADd4fFaBC6a4aae27",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/iron-bank-euro",
-    "market_cap_rank": 403,
-    "24_hr_volume_usd": 133384,
+    "market_cap_usd": 138682550,
+    "market_cap_rank": 407,
+    "24_hr_volume_usd": 62223,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x96E61422b6A9bA0e068B6c5ADd4fFaBC6a4aae27/logo.png"
 }

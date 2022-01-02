@@ -4,7 +4,8 @@
     "id": "0x02D3A27Ac3f55d5D91Fb0f52759842696a864217",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/charged-particles",
-    "market_cap_rank": 1157,
-    "24_hr_volume_usd": 78517,
+    "market_cap_usd": 11410145,
+    "market_cap_rank": 1216,
+    "24_hr_volume_usd": 142142,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x02D3A27Ac3f55d5D91Fb0f52759842696a864217/logo.png"
 }

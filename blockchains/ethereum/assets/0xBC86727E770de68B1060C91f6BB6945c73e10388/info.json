@@ -4,7 +4,8 @@
     "id": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ink-protocol",
-    "market_cap_rank": 3510,
+    "market_cap_usd": 0.00202638,
+    "market_cap_rank": 3507,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBC86727E770de68B1060C91f6BB6945c73e10388/logo.png"
 }

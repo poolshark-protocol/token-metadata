@@ -4,7 +4,8 @@
     "id": "0xf04a8ac553FceDB5BA99A64799155826C136b0Be",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/flixxo",
-    "market_cap_rank": 2214,
-    "24_hr_volume_usd": 3939.76,
+    "market_cap_usd": 934182,
+    "market_cap_rank": 2397,
+    "24_hr_volume_usd": 765.05,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf04a8ac553FceDB5BA99A64799155826C136b0Be/logo.png"
 }

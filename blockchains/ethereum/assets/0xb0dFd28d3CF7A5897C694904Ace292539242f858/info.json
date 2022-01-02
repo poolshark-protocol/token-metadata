@@ -4,7 +4,8 @@
     "id": "0xb0dFd28d3CF7A5897C694904Ace292539242f858",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lotto",
-    "market_cap_rank": 2421,
-    "24_hr_volume_usd": 6843.94,
+    "market_cap_usd": 865472,
+    "market_cap_rank": 2424,
+    "24_hr_volume_usd": 5657.2,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb0dFd28d3CF7A5897C694904Ace292539242f858/logo.png"
 }

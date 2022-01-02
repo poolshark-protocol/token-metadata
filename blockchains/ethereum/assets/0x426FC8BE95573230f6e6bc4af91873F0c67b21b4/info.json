@@ -4,7 +4,8 @@
     "id": "0x426FC8BE95573230f6e6bc4af91873F0c67b21b4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blackpearl-chain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1377114,
+    "24_hr_volume_usd": 357330,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x426FC8BE95573230f6e6bc4af91873F0c67b21b4/logo.png"
 }

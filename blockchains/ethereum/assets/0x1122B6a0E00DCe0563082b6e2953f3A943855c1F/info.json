@@ -4,7 +4,8 @@
     "id": "0x1122B6a0E00DCe0563082b6e2953f3A943855c1F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/centrality",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1364125,
+    "24_hr_volume_usd": 1298259,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1122B6a0E00DCe0563082b6e2953f3A943855c1F/logo.png"
 }

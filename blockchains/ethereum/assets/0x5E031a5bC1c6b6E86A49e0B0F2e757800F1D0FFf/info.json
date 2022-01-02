@@ -4,7 +4,8 @@
     "id": "0x5E031a5bC1c6b6E86A49e0B0F2e757800F1D0FFf",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dafin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1134375,
+    "24_hr_volume_usd": 1281764,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5E031a5bC1c6b6E86A49e0B0F2e757800F1D0FFf/logo.png"
 }

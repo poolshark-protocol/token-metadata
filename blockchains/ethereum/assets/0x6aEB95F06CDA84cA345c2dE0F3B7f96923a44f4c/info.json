@@ -4,7 +4,8 @@
     "id": "0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c",
     "decimals": 14,
     "coingecko_url": "https://www.coingecko.com/en/coins/rentberry",
-    "market_cap_rank": 2948,
-    "24_hr_volume_usd": 8.06,
+    "market_cap_usd": 237132,
+    "market_cap_rank": 2940,
+    "24_hr_volume_usd": 512.43,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6aEB95F06CDA84cA345c2dE0F3B7f96923a44f4c/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/morpher",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 453322,
+    "24_hr_volume_usd": 153833,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6369c3DadfC00054A42BA8B2c09c48131dd4Aa38/logo.png"
 }

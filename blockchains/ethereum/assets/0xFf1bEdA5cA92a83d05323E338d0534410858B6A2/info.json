@@ -4,6 +4,7 @@
     "id": "0xFf1bEdA5cA92a83d05323E338d0534410858B6A2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/divo-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 112.24,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFf1bEdA5cA92a83d05323E338d0534410858B6A2/logo.png"

@@ -4,7 +4,8 @@
     "id": "0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/jupiter",
-    "market_cap_rank": 1447,
-    "24_hr_volume_usd": 808115,
+    "market_cap_usd": 6322135,
+    "market_cap_rank": 1469,
+    "24_hr_volume_usd": 651923,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8/logo.png"
 }

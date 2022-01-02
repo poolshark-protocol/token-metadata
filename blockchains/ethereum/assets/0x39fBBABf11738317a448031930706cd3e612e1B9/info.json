@@ -4,7 +4,8 @@
     "id": "0x39fBBABf11738317a448031930706cd3e612e1B9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-xrp",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 688450,
+    "24_hr_volume_usd": 82750,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x39fBBABf11738317a448031930706cd3e612e1B9/logo.png"
 }

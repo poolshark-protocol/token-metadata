@@ -4,7 +4,8 @@
     "id": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/illuvium",
-    "market_cap_rank": 159,
-    "24_hr_volume_usd": 25454991,
+    "market_cap_usd": 656203413,
+    "market_cap_rank": 161,
+    "24_hr_volume_usd": 15883094,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/compound-basic-attention-token",
-    "market_cap_rank": 416,
-    "24_hr_volume_usd": 5.52,
+    "market_cap_usd": 130503912,
+    "market_cap_rank": 418,
+    "24_hr_volume_usd": 1255784,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6C8c6b02E7b2BE14d4fA6022Dfd6d75921D90E4E/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x957891C11616D3E0B0A76a76fb42724C382E0eF3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/collateral-pay",
-    "market_cap_rank": 2620,
-    "24_hr_volume_usd": 2860.43,
+    "market_cap_usd": 660422,
+    "market_cap_rank": 2553,
+    "24_hr_volume_usd": 18443.14,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x957891C11616D3E0B0A76a76fb42724C382E0eF3/logo.png"
 }

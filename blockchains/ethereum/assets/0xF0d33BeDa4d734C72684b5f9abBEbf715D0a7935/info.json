@@ -4,7 +4,8 @@
     "id": "0xF0d33BeDa4d734C72684b5f9abBEbf715D0a7935",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/nunet",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 491974,
+    "24_hr_volume_usd": 42871,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF0d33BeDa4d734C72684b5f9abBEbf715D0a7935/logo.png"
 }

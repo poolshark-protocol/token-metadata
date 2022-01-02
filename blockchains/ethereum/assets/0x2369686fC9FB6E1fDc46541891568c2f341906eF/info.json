@@ -4,7 +4,8 @@
     "id": "0x2369686fC9FB6E1fDc46541891568c2f341906eF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/drakoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 22202,
+    "24_hr_volume_usd": 21817,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2369686fC9FB6E1fDc46541891568c2f341906eF/logo.png"
 }

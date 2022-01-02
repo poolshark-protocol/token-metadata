@@ -4,8 +4,9 @@
     "id": "0x009c43B42AEFAC590C719E971020575974122803",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bibox-token",
-    "market_cap_rank": 1570,
-    "24_hr_volume_usd": 6863579,
+    "market_cap_usd": 4972111,
+    "market_cap_rank": 1568,
+    "24_hr_volume_usd": 5918115,
     "public_notice": "Bibox has updated the BIX contract address. Old contract: 0xb3104b4b9da82025e8b9f8fb28b3553ce2f67069. New contract: 0x009c43b42aefac590c719e971020575974122803. For more info: https://support.bibox666.com/hc/en-us/articles/900007055943--Important-Bibox-is-about-to-replace-the-BIX-contract-address",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x009c43B42AEFAC590C719E971020575974122803/logo.png"
 }

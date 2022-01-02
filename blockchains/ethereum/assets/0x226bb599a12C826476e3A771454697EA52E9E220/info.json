@@ -4,7 +4,8 @@
     "id": "0x226bb599a12C826476e3A771454697EA52E9E220",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/propy",
-    "market_cap_rank": 509,
-    "24_hr_volume_usd": 3342318,
+    "market_cap_usd": 90610985,
+    "market_cap_rank": 499,
+    "24_hr_volume_usd": 2199527,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x226bb599a12C826476e3A771454697EA52E9E220/logo.png"
 }

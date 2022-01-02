@@ -4,7 +4,8 @@
     "id": "0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/freight-trust-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 171.79,
+    "24_hr_volume_usd": 133.56,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x79C5a1Ae586322A07BfB60be36E1b31CE8C84A1e/logo.png"
 }

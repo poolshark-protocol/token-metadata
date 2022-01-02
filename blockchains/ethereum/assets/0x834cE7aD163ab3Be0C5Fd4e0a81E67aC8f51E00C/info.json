@@ -4,7 +4,8 @@
     "id": "0x834cE7aD163ab3Be0C5Fd4e0a81E67aC8f51E00C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polkainsure-finance",
-    "market_cap_rank": 2602,
-    "24_hr_volume_usd": 1934.32,
+    "market_cap_usd": 503356,
+    "market_cap_rank": 2668,
+    "24_hr_volume_usd": 6506.35,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x834cE7aD163ab3Be0C5Fd4e0a81E67aC8f51E00C/logo.png"
 }

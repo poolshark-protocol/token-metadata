@@ -4,7 +4,8 @@
     "id": "0xEED736b2b809550D89A941C2005dE93588c628e2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethplus",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 128.85,
+    "24_hr_volume_usd": 30.5,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEED736b2b809550D89A941C2005dE93588c628e2/logo.png"
 }

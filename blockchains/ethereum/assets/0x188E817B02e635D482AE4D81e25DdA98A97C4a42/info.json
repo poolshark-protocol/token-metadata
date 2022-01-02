@@ -4,7 +4,8 @@
     "id": "0x188E817B02e635D482AE4D81e25DdA98A97C4a42",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lithium-finance",
-    "market_cap_rank": 937,
-    "24_hr_volume_usd": 2512548,
+    "market_cap_usd": 21285693,
+    "market_cap_rank": 949,
+    "24_hr_volume_usd": 2205072,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x188E817B02e635D482AE4D81e25DdA98A97C4a42/logo.png"
 }

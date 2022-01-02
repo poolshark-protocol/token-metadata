@@ -4,7 +4,8 @@
     "id": "0x72e9D9038cE484EE986FEa183f8d8Df93f9aDA13",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/smartcredit-token",
-    "market_cap_rank": 1699,
-    "24_hr_volume_usd": 137897,
+    "market_cap_usd": 3741427,
+    "market_cap_rank": 1716,
+    "24_hr_volume_usd": 38137,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x72e9D9038cE484EE986FEa183f8d8Df93f9aDA13/logo.png"
 }

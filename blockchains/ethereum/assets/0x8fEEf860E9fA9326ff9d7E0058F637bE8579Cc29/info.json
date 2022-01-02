@@ -4,7 +4,8 @@
     "id": "0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/timers",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 947.04,
+    "24_hr_volume_usd": 982.98,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8fEEf860E9fA9326ff9d7E0058F637bE8579Cc29/logo.png"
 }

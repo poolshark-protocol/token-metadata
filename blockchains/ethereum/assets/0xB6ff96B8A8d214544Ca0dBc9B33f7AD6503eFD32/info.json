@@ -4,7 +4,8 @@
     "id": "0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sync-network",
-    "market_cap_rank": 2078,
-    "24_hr_volume_usd": 25329,
+    "market_cap_usd": 1671815,
+    "market_cap_rank": 2093,
+    "24_hr_volume_usd": 22251,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB6ff96B8A8d214544Ca0dBc9B33f7AD6503eFD32/logo.png"
 }

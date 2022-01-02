@@ -4,7 +4,8 @@
     "id": "0xF7920B0768Ecb20A123fAc32311d07D193381d6f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/time-new-bank",
-    "market_cap_rank": 1889,
-    "24_hr_volume_usd": 69910,
+    "market_cap_usd": 2525571,
+    "market_cap_rank": 1894,
+    "24_hr_volume_usd": 12001.18,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF7920B0768Ecb20A123fAc32311d07D193381d6f/logo.png"
 }

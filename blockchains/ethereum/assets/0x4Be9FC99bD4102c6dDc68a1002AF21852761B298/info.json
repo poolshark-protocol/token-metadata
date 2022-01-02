@@ -4,7 +4,8 @@
     "id": "0x4Be9FC99bD4102c6dDc68a1002AF21852761B298",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/gw",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 270.33,
+    "24_hr_volume_usd": 21.36,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4Be9FC99bD4102c6dDc68a1002AF21852761B298/logo.png"
 }

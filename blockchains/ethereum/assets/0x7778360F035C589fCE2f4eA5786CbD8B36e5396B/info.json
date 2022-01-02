@@ -4,7 +4,8 @@
     "id": "0x7778360F035C589fCE2f4eA5786CbD8B36e5396B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/openocean",
+    "market_cap_usd": 41172321,
     "market_cap_rank": 719,
-    "24_hr_volume_usd": 1275028,
+    "24_hr_volume_usd": 276262,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7778360F035C589fCE2f4eA5786CbD8B36e5396B/logo.png"
 }

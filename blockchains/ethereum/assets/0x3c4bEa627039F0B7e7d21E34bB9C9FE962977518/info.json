@@ -4,7 +4,8 @@
     "id": "0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ucot",
-    "market_cap_rank": 2198,
+    "market_cap_usd": 1348890,
+    "market_cap_rank": 2200,
     "24_hr_volume_usd": 12.85,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518/logo.png"
 }

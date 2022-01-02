@@ -4,7 +4,8 @@
     "id": "0x8E6cd950Ad6ba651F6DD608Dc70e5886B1AA6B24",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/starlink",
-    "market_cap_rank": 207,
-    "24_hr_volume_usd": 13849355,
+    "market_cap_usd": 393085679,
+    "market_cap_rank": 208,
+    "24_hr_volume_usd": 8507317,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8E6cd950Ad6ba651F6DD608Dc70e5886B1AA6B24/logo.png"
 }

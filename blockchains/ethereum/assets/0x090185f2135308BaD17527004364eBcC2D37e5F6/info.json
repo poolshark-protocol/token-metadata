@@ -4,7 +4,8 @@
     "id": "0x090185f2135308BaD17527004364eBcC2D37e5F6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/spell-token",
-    "market_cap_rank": 78,
-    "24_hr_volume_usd": 123318757,
+    "market_cap_usd": 1821988282,
+    "market_cap_rank": 82,
+    "24_hr_volume_usd": 48220675,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x090185f2135308BaD17527004364eBcC2D37e5F6/logo.png"
 }

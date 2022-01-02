@@ -4,7 +4,8 @@
     "id": "0xf263292e14d9D8ECd55B58dAD1F1dF825a874b7c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/educoin",
-    "market_cap_rank": 3010,
-    "24_hr_volume_usd": 3015.77,
+    "market_cap_usd": 162123,
+    "market_cap_rank": 3040,
+    "24_hr_volume_usd": 11012.42,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf263292e14d9D8ECd55B58dAD1F1dF825a874b7c/logo.png"
 }

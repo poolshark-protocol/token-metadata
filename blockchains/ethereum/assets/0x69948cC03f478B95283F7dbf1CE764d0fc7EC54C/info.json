@@ -4,6 +4,7 @@
     "id": "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aave-ren-v1",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 12203.43,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C/logo.png"

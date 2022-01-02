@@ -4,7 +4,8 @@
     "id": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/humaniq",
-    "market_cap_rank": 2173,
-    "24_hr_volume_usd": 49945,
+    "market_cap_usd": 1345781,
+    "market_cap_rank": 2206,
+    "24_hr_volume_usd": 60178,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x83eEA00D838f92dEC4D1475697B9f4D3537b56E3",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/voise",
-    "market_cap_rank": 3481,
+    "market_cap_usd": 1548.05,
+    "market_cap_rank": 3482,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x83eEA00D838f92dEC4D1475697B9f4D3537b56E3/logo.png"
 }

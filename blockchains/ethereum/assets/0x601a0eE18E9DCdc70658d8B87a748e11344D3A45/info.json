@@ -4,7 +4,8 @@
     "id": "0x601a0eE18E9DCdc70658d8B87a748e11344D3A45",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/apex-protocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 974619,
+    "24_hr_volume_usd": 586753,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x601a0eE18E9DCdc70658d8B87a748e11344D3A45/logo.png"
 }

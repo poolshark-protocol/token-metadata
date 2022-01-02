@@ -4,7 +4,8 @@
     "id": "0xA461258c192cB6057aD8729589B0d18B08CcACe8",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/planet-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 3080.55,
+    "24_hr_volume_usd": 1107.69,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA461258c192cB6057aD8729589B0d18B08CcACe8/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x103c3A209da59d3E7C4A89307e66521e081CFDF0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/genesis-vision",
-    "market_cap_rank": 1862,
-    "24_hr_volume_usd": 5889.64,
+    "market_cap_usd": 2543817,
+    "market_cap_rank": 1889,
+    "24_hr_volume_usd": 1875.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x103c3A209da59d3E7C4A89307e66521e081CFDF0/logo.png"
 }

@@ -4,6 +4,7 @@
     "id": "0x7a597fb40f54A5E5Ad189991deDc8D7881E447ee",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/osmoscoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 2852.29,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7a597fb40f54A5E5Ad189991deDc8D7881E447ee/logo.png"

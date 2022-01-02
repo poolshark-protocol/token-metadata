@@ -4,7 +4,8 @@
     "id": "0x83d60E7aED59c6829fb251229061a55F35432c4d",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/infinito",
-    "market_cap_rank": 2235,
-    "24_hr_volume_usd": 45192,
+    "market_cap_usd": 1266190,
+    "market_cap_rank": 2238,
+    "24_hr_volume_usd": 38680,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x83d60E7aED59c6829fb251229061a55F35432c4d/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dragonchain",
-    "market_cap_rank": 840,
-    "24_hr_volume_usd": 181582,
+    "market_cap_usd": 28542068,
+    "market_cap_rank": 838,
+    "24_hr_volume_usd": 182506,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E/logo.png"
 }

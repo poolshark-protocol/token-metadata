@@ -4,7 +4,8 @@
     "id": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yfii-finance",
-    "market_cap_rank": 444,
-    "24_hr_volume_usd": 20253402,
+    "market_cap_usd": 117725191,
+    "market_cap_rank": 438,
+    "24_hr_volume_usd": 22601134,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83/logo.png"
 }

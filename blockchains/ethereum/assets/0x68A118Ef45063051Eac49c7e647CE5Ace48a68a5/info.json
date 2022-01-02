@@ -4,7 +4,8 @@
     "id": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/based-money",
-    "market_cap_rank": 2868,
-    "24_hr_volume_usd": 4814.75,
+    "market_cap_usd": 292987,
+    "market_cap_rank": 2865,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5/logo.png"
 }

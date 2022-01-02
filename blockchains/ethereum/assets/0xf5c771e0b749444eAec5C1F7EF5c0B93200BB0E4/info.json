@@ -4,7 +4,8 @@
     "id": "0xf5c771e0b749444eAec5C1F7EF5c0B93200BB0E4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sone-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 19956.44,
+    "24_hr_volume_usd": 41208,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf5c771e0b749444eAec5C1F7EF5c0B93200BB0E4/logo.png"
 }

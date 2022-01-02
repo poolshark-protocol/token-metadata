@@ -4,7 +4,8 @@
     "id": "0x20f6A313Cb250062331Fe70B9567E3EE5f01888B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wgmi",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 106009,
+    "24_hr_volume_usd": 94090,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x20f6A313Cb250062331Fe70B9567E3EE5f01888B/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xD9c2D319Cd7e6177336b0a9c93c21cb48d84Fb54",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hapi",
-    "market_cap_rank": 1011,
-    "24_hr_volume_usd": 719715,
+    "market_cap_usd": 17714968,
+    "market_cap_rank": 1017,
+    "24_hr_volume_usd": 666456,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD9c2D319Cd7e6177336b0a9c93c21cb48d84Fb54/logo.png"
 }

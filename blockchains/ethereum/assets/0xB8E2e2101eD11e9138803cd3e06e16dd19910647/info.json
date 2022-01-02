@@ -4,7 +4,8 @@
     "id": "0xB8E2e2101eD11e9138803cd3e06e16dd19910647",
     "decimals": 2,
     "coingecko_url": "https://www.coingecko.com/en/coins/ardcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 52755,
+    "24_hr_volume_usd": 95426,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB8E2e2101eD11e9138803cd3e06e16dd19910647/logo.png"
 }

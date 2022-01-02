@@ -4,7 +4,8 @@
     "id": "0x78B7FADA55A64dD895D8c8c35779DD8b67fA8a05",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/atlant",
-    "market_cap_rank": 3496,
+    "market_cap_usd": 94.93,
+    "market_cap_rank": 3495,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x78B7FADA55A64dD895D8c8c35779DD8b67fA8a05/logo.png"
 }

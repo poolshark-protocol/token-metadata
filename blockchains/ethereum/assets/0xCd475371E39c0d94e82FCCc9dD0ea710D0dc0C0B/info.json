@@ -4,7 +4,8 @@
     "id": "0xCd475371E39c0d94e82FCCc9dD0ea710D0dc0C0B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/thecash",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 44.09,
+    "24_hr_volume_usd": 44.08,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCd475371E39c0d94e82FCCc9dD0ea710D0dc0C0B/logo.png"
 }

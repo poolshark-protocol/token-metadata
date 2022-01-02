@@ -4,7 +4,8 @@
     "id": "0x5Eaa69B29f99C84Fe5dE8200340b4e9b4Ab38EaC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/raze-network",
-    "market_cap_rank": 1432,
-    "24_hr_volume_usd": 1449907,
+    "market_cap_usd": 6600140,
+    "market_cap_rank": 1448,
+    "24_hr_volume_usd": 1475977,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5Eaa69B29f99C84Fe5dE8200340b4e9b4Ab38EaC/logo.png"
 }

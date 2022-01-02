@@ -4,7 +4,8 @@
     "id": "0x46e9fE43470fafd690100C86037f9E566E24D480",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/equos-origin",
-    "market_cap_rank": 2032,
-    "24_hr_volume_usd": 4467.62,
+    "market_cap_usd": 1775096,
+    "market_cap_rank": 2060,
+    "24_hr_volume_usd": 24556,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x46e9fE43470fafd690100C86037f9E566E24D480/logo.png"
 }

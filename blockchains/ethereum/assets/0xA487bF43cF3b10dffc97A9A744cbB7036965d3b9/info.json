@@ -4,7 +4,8 @@
     "id": "0xA487bF43cF3b10dffc97A9A744cbB7036965d3b9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/deri-protocol",
-    "market_cap_rank": 903,
-    "24_hr_volume_usd": 438976,
+    "market_cap_usd": 23105071,
+    "market_cap_rank": 917,
+    "24_hr_volume_usd": 306823,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA487bF43cF3b10dffc97A9A744cbB7036965d3b9/logo.png"
 }

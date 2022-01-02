@@ -4,7 +4,8 @@
     "id": "0x269616D549D7e8Eaa82DFb17028d0B212D11232A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/punk-vault-nftx",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 677806,
+    "24_hr_volume_usd": 378913,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x269616D549D7e8Eaa82DFb17028d0B212D11232A/logo.png"
 }

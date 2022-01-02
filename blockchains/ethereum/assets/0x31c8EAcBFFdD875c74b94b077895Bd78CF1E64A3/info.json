@@ -4,7 +4,8 @@
     "id": "0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/radicle",
-    "market_cap_rank": 245,
-    "24_hr_volume_usd": 10453291,
+    "market_cap_usd": 307818231,
+    "market_cap_rank": 246,
+    "24_hr_volume_usd": 15501732,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31c8EAcBFFdD875c74b94b077895Bd78CF1E64A3/logo.png"
 }

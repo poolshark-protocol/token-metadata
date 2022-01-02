@@ -4,8 +4,9 @@
     "id": "0xB6Ca7399B4F9CA56FC27cBfF44F4d2e4Eef1fc81",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/muse-2",
-    "market_cap_rank": 1034,
-    "24_hr_volume_usd": 71216,
+    "market_cap_usd": 19649570,
+    "market_cap_rank": 984,
+    "24_hr_volume_usd": 377328,
     "public_notice": "Muse has recently rebranded to Muse DAO. For more information, visit: https://snapshot.org/#/nft20.eth/proposal/0x6b8756c8b836938389e7a592c52f733482dadff954845bfe5698fc17bd020c10",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB6Ca7399B4F9CA56FC27cBfF44F4d2e4Eef1fc81/logo.png"
 }

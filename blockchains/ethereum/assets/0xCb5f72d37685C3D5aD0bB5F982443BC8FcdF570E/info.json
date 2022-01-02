@@ -4,7 +4,8 @@
     "id": "0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rootkit",
-    "market_cap_rank": 770,
-    "24_hr_volume_usd": 0.0,
+    "market_cap_usd": 33886808,
+    "market_cap_rank": 785,
+    "24_hr_volume_usd": 127.08,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E/logo.png"
 }

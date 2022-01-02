@@ -4,7 +4,8 @@
     "id": "0x049399a6B048D52971F7D122aE21A1532722285F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fire-lotto",
-    "market_cap_rank": 2781,
-    "24_hr_volume_usd": 3620435,
+    "market_cap_usd": 357694,
+    "market_cap_rank": 2795,
+    "24_hr_volume_usd": 4125273,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x049399a6B048D52971F7D122aE21A1532722285F/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/weth",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 995406016,
+    "24_hr_volume_usd": 761050163,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
 }

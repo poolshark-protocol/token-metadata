@@ -4,7 +4,8 @@
     "id": "0xe5867608b51A2c9C78B9587355cC093140A49B0A",
     "decimals": 3,
     "coingecko_url": "https://www.coingecko.com/en/coins/speed-mining-service",
-    "market_cap_rank": 3493,
+    "market_cap_usd": 178.47,
+    "market_cap_rank": 3491,
     "24_hr_volume_usd": 0.422183,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe5867608b51A2c9C78B9587355cC093140A49B0A/logo.png"
 }

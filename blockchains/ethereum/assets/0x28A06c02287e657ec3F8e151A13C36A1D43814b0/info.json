@@ -4,7 +4,8 @@
     "id": "0x28A06c02287e657ec3F8e151A13C36A1D43814b0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bondappetit-gov-token",
-    "market_cap_rank": 2318,
-    "24_hr_volume_usd": 564863,
+    "market_cap_usd": 1059728,
+    "market_cap_rank": 2305,
+    "24_hr_volume_usd": 464923,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x28A06c02287e657ec3F8e151A13C36A1D43814b0/logo.png"
 }

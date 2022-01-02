@@ -4,7 +4,8 @@
     "id": "0x5644bb2B594fcF6F74384D2aD26C68F02a47981C",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/supermegahyperdoge",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 650.25,
+    "24_hr_volume_usd": 1722.61,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5644bb2B594fcF6F74384D2aD26C68F02a47981C/logo.png"
 }

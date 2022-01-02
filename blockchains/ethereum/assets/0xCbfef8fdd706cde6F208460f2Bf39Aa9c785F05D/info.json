@@ -4,7 +4,8 @@
     "id": "0xCbfef8fdd706cde6F208460f2Bf39Aa9c785F05D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kine-protocol",
-    "market_cap_rank": 958,
-    "24_hr_volume_usd": 1913023,
+    "market_cap_usd": 20768568,
+    "market_cap_rank": 964,
+    "24_hr_volume_usd": 1875408,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCbfef8fdd706cde6F208460f2Bf39Aa9c785F05D/logo.png"
 }

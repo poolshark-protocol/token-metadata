@@ -4,7 +4,8 @@
     "id": "0xD58F55B2C7b64aFeD8D21C5E852BCCcae721e376",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/baby-shibnobi",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 567.11,
+    "24_hr_volume_usd": 2691.51,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD58F55B2C7b64aFeD8D21C5E852BCCcae721e376/logo.png"
 }

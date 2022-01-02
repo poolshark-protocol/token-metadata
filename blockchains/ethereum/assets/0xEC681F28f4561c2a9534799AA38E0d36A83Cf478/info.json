@@ -4,7 +4,8 @@
     "id": "0xEC681F28f4561c2a9534799AA38E0d36A83Cf478",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yvs-finance",
-    "market_cap_rank": 3200,
-    "24_hr_volume_usd": 238.63,
+    "market_cap_usd": 78703,
+    "market_cap_rank": 3216,
+    "24_hr_volume_usd": 66777,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEC681F28f4561c2a9534799AA38E0d36A83Cf478/logo.png"
 }

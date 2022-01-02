@@ -4,7 +4,8 @@
     "id": "0x5E6b6d9aBAd9093fdc861Ea1600eBa1b355Cd940",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/iot-chain",
-    "market_cap_rank": 1842,
-    "24_hr_volume_usd": 560159,
+    "market_cap_usd": 2703162,
+    "market_cap_rank": 1858,
+    "24_hr_volume_usd": 414477,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5E6b6d9aBAd9093fdc861Ea1600eBa1b355Cd940/logo.png"
 }

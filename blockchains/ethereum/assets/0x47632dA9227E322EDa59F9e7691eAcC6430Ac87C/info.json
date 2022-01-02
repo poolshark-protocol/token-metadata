@@ -4,6 +4,7 @@
     "id": "0x47632dA9227E322EDa59F9e7691eAcC6430Ac87C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yfi-business",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x47632dA9227E322EDa59F9e7691eAcC6430Ac87C/logo.png"

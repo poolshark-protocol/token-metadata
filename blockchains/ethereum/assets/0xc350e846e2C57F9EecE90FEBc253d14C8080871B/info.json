@@ -4,7 +4,8 @@
     "id": "0xc350e846e2C57F9EecE90FEBc253d14C8080871B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/srcoin",
-    "market_cap_rank": 2751,
+    "market_cap_usd": 392594,
+    "market_cap_rank": 2749,
     "24_hr_volume_usd": 0.675829,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc350e846e2C57F9EecE90FEBc253d14C8080871B/logo.png"
 }

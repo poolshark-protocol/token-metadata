@@ -4,7 +4,8 @@
     "id": "0xE5097D9baeAFB89f9bcB78C9290d545dB5f9e9CB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hummingbot",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 5672.17,
+    "24_hr_volume_usd": 8511.12,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE5097D9baeAFB89f9bcB78C9290d545dB5f9e9CB/logo.png"
 }

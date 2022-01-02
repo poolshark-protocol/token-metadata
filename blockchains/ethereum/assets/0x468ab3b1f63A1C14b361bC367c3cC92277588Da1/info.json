@@ -4,7 +4,8 @@
     "id": "0x468ab3b1f63A1C14b361bC367c3cC92277588Da1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yeld-finance",
-    "market_cap_rank": 2823,
-    "24_hr_volume_usd": 5564.53,
+    "market_cap_usd": 356118,
+    "market_cap_rank": 2802,
+    "24_hr_volume_usd": 5576.61,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x468ab3b1f63A1C14b361bC367c3cC92277588Da1/logo.png"
 }

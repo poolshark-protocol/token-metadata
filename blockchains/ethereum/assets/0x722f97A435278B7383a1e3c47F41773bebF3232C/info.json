@@ -4,7 +4,8 @@
     "id": "0x722f97A435278B7383a1e3c47F41773bebF3232C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ucrowdme",
-    "market_cap_rank": 2917,
-    "24_hr_volume_usd": 2826.44,
+    "market_cap_usd": 310493,
+    "market_cap_rank": 2848,
+    "24_hr_volume_usd": 4214.78,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x722f97A435278B7383a1e3c47F41773bebF3232C/logo.png"
 }

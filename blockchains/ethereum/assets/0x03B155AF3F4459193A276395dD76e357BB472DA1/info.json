@@ -4,7 +4,8 @@
     "id": "0x03B155AF3F4459193A276395dD76e357BB472DA1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/swace",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 28.45,
+    "24_hr_volume_usd": 27.04,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x03B155AF3F4459193A276395dD76e357BB472DA1/logo.png"
 }

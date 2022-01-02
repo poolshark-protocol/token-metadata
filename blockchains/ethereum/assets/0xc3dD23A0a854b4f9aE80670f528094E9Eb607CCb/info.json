@@ -4,7 +4,8 @@
     "id": "0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/trendering",
-    "market_cap_rank": 2919,
-    "24_hr_volume_usd": 5486.61,
+    "market_cap_usd": 240305,
+    "market_cap_rank": 2933,
+    "24_hr_volume_usd": 5651.65,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc3dD23A0a854b4f9aE80670f528094E9Eb607CCb/logo.png"
 }

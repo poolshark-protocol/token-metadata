@@ -4,7 +4,8 @@
     "id": "0xdefac16715671b7b6aeeFE012125f1E19Ee4b7d7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defactor",
-    "market_cap_rank": 1771,
-    "24_hr_volume_usd": 20433,
+    "market_cap_usd": 3532400,
+    "market_cap_rank": 1741,
+    "24_hr_volume_usd": 20668,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdefac16715671b7b6aeeFE012125f1E19Ee4b7d7/logo.png"
 }

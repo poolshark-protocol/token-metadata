@@ -4,7 +4,8 @@
     "id": "0x3ADb04E127b9C0a5D36094125669d4603AC52a0c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gro-vault-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 31939,
+    "24_hr_volume_usd": 12071.66,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3ADb04E127b9C0a5D36094125669d4603AC52a0c/logo.png"
 }

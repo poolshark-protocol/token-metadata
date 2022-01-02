@@ -4,7 +4,8 @@
     "id": "0x8716Fc5Da009D3A208f0178b637a50F4ef42400F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ultrain",
-    "market_cap_rank": 2605,
-    "24_hr_volume_usd": 10969.08,
+    "market_cap_usd": 623736,
+    "market_cap_rank": 2572,
+    "24_hr_volume_usd": 2027.19,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8716Fc5Da009D3A208f0178b637a50F4ef42400F/logo.png"
 }

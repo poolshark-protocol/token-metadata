@@ -4,7 +4,8 @@
     "id": "0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ovr",
-    "market_cap_rank": 563,
-    "24_hr_volume_usd": 2339552,
+    "market_cap_usd": 72737017,
+    "market_cap_rank": 559,
+    "24_hr_volume_usd": 1441449,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x21BfBDa47A0B4B5b1248c767Ee49F7caA9B23697/logo.png"
 }

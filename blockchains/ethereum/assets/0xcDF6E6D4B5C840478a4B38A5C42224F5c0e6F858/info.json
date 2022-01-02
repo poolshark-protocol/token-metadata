@@ -4,7 +4,8 @@
     "id": "0xcDF6E6D4B5C840478a4B38A5C42224F5c0e6F858",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/little-tsuki-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2035.67,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcDF6E6D4B5C840478a4B38A5C42224F5c0e6F858/logo.png"
 }

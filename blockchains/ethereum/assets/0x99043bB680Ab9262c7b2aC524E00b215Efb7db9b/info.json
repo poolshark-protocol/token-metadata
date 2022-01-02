@@ -4,8 +4,9 @@
     "id": "0x99043bB680Ab9262c7b2aC524E00b215Efb7db9b",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/black-kishu-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 27.54,
+    "24_hr_volume_usd": 158.96,
     "public_notice": "Black Kishu Inu (BISHU) has recently migrated to a new token, Bishu Finance (BISHUFI). You can view this <a href=\"https://www.coingecko.com/en/coins/bishu-finance\">here</a>. Please take extra precaution and DYOR before purchasing this token.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x99043bB680Ab9262c7b2aC524E00b215Efb7db9b/logo.png"
 }

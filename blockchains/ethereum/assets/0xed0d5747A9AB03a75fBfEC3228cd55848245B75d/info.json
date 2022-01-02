@@ -4,7 +4,8 @@
     "id": "0xed0d5747A9AB03a75fBfEC3228cd55848245B75d",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/e-money",
-    "market_cap_rank": 658,
-    "24_hr_volume_usd": 478272,
+    "market_cap_usd": 53259039,
+    "market_cap_rank": 645,
+    "24_hr_volume_usd": 523322,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xed0d5747A9AB03a75fBfEC3228cd55848245B75d/logo.png"
 }

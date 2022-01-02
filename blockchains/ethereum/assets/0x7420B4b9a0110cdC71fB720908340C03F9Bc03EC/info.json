@@ -4,7 +4,8 @@
     "id": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/jasmycoin",
-    "market_cap_rank": 201,
-    "24_hr_volume_usd": 187563032,
+    "market_cap_usd": 408530681,
+    "market_cap_rank": 202,
+    "24_hr_volume_usd": 79337281,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC/logo.png"
 }

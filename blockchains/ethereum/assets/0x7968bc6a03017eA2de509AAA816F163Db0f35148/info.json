@@ -4,7 +4,8 @@
     "id": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/hedget",
-    "market_cap_rank": 1577,
-    "24_hr_volume_usd": 105997,
+    "market_cap_usd": 4670040,
+    "market_cap_rank": 1584,
+    "24_hr_volume_usd": 91160,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7968bc6a03017eA2de509AAA816F163Db0f35148/logo.png"
 }

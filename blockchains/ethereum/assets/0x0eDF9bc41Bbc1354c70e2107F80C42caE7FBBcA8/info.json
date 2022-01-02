@@ -4,7 +4,8 @@
     "id": "0x0eDF9bc41Bbc1354c70e2107F80C42caE7FBBcA8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/instrumental-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 252874,
+    "24_hr_volume_usd": 335476,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0eDF9bc41Bbc1354c70e2107F80C42caE7FBBcA8/logo.png"
 }

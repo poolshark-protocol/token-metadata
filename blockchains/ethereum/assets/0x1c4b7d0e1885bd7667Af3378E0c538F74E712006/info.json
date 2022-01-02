@@ -4,7 +4,8 @@
     "id": "0x1c4b7d0e1885bd7667Af3378E0c538F74E712006",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/playgroundz",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1364.38,
+    "24_hr_volume_usd": 580.86,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1c4b7d0e1885bd7667Af3378E0c538F74E712006/logo.png"
 }

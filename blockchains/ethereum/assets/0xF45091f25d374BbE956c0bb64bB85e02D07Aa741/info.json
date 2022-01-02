@@ -4,7 +4,8 @@
     "id": "0xF45091f25d374BbE956c0bb64bB85e02D07Aa741",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/mnmcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.658901,
+    "24_hr_volume_usd": 6.72,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF45091f25d374BbE956c0bb64bB85e02D07Aa741/logo.png"
 }

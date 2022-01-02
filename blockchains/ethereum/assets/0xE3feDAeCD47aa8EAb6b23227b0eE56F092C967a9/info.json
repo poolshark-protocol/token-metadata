@@ -4,7 +4,8 @@
     "id": "0xE3feDAeCD47aa8EAb6b23227b0eE56F092C967a9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/primas",
-    "market_cap_rank": 2309,
-    "24_hr_volume_usd": 1732579,
+    "market_cap_usd": 1084884,
+    "market_cap_rank": 2316,
+    "24_hr_volume_usd": 1903159,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE3feDAeCD47aa8EAb6b23227b0eE56F092C967a9/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xf961A1Fa7C781Ecd23689fE1d0B7f3B6cBB2f972",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-moon-cats",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 8081.77,
+    "24_hr_volume_usd": 2732.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf961A1Fa7C781Ecd23689fE1d0B7f3B6cBB2f972/logo.png"
 }

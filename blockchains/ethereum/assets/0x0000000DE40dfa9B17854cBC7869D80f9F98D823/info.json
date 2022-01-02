@@ -4,7 +4,8 @@
     "id": "0x0000000DE40dfa9B17854cBC7869D80f9F98D823",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/delta-theta",
-    "market_cap_rank": 2132,
-    "24_hr_volume_usd": 8204.19,
+    "market_cap_usd": 1480925,
+    "market_cap_rank": 2152,
+    "24_hr_volume_usd": 1576.11,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0000000DE40dfa9B17854cBC7869D80f9F98D823/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/unibright",
-    "market_cap_rank": 318,
-    "24_hr_volume_usd": 1322641,
+    "market_cap_usd": 253452803,
+    "market_cap_rank": 281,
+    "24_hr_volume_usd": 2078116,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e/logo.png"
 }

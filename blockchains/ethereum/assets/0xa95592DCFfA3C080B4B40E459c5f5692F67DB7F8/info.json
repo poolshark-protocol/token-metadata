@@ -4,7 +4,8 @@
     "id": "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/elysian",
-    "market_cap_rank": 2973,
-    "24_hr_volume_usd": 135576,
+    "market_cap_usd": 225039,
+    "market_cap_rank": 2950,
+    "24_hr_volume_usd": 137247,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8/logo.png"
 }

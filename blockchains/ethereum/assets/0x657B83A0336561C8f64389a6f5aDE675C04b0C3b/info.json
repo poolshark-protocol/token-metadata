@@ -4,7 +4,8 @@
     "id": "0x657B83A0336561C8f64389a6f5aDE675C04b0C3b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/playcent",
-    "market_cap_rank": 2070,
-    "24_hr_volume_usd": 7350.85,
+    "market_cap_usd": 1735745,
+    "market_cap_rank": 2076,
+    "24_hr_volume_usd": 28417,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x657B83A0336561C8f64389a6f5aDE675C04b0C3b/logo.png"
 }

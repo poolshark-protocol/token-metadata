@@ -4,7 +4,8 @@
     "id": "0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/aga-token",
-    "market_cap_rank": 2243,
-    "24_hr_volume_usd": 1774.73,
+    "market_cap_usd": 1225385,
+    "market_cap_rank": 2247,
+    "24_hr_volume_usd": 2255.57,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2D80f5F5328FdcB6ECeb7Cacf5DD8AEDaEC94e20/logo.png"
 }

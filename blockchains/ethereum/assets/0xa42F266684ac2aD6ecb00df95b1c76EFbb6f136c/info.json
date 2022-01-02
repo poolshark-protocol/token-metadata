@@ -4,7 +4,8 @@
     "id": "0xa42F266684ac2aD6ecb00df95b1c76EFbb6f136c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cash-tech",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 4452.57,
+    "24_hr_volume_usd": 422.46,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa42F266684ac2aD6ecb00df95b1c76EFbb6f136c/logo.png"
 }

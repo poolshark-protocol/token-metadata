@@ -4,7 +4,8 @@
     "id": "0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vision-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 7610.87,
+    "24_hr_volume_usd": 6768.92,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x456AE45c0CE901E2e7c99c0718031cEc0A7A59Ff/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x5c62Da804298D5972a323C80B539B8E7517a0dDe",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/venjocoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1074.75,
+    "24_hr_volume_usd": 624.88,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5c62Da804298D5972a323C80B539B8E7517a0dDe/logo.png"
 }

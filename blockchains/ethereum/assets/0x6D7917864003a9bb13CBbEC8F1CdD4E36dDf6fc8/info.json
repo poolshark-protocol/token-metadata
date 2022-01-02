@@ -4,7 +4,8 @@
     "id": "0x6D7917864003a9bb13CBbEC8F1CdD4E36dDf6fc8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/semitoken",
-    "market_cap_rank": 3036,
-    "24_hr_volume_usd": 37997,
+    "market_cap_usd": 271872,
+    "market_cap_rank": 2898,
+    "24_hr_volume_usd": 445.02,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6D7917864003a9bb13CBbEC8F1CdD4E36dDf6fc8/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/starbase",
-    "market_cap_rank": 2458,
-    "24_hr_volume_usd": 59.15,
+    "market_cap_usd": 844585,
+    "market_cap_rank": 2436,
+    "24_hr_volume_usd": 61616,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc/logo.png"
 }

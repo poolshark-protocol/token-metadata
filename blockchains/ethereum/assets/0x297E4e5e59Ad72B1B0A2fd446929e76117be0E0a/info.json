@@ -4,7 +4,8 @@
     "id": "0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/smart-valor",
-    "market_cap_rank": 804,
-    "24_hr_volume_usd": 4379261,
+    "market_cap_usd": 30838188,
+    "market_cap_rank": 810,
+    "24_hr_volume_usd": 1745795,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x297E4e5e59Ad72B1B0A2fd446929e76117be0E0a/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb",
     "decimals": 16,
     "coingecko_url": "https://www.coingecko.com/en/coins/swarm-bzz",
-    "market_cap_rank": 368,
-    "24_hr_volume_usd": 2722945,
+    "market_cap_usd": 206968117,
+    "market_cap_rank": 321,
+    "24_hr_volume_usd": 13970853,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x19062190B1925b5b6689D7073fDfC8c2976EF8Cb/logo.png"
 }

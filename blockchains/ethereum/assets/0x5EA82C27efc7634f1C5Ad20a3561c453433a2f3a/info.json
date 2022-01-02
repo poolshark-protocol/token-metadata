@@ -4,7 +4,8 @@
     "id": "0x5EA82C27efc7634f1C5Ad20a3561c453433a2f3a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/btrips",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2534780,
+    "24_hr_volume_usd": 1473420,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5EA82C27efc7634f1C5Ad20a3561c453433a2f3a/logo.png"
 }

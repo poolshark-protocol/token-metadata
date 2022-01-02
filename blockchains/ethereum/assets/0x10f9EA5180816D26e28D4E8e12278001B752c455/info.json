@@ -4,7 +4,8 @@
     "id": "0x10f9EA5180816D26e28D4E8e12278001B752c455",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/potter-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 722.55,
+    "24_hr_volume_usd": 1059.31,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x10f9EA5180816D26e28D4E8e12278001B752c455/logo.png"
 }

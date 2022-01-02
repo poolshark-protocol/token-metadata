@@ -4,6 +4,7 @@
     "id": "0xB72B31907C1C95F3650b64b2469e08EdACeE5e8F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vbzrx",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 1026.78,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB72B31907C1C95F3650b64b2469e08EdACeE5e8F/logo.png"

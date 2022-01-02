@@ -4,8 +4,9 @@
     "id": "0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/birdchain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 45.94,
+    "24_hr_volume_usd": 51.83,
     "public_notice": "Birdchain has recently underwent a chain migration to the Binance Smart Chain.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d/logo.png"
 }

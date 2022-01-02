@@ -4,7 +4,8 @@
     "id": "0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/basketdao",
-    "market_cap_rank": 3046,
-    "24_hr_volume_usd": 1503.88,
+    "market_cap_usd": 161538,
+    "market_cap_rank": 3042,
+    "24_hr_volume_usd": 132.95,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb/logo.png"
 }

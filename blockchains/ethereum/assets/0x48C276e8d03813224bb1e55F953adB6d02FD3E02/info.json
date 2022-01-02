@@ -4,8 +4,9 @@
     "id": "0x48C276e8d03813224bb1e55F953adB6d02FD3E02",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kuma-inu",
-    "market_cap_rank": 1175,
-    "24_hr_volume_usd": 411675,
+    "market_cap_usd": 12847280,
+    "market_cap_rank": 1146,
+    "24_hr_volume_usd": 395504,
     "public_notice": "KUMA has been migrated to KUMAv2. For more information, please read https://kumainu.medium.com/kuma-token-v2-migration-67774c93a6f8",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x48C276e8d03813224bb1e55F953adB6d02FD3E02/logo.png"
 }

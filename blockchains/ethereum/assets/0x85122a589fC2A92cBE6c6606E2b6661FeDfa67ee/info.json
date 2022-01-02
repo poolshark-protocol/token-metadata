@@ -4,7 +4,8 @@
     "id": "0x85122a589fC2A92cBE6c6606E2b6661FeDfa67ee",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/shibnaki",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 16468.47,
+    "24_hr_volume_usd": 29971,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x85122a589fC2A92cBE6c6606E2b6661FeDfa67ee/logo.png"
 }

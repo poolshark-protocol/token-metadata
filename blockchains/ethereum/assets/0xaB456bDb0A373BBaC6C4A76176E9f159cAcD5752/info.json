@@ -4,7 +4,8 @@
     "id": "0xaB456bDb0A373BBaC6C4A76176E9f159cAcD5752",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/society-of-galactic-exploration",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 10833.16,
+    "24_hr_volume_usd": 4231.87,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaB456bDb0A373BBaC6C4A76176E9f159cAcD5752/logo.png"
 }

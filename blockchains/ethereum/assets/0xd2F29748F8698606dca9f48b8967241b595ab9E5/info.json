@@ -4,7 +4,8 @@
     "id": "0xd2F29748F8698606dca9f48b8967241b595ab9E5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/icarus-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 37801,
+    "24_hr_volume_usd": 35847,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd2F29748F8698606dca9f48b8967241b595ab9E5/logo.png"
 }

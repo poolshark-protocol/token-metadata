@@ -4,8 +4,9 @@
     "id": "0xF74941046389c78F12fE44784C0EC9ca7CEb7dc2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dreamr-platform-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1221.58,
+    "24_hr_volume_usd": 192.01,
     "public_notice": "Dreamr Platform Token (DMR) has been delisted from Uniswap due to Extraordinary Gas Prices and is Migrating to Layer 2 Dex. For more information, please view the Official Announcement <a href=\"https://dreamuniverse.org/attn-dmr-token-is-de-listing-from-uniswap-due-to-extraordinary-gas-prices-migrating-to-layer-2-dex/\">here</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF74941046389c78F12fE44784C0EC9ca7CEb7dc2/logo.png"
 }

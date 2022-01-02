@@ -4,7 +4,8 @@
     "id": "0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/epik-protocol",
-    "market_cap_rank": 1082,
-    "24_hr_volume_usd": 327201,
+    "market_cap_usd": 14440389,
+    "market_cap_rank": 1105,
+    "24_hr_volume_usd": 284133,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4/logo.png"
 }

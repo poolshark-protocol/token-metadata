@@ -4,7 +4,8 @@
     "id": "0x519083fc539F23131C3b7046992584592772D12A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yearn-finance-value",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 21.45,
+    "24_hr_volume_usd": 13.14,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x519083fc539F23131C3b7046992584592772D12A/logo.png"
 }

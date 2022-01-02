@@ -4,7 +4,8 @@
     "id": "0x1788430620960F9a70e3DC14202a3A35ddE1A316",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/openalexa-protocol",
-    "market_cap_rank": 1339,
-    "24_hr_volume_usd": 753.94,
+    "market_cap_usd": 8798352,
+    "market_cap_rank": 1323,
+    "24_hr_volume_usd": 1321.5,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1788430620960F9a70e3DC14202a3A35ddE1A316/logo.png"
 }

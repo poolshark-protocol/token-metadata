@@ -4,7 +4,8 @@
     "id": "0x3D0293f06daF4311B482564330D57C8Db6C10893",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/y-coin",
+    "market_cap_usd": 148315,
     "market_cap_rank": 3065,
-    "24_hr_volume_usd": 4006.7,
+    "24_hr_volume_usd": 248.65,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3D0293f06daF4311B482564330D57C8Db6C10893/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x44709a920fCcF795fbC57BAA433cc3dd53C44DbE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dappradar",
-    "market_cap_rank": 1073,
-    "24_hr_volume_usd": 1568906,
+    "market_cap_usd": 14660537,
+    "market_cap_rank": 1094,
+    "24_hr_volume_usd": 641101,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x44709a920fCcF795fbC57BAA433cc3dd53C44DbE/logo.png"
 }

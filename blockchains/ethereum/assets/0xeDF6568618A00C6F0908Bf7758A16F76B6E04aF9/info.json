@@ -4,7 +4,8 @@
     "id": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/arianee",
-    "market_cap_rank": 983,
-    "24_hr_volume_usd": 881.96,
+    "market_cap_usd": 19651781,
+    "market_cap_rank": 985,
+    "24_hr_volume_usd": 3729.49,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x6110c64219621ce5B02FB8e8E57B54c01b83bF85",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/node-squared",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 9771.98,
+    "24_hr_volume_usd": 52854,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6110c64219621ce5B02FB8e8E57B54c01b83bF85/logo.png"
 }

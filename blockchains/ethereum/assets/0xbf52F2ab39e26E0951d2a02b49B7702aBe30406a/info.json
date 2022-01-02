@@ -4,7 +4,8 @@
     "id": "0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/odem",
-    "market_cap_rank": 1658,
-    "24_hr_volume_usd": 48517,
+    "market_cap_usd": 3969585,
+    "market_cap_rank": 1676,
+    "24_hr_volume_usd": 47441,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbf52F2ab39e26E0951d2a02b49B7702aBe30406a/logo.png"
 }

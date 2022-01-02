@@ -4,7 +4,8 @@
     "id": "0xB393cd041aFC1ACA4C380C663793fE2c7b8A0212",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nantrade",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 28284,
+    "24_hr_volume_usd": 20257,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB393cd041aFC1ACA4C380C663793fE2c7b8A0212/logo.png"
 }

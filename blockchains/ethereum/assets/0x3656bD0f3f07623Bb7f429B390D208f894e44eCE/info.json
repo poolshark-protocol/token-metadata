@@ -4,7 +4,8 @@
     "id": "0x3656bD0f3f07623Bb7f429B390D208f894e44eCE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/infliv",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1010.84,
+    "24_hr_volume_usd": 1050.24,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3656bD0f3f07623Bb7f429B390D208f894e44eCE/logo.png"
 }

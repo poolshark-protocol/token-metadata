@@ -4,7 +4,8 @@
     "id": "0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blockv",
-    "market_cap_rank": 783,
-    "24_hr_volume_usd": 5674.01,
+    "market_cap_usd": 33539790,
+    "market_cap_rank": 788,
+    "24_hr_volume_usd": 12779.18,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x340D2bdE5Eb28c1eed91B2f790723E3B160613B7/logo.png"
 }

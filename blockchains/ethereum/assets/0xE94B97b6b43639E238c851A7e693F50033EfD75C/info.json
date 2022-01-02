@@ -4,7 +4,8 @@
     "id": "0xE94B97b6b43639E238c851A7e693F50033EfD75C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rainbow-token",
-    "market_cap_rank": 2106,
-    "24_hr_volume_usd": 49172,
+    "market_cap_usd": 1463864,
+    "market_cap_rank": 2156,
+    "24_hr_volume_usd": 53149,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE94B97b6b43639E238c851A7e693F50033EfD75C/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x3a1Bda28AdB5B0a812a7CF10A1950c920F79BcD3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gameflip",
-    "market_cap_rank": 2768,
-    "24_hr_volume_usd": 6.39,
+    "market_cap_usd": 368067,
+    "market_cap_rank": 2782,
+    "24_hr_volume_usd": 5.73,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3a1Bda28AdB5B0a812a7CF10A1950c920F79BcD3/logo.png"
 }

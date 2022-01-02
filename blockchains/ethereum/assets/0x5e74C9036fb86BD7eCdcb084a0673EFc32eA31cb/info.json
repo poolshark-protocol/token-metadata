@@ -4,7 +4,8 @@
     "id": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/seth",
-    "market_cap_rank": 276,
-    "24_hr_volume_usd": 13403884,
+    "market_cap_usd": 260631495,
+    "market_cap_rank": 274,
+    "24_hr_volume_usd": 99771,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb/logo.png"
 }

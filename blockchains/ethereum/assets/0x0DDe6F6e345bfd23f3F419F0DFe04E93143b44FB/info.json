@@ -4,7 +4,8 @@
     "id": "0x0DDe6F6e345bfd23f3F419F0DFe04E93143b44FB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sota-finance",
-    "market_cap_rank": 2905,
-    "24_hr_volume_usd": 3435.89,
+    "market_cap_usd": 279159,
+    "market_cap_rank": 2888,
+    "24_hr_volume_usd": 1037.87,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0DDe6F6e345bfd23f3F419F0DFe04E93143b44FB/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x98F817765f69c802a7b188A3165a3267aD2d1123",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/olympus-inu-dao",
-    "market_cap_rank": 2926,
-    "24_hr_volume_usd": 649.19,
+    "market_cap_usd": 240610,
+    "market_cap_rank": 2932,
+    "24_hr_volume_usd": 501.45,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x98F817765f69c802a7b188A3165a3267aD2d1123/logo.png"
 }

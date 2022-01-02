@@ -4,7 +4,8 @@
     "id": "0x07a0AD7a9dfc3854466F8F29A173bf04bbA5686e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/solomon-defi",
-    "market_cap_rank": 2630,
-    "24_hr_volume_usd": 6850.63,
+    "market_cap_usd": 533617,
+    "market_cap_rank": 2642,
+    "24_hr_volume_usd": 53583,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x07a0AD7a9dfc3854466F8F29A173bf04bbA5686e/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x40d1F63B5D2048e67E9bEdB1B4c2F1A9fb4b6817",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/golden-goose",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12371.47,
+    "24_hr_volume_usd": 31236,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x40d1F63B5D2048e67E9bEdB1B4c2F1A9fb4b6817/logo.png"
 }

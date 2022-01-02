@@ -4,7 +4,8 @@
     "id": "0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/everid",
-    "market_cap_rank": 894,
-    "24_hr_volume_usd": 180810,
+    "market_cap_usd": 26786166,
+    "market_cap_rank": 866,
+    "24_hr_volume_usd": 156505,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83/logo.png"
 }

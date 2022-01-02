@@ -4,7 +4,8 @@
     "id": "0xE52d53c8C9aa7255F8c2FA9f7093FEa7192D2933",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yieldx",
-    "market_cap_rank": 3470,
+    "market_cap_usd": 2889.36,
+    "market_cap_rank": 3473,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE52d53c8C9aa7255F8c2FA9f7093FEa7192D2933/logo.png"
 }

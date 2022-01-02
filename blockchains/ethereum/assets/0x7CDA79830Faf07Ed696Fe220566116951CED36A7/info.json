@@ -4,8 +4,9 @@
     "id": "0x7CDA79830Faf07Ed696Fe220566116951CED36A7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/maya-preferred-223",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 319.04,
+    "24_hr_volume_usd": 216.94,
     "public_notice": "Maya Preferred has swapped from Ethereum Classic to Ethereum",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7CDA79830Faf07Ed696Fe220566116951CED36A7/logo.png"
 }

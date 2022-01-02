@@ -4,7 +4,8 @@
     "id": "0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/btc-lite",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 6.08,
+    "24_hr_volume_usd": 0.926969,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50/logo.png"
 }

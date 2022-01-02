@@ -4,7 +4,8 @@
     "id": "0x0Ce6d5a093d4166237C7A9ff8E0553B0293214a1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/decenturion",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2088.46,
+    "24_hr_volume_usd": 473.86,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0Ce6d5a093d4166237C7A9ff8E0553B0293214a1/logo.png"
 }

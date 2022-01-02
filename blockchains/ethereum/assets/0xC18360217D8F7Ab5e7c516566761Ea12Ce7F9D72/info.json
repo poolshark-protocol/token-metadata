@@ -4,7 +4,8 @@
     "id": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-name-service",
-    "market_cap_rank": 125,
-    "24_hr_volume_usd": 75867042,
+    "market_cap_usd": 895147022,
+    "market_cap_rank": 127,
+    "24_hr_volume_usd": 58009158,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72/logo.png"
 }

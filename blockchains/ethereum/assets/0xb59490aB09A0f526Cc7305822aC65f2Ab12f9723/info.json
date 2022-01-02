@@ -4,7 +4,8 @@
     "id": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/litentry",
-    "market_cap_rank": 486,
-    "24_hr_volume_usd": 1522989,
+    "market_cap_usd": 96823821,
+    "market_cap_rank": 477,
+    "24_hr_volume_usd": 5980000,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723/logo.png"
 }

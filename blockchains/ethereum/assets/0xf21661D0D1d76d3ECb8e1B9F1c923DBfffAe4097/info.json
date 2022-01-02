@@ -4,7 +4,8 @@
     "id": "0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/realio-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 171803,
+    "24_hr_volume_usd": 180054,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf21661D0D1d76d3ECb8e1B9F1c923DBfffAe4097/logo.png"
 }

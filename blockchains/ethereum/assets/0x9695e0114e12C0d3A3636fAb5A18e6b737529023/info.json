@@ -4,7 +4,8 @@
     "id": "0x9695e0114e12C0d3A3636fAb5A18e6b737529023",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dfyn-network",
-    "market_cap_rank": 1055,
-    "24_hr_volume_usd": 2231340,
+    "market_cap_usd": 16694870,
+    "market_cap_rank": 1038,
+    "24_hr_volume_usd": 3809048,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9695e0114e12C0d3A3636fAb5A18e6b737529023/logo.png"
 }

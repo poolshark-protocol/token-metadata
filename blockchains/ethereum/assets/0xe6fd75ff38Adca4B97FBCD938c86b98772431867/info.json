@@ -4,7 +4,8 @@
     "id": "0xe6fd75ff38Adca4B97FBCD938c86b98772431867",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/elastos",
-    "market_cap_rank": 602,
-    "24_hr_volume_usd": 447272,
+    "market_cap_usd": 61754399,
+    "market_cap_rank": 603,
+    "24_hr_volume_usd": 416702,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe6fd75ff38Adca4B97FBCD938c86b98772431867/logo.png"
 }

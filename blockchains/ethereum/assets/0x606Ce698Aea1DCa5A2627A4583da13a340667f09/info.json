@@ -4,7 +4,8 @@
     "id": "0x606Ce698Aea1DCa5A2627A4583da13a340667f09",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/savebritney",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 92.24,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x606Ce698Aea1DCa5A2627A4583da13a340667f09/logo.png"
 }

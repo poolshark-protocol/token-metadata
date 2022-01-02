@@ -4,7 +4,8 @@
     "id": "0x87C00817ABe35eD4C093e59043fae488238d2F74",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yoink",
+    "market_cap_usd": 49361,
     "market_cap_rank": 3284,
-    "24_hr_volume_usd": 413.12,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x87C00817ABe35eD4C093e59043fae488238d2F74/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x4CF488387F035FF08c371515562CBa712f9015d4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wepower",
-    "market_cap_rank": 1939,
-    "24_hr_volume_usd": 376.6,
+    "market_cap_usd": 2042996,
+    "market_cap_rank": 1984,
+    "24_hr_volume_usd": 368.32,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4CF488387F035FF08c371515562CBa712f9015d4/logo.png"
 }

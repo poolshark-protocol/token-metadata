@@ -4,6 +4,7 @@
     "id": "0x55986C1dcbf2fA1f3402C5Df256272621624821f",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/bank-btc",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x55986C1dcbf2fA1f3402C5Df256272621624821f/logo.png"

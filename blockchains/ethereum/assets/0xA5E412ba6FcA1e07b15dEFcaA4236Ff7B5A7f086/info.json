@@ -4,7 +4,8 @@
     "id": "0xA5E412ba6FcA1e07b15dEFcaA4236Ff7B5A7f086",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/crypto-bank",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 281267,
+    "24_hr_volume_usd": 227301,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA5E412ba6FcA1e07b15dEFcaA4236Ff7B5A7f086/logo.png"
 }

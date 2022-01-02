@@ -4,7 +4,8 @@
     "id": "0xf1f5De69C9C8D9BE8a7B01773Cc1166D4Ec6Ede2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/definitex",
-    "market_cap_rank": 3291,
+    "market_cap_usd": 46024,
+    "market_cap_rank": 3292,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf1f5De69C9C8D9BE8a7B01773Cc1166D4Ec6Ede2/logo.png"
 }

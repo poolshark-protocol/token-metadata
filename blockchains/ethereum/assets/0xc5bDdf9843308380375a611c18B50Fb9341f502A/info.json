@@ -4,7 +4,8 @@
     "id": "0xc5bDdf9843308380375a611c18B50Fb9341f502A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vecrv-dao-yvault",
-    "market_cap_rank": 788,
-    "24_hr_volume_usd": 15220.54,
+    "market_cap_usd": 33786301,
+    "market_cap_rank": 782,
+    "24_hr_volume_usd": 126719,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc5bDdf9843308380375a611c18B50Fb9341f502A/logo.png"
 }

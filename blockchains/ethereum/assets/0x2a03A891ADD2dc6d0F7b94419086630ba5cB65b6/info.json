@@ -4,7 +4,8 @@
     "id": "0x2a03A891ADD2dc6d0F7b94419086630ba5cB65b6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dreamverse",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 374136,
+    "24_hr_volume_usd": 369792,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2a03A891ADD2dc6d0F7b94419086630ba5cB65b6/logo.png"
 }

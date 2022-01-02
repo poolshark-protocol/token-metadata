@@ -4,7 +4,8 @@
     "id": "0x69d2779533a4D2c780639713558B2cC98c46A9b7",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/vntchain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 247778,
+    "24_hr_volume_usd": 220759,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x69d2779533a4D2c780639713558B2cC98c46A9b7/logo.png"
 }

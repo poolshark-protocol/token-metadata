@@ -4,6 +4,7 @@
     "id": "0xcE13aBCE0DB5A8224616ef24D3979d466F19CF90",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rebit",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 5.15,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcE13aBCE0DB5A8224616ef24D3979d466F19CF90/logo.png"

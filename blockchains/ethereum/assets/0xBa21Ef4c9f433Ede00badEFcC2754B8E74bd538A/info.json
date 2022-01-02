@@ -4,7 +4,8 @@
     "id": "0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/swapfolio",
-    "market_cap_rank": 1849,
-    "24_hr_volume_usd": 5211.73,
+    "market_cap_usd": 2675487,
+    "market_cap_rank": 1863,
+    "24_hr_volume_usd": 4934.74,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBa21Ef4c9f433Ede00badEFcC2754B8E74bd538A/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tower",
-    "market_cap_rank": 1107,
-    "24_hr_volume_usd": 450672,
+    "market_cap_usd": 15187271,
+    "market_cap_rank": 1070,
+    "24_hr_volume_usd": 110771,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1C9922314ED1415c95b9FD453c3818fd41867d0B/logo.png"
 }

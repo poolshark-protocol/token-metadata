@@ -4,7 +4,8 @@
     "id": "0xAAAaaaaBA2ea3daAB0A6c05F1b962c78c9836d99",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/azbit",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2930.53,
+    "24_hr_volume_usd": 0.2584,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAAAaaaaBA2ea3daAB0A6c05F1b962c78c9836d99/logo.png"
 }

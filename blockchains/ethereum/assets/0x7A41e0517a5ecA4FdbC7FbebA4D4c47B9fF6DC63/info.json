@@ -4,7 +4,8 @@
     "id": "0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zeusshield",
-    "market_cap_rank": 2737,
-    "24_hr_volume_usd": 2049.91,
+    "market_cap_usd": 448303,
+    "market_cap_rank": 2704,
+    "24_hr_volume_usd": 28286,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x99c6e435eC259A7E8d65E1955C9423DB624bA54C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/finminity",
-    "market_cap_rank": 2847,
-    "24_hr_volume_usd": 858.12,
+    "market_cap_usd": 256622,
+    "market_cap_rank": 2913,
+    "24_hr_volume_usd": 137644,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x99c6e435eC259A7E8d65E1955C9423DB624bA54C/logo.png"
 }

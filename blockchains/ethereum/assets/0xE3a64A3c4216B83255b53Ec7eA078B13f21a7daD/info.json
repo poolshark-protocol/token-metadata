@@ -4,7 +4,8 @@
     "id": "0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defi-gold",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1.23,
+    "24_hr_volume_usd": 43.56,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE3a64A3c4216B83255b53Ec7eA078B13f21a7daD/logo.png"
 }

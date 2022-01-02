@@ -4,7 +4,8 @@
     "id": "0x964291d2D0a7e3477a8a06ee745F3cD8E3d0B375",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/intelligent-mining",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 9922.89,
+    "24_hr_volume_usd": 7330.05,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x964291d2D0a7e3477a8a06ee745F3cD8E3d0B375/logo.png"
 }

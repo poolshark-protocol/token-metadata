@@ -4,7 +4,8 @@
     "id": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
     "decimals": 2,
     "coingecko_url": "https://www.coingecko.com/en/coins/gemini-dollar",
-    "market_cap_rank": 339,
-    "24_hr_volume_usd": 4766229,
+    "market_cap_usd": 194139451,
+    "market_cap_rank": 334,
+    "24_hr_volume_usd": 30976680,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd/logo.png"
 }

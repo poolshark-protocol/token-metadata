@@ -4,7 +4,8 @@
     "id": "0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dos-network",
-    "market_cap_rank": 1845,
-    "24_hr_volume_usd": 103999,
+    "market_cap_usd": 2590928,
+    "market_cap_rank": 1876,
+    "24_hr_volume_usd": 138000,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0A913beaD80F321E7Ac35285Ee10d9d922659cB7/logo.png"
 }

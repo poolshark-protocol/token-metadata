@@ -4,7 +4,8 @@
     "id": "0x66761Fa41377003622aEE3c7675Fc7b5c1C2FaC5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/clearpool",
-    "market_cap_rank": 756,
-    "24_hr_volume_usd": 1630464,
+    "market_cap_usd": 38242676,
+    "market_cap_rank": 755,
+    "24_hr_volume_usd": 675220,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x66761Fa41377003622aEE3c7675Fc7b5c1C2FaC5/logo.png"
 }

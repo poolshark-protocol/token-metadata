@@ -4,8 +4,9 @@
     "id": "0x86ed939B500E121C0C5f493F399084Db596dAd20",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/spacechain-erc-20",
-    "market_cap_rank": 1541,
-    "24_hr_volume_usd": 96672,
+    "market_cap_usd": 5191205,
+    "market_cap_rank": 1539,
+    "24_hr_volume_usd": 19891.21,
     "public_notice": "Spacechain has migrated its smart contract from v1 (0x8069080a922834460c3a092fb2c1510224dc066b) to v2 (0x86ed939b500e121c0c5f493f399084db596dad20). For more information, do refer to https://medium.com/blogspacechain/spacechain-advances-erc-20-spc-token-with-decentralized-finance-capabilities-to-unlock-new-34c45ff0205f",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x86ed939B500E121C0C5f493F399084Db596dAd20/logo.png"
 }

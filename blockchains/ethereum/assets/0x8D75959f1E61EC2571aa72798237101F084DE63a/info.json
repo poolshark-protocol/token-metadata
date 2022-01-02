@@ -4,7 +4,8 @@
     "id": "0x8D75959f1E61EC2571aa72798237101F084DE63a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/substratum",
-    "market_cap_rank": 2531,
-    "24_hr_volume_usd": 8028.45,
+    "market_cap_usd": 784661,
+    "market_cap_rank": 2475,
+    "24_hr_volume_usd": 2943.93,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8D75959f1E61EC2571aa72798237101F084DE63a/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x84F7c44B6Fed1080f647E354D552595be2Cc602F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bigbom-eco",
-    "market_cap_rank": 3005,
-    "24_hr_volume_usd": 66510,
+    "market_cap_usd": 183219,
+    "market_cap_rank": 3010,
+    "24_hr_volume_usd": 36377,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x84F7c44B6Fed1080f647E354D552595be2Cc602F/logo.png"
 }

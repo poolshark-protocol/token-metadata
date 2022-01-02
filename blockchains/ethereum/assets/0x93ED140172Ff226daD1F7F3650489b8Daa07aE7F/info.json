@@ -4,7 +4,8 @@
     "id": "0x93ED140172Ff226daD1F7F3650489b8Daa07aE7F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zzz-finance-v2",
-    "market_cap_rank": 3310,
-    "24_hr_volume_usd": 408.64,
+    "market_cap_usd": 40757,
+    "market_cap_rank": 3307,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93ED140172Ff226daD1F7F3650489b8Daa07aE7F/logo.png"
 }

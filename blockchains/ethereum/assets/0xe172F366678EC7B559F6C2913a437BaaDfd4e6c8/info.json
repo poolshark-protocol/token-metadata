@@ -4,7 +4,8 @@
     "id": "0xe172F366678EC7B559F6C2913a437BaaDfd4e6c8",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/kauri",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 25959,
+    "24_hr_volume_usd": 27445,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe172F366678EC7B559F6C2913a437BaaDfd4e6c8/logo.png"
 }

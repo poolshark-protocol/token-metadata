@@ -4,8 +4,9 @@
     "id": "0x81C159f7aBAa9139227Aff62959b86B4141F6EB2",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/elons-marvin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2508.54,
+    "24_hr_volume_usd": 28947,
     "public_notice": "Elon's Marvin has migrated from the <a href=\"https://bscscan.com/token/0x2bfd26116c6321be08ef5374b4e42814c14a042d\">old contract</a> to a <a href=\"https://bscscan.com/token/0x54017fda0ff8f380ccef600147a66d2e262d6b17\">new one</a>. Find out more on their Twitter.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x81C159f7aBAa9139227Aff62959b86B4141F6EB2/logo.png"
 }

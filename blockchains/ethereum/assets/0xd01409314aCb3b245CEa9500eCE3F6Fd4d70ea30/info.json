@@ -4,8 +4,9 @@
     "id": "0xd01409314aCb3b245CEa9500eCE3F6Fd4d70ea30",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/lto-network",
-    "market_cap_rank": 446,
-    "24_hr_volume_usd": 22320043,
+    "market_cap_usd": 119042032,
+    "market_cap_rank": 440,
+    "24_hr_volume_usd": 27518144,
     "public_notice": "LTO network is updating to the ERC20-based smart contract. New smart contract:  0xd01409314acb3b245cea9500ece3f6fd4d70ea30   Old smart contract: 0x3db6ba6ab6f95efed1a6e794cad492faaabf294d  For detailed information, please read https://blog.ltonetwork.com/new-erc-20-smart-contract/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd01409314aCb3b245CEa9500eCE3F6Fd4d70ea30/logo.png"
 }

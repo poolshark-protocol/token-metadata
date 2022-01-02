@@ -4,7 +4,8 @@
     "id": "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/metronome",
-    "market_cap_rank": 607,
-    "24_hr_volume_usd": 43735,
+    "market_cap_usd": 60350038,
+    "market_cap_rank": 610,
+    "24_hr_volume_usd": 41659,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e/logo.png"
 }

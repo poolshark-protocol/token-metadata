@@ -4,7 +4,8 @@
     "id": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stacktical",
-    "market_cap_rank": 876,
-    "24_hr_volume_usd": 474642,
+    "market_cap_usd": 25495753,
+    "market_cap_rank": 880,
+    "24_hr_volume_usd": 290642,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe/logo.png"
 }

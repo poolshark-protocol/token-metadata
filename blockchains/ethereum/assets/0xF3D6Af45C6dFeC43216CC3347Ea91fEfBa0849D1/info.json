@@ -4,7 +4,8 @@
     "id": "0xF3D6Af45C6dFeC43216CC3347Ea91fEfBa0849D1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/decentralized-universal-basic-income",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 36154,
+    "24_hr_volume_usd": 4602.78,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF3D6Af45C6dFeC43216CC3347Ea91fEfBa0849D1/logo.png"
 }

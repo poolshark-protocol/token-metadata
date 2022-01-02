@@ -4,7 +4,8 @@
     "id": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/blue",
-    "market_cap_rank": 2262,
-    "24_hr_volume_usd": 4909651,
+    "market_cap_usd": 997224,
+    "market_cap_rank": 2356,
+    "24_hr_volume_usd": 5130584,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x539EfE69bCDd21a83eFD9122571a64CC25e0282b/logo.png"
 }

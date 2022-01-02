@@ -4,7 +4,8 @@
     "id": "0x016ee7373248a80BDe1fD6bAA001311d233b3CFa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/3x-short-bitcoin-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2670381,
+    "24_hr_volume_usd": 829351,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x016ee7373248a80BDe1fD6bAA001311d233b3CFa/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x6bC1F3A1ae56231DbB64d3E82E070857EAe86045",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/xensor",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 107926,
+    "24_hr_volume_usd": 215493,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6bC1F3A1ae56231DbB64d3E82E070857EAe86045/logo.png"
 }

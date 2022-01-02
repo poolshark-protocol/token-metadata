@@ -4,7 +4,8 @@
     "id": "0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bird-money",
-    "market_cap_rank": 1316,
-    "24_hr_volume_usd": 139489,
+    "market_cap_usd": 8526249,
+    "market_cap_rank": 1332,
+    "24_hr_volume_usd": 26040,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x70401dFD142A16dC7031c56E862Fc88Cb9537Ce0/logo.png"
 }

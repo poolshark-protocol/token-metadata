@@ -4,7 +4,8 @@
     "id": "0xA5959E9412d27041194c3c3bcBE855faCE2864F7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unidexgas",
+    "market_cap_usd": 92121,
     "market_cap_rank": 3180,
-    "24_hr_volume_usd": 118.15,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA5959E9412d27041194c3c3bcBE855faCE2864F7/logo.png"
 }

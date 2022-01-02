@@ -4,7 +4,8 @@
     "id": "0x73C61dD9E121dE834A4f3ed607263EE33b308c06",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/dogefather-ecosystem",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 176.84,
+    "24_hr_volume_usd": 49.87,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x73C61dD9E121dE834A4f3ed607263EE33b308c06/logo.png"
 }

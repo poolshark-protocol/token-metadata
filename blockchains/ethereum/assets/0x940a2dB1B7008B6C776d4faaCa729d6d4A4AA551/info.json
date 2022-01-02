@@ -4,7 +4,8 @@
     "id": "0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dusk-network",
-    "market_cap_rank": 215,
-    "24_hr_volume_usd": 49428118,
+    "market_cap_usd": 392645295,
+    "market_cap_rank": 209,
+    "24_hr_volume_usd": 47085123,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551/logo.png"
 }

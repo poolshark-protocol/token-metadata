@@ -4,7 +4,8 @@
     "id": "0xacFe45C352C902ae3A3F9B6bfE6eC994c5D791BF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/megabonk",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 405.85,
+    "24_hr_volume_usd": 6150.6,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xacFe45C352C902ae3A3F9B6bfE6eC994c5D791BF/logo.png"
 }

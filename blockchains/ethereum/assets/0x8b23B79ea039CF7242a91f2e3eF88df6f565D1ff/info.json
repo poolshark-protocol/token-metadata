@@ -4,7 +4,8 @@
     "id": "0x8b23B79ea039CF7242a91f2e3eF88df6f565D1ff",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/floki-adventure",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 933.58,
+    "24_hr_volume_usd": 1001.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8b23B79ea039CF7242a91f2e3eF88df6f565D1ff/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/payaccept",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 94.57,
+    "24_hr_volume_usd": 43.94,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8EF47555856f6Ce2E0cd7C36AeF4FAb317d2e2E2/logo.png"
 }

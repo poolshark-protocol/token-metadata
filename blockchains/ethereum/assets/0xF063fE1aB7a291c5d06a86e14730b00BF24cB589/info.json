@@ -4,7 +4,8 @@
     "id": "0xF063fE1aB7a291c5d06a86e14730b00BF24cB589",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dxsale-network",
-    "market_cap_rank": 856,
-    "24_hr_volume_usd": 98683,
+    "market_cap_usd": 26546372,
+    "market_cap_rank": 872,
+    "24_hr_volume_usd": 63744,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF063fE1aB7a291c5d06a86e14730b00BF24cB589/logo.png"
 }

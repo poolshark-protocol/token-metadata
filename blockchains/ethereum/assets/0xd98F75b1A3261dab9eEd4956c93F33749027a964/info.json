@@ -4,7 +4,8 @@
     "id": "0xd98F75b1A3261dab9eEd4956c93F33749027a964",
     "decimals": 2,
     "coingecko_url": "https://www.coingecko.com/en/coins/sharering",
-    "market_cap_rank": 571,
-    "24_hr_volume_usd": 619798,
+    "market_cap_usd": 69453171,
+    "market_cap_rank": 573,
+    "24_hr_volume_usd": 466003,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd98F75b1A3261dab9eEd4956c93F33749027a964/logo.png"
 }

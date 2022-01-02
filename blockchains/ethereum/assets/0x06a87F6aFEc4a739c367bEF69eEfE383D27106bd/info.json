@@ -4,7 +4,8 @@
     "id": "0x06a87F6aFEc4a739c367bEF69eEfE383D27106bd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/scoobi-doge",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 6.2,
+    "24_hr_volume_usd": 1998.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06a87F6aFEc4a739c367bEF69eEfE383D27106bd/logo.png"
 }

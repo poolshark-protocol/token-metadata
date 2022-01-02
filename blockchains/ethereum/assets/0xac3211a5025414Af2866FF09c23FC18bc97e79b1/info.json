@@ -4,7 +4,8 @@
     "id": "0xac3211a5025414Af2866FF09c23FC18bc97e79b1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dovu",
-    "market_cap_rank": 1827,
-    "24_hr_volume_usd": 252391,
+    "market_cap_usd": 4557614,
+    "market_cap_rank": 1598,
+    "24_hr_volume_usd": 235636,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xac3211a5025414Af2866FF09c23FC18bc97e79b1/logo.png"
 }

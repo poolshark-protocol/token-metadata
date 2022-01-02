@@ -4,7 +4,8 @@
     "id": "0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dlp-duck-token",
-    "market_cap_rank": 1221,
-    "24_hr_volume_usd": 86686,
+    "market_cap_usd": 11454643,
+    "market_cap_rank": 1211,
+    "24_hr_volume_usd": 96781,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC0bA369c8Db6eB3924965e5c4FD0b4C1B91e305F/logo.png"
 }

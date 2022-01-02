@@ -4,7 +4,8 @@
     "id": "0x5003B168b457B663c3c18FFcF5B6a24bEe8f59C7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/musk",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 9276.39,
+    "24_hr_volume_usd": 898841,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5003B168b457B663c3c18FFcF5B6a24bEe8f59C7/logo.png"
 }

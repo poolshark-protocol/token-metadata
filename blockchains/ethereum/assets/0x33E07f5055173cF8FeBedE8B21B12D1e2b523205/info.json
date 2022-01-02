@@ -4,7 +4,8 @@
     "id": "0x33E07f5055173cF8FeBedE8B21B12D1e2b523205",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/etherland",
-    "market_cap_rank": 2227,
-    "24_hr_volume_usd": 20086,
+    "market_cap_usd": 1521924,
+    "market_cap_rank": 2137,
+    "24_hr_volume_usd": 57528,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x33E07f5055173cF8FeBedE8B21B12D1e2b523205/logo.png"
 }

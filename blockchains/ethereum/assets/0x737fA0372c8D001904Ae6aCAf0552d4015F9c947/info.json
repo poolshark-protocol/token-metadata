@@ -4,7 +4,8 @@
     "id": "0x737fA0372c8D001904Ae6aCAf0552d4015F9c947",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/medibit",
-    "market_cap_rank": 3309,
-    "24_hr_volume_usd": 1363.77,
+    "market_cap_usd": 39983,
+    "market_cap_rank": 3310,
+    "24_hr_volume_usd": 1038.09,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x737fA0372c8D001904Ae6aCAf0552d4015F9c947/logo.png"
 }

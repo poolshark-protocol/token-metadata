@@ -4,7 +4,8 @@
     "id": "0xC03841B5135600312707d39Eb2aF0D2aD5d51A91",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/basketcoin",
-    "market_cap_rank": 2149,
-    "24_hr_volume_usd": 13399.41,
+    "market_cap_usd": 1456781,
+    "market_cap_rank": 2156,
+    "24_hr_volume_usd": 1883.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC03841B5135600312707d39Eb2aF0D2aD5d51A91/logo.png"
 }

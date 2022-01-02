@@ -4,7 +4,8 @@
     "id": "0xe75ad3aAB14E4B0dF8c5da4286608DaBb21Bd864",
     "decimals": 5,
     "coingecko_url": "https://www.coingecko.com/en/coins/acute-angle-cloud",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 30047,
+    "24_hr_volume_usd": 22097,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe75ad3aAB14E4B0dF8c5da4286608DaBb21Bd864/logo.png"
 }

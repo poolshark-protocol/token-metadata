@@ -4,7 +4,8 @@
     "id": "0x41875C2332B0877cDFAA699B641402b7D4642c32",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/futurax",
-    "market_cap_rank": 3130,
-    "24_hr_volume_usd": 457.63,
+    "market_cap_usd": 93139,
+    "market_cap_rank": 3178,
+    "24_hr_volume_usd": 209.72,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x41875C2332B0877cDFAA699B641402b7D4642c32/logo.png"
 }

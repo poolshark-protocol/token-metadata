@@ -4,7 +4,8 @@
     "id": "0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/freedom-coin",
-    "market_cap_rank": 1181,
-    "24_hr_volume_usd": 903711,
+    "market_cap_usd": 12869571,
+    "market_cap_rank": 1146,
+    "24_hr_volume_usd": 688260,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2F141Ce366a2462f02cEA3D12CF93E4DCa49e4Fd/logo.png"
 }

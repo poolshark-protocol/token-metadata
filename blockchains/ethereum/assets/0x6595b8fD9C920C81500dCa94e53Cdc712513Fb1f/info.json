@@ -4,7 +4,8 @@
     "id": "0x6595b8fD9C920C81500dCa94e53Cdc712513Fb1f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/olyseum",
-    "market_cap_rank": 1292,
-    "24_hr_volume_usd": 101268,
+    "market_cap_usd": 8888168,
+    "market_cap_rank": 1315,
+    "24_hr_volume_usd": 62572,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6595b8fD9C920C81500dCa94e53Cdc712513Fb1f/logo.png"
 }

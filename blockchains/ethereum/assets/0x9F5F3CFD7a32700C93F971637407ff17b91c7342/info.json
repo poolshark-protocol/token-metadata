@@ -4,7 +4,8 @@
     "id": "0x9F5F3CFD7a32700C93F971637407ff17b91c7342",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/scry-info",
-    "market_cap_rank": 2173,
-    "24_hr_volume_usd": 5088.99,
+    "market_cap_usd": 1424154,
+    "market_cap_rank": 2181,
+    "24_hr_volume_usd": 49400,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9F5F3CFD7a32700C93F971637407ff17b91c7342/logo.png"
 }

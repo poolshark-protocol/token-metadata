@@ -4,7 +4,8 @@
     "id": "0xb3F822DbBD694901e2051a2495a8755D6cFd5133",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/hoff-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 25676,
+    "24_hr_volume_usd": 27062,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb3F822DbBD694901e2051a2495a8755D6cFd5133/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/havven",
-    "market_cap_rank": 109,
-    "24_hr_volume_usd": 76865668,
+    "market_cap_usd": 1163406862,
+    "market_cap_rank": 107,
+    "24_hr_volume_usd": 72529448,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xBD05CeE8741100010D8E93048a80Ed77645ac7bf",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cyclops-treasure",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 16.19,
+    "24_hr_volume_usd": 16.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBD05CeE8741100010D8E93048a80Ed77645ac7bf/logo.png"
 }

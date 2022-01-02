@@ -4,7 +4,8 @@
     "id": "0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/matryx",
-    "market_cap_rank": 1613,
-    "24_hr_volume_usd": 145475,
+    "market_cap_usd": 4562375,
+    "market_cap_rank": 1595,
+    "24_hr_volume_usd": 138951,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0AF44e2784637218dD1D32A322D44e603A8f0c6A/logo.png"
 }

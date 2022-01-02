@@ -4,7 +4,8 @@
     "id": "0x435d664F72D6F194ef67d63B5f3936650187b131",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pocket-node",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 442.24,
+    "24_hr_volume_usd": 67.88,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x435d664F72D6F194ef67d63B5f3936650187b131/logo.png"
 }

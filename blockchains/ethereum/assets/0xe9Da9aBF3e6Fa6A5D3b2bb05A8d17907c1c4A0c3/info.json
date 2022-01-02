@@ -4,6 +4,7 @@
     "id": "0xe9Da9aBF3e6Fa6A5D3b2bb05A8d17907c1c4A0c3",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/fear-uncertainty-doubt",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe9Da9aBF3e6Fa6A5D3b2bb05A8d17907c1c4A0c3/logo.png"

@@ -4,7 +4,8 @@
     "id": "0xF527d24391C767B86b8e91385e1cE9C54D230A2B",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/tsuzuki-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1385.56,
+    "24_hr_volume_usd": 1155.9,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF527d24391C767B86b8e91385e1cE9C54D230A2B/logo.png"
 }

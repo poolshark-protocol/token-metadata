@@ -4,7 +4,8 @@
     "id": "0x021576770CB3729716CCfb687afdB4c6bF720CB6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unlimited-fiscusfyi",
-    "market_cap_rank": 3495,
+    "market_cap_usd": 155.88,
+    "market_cap_rank": 3493,
     "24_hr_volume_usd": 19.73,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x021576770CB3729716CCfb687afdB4c6bF720CB6/logo.png"
 }

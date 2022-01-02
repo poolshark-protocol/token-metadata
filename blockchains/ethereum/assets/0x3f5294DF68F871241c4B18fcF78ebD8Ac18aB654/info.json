@@ -4,7 +4,8 @@
     "id": "0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/99starz",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 191044,
+    "24_hr_volume_usd": 120397,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654/logo.png"
 }

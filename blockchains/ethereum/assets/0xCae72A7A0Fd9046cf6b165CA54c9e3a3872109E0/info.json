@@ -4,7 +4,8 @@
     "id": "0xCae72A7A0Fd9046cf6b165CA54c9e3a3872109E0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/anrkey-x",
-    "market_cap_rank": 1131,
-    "24_hr_volume_usd": 191444,
+    "market_cap_usd": 12728236,
+    "market_cap_rank": 1152,
+    "24_hr_volume_usd": 217462,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCae72A7A0Fd9046cf6b165CA54c9e3a3872109E0/logo.png"
 }

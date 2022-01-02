@@ -4,7 +4,8 @@
     "id": "0x1cBb83EbcD552D5EBf8131eF8c9CD9d9BAB342bC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/non-fungible-yearn",
-    "market_cap_rank": 2202,
-    "24_hr_volume_usd": 2157.05,
+    "market_cap_usd": 1352448,
+    "market_cap_rank": 2198,
+    "24_hr_volume_usd": 1226.12,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1cBb83EbcD552D5EBf8131eF8c9CD9d9BAB342bC/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x13B02c8dE71680e71F0820c996E4bE43c2F57d15",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mirrored-invesco-qqq-trust",
-    "market_cap_rank": 1011,
-    "24_hr_volume_usd": 57301,
+    "market_cap_usd": 17615592,
+    "market_cap_rank": 1021,
+    "24_hr_volume_usd": 58147,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x13B02c8dE71680e71F0820c996E4bE43c2F57d15/logo.png"
 }

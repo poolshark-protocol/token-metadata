@@ -4,7 +4,8 @@
     "id": "0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/eurocoinpay",
-    "market_cap_rank": 2379,
-    "24_hr_volume_usd": 71160,
+    "market_cap_usd": 1173837,
+    "market_cap_rank": 2271,
+    "24_hr_volume_usd": 87574,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea/logo.png"
 }

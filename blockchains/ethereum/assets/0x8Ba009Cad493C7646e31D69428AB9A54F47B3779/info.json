@@ -4,7 +4,8 @@
     "id": "0x8Ba009Cad493C7646e31D69428AB9A54F47B3779",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/virgox-token",
-    "market_cap_rank": 2971,
-    "24_hr_volume_usd": 59.22,
+    "market_cap_usd": 214762,
+    "market_cap_rank": 2965,
+    "24_hr_volume_usd": 59.98,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8Ba009Cad493C7646e31D69428AB9A54F47B3779/logo.png"
 }

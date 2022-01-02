@@ -4,7 +4,8 @@
     "id": "0x38Ec27c6F05a169e7eD03132bcA7d0cfeE93C2C5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/wizards-and-dragons",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 38682,
+    "24_hr_volume_usd": 108084,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x38Ec27c6F05a169e7eD03132bcA7d0cfeE93C2C5/logo.png"
 }

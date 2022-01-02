@@ -4,7 +4,8 @@
     "id": "0x7D529a5b3c41126760A0fA3c1a9652d8A7A07793",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/narwhale",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 45.84,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7D529a5b3c41126760A0fA3c1a9652d8A7A07793/logo.png"
 }

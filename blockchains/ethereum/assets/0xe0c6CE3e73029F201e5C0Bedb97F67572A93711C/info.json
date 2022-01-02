@@ -4,7 +4,8 @@
     "id": "0xe0c6CE3e73029F201e5C0Bedb97F67572A93711C",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethplode",
-    "market_cap_rank": 3278,
+    "market_cap_usd": 49392,
+    "market_cap_rank": 3282,
     "24_hr_volume_usd": 2.32,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe0c6CE3e73029F201e5C0Bedb97F67572A93711C/logo.png"
 }

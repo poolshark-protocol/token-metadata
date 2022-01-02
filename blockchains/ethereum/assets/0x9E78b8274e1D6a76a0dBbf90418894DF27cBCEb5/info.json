@@ -4,8 +4,9 @@
     "id": "0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unifi",
-    "market_cap_rank": 1598,
-    "24_hr_volume_usd": 20130,
+    "market_cap_usd": 4292784,
+    "market_cap_rank": 1628,
+    "24_hr_volume_usd": 8628.49,
     "public_notice": "BUIDL, ARTE and UniFi have merged to become OS. https://ethos.eth.link/os.html",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x6006FC2a849fEdABa8330ce36F5133DE01F96189",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/spaceswap-shake",
-    "market_cap_rank": 2468,
-    "24_hr_volume_usd": 90626,
+    "market_cap_usd": 791875,
+    "market_cap_rank": 2465,
+    "24_hr_volume_usd": 142468,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6006FC2a849fEdABa8330ce36F5133DE01F96189/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/boutspro",
-    "market_cap_rank": 3095,
-    "24_hr_volume_usd": 0.840888,
+    "market_cap_usd": 286050,
+    "market_cap_rank": 2878,
+    "24_hr_volume_usd": 0.267453,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3/logo.png"
 }

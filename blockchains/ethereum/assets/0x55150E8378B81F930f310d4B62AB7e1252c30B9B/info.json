@@ -4,7 +4,8 @@
     "id": "0x55150E8378B81F930f310d4B62AB7e1252c30B9B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/smart-trade-networks",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.0,
+    "24_hr_volume_usd": 855.95,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x55150E8378B81F930f310d4B62AB7e1252c30B9B/logo.png"
 }

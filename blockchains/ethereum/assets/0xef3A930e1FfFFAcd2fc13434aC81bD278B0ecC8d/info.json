@@ -4,6 +4,7 @@
     "id": "0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stafi",
+    "market_cap_usd": 1289662,
     "market_cap_rank": null,
     "24_hr_volume_usd": 787399,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xef3A930e1FfFFAcd2fc13434aC81bD278B0ecC8d/logo.png"

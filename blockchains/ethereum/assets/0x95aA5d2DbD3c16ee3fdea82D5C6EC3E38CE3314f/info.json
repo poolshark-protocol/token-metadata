@@ -4,7 +4,8 @@
     "id": "0x95aA5d2DbD3c16ee3fdea82D5C6EC3E38CE3314f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pointpay",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 548384,
+    "24_hr_volume_usd": 448452,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95aA5d2DbD3c16ee3fdea82D5C6EC3E38CE3314f/logo.png"
 }

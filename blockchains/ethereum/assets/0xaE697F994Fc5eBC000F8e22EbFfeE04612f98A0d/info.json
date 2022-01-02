@@ -4,7 +4,8 @@
     "id": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lgcy-network",
-    "market_cap_rank": 569,
-    "24_hr_volume_usd": 362573,
+    "market_cap_usd": 72786015,
+    "market_cap_rank": 562,
+    "24_hr_volume_usd": 176615,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d/logo.png"
 }

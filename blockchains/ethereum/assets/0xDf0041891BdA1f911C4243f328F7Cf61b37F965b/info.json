@@ -4,7 +4,8 @@
     "id": "0xDf0041891BdA1f911C4243f328F7Cf61b37F965b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/boosto",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 192.4,
+    "24_hr_volume_usd": 3.62,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDf0041891BdA1f911C4243f328F7Cf61b37F965b/logo.png"
 }

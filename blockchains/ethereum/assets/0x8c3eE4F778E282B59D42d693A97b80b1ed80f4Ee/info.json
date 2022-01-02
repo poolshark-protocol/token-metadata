@@ -4,7 +4,8 @@
     "id": "0x8c3eE4F778E282B59D42d693A97b80b1ed80f4Ee",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/satopay",
-    "market_cap_rank": 2791,
-    "24_hr_volume_usd": 51449,
+    "market_cap_usd": 325388,
+    "market_cap_rank": 2834,
+    "24_hr_volume_usd": 45859,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8c3eE4F778E282B59D42d693A97b80b1ed80f4Ee/logo.png"
 }

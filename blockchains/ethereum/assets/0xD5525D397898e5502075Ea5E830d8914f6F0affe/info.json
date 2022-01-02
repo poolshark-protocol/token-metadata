@@ -4,8 +4,9 @@
     "id": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/degenerator",
-    "market_cap_rank": 1004,
-    "24_hr_volume_usd": 20150,
+    "market_cap_usd": 17194652,
+    "market_cap_rank": 1027,
+    "24_hr_volume_usd": 1980.13,
     "public_notice": "$MEME token has undergone a contract migration and rebranding to Meme Inu, new token is at https://www.coingecko.com/en/coins/meme-inu?locale=en<br>for more information, read https://dontbuymeme.medium.com/welcome-to-the-bark-side-632c8cfda1bb",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD5525D397898e5502075Ea5E830d8914f6F0affe/logo.png"
 }

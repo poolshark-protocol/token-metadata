@@ -4,6 +4,7 @@
     "id": "0x4A3e164684812DfB684AC36457E7fA805087c68E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yuan",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "public_notice": "YUAN is Under Malicious Issurance. For more information, please read https://medium.com/yuan-finance/yuan-governance-attack-update-and-migration-plan-3b5d949ab466.",

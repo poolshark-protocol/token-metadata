@@ -4,7 +4,8 @@
     "id": "0xFEF3884b603C33EF8eD4183346E093A173C94da6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/metamorph",
-    "market_cap_rank": 3167,
-    "24_hr_volume_usd": 104.16,
+    "market_cap_usd": 104599,
+    "market_cap_rank": 3150,
+    "24_hr_volume_usd": 208.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFEF3884b603C33EF8eD4183346E093A173C94da6/logo.png"
 }

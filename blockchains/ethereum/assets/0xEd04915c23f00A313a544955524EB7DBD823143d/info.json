@@ -4,7 +4,8 @@
     "id": "0xEd04915c23f00A313a544955524EB7DBD823143d",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/alchemy-pay",
-    "market_cap_rank": 286,
-    "24_hr_volume_usd": 30020506,
+    "market_cap_usd": 241629796,
+    "market_cap_rank": 291,
+    "24_hr_volume_usd": 16166930,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEd04915c23f00A313a544955524EB7DBD823143d/logo.png"
 }

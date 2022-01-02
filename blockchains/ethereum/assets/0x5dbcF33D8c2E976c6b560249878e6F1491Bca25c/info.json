@@ -4,7 +4,8 @@
     "id": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yvault-lp-ycurve",
-    "market_cap_rank": 1953,
-    "24_hr_volume_usd": 1363.63,
+    "market_cap_usd": 2178501,
+    "market_cap_rank": 1958,
+    "24_hr_volume_usd": 2132.82,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c/logo.png"
 }

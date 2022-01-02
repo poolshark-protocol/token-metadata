@@ -4,7 +4,8 @@
     "id": "0xEA1ea0972fa092dd463f2968F9bB51Cc4c981D71",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/modefi",
-    "market_cap_rank": 1170,
-    "24_hr_volume_usd": 496934,
+    "market_cap_usd": 12307177,
+    "market_cap_rank": 1172,
+    "24_hr_volume_usd": 310740,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEA1ea0972fa092dd463f2968F9bB51Cc4c981D71/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/storm",
-    "market_cap_rank": 322,
-    "24_hr_volume_usd": 3494881,
+    "market_cap_usd": 201469325,
+    "market_cap_rank": 326,
+    "24_hr_volume_usd": 1934545,
     "public_notice": "Token has swapped to StormX (STMX) for more details : https://blog.stormtoken.com/token-swap-technicality-19211f23c9b9",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbE9375C6a420D2eEB258962efB95551A5b722803/logo.png"
 }

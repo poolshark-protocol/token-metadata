@@ -4,7 +4,8 @@
     "id": "0x7b2dF125567815ac9b57DA04B620F50bc93B320C",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/archetypal-network",
-    "market_cap_rank": 3380,
-    "24_hr_volume_usd": 1149.74,
+    "market_cap_usd": 19530.47,
+    "market_cap_rank": 3377,
+    "24_hr_volume_usd": 932.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7b2dF125567815ac9b57DA04B620F50bc93B320C/logo.png"
 }

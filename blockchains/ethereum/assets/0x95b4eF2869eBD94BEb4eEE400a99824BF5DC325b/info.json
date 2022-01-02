@@ -4,6 +4,7 @@
     "id": "0x95b4eF2869eBD94BEb4eEE400a99824BF5DC325b",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/compound-maker",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95b4eF2869eBD94BEb4eEE400a99824BF5DC325b/logo.png"
 }

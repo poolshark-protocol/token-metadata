@@ -4,7 +4,8 @@
     "id": "0xeE4458e052B533b1aABD493B5f8c4d85D7B263Dc",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/blockpass",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1029.59,
+    "24_hr_volume_usd": 652.2,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeE4458e052B533b1aABD493B5f8c4d85D7B263Dc/logo.png"
 }

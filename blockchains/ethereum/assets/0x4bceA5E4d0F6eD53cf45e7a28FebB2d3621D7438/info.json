@@ -4,7 +4,8 @@
     "id": "0x4bceA5E4d0F6eD53cf45e7a28FebB2d3621D7438",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/modex",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2312411,
+    "24_hr_volume_usd": 743441,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4bceA5E4d0F6eD53cf45e7a28FebB2d3621D7438/logo.png"
 }

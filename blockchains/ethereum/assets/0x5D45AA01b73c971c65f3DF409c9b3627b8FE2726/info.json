@@ -4,7 +4,8 @@
     "id": "0x5D45AA01b73c971c65f3DF409c9b3627b8FE2726",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/timecoin-protocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 617.18,
+    "24_hr_volume_usd": 1068.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5D45AA01b73c971c65f3DF409c9b3627b8FE2726/logo.png"
 }

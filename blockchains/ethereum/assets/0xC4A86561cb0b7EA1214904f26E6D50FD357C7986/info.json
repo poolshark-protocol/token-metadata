@@ -4,7 +4,8 @@
     "id": "0xC4A86561cb0b7EA1214904f26E6D50FD357C7986",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/charg-coin",
-    "market_cap_rank": 1264,
-    "24_hr_volume_usd": 1.58,
+    "market_cap_usd": 8175213,
+    "market_cap_rank": 1359,
+    "24_hr_volume_usd": 2.23,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC4A86561cb0b7EA1214904f26E6D50FD357C7986/logo.png"
 }

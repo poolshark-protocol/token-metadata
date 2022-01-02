@@ -4,7 +4,8 @@
     "id": "0x2aF72850c504dDD3c1876C66a914cAee7Ff8a46A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/whaleroom",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 112988,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2aF72850c504dDD3c1876C66a914cAee7Ff8a46A/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xeED9e4F2450035D6426276a8aA2084966EE3b1bb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/steaks-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 67.14,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeED9e4F2450035D6426276a8aA2084966EE3b1bb/logo.png"
 }

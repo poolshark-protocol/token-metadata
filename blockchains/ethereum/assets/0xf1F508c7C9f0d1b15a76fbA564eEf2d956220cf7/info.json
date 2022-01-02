@@ -4,7 +4,8 @@
     "id": "0xf1F508c7C9f0d1b15a76fbA564eEf2d956220cf7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pepedex",
-    "market_cap_rank": 3066,
-    "24_hr_volume_usd": 3646.29,
+    "market_cap_usd": 206227,
+    "market_cap_rank": 2974,
+    "24_hr_volume_usd": 8.03,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf1F508c7C9f0d1b15a76fbA564eEf2d956220cf7/logo.png"
 }

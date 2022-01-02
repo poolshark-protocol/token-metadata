@@ -4,7 +4,8 @@
     "id": "0xba75fBC4C7a553081F7A137b6e652520Db444660",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/monstaverse",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 71157,
+    "24_hr_volume_usd": 637235,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xba75fBC4C7a553081F7A137b6e652520Db444660/logo.png"
 }

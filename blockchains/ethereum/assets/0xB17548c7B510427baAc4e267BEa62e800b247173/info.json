@@ -4,7 +4,8 @@
     "id": "0xB17548c7B510427baAc4e267BEa62e800b247173",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/swarm-markets",
-    "market_cap_rank": 1702,
-    "24_hr_volume_usd": 2050.37,
+    "market_cap_usd": 3836678,
+    "market_cap_rank": 1701,
+    "24_hr_volume_usd": 744.79,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB17548c7B510427baAc4e267BEa62e800b247173/logo.png"
 }

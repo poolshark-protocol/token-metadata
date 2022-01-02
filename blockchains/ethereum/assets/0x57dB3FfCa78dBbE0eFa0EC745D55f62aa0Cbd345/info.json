@@ -4,7 +4,8 @@
     "id": "0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/symmetric",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 211.17,
+    "24_hr_volume_usd": 263.29,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x57dB3FfCa78dBbE0eFa0EC745D55f62aa0Cbd345/logo.png"
 }

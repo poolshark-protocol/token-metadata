@@ -4,7 +4,8 @@
     "id": "0x78c292D1445E6b9558bf42e8BC369271DeD062eA",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/cybermusic",
-    "market_cap_rank": 3211,
-    "24_hr_volume_usd": 2.1,
+    "market_cap_usd": 73004,
+    "market_cap_rank": 3225,
+    "24_hr_volume_usd": 8.61,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x78c292D1445E6b9558bf42e8BC369271DeD062eA/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/believer",
-    "market_cap_rank": 2129,
-    "24_hr_volume_usd": 2514.3,
+    "market_cap_usd": 1102955,
+    "market_cap_rank": 2307,
+    "24_hr_volume_usd": 3718.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33/logo.png"
 }

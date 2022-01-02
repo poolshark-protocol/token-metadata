@@ -4,8 +4,9 @@
     "id": "0x2ba592F78dB6436527729929AAf6c908497cB200",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cream-2",
-    "market_cap_rank": 822,
-    "24_hr_volume_usd": 4317208,
+    "market_cap_usd": 27721212,
+    "market_cap_rank": 853,
+    "24_hr_volume_usd": 2259856,
     "public_notice": "CREAM Finance has been exploited in flash loan attack. Please trade with caution. Kindly read https://twitter.com/creamdotfinance/status/1453377073699983366?s=21",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2ba592F78dB6436527729929AAf6c908497cB200/logo.png"
 }

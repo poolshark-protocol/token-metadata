@@ -4,7 +4,8 @@
     "id": "0xE63684BcF2987892CEfB4caA79BD21b34e98A291",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/chicken",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1715.39,
+    "24_hr_volume_usd": 1157.9,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE63684BcF2987892CEfB4caA79BD21b34e98A291/logo.png"
 }

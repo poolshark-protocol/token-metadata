@@ -4,7 +4,8 @@
     "id": "0xf33121A2209609cAdc7349AcC9c40E41CE21c730",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blockchain-adventurers-guild",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 114.4,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf33121A2209609cAdc7349AcC9c40E41CE21c730/logo.png"
 }

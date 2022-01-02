@@ -4,8 +4,9 @@
     "id": "0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blox",
-    "market_cap_rank": 820,
-    "24_hr_volume_usd": 203516,
+    "market_cap_usd": 47389247,
+    "market_cap_rank": 682,
+    "24_hr_volume_usd": 191958,
     "public_notice": "<a href=\"https://www.coingecko.com/en/coins/blox\">Blox (CDT)</a> has rebranded to <a href=\"https://www.coingecko.com/en/coins/ssv-network\">SSV Network</a>. For more information, visit https://medium.com/bloxstaking/ssv-token-upgrade-is-here-d8292bba72e9",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x177d39AC676ED1C67A2b268AD7F1E58826E5B0af/logo.png"
 }

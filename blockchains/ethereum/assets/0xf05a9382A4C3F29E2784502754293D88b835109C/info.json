@@ -4,7 +4,8 @@
     "id": "0xf05a9382A4C3F29E2784502754293D88b835109C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rex",
-    "market_cap_rank": 3237,
+    "market_cap_usd": 66462,
+    "market_cap_rank": 3234,
     "24_hr_volume_usd": 7.62,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf05a9382A4C3F29E2784502754293D88b835109C/logo.png"
 }

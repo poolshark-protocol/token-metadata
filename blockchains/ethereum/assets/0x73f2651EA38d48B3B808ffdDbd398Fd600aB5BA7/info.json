@@ -4,7 +4,8 @@
     "id": "0x73f2651EA38d48B3B808ffdDbd398Fd600aB5BA7",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/dukascoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 47325,
+    "24_hr_volume_usd": 232.51,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x73f2651EA38d48B3B808ffdDbd398Fd600aB5BA7/logo.png"
 }

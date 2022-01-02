@@ -4,7 +4,8 @@
     "id": "0x20945cA1df56D237fD40036d47E866C7DcCD2114",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nsure-network",
-    "market_cap_rank": 1988,
-    "24_hr_volume_usd": 375318,
+    "market_cap_usd": 2018752,
+    "market_cap_rank": 1990,
+    "24_hr_volume_usd": 152087,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x20945cA1df56D237fD40036d47E866C7DcCD2114/logo.png"
 }

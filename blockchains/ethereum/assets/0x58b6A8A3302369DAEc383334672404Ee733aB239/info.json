@@ -4,7 +4,8 @@
     "id": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/livepeer",
+    "market_cap_usd": 1012047134,
     "market_cap_rank": 117,
-    "24_hr_volume_usd": 30233562,
+    "24_hr_volume_usd": 19381801,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x58b6A8A3302369DAEc383334672404Ee733aB239/logo.png"
 }

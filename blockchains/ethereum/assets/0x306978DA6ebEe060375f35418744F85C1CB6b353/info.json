@@ -4,6 +4,7 @@
     "id": "0x306978DA6ebEe060375f35418744F85C1CB6b353",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gdao-governance-vault",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x306978DA6ebEe060375f35418744F85C1CB6b353/logo.png"
 }

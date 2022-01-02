@@ -4,7 +4,8 @@
     "id": "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/seen",
-    "market_cap_rank": 1938,
-    "24_hr_volume_usd": 3530.35,
+    "market_cap_usd": 2232675,
+    "market_cap_rank": 1949,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33/logo.png"
 }

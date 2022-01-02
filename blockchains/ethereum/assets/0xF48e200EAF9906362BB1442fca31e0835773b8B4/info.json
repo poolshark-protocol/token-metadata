@@ -4,7 +4,8 @@
     "id": "0xF48e200EAF9906362BB1442fca31e0835773b8B4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/saud",
-    "market_cap_rank": 1015,
+    "market_cap_usd": 17745747,
+    "market_cap_rank": 1018,
     "24_hr_volume_usd": 91375,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF48e200EAF9906362BB1442fca31e0835773b8B4/logo.png"
 }

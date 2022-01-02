@@ -4,8 +4,9 @@
     "id": "0x89020f0D5C5AF4f3407Eb5Fe185416c457B0e93e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/edenchain",
-    "market_cap_rank": 2017,
-    "24_hr_volume_usd": 33085,
+    "market_cap_usd": 1905962,
+    "market_cap_rank": 2027,
+    "24_hr_volume_usd": 26255,
     "public_notice": "Contract address has changed from 0x05860d453c7974cbf46508c06cba14e211c629ce to 0x89020f0D5C5AF4f3407Eb5Fe185416c457B0e93e",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x89020f0D5C5AF4f3407Eb5Fe185416c457B0e93e/logo.png"
 }

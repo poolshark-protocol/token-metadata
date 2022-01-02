@@ -4,7 +4,8 @@
     "id": "0x88ACDd2a6425c3FaAE4Bc9650Fd7E27e0Bebb7aB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/alchemist",
-    "market_cap_rank": 610,
-    "24_hr_volume_usd": 423684,
+    "market_cap_usd": 58423802,
+    "market_cap_rank": 616,
+    "24_hr_volume_usd": 136577,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x88ACDd2a6425c3FaAE4Bc9650Fd7E27e0Bebb7aB/logo.png"
 }

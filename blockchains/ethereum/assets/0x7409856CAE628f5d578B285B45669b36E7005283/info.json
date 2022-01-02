@@ -4,7 +4,8 @@
     "id": "0x7409856CAE628f5d578B285B45669b36E7005283",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/jarvis-synthetic-british-pound",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 10245.2,
+    "24_hr_volume_usd": 4260.91,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7409856CAE628f5d578B285B45669b36E7005283/logo.png"
 }

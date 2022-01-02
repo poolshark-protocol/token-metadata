@@ -4,7 +4,8 @@
     "id": "0xadd5E881984783dD432F80381Fb52F45B53f3e70",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vite",
-    "market_cap_rank": 603,
-    "24_hr_volume_usd": 1445873,
+    "market_cap_usd": 60401481,
+    "market_cap_rank": 607,
+    "24_hr_volume_usd": 946940,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xadd5E881984783dD432F80381Fb52F45B53f3e70/logo.png"
 }

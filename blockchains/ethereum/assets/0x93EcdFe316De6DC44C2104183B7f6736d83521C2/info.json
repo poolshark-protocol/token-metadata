@@ -4,7 +4,8 @@
     "id": "0x93EcdFe316De6DC44C2104183B7f6736d83521C2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/meta-inu-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 27038,
+    "24_hr_volume_usd": 6469.89,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x93EcdFe316De6DC44C2104183B7f6736d83521C2/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xd55236D48606c295adEbF129dAD04Fc74BFaA708",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cardwallet",
-    "market_cap_rank": 2125,
-    "24_hr_volume_usd": 16329.72,
+    "market_cap_usd": 1479392,
+    "market_cap_rank": 2150,
+    "24_hr_volume_usd": 11230.8,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd55236D48606c295adEbF129dAD04Fc74BFaA708/logo.png"
 }

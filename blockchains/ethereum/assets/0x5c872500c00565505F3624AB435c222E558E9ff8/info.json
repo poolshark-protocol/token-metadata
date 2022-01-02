@@ -4,7 +4,8 @@
     "id": "0x5c872500c00565505F3624AB435c222E558E9ff8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cotrader",
-    "market_cap_rank": 2344,
-    "24_hr_volume_usd": 3064.95,
+    "market_cap_usd": 988180,
+    "market_cap_rank": 2364,
+    "24_hr_volume_usd": 814.02,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5c872500c00565505F3624AB435c222E558E9ff8/logo.png"
 }

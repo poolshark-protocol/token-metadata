@@ -4,7 +4,8 @@
     "id": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/universe-xyz",
-    "market_cap_rank": 979,
-    "24_hr_volume_usd": 1767930,
+    "market_cap_usd": 22774047,
+    "market_cap_rank": 920,
+    "24_hr_volume_usd": 91549,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x618679dF9EfCd19694BB1daa8D00718Eacfa2883/logo.png"
 }

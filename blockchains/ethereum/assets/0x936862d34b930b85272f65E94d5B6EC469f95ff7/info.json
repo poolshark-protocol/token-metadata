@@ -4,7 +4,8 @@
     "id": "0x936862d34b930b85272f65E94d5B6EC469f95ff7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/seadex",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.3759,
+    "24_hr_volume_usd": 0.00010565,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x936862d34b930b85272f65E94d5B6EC469f95ff7/logo.png"
 }

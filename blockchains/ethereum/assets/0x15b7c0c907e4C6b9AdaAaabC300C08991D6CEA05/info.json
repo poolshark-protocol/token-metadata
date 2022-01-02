@@ -4,7 +4,8 @@
     "id": "0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gelato",
-    "market_cap_rank": 884,
-    "24_hr_volume_usd": 433565,
+    "market_cap_usd": 24298953,
+    "market_cap_rank": 895,
+    "24_hr_volume_usd": 486159,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xeDADeB5fAa413e6c8623461849DFD0B7C3790c32",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/obortech",
-    "market_cap_rank": 1661,
-    "24_hr_volume_usd": 2486.67,
+    "market_cap_usd": 3858092,
+    "market_cap_rank": 1698,
+    "24_hr_volume_usd": 2343.46,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeDADeB5fAa413e6c8623461849DFD0B7C3790c32/logo.png"
 }

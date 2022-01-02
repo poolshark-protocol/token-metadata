@@ -4,7 +4,8 @@
     "id": "0xC86817249634ac209bc73fCa1712bBd75E37407d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/1-up",
-    "market_cap_rank": 1426,
-    "24_hr_volume_usd": 159002,
+    "market_cap_usd": 6914925,
+    "market_cap_rank": 1432,
+    "24_hr_volume_usd": 51453,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC86817249634ac209bc73fCa1712bBd75E37407d/logo.png"
 }

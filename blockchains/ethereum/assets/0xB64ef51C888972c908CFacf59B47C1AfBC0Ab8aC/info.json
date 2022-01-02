@@ -4,7 +4,8 @@
     "id": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/storj",
-    "market_cap_rank": 271,
-    "24_hr_volume_usd": 54613013,
+    "market_cap_usd": 263013428,
+    "market_cap_rank": 273,
+    "24_hr_volume_usd": 30860735,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC/logo.png"
 }

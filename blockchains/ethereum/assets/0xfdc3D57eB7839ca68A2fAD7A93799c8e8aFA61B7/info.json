@@ -4,7 +4,8 @@
     "id": "0xfdc3D57eB7839ca68A2fAD7A93799c8e8aFA61B7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/1x-short-algorand-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 5.45,
+    "24_hr_volume_usd": 28.83,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfdc3D57eB7839ca68A2fAD7A93799c8e8aFA61B7/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/elamachain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 626857,
+    "24_hr_volume_usd": 610354,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668/logo.png"
 }

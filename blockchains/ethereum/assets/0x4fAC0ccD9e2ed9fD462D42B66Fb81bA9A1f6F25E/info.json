@@ -4,7 +4,8 @@
     "id": "0x4fAC0ccD9e2ed9fD462D42B66Fb81bA9A1f6F25E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/axial",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 81767,
+    "24_hr_volume_usd": 69425,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4fAC0ccD9e2ed9fD462D42B66Fb81bA9A1f6F25E/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x84fE25f3921f3426395c883707950d0c00367576",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/insight-protocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 38810,
+    "24_hr_volume_usd": 31100,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x84fE25f3921f3426395c883707950d0c00367576/logo.png"
 }

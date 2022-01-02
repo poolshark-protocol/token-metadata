@@ -4,8 +4,9 @@
     "id": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aleph",
-    "market_cap_rank": 612,
-    "24_hr_volume_usd": 708951,
+    "market_cap_usd": 76639147,
+    "market_cap_rank": 550,
+    "24_hr_volume_usd": 6992857,
     "public_notice": "<b>Notice 1</b>: ALEPH ERC20 tokens have been re-issued 1:1 via a new smart contract and distributed to existing ALEPH token holders at the snapshot height. New contract: 0x27702a26126e0b3702af63ee09ac4d1a084ef628 <br> <b>Notice 2</b>: We have received reports that Hotbit and Hoo.com have yet to migrate token contract address and has temporarily removed tracking on this page.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x27702a26126e0B3702af63Ee09aC4d1A084EF628/logo.png"
 }

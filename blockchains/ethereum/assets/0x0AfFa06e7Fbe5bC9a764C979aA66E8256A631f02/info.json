@@ -4,7 +4,8 @@
     "id": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/polybius",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 15419.32,
+    "24_hr_volume_usd": 12961.62,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02/logo.png"
 }

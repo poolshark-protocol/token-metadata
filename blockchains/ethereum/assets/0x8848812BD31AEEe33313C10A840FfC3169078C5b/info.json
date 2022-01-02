@@ -4,8 +4,9 @@
     "id": "0x8848812BD31AEEe33313C10A840FfC3169078C5b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/crossfi",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 61768,
+    "24_hr_volume_usd": 94148,
     "public_notice": "CrossFi has upgraded its smart contract from 0x2c7cc3b6acdd71211e951f65c02ba2575be25399 to 0xae20bc46300bab5d85612c6bc6ea87ea0f186035",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8848812BD31AEEe33313C10A840FfC3169078C5b/logo.png"
 }

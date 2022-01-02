@@ -4,7 +4,8 @@
     "id": "0xf8A4A419c2d7140e49eF952a7e7Ae1Bd4A8b6B9C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lith-token",
-    "market_cap_rank": 1228,
-    "24_hr_volume_usd": 4330.51,
+    "market_cap_usd": 10948791,
+    "market_cap_rank": 1230,
+    "24_hr_volume_usd": 3112.12,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf8A4A419c2d7140e49eF952a7e7Ae1Bd4A8b6B9C/logo.png"
 }

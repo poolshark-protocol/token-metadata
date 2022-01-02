@@ -4,7 +4,8 @@
     "id": "0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/qash",
-    "market_cap_rank": 740,
-    "24_hr_volume_usd": 883333,
+    "market_cap_usd": 39552290,
+    "market_cap_rank": 732,
+    "24_hr_volume_usd": 75419,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x618E75Ac90b12c6049Ba3b27f5d5F8651b0037F6/logo.png"
 }

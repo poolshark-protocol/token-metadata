@@ -4,7 +4,8 @@
     "id": "0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polkastarter",
-    "market_cap_rank": 283,
-    "24_hr_volume_usd": 14864025,
+    "market_cap_usd": 254917628,
+    "market_cap_rank": 279,
+    "24_hr_volume_usd": 12916334,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x83e6f1E41cdd28eAcEB20Cb649155049Fac3D5Aa/logo.png"
 }

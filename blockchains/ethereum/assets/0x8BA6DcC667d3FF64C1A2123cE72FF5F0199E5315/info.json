@@ -4,7 +4,8 @@
     "id": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/alex",
-    "market_cap_rank": 2425,
-    "24_hr_volume_usd": 295.59,
+    "market_cap_usd": 846788,
+    "market_cap_rank": 2433,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315/logo.png"
 }

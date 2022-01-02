@@ -4,8 +4,9 @@
     "id": "0xc813EA5e3b48BEbeedb796ab42A30C5599b01740",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/autonio",
-    "market_cap_rank": 1450,
-    "24_hr_volume_usd": 317183,
+    "market_cap_usd": 6559201,
+    "market_cap_rank": 1451,
+    "24_hr_volume_usd": 182647,
     "public_notice": "Contract address has changed from 0x9cec335cf6922eeb5a563c871d1f09f2cf264230 to 0xc813EA5e3b48BEbeedb796ab42A30C5599b01740",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc813EA5e3b48BEbeedb796ab42A30C5599b01740/logo.png"
 }

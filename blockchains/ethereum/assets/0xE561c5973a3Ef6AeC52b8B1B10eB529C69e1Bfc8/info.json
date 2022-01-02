@@ -4,7 +4,8 @@
     "id": "0xE561c5973a3Ef6AeC52b8B1B10eB529C69e1Bfc8",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/zuki",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 8.14,
+    "24_hr_volume_usd": 205.63,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE561c5973a3Ef6AeC52b8B1B10eB529C69e1Bfc8/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unbound-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 567557,
+    "24_hr_volume_usd": 416155,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8dB253a1943DdDf1AF9bcF8706ac9A0Ce939d922/logo.png"
 }

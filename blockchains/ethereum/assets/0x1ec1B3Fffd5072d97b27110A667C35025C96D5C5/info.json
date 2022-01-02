@@ -4,8 +4,9 @@
     "id": "0x1ec1B3Fffd5072d97b27110A667C35025C96D5C5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gobble-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1.67,
+    "24_hr_volume_usd": 786.42,
     "public_notice": "Gobble Token has recently expanded to Binance Smart Chain. For more info, visit their\u00a0<a href=\"https://twitter.com/gobbletoken/status/1472105075749314563?s=21\">Twitter</a>.\u00a0",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1ec1B3Fffd5072d97b27110A667C35025C96D5C5/logo.png"
 }

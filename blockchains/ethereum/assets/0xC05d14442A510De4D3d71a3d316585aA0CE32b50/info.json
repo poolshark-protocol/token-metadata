@@ -4,7 +4,8 @@
     "id": "0xC05d14442A510De4D3d71a3d316585aA0CE32b50",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lina",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1363.55,
+    "24_hr_volume_usd": 8782.34,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC05d14442A510De4D3d71a3d316585aA0CE32b50/logo.png"
 }

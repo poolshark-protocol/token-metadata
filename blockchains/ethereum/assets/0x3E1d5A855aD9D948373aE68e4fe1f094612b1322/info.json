@@ -4,7 +4,8 @@
     "id": "0x3E1d5A855aD9D948373aE68e4fe1f094612b1322",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hyperquant",
-    "market_cap_rank": 3324,
-    "24_hr_volume_usd": 3348.2,
+    "market_cap_usd": 23693,
+    "market_cap_rank": 3361,
+    "24_hr_volume_usd": 2151.44,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3E1d5A855aD9D948373aE68e4fe1f094612b1322/logo.png"
 }

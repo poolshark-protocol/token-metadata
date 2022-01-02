@@ -4,7 +4,8 @@
     "id": "0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/beta-finance",
-    "market_cap_rank": 368,
-    "24_hr_volume_usd": 7215539,
+    "market_cap_usd": 167754263,
+    "market_cap_rank": 361,
+    "24_hr_volume_usd": 11926917,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBe1a001FE942f96Eea22bA08783140B9Dcc09D28/logo.png"
 }

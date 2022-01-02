@@ -4,7 +4,8 @@
     "id": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/synapse-2",
-    "market_cap_rank": 182,
-    "24_hr_volume_usd": 4173895,
+    "market_cap_usd": 549350574,
+    "market_cap_rank": 173,
+    "24_hr_volume_usd": 4891596,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f2D719407FdBeFF09D87557AbB7232601FD9F29/logo.png"
 }

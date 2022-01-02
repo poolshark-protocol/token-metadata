@@ -4,7 +4,8 @@
     "id": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cvault-finance",
-    "market_cap_rank": 553,
-    "24_hr_volume_usd": 94374,
+    "market_cap_usd": 78246866,
+    "market_cap_rank": 540,
+    "24_hr_volume_usd": 105919,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7/logo.png"
 }

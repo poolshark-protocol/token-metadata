@@ -4,8 +4,9 @@
     "id": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/meter-governance-mapped-by-meter-io",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 18122.44,
+    "24_hr_volume_usd": 5048.4,
     "public_notice": "Notice : eMTRG is 1:1 wrapped ERC20 version from the first token MTRG https://www.coingecko.com/en/coins/meter-governance?locale=en",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F/logo.png"
 }

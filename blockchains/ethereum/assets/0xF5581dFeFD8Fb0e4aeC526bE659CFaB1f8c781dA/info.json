@@ -4,7 +4,8 @@
     "id": "0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hopr",
-    "market_cap_rank": 850,
-    "24_hr_volume_usd": 278256,
+    "market_cap_usd": 26810422,
+    "market_cap_rank": 868,
+    "24_hr_volume_usd": 201206,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF5581dFeFD8Fb0e4aeC526bE659CFaB1f8c781dA/logo.png"
 }

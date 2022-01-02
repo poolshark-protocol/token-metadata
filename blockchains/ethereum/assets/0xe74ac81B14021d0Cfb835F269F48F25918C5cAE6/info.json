@@ -4,7 +4,8 @@
     "id": "0xe74ac81B14021d0Cfb835F269F48F25918C5cAE6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/carbon-gems",
-    "market_cap_rank": 2507,
-    "24_hr_volume_usd": 684.56,
+    "market_cap_usd": 732282,
+    "market_cap_rank": 2498,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe74ac81B14021d0Cfb835F269F48F25918C5cAE6/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/basis-cash",
-    "market_cap_rank": 2169,
-    "24_hr_volume_usd": 3020.14,
+    "market_cap_usd": 1437324,
+    "market_cap_rank": 2173,
+    "24_hr_volume_usd": 45030,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x850aAB69f0e0171A9a49dB8BE3E71351c8247Df4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/konomi-network",
-    "market_cap_rank": 1267,
-    "24_hr_volume_usd": 2280975,
+    "market_cap_usd": 10767481,
+    "market_cap_rank": 1238,
+    "24_hr_volume_usd": 1223554,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x850aAB69f0e0171A9a49dB8BE3E71351c8247Df4/logo.png"
 }

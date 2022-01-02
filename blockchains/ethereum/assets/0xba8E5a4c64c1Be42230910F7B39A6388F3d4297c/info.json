@@ -4,7 +4,8 @@
     "id": "0xba8E5a4c64c1Be42230910F7B39A6388F3d4297c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/give-global",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 399.83,
+    "24_hr_volume_usd": 217.4,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xba8E5a4c64c1Be42230910F7B39A6388F3d4297c/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x00fC270C9cc13e878Ab5363D00354bebF6f05C15",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vnx-exchange",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 20256,
+    "24_hr_volume_usd": 28080,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x00fC270C9cc13e878Ab5363D00354bebF6f05C15/logo.png"
 }

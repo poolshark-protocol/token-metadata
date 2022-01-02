@@ -4,6 +4,7 @@
     "id": "0x91a7769aFCf796A3c8fFF879ed80b10dd76d3CCD",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sg20",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.80964,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x91a7769aFCf796A3c8fFF879ed80b10dd76d3CCD/logo.png"

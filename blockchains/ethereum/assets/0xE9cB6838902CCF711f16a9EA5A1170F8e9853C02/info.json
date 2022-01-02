@@ -4,7 +4,8 @@
     "id": "0xE9cB6838902CCF711f16a9EA5A1170F8e9853C02",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stripcoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 11563.18,
+    "24_hr_volume_usd": 5823.27,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE9cB6838902CCF711f16a9EA5A1170F8e9853C02/logo.png"
 }

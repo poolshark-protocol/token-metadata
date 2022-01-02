@@ -4,7 +4,8 @@
     "id": "0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethorse",
-    "market_cap_rank": 3124,
+    "market_cap_usd": 122009,
+    "market_cap_rank": 3120,
     "24_hr_volume_usd": 1.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5B0751713b2527d7f002c0c4e2a37e1219610A6B/logo.png"
 }

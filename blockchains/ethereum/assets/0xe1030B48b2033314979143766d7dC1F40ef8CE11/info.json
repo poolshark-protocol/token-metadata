@@ -4,7 +4,8 @@
     "id": "0xe1030B48b2033314979143766d7dC1F40ef8CE11",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/the-people-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 53719,
+    "24_hr_volume_usd": 12336.63,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe1030B48b2033314979143766d7dC1F40ef8CE11/logo.png"
 }

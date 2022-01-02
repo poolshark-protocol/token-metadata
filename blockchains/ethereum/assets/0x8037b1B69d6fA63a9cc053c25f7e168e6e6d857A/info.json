@@ -4,7 +4,8 @@
     "id": "0x8037b1B69d6fA63a9cc053c25f7e168e6e6d857A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/parts-of-four-coin",
-    "market_cap_rank": 2966,
-    "24_hr_volume_usd": 2261.82,
+    "market_cap_usd": 211863,
+    "market_cap_rank": 2969,
+    "24_hr_volume_usd": 483.74,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8037b1B69d6fA63a9cc053c25f7e168e6e6d857A/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polkabridge",
-    "market_cap_rank": 869,
-    "24_hr_volume_usd": 2650248,
+    "market_cap_usd": 30231421,
+    "market_cap_rank": 820,
+    "24_hr_volume_usd": 5039398,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695/logo.png"
 }

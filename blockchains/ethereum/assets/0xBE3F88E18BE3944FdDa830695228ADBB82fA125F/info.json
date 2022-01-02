@@ -4,7 +4,8 @@
     "id": "0xBE3F88E18BE3944FdDa830695228ADBB82fA125F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stable-mph",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 120214,
+    "24_hr_volume_usd": 170178,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBE3F88E18BE3944FdDa830695228ADBB82fA125F/logo.png"
 }

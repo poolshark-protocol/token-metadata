@@ -4,7 +4,8 @@
     "id": "0xD4c64f0Fe38ecdaF0Baefd7859E18185a73b9aa3",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/uzumaki-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1132.98,
+    "24_hr_volume_usd": 3097.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD4c64f0Fe38ecdaF0Baefd7859E18185a73b9aa3/logo.png"
 }

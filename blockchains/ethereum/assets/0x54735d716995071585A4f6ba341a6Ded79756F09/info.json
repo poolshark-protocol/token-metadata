@@ -4,6 +4,7 @@
     "id": "0x54735d716995071585A4f6ba341a6Ded79756F09",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fluxchain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.956048,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x54735d716995071585A4f6ba341a6Ded79756F09/logo.png"

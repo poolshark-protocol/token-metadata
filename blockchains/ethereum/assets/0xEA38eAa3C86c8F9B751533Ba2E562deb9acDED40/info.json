@@ -4,7 +4,8 @@
     "id": "0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/etherparty",
-    "market_cap_rank": 2589,
-    "24_hr_volume_usd": 12994.9,
+    "market_cap_usd": 587329,
+    "market_cap_rank": 2601,
+    "24_hr_volume_usd": 19190.55,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40/logo.png"
 }

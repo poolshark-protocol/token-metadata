@@ -4,7 +4,8 @@
     "id": "0xF5238462E7235c7B62811567E63Dd17d12C2EAA0",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/cache-gold",
-    "market_cap_rank": 1509,
-    "24_hr_volume_usd": 104385,
+    "market_cap_usd": 5496459,
+    "market_cap_rank": 1525,
+    "24_hr_volume_usd": 103839,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF5238462E7235c7B62811567E63Dd17d12C2EAA0/logo.png"
 }

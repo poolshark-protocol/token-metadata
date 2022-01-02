@@ -4,7 +4,8 @@
     "id": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cindicator",
-    "market_cap_rank": 957,
-    "24_hr_volume_usd": 131639,
+    "market_cap_usd": 20575676,
+    "market_cap_rank": 969,
+    "24_hr_volume_usd": 459151,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd4c435F5B09F855C3317c8524Cb1F586E42795fa/logo.png"
 }

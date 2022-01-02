@@ -4,7 +4,8 @@
     "id": "0xc434b27736A6882D33094d34792999702860a13C",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/savix",
-    "market_cap_rank": 2936,
-    "24_hr_volume_usd": 5757.34,
+    "market_cap_usd": 243510,
+    "market_cap_rank": 2927,
+    "24_hr_volume_usd": 5626.61,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc434b27736A6882D33094d34792999702860a13C/logo.png"
 }

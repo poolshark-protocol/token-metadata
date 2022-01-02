@@ -4,7 +4,8 @@
     "id": "0xCF81E6FDB8d7a743c3d4C3542a5356ff197eA1C0",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/global-gaming",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 33.28,
+    "24_hr_volume_usd": 33.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCF81E6FDB8d7a743c3d4C3542a5356ff197eA1C0/logo.png"
 }

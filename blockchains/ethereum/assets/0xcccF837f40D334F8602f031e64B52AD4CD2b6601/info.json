@@ -4,7 +4,8 @@
     "id": "0xcccF837f40D334F8602f031e64B52AD4CD2b6601",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unicly-fewocious-collection",
-    "market_cap_rank": 2521,
-    "24_hr_volume_usd": 62646,
+    "market_cap_usd": 682428,
+    "market_cap_rank": 2536,
+    "24_hr_volume_usd": 61765,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcccF837f40D334F8602f031e64B52AD4CD2b6601/logo.png"
 }

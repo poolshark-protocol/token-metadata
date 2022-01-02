@@ -4,7 +4,8 @@
     "id": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/band-protocol",
-    "market_cap_rank": 312,
-    "24_hr_volume_usd": 19631958,
+    "market_cap_usd": 214188172,
+    "market_cap_rank": 315,
+    "24_hr_volume_usd": 12189811,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
 }

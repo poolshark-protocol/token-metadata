@@ -4,7 +4,8 @@
     "id": "0x9d1233cc46795E94029fDA81aAaDc1455D510f15",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zero-collateral-dai",
-    "market_cap_rank": 555,
-    "24_hr_volume_usd": 313.88,
+    "market_cap_usd": 73529894,
+    "market_cap_rank": 556,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d1233cc46795E94029fDA81aAaDc1455D510f15/logo.png"
 }

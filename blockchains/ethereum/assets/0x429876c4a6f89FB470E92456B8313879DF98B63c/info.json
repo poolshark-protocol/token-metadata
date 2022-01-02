@@ -4,7 +4,8 @@
     "id": "0x429876c4a6f89FB470E92456B8313879DF98B63c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cryption-network",
-    "market_cap_rank": 2721,
-    "24_hr_volume_usd": 6506.16,
+    "market_cap_usd": 446075,
+    "market_cap_rank": 2719,
+    "24_hr_volume_usd": 5773.09,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x429876c4a6f89FB470E92456B8313879DF98B63c/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/box-token",
-    "market_cap_rank": 2545,
-    "24_hr_volume_usd": 543.03,
+    "market_cap_usd": 740123,
+    "market_cap_rank": 2492,
+    "24_hr_volume_usd": 611.88,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe1A178B681BD05964d3e3Ed33AE731577d9d96dD/logo.png"
 }

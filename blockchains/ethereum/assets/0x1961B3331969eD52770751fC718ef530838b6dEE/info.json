@@ -4,7 +4,8 @@
     "id": "0x1961B3331969eD52770751fC718ef530838b6dEE",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitdegree",
-    "market_cap_rank": 2613,
-    "24_hr_volume_usd": 85.82,
+    "market_cap_usd": 547613,
+    "market_cap_rank": 2627,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1961B3331969eD52770751fC718ef530838b6dEE/logo.png"
 }

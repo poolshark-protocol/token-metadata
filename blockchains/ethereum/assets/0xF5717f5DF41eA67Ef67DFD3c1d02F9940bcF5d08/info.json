@@ -4,7 +4,8 @@
     "id": "0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08",
     "decimals": 3,
     "coingecko_url": "https://www.coingecko.com/en/coins/sechain",
-    "market_cap_rank": 2893,
-    "24_hr_volume_usd": 18.74,
+    "market_cap_usd": 310574,
+    "market_cap_rank": 2848,
+    "24_hr_volume_usd": 7.87,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF5717f5DF41eA67Ef67DFD3c1d02F9940bcF5d08/logo.png"
 }

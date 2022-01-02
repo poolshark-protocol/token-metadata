@@ -4,7 +4,8 @@
     "id": "0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/zeedex",
-    "market_cap_rank": 2488,
-    "24_hr_volume_usd": 34601,
+    "market_cap_usd": 773822,
+    "market_cap_rank": 2478,
+    "24_hr_volume_usd": 35300,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5150956E082C748Ca837a5dFa0a7C10CA4697f9c/logo.png"
 }

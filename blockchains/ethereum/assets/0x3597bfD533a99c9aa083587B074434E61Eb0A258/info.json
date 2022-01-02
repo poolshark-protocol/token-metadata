@@ -4,7 +4,8 @@
     "id": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/dent",
+    "market_cap_usd": 384814610,
     "market_cap_rank": 213,
-    "24_hr_volume_usd": 17165511,
+    "24_hr_volume_usd": 10323563,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3597bfD533a99c9aa083587B074434E61Eb0A258/logo.png"
 }

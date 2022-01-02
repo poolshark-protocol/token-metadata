@@ -4,8 +4,9 @@
     "id": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/badger-dao",
-    "market_cap_rank": 386,
-    "24_hr_volume_usd": 7559028,
+    "market_cap_usd": 155474520,
+    "market_cap_rank": 377,
+    "24_hr_volume_usd": 13866373,
     "public_notice": "Badger DAO has been exploited. For more information, please visit: https://twitter.com/BadgerDAO/status/1466263899498377218 and https://twitter.com/peckshield/status/1466286523729383427",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3472A5A71965499acd81997a54BBA8D852C6E53d/logo.png"
 }

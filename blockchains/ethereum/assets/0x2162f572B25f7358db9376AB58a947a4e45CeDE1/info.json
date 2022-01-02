@@ -4,7 +4,8 @@
     "id": "0x2162f572B25f7358db9376AB58a947a4e45CeDE1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/label-foundation",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 6942.49,
+    "24_hr_volume_usd": 4129.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2162f572B25f7358db9376AB58a947a4e45CeDE1/logo.png"
 }

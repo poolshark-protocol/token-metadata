@@ -4,7 +4,8 @@
     "id": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coin-capsule",
-    "market_cap_rank": 713,
-    "24_hr_volume_usd": 282432,
+    "market_cap_usd": 39020770,
+    "market_cap_rank": 745,
+    "24_hr_volume_usd": 564710,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2/logo.png"
 }

@@ -4,6 +4,7 @@
     "id": "0x60e46a4Dd91D10506D8eFA2caA266E7191fe7Ea8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fewmans-gold",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x60e46a4Dd91D10506D8eFA2caA266E7191fe7Ea8/logo.png"

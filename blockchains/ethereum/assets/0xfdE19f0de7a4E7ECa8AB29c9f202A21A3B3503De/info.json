@@ -4,7 +4,8 @@
     "id": "0xfdE19f0de7a4E7ECa8AB29c9f202A21A3B3503De",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/gilgamesh-eth",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 588.29,
+    "24_hr_volume_usd": 169.65,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfdE19f0de7a4E7ECa8AB29c9f202A21A3B3503De/logo.png"
 }

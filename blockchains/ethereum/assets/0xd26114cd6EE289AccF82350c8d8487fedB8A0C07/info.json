@@ -4,8 +4,9 @@
     "id": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/omisego",
-    "market_cap_rank": 133,
-    "24_hr_volume_usd": 236958411,
+    "market_cap_usd": 865809867,
+    "market_cap_rank": 129,
+    "24_hr_volume_usd": 183490487,
     "public_notice": "OmiseGo has been rebranded to OMG Network - https://omg.network/omisego-omg-network-rebrand/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd26114cd6EE289AccF82350c8d8487fedB8A0C07/logo.png"
 }

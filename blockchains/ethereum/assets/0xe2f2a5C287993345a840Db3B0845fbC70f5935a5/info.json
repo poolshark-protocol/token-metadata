@@ -4,7 +4,8 @@
     "id": "0xe2f2a5C287993345a840Db3B0845fbC70f5935a5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/musd",
-    "market_cap_rank": 500,
-    "24_hr_volume_usd": 148837,
+    "market_cap_usd": 88184797,
+    "market_cap_rank": 507,
+    "24_hr_volume_usd": 78168,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe2f2a5C287993345a840Db3B0845fbC70f5935a5/logo.png"
 }

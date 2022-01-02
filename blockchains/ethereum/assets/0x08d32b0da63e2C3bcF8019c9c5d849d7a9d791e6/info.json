@@ -4,7 +4,8 @@
     "id": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/dentacoin",
-    "market_cap_rank": 1076,
-    "24_hr_volume_usd": 264409,
+    "market_cap_usd": 15115577,
+    "market_cap_rank": 1077,
+    "24_hr_volume_usd": 292215,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6/logo.png"
 }

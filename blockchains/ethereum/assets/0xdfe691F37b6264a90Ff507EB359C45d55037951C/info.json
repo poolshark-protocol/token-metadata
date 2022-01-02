@@ -4,7 +4,8 @@
     "id": "0xdfe691F37b6264a90Ff507EB359C45d55037951C",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/karma-dao",
-    "market_cap_rank": 2994,
-    "24_hr_volume_usd": 87404,
+    "market_cap_usd": 201855,
+    "market_cap_rank": 2981,
+    "24_hr_volume_usd": 54836,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdfe691F37b6264a90Ff507EB359C45d55037951C/logo.png"
 }

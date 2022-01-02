@@ -4,7 +4,8 @@
     "id": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/tether-gold",
-    "market_cap_rank": 242,
-    "24_hr_volume_usd": 1917782,
+    "market_cap_usd": 414302130,
+    "market_cap_rank": 201,
+    "24_hr_volume_usd": 809234,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x68749665FF8D2d112Fa859AA293F07A622782F38/logo.png"
 }

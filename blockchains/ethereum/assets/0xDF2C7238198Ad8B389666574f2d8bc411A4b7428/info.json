@@ -4,8 +4,9 @@
     "id": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mainframe",
-    "market_cap_rank": 521,
-    "24_hr_volume_usd": 2093382,
+    "market_cap_usd": 82569277,
+    "market_cap_rank": 523,
+    "24_hr_volume_usd": 1409395,
     "public_notice": "Mainframe is rebranding to Hifi Finance, and a token swap will be conducted. Read here for more info: https://blog.mainframe.com/mainframerebrand-5cb034c26e42?gi=9024ce14e0b4",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDF2C7238198Ad8B389666574f2d8bc411A4b7428/logo.png"
 }

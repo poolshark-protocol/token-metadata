@@ -4,7 +4,8 @@
     "id": "0x7e00b63483C92975A3be0a71432277935326a618",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dronefly",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 358564,
+    "24_hr_volume_usd": 263110,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7e00b63483C92975A3be0a71432277935326a618/logo.png"
 }

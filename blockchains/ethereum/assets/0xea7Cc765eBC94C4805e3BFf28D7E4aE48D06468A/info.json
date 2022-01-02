@@ -4,7 +4,8 @@
     "id": "0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nearpad",
-    "market_cap_rank": 1297,
-    "24_hr_volume_usd": 3512649,
+    "market_cap_usd": 7940936,
+    "market_cap_rank": 1376,
+    "24_hr_volume_usd": 2668567,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A/logo.png"
 }

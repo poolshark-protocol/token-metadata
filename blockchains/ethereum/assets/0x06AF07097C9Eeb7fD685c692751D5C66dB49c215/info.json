@@ -4,7 +4,8 @@
     "id": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/chai",
-    "market_cap_rank": 2285,
+    "market_cap_usd": 1129516,
+    "market_cap_rank": 2293,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x06AF07097C9Eeb7fD685c692751D5C66dB49c215/logo.png"
 }

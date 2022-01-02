@@ -4,7 +4,8 @@
     "id": "0x56b4F8C39E07D4d5D91692acf9d0F6d4d3493763",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/trism",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1.08,
+    "24_hr_volume_usd": 0.209248,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x56b4F8C39E07D4d5D91692acf9d0F6d4d3493763/logo.png"
 }

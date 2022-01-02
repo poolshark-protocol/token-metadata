@@ -4,7 +4,8 @@
     "id": "0x6afCFF9189e8ed3fCc1CFfa184FEB1276f6A82A5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polkapet-world",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 29024,
+    "24_hr_volume_usd": 27790,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6afCFF9189e8ed3fCc1CFfa184FEB1276f6A82A5/logo.png"
 }

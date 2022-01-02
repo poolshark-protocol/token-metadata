@@ -4,7 +4,8 @@
     "id": "0xA113b79C09f0794568b8864a24197e0B817041EA",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pink-panther",
-    "market_cap_rank": 2725,
+    "market_cap_usd": 413775,
+    "market_cap_rank": 2733,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA113b79C09f0794568b8864a24197e0B817041EA/logo.png"
 }

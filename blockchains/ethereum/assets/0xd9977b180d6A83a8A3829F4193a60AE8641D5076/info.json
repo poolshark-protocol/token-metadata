@@ -4,7 +4,8 @@
     "id": "0xd9977b180d6A83a8A3829F4193a60AE8641D5076",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/minikishimoto-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 194.44,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd9977b180d6A83a8A3829F4193a60AE8641D5076/logo.png"
 }

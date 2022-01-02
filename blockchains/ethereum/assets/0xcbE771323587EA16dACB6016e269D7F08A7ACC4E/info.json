@@ -4,7 +4,8 @@
     "id": "0xcbE771323587EA16dACB6016e269D7F08A7ACC4E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/spores-network",
-    "market_cap_rank": 2009,
-    "24_hr_volume_usd": 113812,
+    "market_cap_usd": 1868751,
+    "market_cap_rank": 2037,
+    "24_hr_volume_usd": 153069,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcbE771323587EA16dACB6016e269D7F08A7ACC4E/logo.png"
 }

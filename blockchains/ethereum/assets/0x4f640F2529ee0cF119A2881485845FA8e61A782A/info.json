@@ -4,7 +4,8 @@
     "id": "0x4f640F2529ee0cF119A2881485845FA8e61A782A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ptokens-ore",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12872.08,
+    "24_hr_volume_usd": 275.74,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4f640F2529ee0cF119A2881485845FA8e61A782A/logo.png"
 }

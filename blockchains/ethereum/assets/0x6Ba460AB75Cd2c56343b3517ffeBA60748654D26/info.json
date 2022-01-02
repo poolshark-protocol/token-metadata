@@ -4,7 +4,8 @@
     "id": "0x6Ba460AB75Cd2c56343b3517ffeBA60748654D26",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/uptoken",
-    "market_cap_rank": 11983,
+    "market_cap_usd": -928224.6580222453,
+    "market_cap_rank": 11976,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6Ba460AB75Cd2c56343b3517ffeBA60748654D26/logo.png"
 }

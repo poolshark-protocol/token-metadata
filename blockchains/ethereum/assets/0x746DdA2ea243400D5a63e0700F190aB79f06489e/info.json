@@ -4,7 +4,8 @@
     "id": "0x746DdA2ea243400D5a63e0700F190aB79f06489e",
     "decimals": 7,
     "coingecko_url": "https://www.coingecko.com/en/coins/bosagora",
-    "market_cap_rank": 609,
-    "24_hr_volume_usd": 1565796,
+    "market_cap_usd": 59704195,
+    "market_cap_rank": 612,
+    "24_hr_volume_usd": 1157871,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x746DdA2ea243400D5a63e0700F190aB79f06489e/logo.png"
 }

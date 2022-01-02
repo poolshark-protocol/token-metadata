@@ -4,7 +4,8 @@
     "id": "0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/franklin",
-    "market_cap_rank": 1501,
-    "24_hr_volume_usd": 1260523,
+    "market_cap_usd": 5733300,
+    "market_cap_rank": 1509,
+    "24_hr_volume_usd": 866380,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x85f6eB2BD5a062f5F8560BE93FB7147e16c81472/logo.png"
 }

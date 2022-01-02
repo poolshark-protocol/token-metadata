@@ -4,7 +4,8 @@
     "id": "0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/graviton",
-    "market_cap_rank": 1362,
-    "24_hr_volume_usd": 21819,
+    "market_cap_usd": 9088724,
+    "market_cap_rank": 1304,
+    "24_hr_volume_usd": 32332,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x01e0E2e61f554eCAaeC0cC933E739Ad90f24a86d/logo.png"
 }

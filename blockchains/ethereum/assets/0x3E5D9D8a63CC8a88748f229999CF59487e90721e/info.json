@@ -4,7 +4,8 @@
     "id": "0x3E5D9D8a63CC8a88748f229999CF59487e90721e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/metalswap",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 164954,
+    "24_hr_volume_usd": 56670,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3E5D9D8a63CC8a88748f229999CF59487e90721e/logo.png"
 }

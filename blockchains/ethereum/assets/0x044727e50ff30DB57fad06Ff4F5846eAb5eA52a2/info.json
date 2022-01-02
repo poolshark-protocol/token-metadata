@@ -4,7 +4,8 @@
     "id": "0x044727e50ff30DB57fad06Ff4F5846eAb5eA52a2",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/kitty-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 135114,
+    "24_hr_volume_usd": 139929,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x044727e50ff30DB57fad06Ff4F5846eAb5eA52a2/logo.png"
 }

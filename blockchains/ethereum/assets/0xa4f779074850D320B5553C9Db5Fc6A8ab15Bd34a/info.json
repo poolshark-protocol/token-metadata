@@ -4,7 +4,8 @@
     "id": "0xa4f779074850D320B5553C9Db5Fc6A8ab15Bd34a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yfix-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 63178,
+    "24_hr_volume_usd": 44601,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa4f779074850D320B5553C9Db5Fc6A8ab15Bd34a/logo.png"
 }

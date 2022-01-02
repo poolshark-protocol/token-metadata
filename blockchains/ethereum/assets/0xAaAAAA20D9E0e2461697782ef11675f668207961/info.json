@@ -4,7 +4,8 @@
     "id": "0xAaAAAA20D9E0e2461697782ef11675f668207961",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aurora-near",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 16227170,
+    "24_hr_volume_usd": 12630728,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAaAAAA20D9E0e2461697782ef11675f668207961/logo.png"
 }

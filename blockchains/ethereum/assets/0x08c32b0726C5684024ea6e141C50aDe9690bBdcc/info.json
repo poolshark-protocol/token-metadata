@@ -4,7 +4,8 @@
     "id": "0x08c32b0726C5684024ea6e141C50aDe9690bBdcc",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/stratos",
-    "market_cap_rank": 705,
-    "24_hr_volume_usd": 917205,
+    "market_cap_usd": 42006551,
+    "market_cap_rank": 714,
+    "24_hr_volume_usd": 566281,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x08c32b0726C5684024ea6e141C50aDe9690bBdcc/logo.png"
 }

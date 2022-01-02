@@ -4,7 +4,8 @@
     "id": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ankr",
+    "market_cap_usd": 842708219,
     "market_cap_rank": 135,
-    "24_hr_volume_usd": 34491176,
+    "24_hr_volume_usd": 26260265,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4/logo.png"
 }

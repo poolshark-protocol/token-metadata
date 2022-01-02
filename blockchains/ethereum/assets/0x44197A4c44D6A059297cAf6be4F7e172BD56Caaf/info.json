@@ -4,7 +4,8 @@
     "id": "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/eltcoin",
-    "market_cap_rank": 3243,
-    "24_hr_volume_usd": 21524,
+    "market_cap_usd": 64339,
+    "market_cap_rank": 3245,
+    "24_hr_volume_usd": 21559,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf/logo.png"
 }

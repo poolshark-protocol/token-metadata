@@ -4,7 +4,8 @@
     "id": "0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/morpheus-labs",
-    "market_cap_rank": 1093,
-    "24_hr_volume_usd": 170188,
+    "market_cap_usd": 15101689,
+    "market_cap_rank": 1075,
+    "24_hr_volume_usd": 180371,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4a527d8fc13C5203AB24BA0944F4Cb14658D1Db6/logo.png"
 }

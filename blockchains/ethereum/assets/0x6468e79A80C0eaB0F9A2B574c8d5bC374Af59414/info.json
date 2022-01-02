@@ -4,7 +4,8 @@
     "id": "0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/e-radix",
-    "market_cap_rank": 118,
-    "24_hr_volume_usd": 2348737,
+    "market_cap_usd": 1048102529,
+    "market_cap_rank": 113,
+    "24_hr_volume_usd": 2030299,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6468e79A80C0eaB0F9A2B574c8d5bC374Af59414/logo.png"
 }

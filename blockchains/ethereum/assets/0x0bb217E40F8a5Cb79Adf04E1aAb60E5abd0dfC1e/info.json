@@ -4,7 +4,8 @@
     "id": "0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/swftcoin",
-    "market_cap_rank": 1292,
-    "24_hr_volume_usd": 2042883,
+    "market_cap_usd": 9174099,
+    "market_cap_rank": 1297,
+    "24_hr_volume_usd": 1764115,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0bb217E40F8a5Cb79Adf04E1aAb60E5abd0dfC1e/logo.png"
 }

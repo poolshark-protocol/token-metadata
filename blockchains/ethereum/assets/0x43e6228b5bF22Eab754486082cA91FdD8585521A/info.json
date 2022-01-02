@@ -4,7 +4,8 @@
     "id": "0x43e6228b5bF22Eab754486082cA91FdD8585521A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dixt-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 37.41,
+    "24_hr_volume_usd": 34.76,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x43e6228b5bF22Eab754486082cA91FdD8585521A/logo.png"
 }

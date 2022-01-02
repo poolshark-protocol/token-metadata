@@ -4,7 +4,8 @@
     "id": "0xA36FDBBAE3c9d55a1d67EE5821d53B50B63A1aB9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tempus",
-    "market_cap_rank": 1186,
-    "24_hr_volume_usd": 179834,
+    "market_cap_usd": 11622326,
+    "market_cap_rank": 1201,
+    "24_hr_volume_usd": 9190.03,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA36FDBBAE3c9d55a1d67EE5821d53B50B63A1aB9/logo.png"
 }

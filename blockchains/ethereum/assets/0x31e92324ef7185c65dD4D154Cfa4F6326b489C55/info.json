@@ -4,7 +4,8 @@
     "id": "0x31e92324ef7185c65dD4D154Cfa4F6326b489C55",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/earn-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1134.19,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x31e92324ef7185c65dD4D154Cfa4F6326b489C55/logo.png"
 }

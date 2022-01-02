@@ -4,7 +4,8 @@
     "id": "0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/reef-finance",
-    "market_cap_rank": 243,
-    "24_hr_volume_usd": 31618109,
+    "market_cap_usd": 303030663,
+    "market_cap_rank": 250,
+    "24_hr_volume_usd": 20198921,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFE3E6a25e6b192A42a44ecDDCd13796471735ACf/logo.png"
 }

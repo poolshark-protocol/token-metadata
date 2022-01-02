@@ -4,8 +4,9 @@
     "id": "0x3b484b82567a09e2588A13D54D032153f0c0aEe0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/opendao",
-    "market_cap_rank": 301,
-    "24_hr_volume_usd": 201395411,
+    "market_cap_usd": 244359214,
+    "market_cap_rank": 289,
+    "24_hr_volume_usd": 120593342,
     "public_notice": "If you have traded on OpenSea, head over to https://www.theopendao.com/ to check if you are eligible to claim SOS tokens",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3b484b82567a09e2588A13D54D032153f0c0aEe0/logo.png"
 }

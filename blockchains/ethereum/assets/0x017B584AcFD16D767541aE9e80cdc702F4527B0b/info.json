@@ -4,7 +4,8 @@
     "id": "0x017B584AcFD16D767541aE9e80cdc702F4527B0b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/asyagro",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 65207,
+    "24_hr_volume_usd": 110233,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x017B584AcFD16D767541aE9e80cdc702F4527B0b/logo.png"
 }

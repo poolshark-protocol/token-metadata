@@ -4,7 +4,8 @@
     "id": "0xDB61354E9cf2217a29770E9811832B360a8DAad3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/3x-long-litecoin-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 59140,
+    "24_hr_volume_usd": 45325,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDB61354E9cf2217a29770E9811832B360a8DAad3/logo.png"
 }

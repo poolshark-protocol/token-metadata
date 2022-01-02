@@ -4,7 +4,8 @@
     "id": "0xAEcc217a749c2405b5ebC9857a16d58Bdc1c367F",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/pawthereum",
-    "market_cap_rank": 1609,
-    "24_hr_volume_usd": 95011,
+    "market_cap_usd": 4319607,
+    "market_cap_rank": 1624,
+    "24_hr_volume_usd": 88295,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAEcc217a749c2405b5ebC9857a16d58Bdc1c367F/logo.png"
 }

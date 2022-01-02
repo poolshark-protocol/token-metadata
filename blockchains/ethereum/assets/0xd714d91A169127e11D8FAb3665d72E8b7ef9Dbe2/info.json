@@ -4,7 +4,8 @@
     "id": "0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blackhole-protocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 44788,
+    "24_hr_volume_usd": 28303,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd714d91A169127e11D8FAb3665d72E8b7ef9Dbe2/logo.png"
 }

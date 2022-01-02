@@ -4,7 +4,8 @@
     "id": "0x50eb346Fc29a80d97563a50146c3FcF9423B5538",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/skull-candy-shards",
-    "market_cap_rank": 2494,
+    "market_cap_usd": 718698,
+    "market_cap_rank": 2508,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x50eb346Fc29a80d97563a50146c3FcF9423B5538/logo.png"
 }

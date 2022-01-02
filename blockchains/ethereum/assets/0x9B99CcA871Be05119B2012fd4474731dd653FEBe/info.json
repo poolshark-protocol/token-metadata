@@ -4,7 +4,8 @@
     "id": "0x9B99CcA871Be05119B2012fd4474731dd653FEBe",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/antimatter",
-    "market_cap_rank": 1091,
-    "24_hr_volume_usd": 84168,
+    "market_cap_usd": 14876079,
+    "market_cap_rank": 1081,
+    "24_hr_volume_usd": 34255,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9B99CcA871Be05119B2012fd4474731dd653FEBe/logo.png"
 }

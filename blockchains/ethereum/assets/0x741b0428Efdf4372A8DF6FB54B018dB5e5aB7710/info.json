@@ -4,7 +4,8 @@
     "id": "0x741b0428Efdf4372A8DF6FB54B018dB5e5aB7710",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/artx",
-    "market_cap_rank": 2945,
-    "24_hr_volume_usd": 739.05,
+    "market_cap_usd": 224887,
+    "market_cap_rank": 2949,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x741b0428Efdf4372A8DF6FB54B018dB5e5aB7710/logo.png"
 }

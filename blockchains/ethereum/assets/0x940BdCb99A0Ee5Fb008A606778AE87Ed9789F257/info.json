@@ -4,7 +4,8 @@
     "id": "0x940BdCb99A0Ee5Fb008A606778AE87Ed9789F257",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/jfin-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2385202,
+    "24_hr_volume_usd": 2623625,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x940BdCb99A0Ee5Fb008A606778AE87Ed9789F257/logo.png"
 }

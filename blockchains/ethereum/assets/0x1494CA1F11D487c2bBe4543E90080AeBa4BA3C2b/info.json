@@ -4,7 +4,8 @@
     "id": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defipulse-index",
+    "market_cap_usd": 158853428,
     "market_cap_rank": 372,
-    "24_hr_volume_usd": 2555079,
+    "24_hr_volume_usd": 4073721,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b/logo.png"
 }

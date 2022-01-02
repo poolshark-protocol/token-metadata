@@ -4,7 +4,8 @@
     "id": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kimchi-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 115.21,
+    "24_hr_volume_usd": 30468,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0/logo.png"
 }

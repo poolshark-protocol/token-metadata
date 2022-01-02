@@ -4,7 +4,8 @@
     "id": "0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/convergence",
-    "market_cap_rank": 966,
-    "24_hr_volume_usd": 691682,
+    "market_cap_usd": 21245452,
+    "market_cap_rank": 954,
+    "24_hr_volume_usd": 729357,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc834Fa996fA3BeC7aAD3693af486ae53D8aA8B50/logo.png"
 }

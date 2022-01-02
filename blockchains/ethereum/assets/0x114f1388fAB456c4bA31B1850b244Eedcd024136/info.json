@@ -4,7 +4,8 @@
     "id": "0x114f1388fAB456c4bA31B1850b244Eedcd024136",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cool-vault-nftx",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 47755,
+    "24_hr_volume_usd": 17365.57,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x114f1388fAB456c4bA31B1850b244Eedcd024136/logo.png"
 }

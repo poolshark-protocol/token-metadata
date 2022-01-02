@@ -4,7 +4,8 @@
     "id": "0x17B26400621695c2D8C2D8869f6259E82D7544c4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/custom-contract-network",
-    "market_cap_rank": 2378,
-    "24_hr_volume_usd": 0.570788,
+    "market_cap_usd": 61020,
+    "market_cap_rank": 3252,
+    "24_hr_volume_usd": 1.58,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x17B26400621695c2D8C2D8869f6259E82D7544c4/logo.png"
 }

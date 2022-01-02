@@ -4,8 +4,9 @@
     "id": "0x6d2C508fc4a588A41713Ff59212F85489291d244",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bloomzed-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 81748,
+    "24_hr_volume_usd": 72156,
     "public_notice": "Smart contract address has changed from 0x0d5516103752b3954d95621f470a8261151da2e4 to 0x6d2c508fc4a588a41713ff59212f85489291d244",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6d2C508fc4a588A41713Ff59212F85489291d244/logo.png"
 }

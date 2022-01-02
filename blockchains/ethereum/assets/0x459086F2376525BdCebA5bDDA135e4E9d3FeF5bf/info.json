@@ -4,7 +4,8 @@
     "id": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/renbch",
-    "market_cap_rank": 2982,
+    "market_cap_usd": 195095,
+    "market_cap_rank": 2990,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf/logo.png"
 }

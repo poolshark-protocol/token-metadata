@@ -4,7 +4,8 @@
     "id": "0x26E75307Fc0C021472fEb8F727839531F112f317",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/crypto20",
-    "market_cap_rank": 384,
-    "24_hr_volume_usd": 38077,
+    "market_cap_usd": 151193414,
+    "market_cap_rank": 382,
+    "24_hr_volume_usd": 14900.54,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26E75307Fc0C021472fEb8F727839531F112f317/logo.png"
 }

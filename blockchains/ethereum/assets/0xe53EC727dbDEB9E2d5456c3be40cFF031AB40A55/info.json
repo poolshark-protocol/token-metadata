@@ -4,7 +4,8 @@
     "id": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/superfarm",
-    "market_cap_rank": 228,
-    "24_hr_volume_usd": 16835066,
+    "market_cap_usd": 337900995,
+    "market_cap_rank": 231,
+    "24_hr_volume_usd": 12037601,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55/logo.png"
 }

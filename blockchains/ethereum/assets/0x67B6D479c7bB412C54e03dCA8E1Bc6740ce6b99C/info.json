@@ -4,7 +4,8 @@
     "id": "0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kylin-network",
-    "market_cap_rank": 852,
-    "24_hr_volume_usd": 301716,
+    "market_cap_usd": 27812159,
+    "market_cap_rank": 855,
+    "24_hr_volume_usd": 252084,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x67B6D479c7bB412C54e03dCA8E1Bc6740ce6b99C/logo.png"
 }

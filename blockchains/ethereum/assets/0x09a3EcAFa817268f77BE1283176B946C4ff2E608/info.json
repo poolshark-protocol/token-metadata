@@ -4,7 +4,8 @@
     "id": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mirror-protocol",
-    "market_cap_rank": 230,
-    "24_hr_volume_usd": 22688170,
+    "market_cap_usd": 328771377,
+    "market_cap_rank": 235,
+    "24_hr_volume_usd": 9612938,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x09a3EcAFa817268f77BE1283176B946C4ff2E608/logo.png"
 }

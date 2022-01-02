@@ -4,6 +4,7 @@
     "id": "0x594207C791afd06a8D087d84D99d1DA53CCbD45F",
     "decimals": 3,
     "coingecko_url": "https://www.coingecko.com/en/coins/buzzshow",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 1539.96,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x594207C791afd06a8D087d84D99d1DA53CCbD45F/logo.png"

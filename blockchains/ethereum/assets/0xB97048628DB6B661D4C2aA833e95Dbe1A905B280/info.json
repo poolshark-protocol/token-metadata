@@ -4,7 +4,8 @@
     "id": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tenx",
-    "market_cap_rank": 1475,
-    "24_hr_volume_usd": 239490,
+    "market_cap_usd": 6524601,
+    "market_cap_rank": 1455,
+    "24_hr_volume_usd": 620406,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB97048628DB6B661D4C2aA833e95Dbe1A905B280/logo.png"
 }

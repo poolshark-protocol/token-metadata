@@ -4,7 +4,8 @@
     "id": "0x8b6CdA5CC518c904e8844f445E1A7C7d2DB0fF16",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sf-capital",
-    "market_cap_rank": 3266,
-    "24_hr_volume_usd": 0.099108,
+    "market_cap_usd": 56282,
+    "market_cap_rank": 3264,
+    "24_hr_volume_usd": 1.19,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8b6CdA5CC518c904e8844f445E1A7C7d2DB0fF16/logo.png"
 }

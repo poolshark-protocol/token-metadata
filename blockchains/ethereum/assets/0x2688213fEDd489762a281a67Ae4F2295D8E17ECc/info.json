@@ -4,7 +4,8 @@
     "id": "0x2688213fEDd489762a281a67Ae4F2295D8E17ECc",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fudfinance",
-    "market_cap_rank": 3462,
+    "market_cap_usd": 3521.82,
+    "market_cap_rank": 3466,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2688213fEDd489762a281a67Ae4F2295D8E17ECc/logo.png"
 }

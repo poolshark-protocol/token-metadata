@@ -4,7 +4,8 @@
     "id": "0x7FF4169a6B5122b664c51c95727d87750eC07c84",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tenset",
-    "market_cap_rank": 260,
-    "24_hr_volume_usd": 2914806,
+    "market_cap_usd": 277719195,
+    "market_cap_rank": 264,
+    "24_hr_volume_usd": 2424568,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7FF4169a6B5122b664c51c95727d87750eC07c84/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x4FBb0B4cD8f960aC3428194F1c94c805D5b35836",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/bigbang-game",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 857.98,
+    "24_hr_volume_usd": 34.43,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4FBb0B4cD8f960aC3428194F1c94c805D5b35836/logo.png"
 }

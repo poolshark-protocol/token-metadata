@@ -4,7 +4,8 @@
     "id": "0x98c36c0e953463BD5146C8783ce081CE1d187AcF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polyient-games-unity",
-    "market_cap_rank": 2941,
+    "market_cap_usd": 224179,
+    "market_cap_rank": 2956,
     "24_hr_volume_usd": 329.25,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x98c36c0e953463BD5146C8783ce081CE1d187AcF/logo.png"
 }

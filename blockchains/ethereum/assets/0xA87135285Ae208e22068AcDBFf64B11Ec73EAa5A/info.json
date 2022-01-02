@@ -4,8 +4,9 @@
     "id": "0xA87135285Ae208e22068AcDBFf64B11Ec73EAa5A",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/lunr-token",
-    "market_cap_rank": 1070,
-    "24_hr_volume_usd": 392403,
+    "market_cap_usd": 14827875,
+    "market_cap_rank": 1086,
+    "24_hr_volume_usd": 337826,
     "public_notice": "Lunr has recently expanded to Ethereum. Find out more on their <a href=\"https://twitter.com/LunrToken/status/1470565405831749633?s=20\">Twitter</a>.\u00a0",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA87135285Ae208e22068AcDBFf64B11Ec73EAa5A/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xDa007777D86AC6d989cC9f79A73261b3fC5e0DA0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dappnode",
-    "market_cap_rank": 1498,
-    "24_hr_volume_usd": 58917,
+    "market_cap_usd": 5889396,
+    "market_cap_rank": 1500,
+    "24_hr_volume_usd": 1786.28,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xDa007777D86AC6d989cC9f79A73261b3fC5e0DA0/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xC64500DD7B0f1794807e67802F8Abbf5F8Ffb054",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/locus-chain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 240817,
+    "24_hr_volume_usd": 284591,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC64500DD7B0f1794807e67802F8Abbf5F8Ffb054/logo.png"
 }

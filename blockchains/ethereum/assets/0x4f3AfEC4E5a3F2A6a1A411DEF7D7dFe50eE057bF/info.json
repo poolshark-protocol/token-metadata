@@ -4,7 +4,8 @@
     "id": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/digix-gold",
-    "market_cap_rank": 2244,
-    "24_hr_volume_usd": 41985,
+    "market_cap_usd": 1253434,
+    "market_cap_rank": 2241,
+    "24_hr_volume_usd": 34785,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF/logo.png"
 }

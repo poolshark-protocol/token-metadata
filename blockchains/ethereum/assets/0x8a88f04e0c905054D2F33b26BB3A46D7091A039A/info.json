@@ -4,7 +4,8 @@
     "id": "0x8a88f04e0c905054D2F33b26BB3A46D7091A039A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/igtoken",
-    "market_cap_rank": 3107,
-    "24_hr_volume_usd": 1036443,
+    "market_cap_usd": 130990,
+    "market_cap_rank": 3104,
+    "24_hr_volume_usd": 1080013,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8a88f04e0c905054D2F33b26BB3A46D7091A039A/logo.png"
 }

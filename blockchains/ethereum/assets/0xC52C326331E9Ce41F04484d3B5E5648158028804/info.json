@@ -4,7 +4,8 @@
     "id": "0xC52C326331E9Ce41F04484d3B5E5648158028804",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unizen",
-    "market_cap_rank": 463,
-    "24_hr_volume_usd": 1319649,
+    "market_cap_usd": 105556638,
+    "market_cap_rank": 462,
+    "24_hr_volume_usd": 1713323,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC52C326331E9Ce41F04484d3B5E5648158028804/logo.png"
 }

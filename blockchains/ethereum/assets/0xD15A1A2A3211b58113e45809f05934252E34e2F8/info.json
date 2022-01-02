@@ -4,7 +4,8 @@
     "id": "0xD15A1A2A3211b58113e45809f05934252E34e2F8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/woozoo-music",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 131969,
+    "24_hr_volume_usd": 114680,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD15A1A2A3211b58113e45809f05934252E34e2F8/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xba5BDe662c17e2aDFF1075610382B9B691296350",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/superrare",
-    "market_cap_rank": 397,
-    "24_hr_volume_usd": 14210247,
+    "market_cap_usd": 142880779,
+    "market_cap_rank": 396,
+    "24_hr_volume_usd": 9095032,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xba5BDe662c17e2aDFF1075610382B9B691296350/logo.png"
 }

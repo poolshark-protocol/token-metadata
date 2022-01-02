@@ -4,7 +4,8 @@
     "id": "0x95a4492F028aa1fd432Ea71146b433E7B4446611",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/apy-finance",
-    "market_cap_rank": 1075,
-    "24_hr_volume_usd": 209230,
+    "market_cap_usd": 14807376,
+    "market_cap_rank": 1086,
+    "24_hr_volume_usd": 97775,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x95a4492F028aa1fd432Ea71146b433E7B4446611/logo.png"
 }

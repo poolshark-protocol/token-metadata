@@ -4,7 +4,8 @@
     "id": "0xeE3b9B531F4C564c70e14B7b3BB7D516f33513ff",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/defi-omega",
-    "market_cap_rank": 2244,
-    "24_hr_volume_usd": 0.0,
+    "market_cap_usd": 1365471,
+    "market_cap_rank": 2192,
+    "24_hr_volume_usd": 12610.15,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeE3b9B531F4C564c70e14B7b3BB7D516f33513ff/logo.png"
 }

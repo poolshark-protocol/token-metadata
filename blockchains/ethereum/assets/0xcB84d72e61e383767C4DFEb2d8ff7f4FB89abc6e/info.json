@@ -4,7 +4,8 @@
     "id": "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vega-protocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2054004,
+    "24_hr_volume_usd": 1489303,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e/logo.png"
 }

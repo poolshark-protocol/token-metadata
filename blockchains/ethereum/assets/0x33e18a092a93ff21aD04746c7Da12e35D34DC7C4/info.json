@@ -4,7 +4,8 @@
     "id": "0x33e18a092a93ff21aD04746c7Da12e35D34DC7C4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/metaverse-nft-index",
-    "market_cap_rank": 1678,
-    "24_hr_volume_usd": 8140.1,
+    "market_cap_usd": 3817585,
+    "market_cap_rank": 1705,
+    "24_hr_volume_usd": 1404.32,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x33e18a092a93ff21aD04746c7Da12e35D34DC7C4/logo.png"
 }

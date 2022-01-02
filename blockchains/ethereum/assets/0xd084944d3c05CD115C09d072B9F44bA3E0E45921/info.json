@@ -4,7 +4,8 @@
     "id": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/manifold-finance",
-    "market_cap_rank": 871,
-    "24_hr_volume_usd": 507542,
+    "market_cap_usd": 24987678,
+    "market_cap_rank": 887,
+    "24_hr_volume_usd": 52518,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd084944d3c05CD115C09d072B9F44bA3E0E45921/logo.png"
 }

@@ -4,6 +4,7 @@
     "id": "0x0cd6c8161f1638485A1A2F5Bf1A0127E45913C2F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/3x-short-tether-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 126.89,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0cd6c8161f1638485A1A2F5Bf1A0127E45913C2F/logo.png"

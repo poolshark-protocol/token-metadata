@@ -4,7 +4,8 @@
     "id": "0x45734927Fa2f616FbE19E65f42A0ef3d37d1c80A",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/roge",
-    "market_cap_rank": 1646,
-    "24_hr_volume_usd": 7106.34,
+    "market_cap_usd": 4002169,
+    "market_cap_rank": 1673,
+    "24_hr_volume_usd": 2702.94,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x45734927Fa2f616FbE19E65f42A0ef3d37d1c80A/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x46d0DAc0926fa16707042CAdC23F1EB4141fe86B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sonm",
-    "market_cap_rank": 1198,
-    "24_hr_volume_usd": 169074,
+    "market_cap_usd": 11986012,
+    "market_cap_rank": 1183,
+    "24_hr_volume_usd": 229282,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x46d0DAc0926fa16707042CAdC23F1EB4141fe86B/logo.png"
 }

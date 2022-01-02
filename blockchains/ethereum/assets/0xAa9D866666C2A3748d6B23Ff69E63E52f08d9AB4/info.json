@@ -4,7 +4,8 @@
     "id": "0xAa9D866666C2A3748d6B23Ff69E63E52f08d9AB4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fundamenta",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1520.8,
+    "24_hr_volume_usd": 295.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xAa9D866666C2A3748d6B23Ff69E63E52f08d9AB4/logo.png"
 }

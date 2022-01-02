@@ -4,7 +4,8 @@
     "id": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/rarible",
-    "market_cap_rank": 573,
-    "24_hr_volume_usd": 1515795,
+    "market_cap_usd": 99623867,
+    "market_cap_rank": 473,
+    "24_hr_volume_usd": 15807525,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF/logo.png"
 }

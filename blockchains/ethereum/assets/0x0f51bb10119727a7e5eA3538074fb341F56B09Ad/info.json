@@ -4,7 +4,8 @@
     "id": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dao-maker",
-    "market_cap_rank": 254,
-    "24_hr_volume_usd": 3069786,
+    "market_cap_usd": 317164499,
+    "market_cap_rank": 242,
+    "24_hr_volume_usd": 2888478,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0f51bb10119727a7e5eA3538074fb341F56B09Ad/logo.png"
 }

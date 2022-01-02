@@ -4,7 +4,8 @@
     "id": "0x661Ab0Ed68000491d98C796146bcF28c20d7c559",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/shadows",
-    "market_cap_rank": 1851,
-    "24_hr_volume_usd": 28684,
+    "market_cap_usd": 2895227,
+    "market_cap_rank": 1826,
+    "24_hr_volume_usd": 79893,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x661Ab0Ed68000491d98C796146bcF28c20d7c559/logo.png"
 }

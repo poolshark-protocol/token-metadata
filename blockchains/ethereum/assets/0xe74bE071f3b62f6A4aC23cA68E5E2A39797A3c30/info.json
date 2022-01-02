@@ -4,7 +4,8 @@
     "id": "0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/recharge",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 633.62,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30/logo.png"
 }

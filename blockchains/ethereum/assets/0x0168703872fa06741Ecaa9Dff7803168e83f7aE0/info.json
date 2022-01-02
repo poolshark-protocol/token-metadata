@@ -4,6 +4,7 @@
     "id": "0x0168703872fa06741Ecaa9Dff7803168e83f7aE0",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/mirocana",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 4.71,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0168703872fa06741Ecaa9Dff7803168e83f7aE0/logo.png"

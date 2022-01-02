@@ -4,7 +4,8 @@
     "id": "0x1c153BADb7e54AbcdCB65f0A09fCd6f10dE36aA3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tmc",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 10062.42,
+    "24_hr_volume_usd": 604.56,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1c153BADb7e54AbcdCB65f0A09fCd6f10dE36aA3/logo.png"
 }

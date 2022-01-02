@@ -4,7 +4,8 @@
     "id": "0x10994AA2FB8E6bA5D9FB2BC127FF228c4fe6167F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/secure-pad",
-    "market_cap_rank": 2799,
-    "24_hr_volume_usd": 750.74,
+    "market_cap_usd": 355608,
+    "market_cap_rank": 2793,
+    "24_hr_volume_usd": 190.23,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x10994AA2FB8E6bA5D9FB2BC127FF228c4fe6167F/logo.png"
 }

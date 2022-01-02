@@ -4,7 +4,8 @@
     "id": "0x426567F78e74577f8a6233B635970eb729631e05",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/staker",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2946.04,
+    "24_hr_volume_usd": 1135.98,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x426567F78e74577f8a6233B635970eb729631e05/logo.png"
 }

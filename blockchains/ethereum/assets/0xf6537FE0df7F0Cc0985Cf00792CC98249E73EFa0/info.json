@@ -4,7 +4,8 @@
     "id": "0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/givly-coin",
-    "market_cap_rank": 2187,
-    "24_hr_volume_usd": 2352.89,
+    "market_cap_usd": 1873952,
+    "market_cap_rank": 2035,
+    "24_hr_volume_usd": 16771.11,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf6537FE0df7F0Cc0985Cf00792CC98249E73EFa0/logo.png"
 }

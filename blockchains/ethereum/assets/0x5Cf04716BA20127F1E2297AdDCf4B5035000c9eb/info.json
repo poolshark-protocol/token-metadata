@@ -4,8 +4,9 @@
     "id": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nkn",
-    "market_cap_rank": 286,
-    "24_hr_volume_usd": 5808371,
+    "market_cap_usd": 245150529,
+    "market_cap_rank": 288,
+    "24_hr_volume_usd": 4097634,
     "public_notice": "NKN Token Swap: ERC-20 to Mainnet (bi-direction). http://swap.nkn.org/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb/logo.png"
 }

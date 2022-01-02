@@ -4,7 +4,8 @@
     "id": "0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/aegis",
-    "market_cap_rank": 3126,
-    "24_hr_volume_usd": 74075,
+    "market_cap_usd": 121464,
+    "market_cap_rank": 3111,
+    "24_hr_volume_usd": 73085,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdB2F2bCCe3efa95EDA95a233aF45F3e0d4f00e2A/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0xE2fe5E7E206e7B46CAd6A5146320e5b4b9A18E97",
     "decimals": 2,
     "coingecko_url": "https://www.coingecko.com/en/coins/bitcomo",
-    "market_cap_rank": 3415,
+    "market_cap_usd": 11369.81,
+    "market_cap_rank": 3419,
     "24_hr_volume_usd": 0.0316803,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE2fe5E7E206e7B46CAd6A5146320e5b4b9A18E97/logo.png"
 }

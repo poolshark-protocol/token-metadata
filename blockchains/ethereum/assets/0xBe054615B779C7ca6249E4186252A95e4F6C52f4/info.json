@@ -4,7 +4,8 @@
     "id": "0xBe054615B779C7ca6249E4186252A95e4F6C52f4",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/ryoshimoto",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.0,
+    "24_hr_volume_usd": 850.36,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBe054615B779C7ca6249E4186252A95e4F6C52f4/logo.png"
 }

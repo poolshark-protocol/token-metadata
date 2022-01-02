@@ -4,7 +4,8 @@
     "id": "0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/gny",
-    "market_cap_rank": 778,
-    "24_hr_volume_usd": 52807,
+    "market_cap_usd": 38937746,
+    "market_cap_rank": 747,
+    "24_hr_volume_usd": 33777,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xb1f871Ae9462F1b2C6826E88A7827e76f86751d4/logo.png"
 }

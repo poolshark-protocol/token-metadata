@@ -4,7 +4,8 @@
     "id": "0x8fc9b6354E839AB1c8B31F4afa53607092B8C2e5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ecoscu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 9215.08,
+    "24_hr_volume_usd": 115.16,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8fc9b6354E839AB1c8B31F4afa53607092B8C2e5/logo.png"
 }

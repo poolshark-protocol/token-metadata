@@ -4,7 +4,8 @@
     "id": "0xBAb165dF9455AA0F2AeD1f2565520B91DDadB4c8",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/educare",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1053169,
+    "24_hr_volume_usd": 29466,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBAb165dF9455AA0F2AeD1f2565520B91DDadB4c8/logo.png"
 }

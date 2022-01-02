@@ -4,7 +4,8 @@
     "id": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/staked-ether",
-    "market_cap_rank": 31,
-    "24_hr_volume_usd": 11891907,
+    "market_cap_usd": 6118305101,
+    "market_cap_rank": 32,
+    "24_hr_volume_usd": 5213932,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84/logo.png"
 }

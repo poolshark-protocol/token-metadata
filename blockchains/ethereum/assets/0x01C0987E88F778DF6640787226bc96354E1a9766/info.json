@@ -4,7 +4,8 @@
     "id": "0x01C0987E88F778DF6640787226bc96354E1a9766",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ultralpha",
-    "market_cap_rank": 2565,
-    "24_hr_volume_usd": 32081,
+    "market_cap_usd": 614093,
+    "market_cap_rank": 2578,
+    "24_hr_volume_usd": 28867,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x01C0987E88F778DF6640787226bc96354E1a9766/logo.png"
 }

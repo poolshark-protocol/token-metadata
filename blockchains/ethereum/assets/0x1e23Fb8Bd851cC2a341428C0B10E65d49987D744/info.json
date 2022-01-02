@@ -4,7 +4,8 @@
     "id": "0x1e23Fb8Bd851cC2a341428C0B10E65d49987D744",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/incooom-genesis-gold",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 974.49,
+    "24_hr_volume_usd": 928.77,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1e23Fb8Bd851cC2a341428C0B10E65d49987D744/logo.png"
 }

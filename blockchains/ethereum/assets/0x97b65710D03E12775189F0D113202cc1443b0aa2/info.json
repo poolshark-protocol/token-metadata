@@ -4,7 +4,8 @@
     "id": "0x97b65710D03E12775189F0D113202cc1443b0aa2",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/astroelon",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 35402,
+    "24_hr_volume_usd": 22215,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x97b65710D03E12775189F0D113202cc1443b0aa2/logo.png"
 }

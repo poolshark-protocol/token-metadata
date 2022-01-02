@@ -4,8 +4,9 @@
     "id": "0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/gomoney2",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1516190,
+    "24_hr_volume_usd": 1450824,
     "public_notice": "Software upgrade from GOM to GOM2 https://animalgo.io/notice_detail/30/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x48783486ddD7fa85ECa6B0C4AE8920Bc25DfbcD7/logo.png"
 }

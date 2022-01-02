@@ -4,6 +4,7 @@
     "id": "0xf18432Ef894Ef4b2a5726F933718F5A8cf9fF831",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/biocrypt",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf18432Ef894Ef4b2a5726F933718F5A8cf9fF831/logo.png"

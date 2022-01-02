@@ -4,7 +4,8 @@
     "id": "0x21381e026Ad6d8266244f2A583b35F9E4413FA2a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/formation-fi",
-    "market_cap_rank": 1413,
-    "24_hr_volume_usd": 166835,
+    "market_cap_usd": 7134704,
+    "market_cap_rank": 1419,
+    "24_hr_volume_usd": 74991,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x21381e026Ad6d8266244f2A583b35F9E4413FA2a/logo.png"
 }

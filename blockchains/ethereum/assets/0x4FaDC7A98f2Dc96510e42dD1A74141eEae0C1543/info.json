@@ -4,7 +4,8 @@
     "id": "0x4FaDC7A98f2Dc96510e42dD1A74141eEae0C1543",
     "decimals": 12,
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-ar",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 130894,
+    "24_hr_volume_usd": 37516,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x4FaDC7A98f2Dc96510e42dD1A74141eEae0C1543/logo.png"
 }

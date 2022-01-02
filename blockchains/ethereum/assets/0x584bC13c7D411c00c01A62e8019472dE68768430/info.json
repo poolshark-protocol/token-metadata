@@ -4,7 +4,8 @@
     "id": "0x584bC13c7D411c00c01A62e8019472dE68768430",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/hegic",
-    "market_cap_rank": 667,
-    "24_hr_volume_usd": 901002,
+    "market_cap_usd": 48371263,
+    "market_cap_rank": 675,
+    "24_hr_volume_usd": 830786,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x584bC13c7D411c00c01A62e8019472dE68768430/logo.png"
 }

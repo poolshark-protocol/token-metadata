@@ -4,7 +4,8 @@
     "id": "0x327D71Fd153cbC1CFdEb2d7Ff50f2b72Cb2c611F",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/syrex",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1697.46,
+    "24_hr_volume_usd": 453.75,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x327D71Fd153cbC1CFdEb2d7Ff50f2b72Cb2c611F/logo.png"
 }

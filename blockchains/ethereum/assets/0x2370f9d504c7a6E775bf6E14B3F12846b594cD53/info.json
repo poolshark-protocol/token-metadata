@@ -4,7 +4,8 @@
     "id": "0x2370f9d504c7a6E775bf6E14B3F12846b594cD53",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/jpyc",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 166886,
+    "24_hr_volume_usd": 114021,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2370f9d504c7a6E775bf6E14B3F12846b594cD53/logo.png"
 }

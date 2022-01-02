@@ -4,7 +4,8 @@
     "id": "0x833E4c02c47B7e38f5b9A80b26eb07D23d1961f4",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/the-bitcoin-family",
-    "market_cap_rank": 2560,
-    "24_hr_volume_usd": 136.79,
+    "market_cap_usd": 643889,
+    "market_cap_rank": 2565,
+    "24_hr_volume_usd": 214.61,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x833E4c02c47B7e38f5b9A80b26eb07D23d1961f4/logo.png"
 }

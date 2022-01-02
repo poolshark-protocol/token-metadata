@@ -4,7 +4,8 @@
     "id": "0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dkargo",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 3558123,
+    "24_hr_volume_usd": 1281250,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0/logo.png"
 }

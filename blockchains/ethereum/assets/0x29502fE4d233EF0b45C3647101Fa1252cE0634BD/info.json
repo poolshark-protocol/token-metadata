@@ -4,7 +4,8 @@
     "id": "0x29502fE4d233EF0b45C3647101Fa1252cE0634BD",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/froge-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1568.43,
+    "24_hr_volume_usd": 346.62,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x29502fE4d233EF0b45C3647101Fa1252cE0634BD/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x33f391F4c4fE802b70B77AE37670037A92114A7c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coinburp",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 12222.46,
+    "24_hr_volume_usd": 48362,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x33f391F4c4fE802b70B77AE37670037A92114A7c/logo.png"
 }

@@ -4,8 +4,9 @@
     "id": "0x106d3C66d22D2DD0446df23D7F5960752994d600",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/labracoin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 30.49,
+    "24_hr_volume_usd": 11165.25,
     "public_notice": "Website has updated from https://labra.finance/ to https://www.labracoin.org/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x106d3C66d22D2DD0446df23D7F5960752994d600/logo.png"
 }

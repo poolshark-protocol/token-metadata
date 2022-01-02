@@ -4,7 +4,8 @@
     "id": "0x6c972b70c533E2E045F333Ee28b9fFb8D717bE69",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/foundrydao-logistics",
-    "market_cap_rank": 2878,
-    "24_hr_volume_usd": 4714.1,
+    "market_cap_usd": 281945,
+    "market_cap_rank": 2882,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6c972b70c533E2E045F333Ee28b9fFb8D717bE69/logo.png"
 }

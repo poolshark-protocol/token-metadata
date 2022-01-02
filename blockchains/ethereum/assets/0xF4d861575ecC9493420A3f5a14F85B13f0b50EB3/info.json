@@ -4,7 +4,8 @@
     "id": "0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fractal",
-    "market_cap_rank": 1024,
-    "24_hr_volume_usd": 194567,
+    "market_cap_usd": 21778139,
+    "market_cap_rank": 938,
+    "24_hr_volume_usd": 1327788,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF4d861575ecC9493420A3f5a14F85B13f0b50EB3/logo.png"
 }

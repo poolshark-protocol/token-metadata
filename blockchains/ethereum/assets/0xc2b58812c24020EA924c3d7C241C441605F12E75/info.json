@@ -4,6 +4,7 @@
     "id": "0xc2b58812c24020EA924c3d7C241C441605F12E75",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/entherfound",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 58.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc2b58812c24020EA924c3d7C241C441605F12E75/logo.png"

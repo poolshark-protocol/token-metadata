@@ -4,8 +4,9 @@
     "id": "0x47E820dF943170b0e31F9E18ECD5bDd67b77FF1f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pigx",
-    "market_cap_rank": 2915,
-    "24_hr_volume_usd": 9441.45,
+    "market_cap_usd": 234602,
+    "market_cap_rank": 2942,
+    "24_hr_volume_usd": 9016.44,
     "public_notice": "Contract address has migrated from 0x86f654cebb9bae068d0c4398d1e337b351e6523b to 0x47e820df943170b0e31f9e18ecd5bdd67b77ff1f",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x47E820dF943170b0e31F9E18ECD5bDd67b77FF1f/logo.png"
 }

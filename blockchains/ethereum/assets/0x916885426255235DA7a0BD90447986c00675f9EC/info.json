@@ -4,7 +4,8 @@
     "id": "0x916885426255235DA7a0BD90447986c00675f9EC",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/goaltime-n",
-    "market_cap_rank": 3344,
-    "24_hr_volume_usd": 14.3,
+    "market_cap_usd": 31277,
+    "market_cap_rank": 3342,
+    "24_hr_volume_usd": 32.61,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x916885426255235DA7a0BD90447986c00675f9EC/logo.png"
 }

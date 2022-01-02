@@ -4,7 +4,8 @@
     "id": "0x7f0c8B125040f707441cad9e5eD8a8408673b455",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/csp-dao-network",
-    "market_cap_rank": 1178,
+    "market_cap_usd": 11775537,
+    "market_cap_rank": 1194,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7f0c8B125040f707441cad9e5eD8a8408673b455/logo.png"
 }

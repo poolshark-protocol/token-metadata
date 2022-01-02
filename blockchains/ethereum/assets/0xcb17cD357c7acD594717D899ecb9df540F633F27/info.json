@@ -4,7 +4,8 @@
     "id": "0xcb17cD357c7acD594717D899ecb9df540F633F27",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coindeal-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 4.42,
+    "24_hr_volume_usd": 39.18,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcb17cD357c7acD594717D899ecb9df540F633F27/logo.png"
 }

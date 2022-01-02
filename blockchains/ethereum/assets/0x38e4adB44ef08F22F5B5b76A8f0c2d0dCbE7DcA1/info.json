@@ -4,7 +4,8 @@
     "id": "0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/concentrated-voting-power",
-    "market_cap_rank": 750,
-    "24_hr_volume_usd": 2033895,
+    "market_cap_usd": 37862595,
+    "market_cap_rank": 758,
+    "24_hr_volume_usd": 1870122,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x38e4adB44ef08F22F5B5b76A8f0c2d0dCbE7DcA1/logo.png"
 }

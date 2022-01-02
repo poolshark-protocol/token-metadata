@@ -4,7 +4,8 @@
     "id": "0xf604D1e51122592E0bABe63ac334C0E647222F2D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tanks",
-    "market_cap_rank": 2099,
-    "24_hr_volume_usd": 27026,
+    "market_cap_usd": 1557504,
+    "market_cap_rank": 2127,
+    "24_hr_volume_usd": 94171,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf604D1e51122592E0bABe63ac334C0E647222F2D/logo.png"
 }

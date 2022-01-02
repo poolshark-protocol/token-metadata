@@ -4,7 +4,8 @@
     "id": "0x888E88E71378133b7ADa5A90c08Bc97D772A0A28",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/shebolleth-commerce",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2734.78,
+    "24_hr_volume_usd": 1710.87,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x888E88E71378133b7ADa5A90c08Bc97D772A0A28/logo.png"
 }

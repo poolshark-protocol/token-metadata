@@ -4,6 +4,7 @@
     "id": "0x73A9fb46e228628f8f9BB9004eCa4f4F529D3998",
     "decimals": 3,
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-leo",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 0.0,
     "public_notice": "Notice 1: Do note that this is NOT a wrapped version of Bitfinex's LEO token https://www.coingecko.com/en/coins/leo-token but refers to the wrapped version of Leo token issued on the Hive blockchain. <br>Notice 2: Wrapped LEO has migrated to a new smart contract following the attack. For more information, please refer to <a href=\"https://leofinance.io/@leofinance/what-is-wrapped-leo-wleo-or-liquidity-provider-incentives-and-project\">Leo Finance's Official Blog</a>.",

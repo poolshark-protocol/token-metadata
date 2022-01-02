@@ -4,7 +4,8 @@
     "id": "0xBDC5bAC39Dbe132B1E030e898aE3830017D7d969",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/snovio",
-    "market_cap_rank": 2855,
-    "24_hr_volume_usd": 642.35,
+    "market_cap_usd": 296180,
+    "market_cap_rank": 2861,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBDC5bAC39Dbe132B1E030e898aE3830017D7d969/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x45080a6531d671DDFf20DB42f93792a489685e32",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/finance-vote",
-    "market_cap_rank": 1844,
-    "24_hr_volume_usd": 8167.76,
+    "market_cap_usd": 2569091,
+    "market_cap_rank": 1883,
+    "24_hr_volume_usd": 51770,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x45080a6531d671DDFf20DB42f93792a489685e32/logo.png"
 }

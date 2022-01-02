@@ -4,8 +4,9 @@
     "id": "0x39d30828a163713D91c4EADBBA2C497a9139ec5C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/happy-birthday-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 20474,
+    "24_hr_volume_usd": 25671,
     "public_notice": "Contract Adddress has been changed from <a href=\"https://etherscan.io/token/0x6c4c2cde0a4Fb9c045E4ec04e3277d359a820ca6\">0x6c4c2cde0a4Fb9c045E4ec04e3277d359a820ca6</a> to <a href=\"https://etherscan.io/token/0x39d30828a163713d91c4eadbba2c497a9139ec5c\">0x39d30828a163713d91c4eadbba2c497a9139ec5c</a>. <br> Please refer to <a href=\"https://blog.naver.com/sam8008/222314029137\">Blog Post</a> for more information.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x39d30828a163713D91c4EADBBA2C497a9139ec5C/logo.png"
 }

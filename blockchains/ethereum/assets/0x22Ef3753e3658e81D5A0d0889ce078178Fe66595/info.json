@@ -4,7 +4,8 @@
     "id": "0x22Ef3753e3658e81D5A0d0889ce078178Fe66595",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/sheng",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2.01,
+    "24_hr_volume_usd": 100.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x22Ef3753e3658e81D5A0d0889ce078178Fe66595/logo.png"
 }

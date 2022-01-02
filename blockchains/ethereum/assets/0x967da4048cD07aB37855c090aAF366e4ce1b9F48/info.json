@@ -4,8 +4,9 @@
     "id": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ocean-protocol",
-    "market_cap_rank": 213,
-    "24_hr_volume_usd": 26666356,
+    "market_cap_usd": 388898803,
+    "market_cap_rank": 210,
+    "24_hr_volume_usd": 13023594,
     "public_notice": "OCEAN Protocol has completed a contract migration - For more info please visit: https://blog.oceanprotocol.com/september-2020-hard-fork-ocean-token-completed-8142059361d7",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo.png"
 }

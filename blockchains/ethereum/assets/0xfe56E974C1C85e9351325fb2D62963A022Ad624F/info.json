@@ -4,7 +4,8 @@
     "id": "0xfe56E974C1C85e9351325fb2D62963A022Ad624F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unilayerx",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1682.39,
+    "24_hr_volume_usd": 3204.67,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfe56E974C1C85e9351325fb2D62963A022Ad624F/logo.png"
 }

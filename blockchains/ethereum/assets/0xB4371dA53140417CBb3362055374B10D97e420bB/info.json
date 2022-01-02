@@ -4,7 +4,8 @@
     "id": "0xB4371dA53140417CBb3362055374B10D97e420bB",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/switcheo",
-    "market_cap_rank": 1735,
-    "24_hr_volume_usd": 390083,
+    "market_cap_usd": 24632409,
+    "market_cap_rank": 889,
+    "24_hr_volume_usd": 330811,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xB4371dA53140417CBb3362055374B10D97e420bB/logo.png"
 }

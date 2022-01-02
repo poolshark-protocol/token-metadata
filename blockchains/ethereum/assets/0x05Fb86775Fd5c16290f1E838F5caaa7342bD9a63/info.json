@@ -4,7 +4,8 @@
     "id": "0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/hackenai",
-    "market_cap_rank": 576,
-    "24_hr_volume_usd": 1030372,
+    "market_cap_usd": 86784207,
+    "market_cap_rank": 511,
+    "24_hr_volume_usd": 1452924,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x05Fb86775Fd5c16290f1E838F5caaa7342bD9a63/logo.png"
 }

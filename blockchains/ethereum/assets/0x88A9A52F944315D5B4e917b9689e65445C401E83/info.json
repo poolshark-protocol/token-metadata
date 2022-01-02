@@ -4,7 +4,8 @@
     "id": "0x88A9A52F944315D5B4e917b9689e65445C401E83",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fear",
-    "market_cap_rank": 1070,
-    "24_hr_volume_usd": 1262950,
+    "market_cap_usd": 15315563,
+    "market_cap_rank": 1068,
+    "24_hr_volume_usd": 219938,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x88A9A52F944315D5B4e917b9689e65445C401E83/logo.png"
 }

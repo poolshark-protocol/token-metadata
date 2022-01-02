@@ -4,7 +4,8 @@
     "id": "0xa7DE087329BFcda5639247F96140f9DAbe3DeED1",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/statera",
-    "market_cap_rank": 1835,
-    "24_hr_volume_usd": 4730.34,
+    "market_cap_usd": 2731084,
+    "market_cap_rank": 1851,
+    "24_hr_volume_usd": 680.88,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1/logo.png"
 }

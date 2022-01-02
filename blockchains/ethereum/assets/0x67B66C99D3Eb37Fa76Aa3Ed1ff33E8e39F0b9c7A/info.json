@@ -4,7 +4,8 @@
     "id": "0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/interest-bearing-eth",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1409.0,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x67B66C99D3Eb37Fa76Aa3Ed1ff33E8e39F0b9c7A/logo.png"
 }

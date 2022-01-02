@@ -4,7 +4,8 @@
     "id": "0x3D371413dd5489F3A04C07c0C2CE369c20986ceb",
     "decimals": 10,
     "coingecko_url": "https://www.coingecko.com/en/coins/youcash",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 505007,
+    "24_hr_volume_usd": 257807,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3D371413dd5489F3A04C07c0C2CE369c20986ceb/logo.png"
 }

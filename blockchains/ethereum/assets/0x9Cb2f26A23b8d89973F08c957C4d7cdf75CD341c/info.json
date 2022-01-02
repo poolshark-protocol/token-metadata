@@ -4,8 +4,9 @@
     "id": "0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/digital-rand",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 401156,
+    "24_hr_volume_usd": 335775,
     "public_notice": "Contract updated from 0x45d918e17e30872d7c1ccbaab4a0813ed0360e46 to 0x9cb2f26a23b8d89973f08c957c4d7cdf75cd341c",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c/logo.png"
 }

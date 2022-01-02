@@ -4,7 +4,8 @@
     "id": "0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
     "decimals": 4,
     "coingecko_url": "https://www.coingecko.com/en/coins/gsenetwork",
-    "market_cap_rank": 1995,
-    "24_hr_volume_usd": 10083.56,
+    "market_cap_usd": 2015013,
+    "market_cap_rank": 1993,
+    "24_hr_volume_usd": 11587.86,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838/logo.png"
 }

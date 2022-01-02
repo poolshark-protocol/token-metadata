@@ -4,7 +4,8 @@
     "id": "0x07597255910a51509CA469568B048F2597E72504",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/uptrennd",
-    "market_cap_rank": 3305,
-    "24_hr_volume_usd": 60.57,
+    "market_cap_usd": 37203,
+    "market_cap_rank": 3316,
+    "24_hr_volume_usd": 27.21,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x07597255910a51509CA469568B048F2597E72504/logo.png"
 }

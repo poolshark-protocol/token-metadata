@@ -4,7 +4,8 @@
     "id": "0x22ACaEe85dDB83a3A33B7f0928a0e2c3bFDb6a4F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/proxy",
-    "market_cap_rank": 3072,
-    "24_hr_volume_usd": 834.55,
+    "market_cap_usd": 100421,
+    "market_cap_rank": 3166,
+    "24_hr_volume_usd": 423.56,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x22ACaEe85dDB83a3A33B7f0928a0e2c3bFDb6a4F/logo.png"
 }

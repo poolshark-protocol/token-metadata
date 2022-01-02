@@ -4,7 +4,8 @@
     "id": "0x9d3e0892D11f19f5181d4a4C5d04187a9e0d7032",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dragonbit",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 1.4,
+    "24_hr_volume_usd": 0.00087319,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9d3e0892D11f19f5181d4a4C5d04187a9e0d7032/logo.png"
 }

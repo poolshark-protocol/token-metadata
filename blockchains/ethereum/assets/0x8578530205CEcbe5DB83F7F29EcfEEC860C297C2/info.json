@@ -4,7 +4,8 @@
     "id": "0x8578530205CEcbe5DB83F7F29EcfEEC860C297C2",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/smartofgiving",
-    "market_cap_rank": 2600,
-    "24_hr_volume_usd": 0.00886552,
+    "market_cap_usd": 5053160,
+    "market_cap_rank": 1557,
+    "24_hr_volume_usd": 63.3,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8578530205CEcbe5DB83F7F29EcfEEC860C297C2/logo.png"
 }

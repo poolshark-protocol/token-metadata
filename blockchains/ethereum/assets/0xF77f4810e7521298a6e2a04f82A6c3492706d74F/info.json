@@ -4,7 +4,8 @@
     "id": "0xF77f4810e7521298a6e2a04f82A6c3492706d74F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/coinmeet",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 4758.64,
+    "24_hr_volume_usd": 1241.09,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xF77f4810e7521298a6e2a04f82A6c3492706d74F/logo.png"
 }

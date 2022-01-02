@@ -4,7 +4,8 @@
     "id": "0xca76BAa777d749De63Ca044853D22D56bC70bb47",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fiscus-fyi",
-    "market_cap_rank": 3175,
-    "24_hr_volume_usd": 0.0,
+    "market_cap_usd": 80890,
+    "market_cap_rank": 3209,
+    "24_hr_volume_usd": 505.27,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xca76BAa777d749De63Ca044853D22D56bC70bb47/logo.png"
 }

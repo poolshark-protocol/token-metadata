@@ -4,7 +4,8 @@
     "id": "0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606",
     "decimals": 0,
     "coingecko_url": "https://www.coingecko.com/en/coins/digital-reserve-currency",
-    "market_cap_rank": 2472,
-    "24_hr_volume_usd": 13206.75,
+    "market_cap_usd": 801768,
+    "market_cap_rank": 2464,
+    "24_hr_volume_usd": 16193.8,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xa150Db9b1Fa65b44799d4dD949D922c0a33Ee606/logo.png"
 }

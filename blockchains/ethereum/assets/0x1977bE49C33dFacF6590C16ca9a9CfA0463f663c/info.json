@@ -4,7 +4,8 @@
     "id": "0x1977bE49C33dFacF6590C16ca9a9CfA0463f663c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/doren",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 157555,
+    "24_hr_volume_usd": 190187,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1977bE49C33dFacF6590C16ca9a9CfA0463f663c/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x180dAe91D6d56235453a892d2e56a3E40Ba81DF8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dojo",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 6400.86,
+    "24_hr_volume_usd": 1570.26,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x180dAe91D6d56235453a892d2e56a3E40Ba81DF8/logo.png"
 }

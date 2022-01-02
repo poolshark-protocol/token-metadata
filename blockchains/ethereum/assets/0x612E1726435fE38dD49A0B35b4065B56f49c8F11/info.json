@@ -4,7 +4,8 @@
     "id": "0x612E1726435fE38dD49A0B35b4065B56f49c8F11",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cryptocart",
-    "market_cap_rank": 1639,
-    "24_hr_volume_usd": 90752,
+    "market_cap_usd": 4497273,
+    "market_cap_rank": 1599,
+    "24_hr_volume_usd": 22174,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x612E1726435fE38dD49A0B35b4065B56f49c8F11/logo.png"
 }

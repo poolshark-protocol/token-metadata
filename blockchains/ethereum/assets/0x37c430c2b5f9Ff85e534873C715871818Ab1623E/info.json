@@ -4,7 +4,8 @@
     "id": "0x37c430c2b5f9Ff85e534873C715871818Ab1623E",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/axia-coin",
-    "market_cap_rank": 1330,
-    "24_hr_volume_usd": 418847,
+    "market_cap_usd": 8442099,
+    "market_cap_rank": 1338,
+    "24_hr_volume_usd": 277362,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x37c430c2b5f9Ff85e534873C715871818Ab1623E/logo.png"
 }

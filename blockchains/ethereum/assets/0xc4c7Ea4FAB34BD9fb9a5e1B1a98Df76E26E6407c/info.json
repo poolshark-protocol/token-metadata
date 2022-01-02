@@ -4,8 +4,9 @@
     "id": "0xc4c7Ea4FAB34BD9fb9a5e1B1a98Df76E26E6407c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cocos-bcx",
-    "market_cap_rank": 501,
-    "24_hr_volume_usd": 10509012,
+    "market_cap_usd": 87559729,
+    "market_cap_rank": 507,
+    "24_hr_volume_usd": 8544097,
     "public_notice": "Contract address has changed from 0x0c6f5f7d555e7518f6841a79436bd2b1eef03381 to 0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c . Refer to https://cocosbcx.medium.com/announcement-cocos-token-reduction-plan-updates-182c8f5e34e8",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xc4c7Ea4FAB34BD9fb9a5e1B1a98Df76E26E6407c/logo.png"
 }

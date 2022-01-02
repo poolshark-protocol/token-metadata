@@ -4,7 +4,8 @@
     "id": "0xBc3EC4E491b835Dce394A53E9A9A10Ac19564839",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/starbugs-shards",
-    "market_cap_rank": 3163,
+    "market_cap_usd": 99080,
+    "market_cap_rank": 3166,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xBc3EC4E491b835Dce394A53E9A9A10Ac19564839/logo.png"
 }

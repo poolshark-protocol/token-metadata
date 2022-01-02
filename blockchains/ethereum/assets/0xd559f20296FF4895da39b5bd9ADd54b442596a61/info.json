@@ -4,7 +4,8 @@
     "id": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fintrux",
-    "market_cap_rank": 2261,
-    "24_hr_volume_usd": 4450.15,
+    "market_cap_usd": 1289437,
+    "market_cap_rank": 2226,
+    "24_hr_volume_usd": 6982.16,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd559f20296FF4895da39b5bd9ADd54b442596a61/logo.png"
 }

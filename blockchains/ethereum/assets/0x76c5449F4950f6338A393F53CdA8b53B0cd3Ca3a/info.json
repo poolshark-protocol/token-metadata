@@ -4,7 +4,8 @@
     "id": "0x76c5449F4950f6338A393F53CdA8b53B0cd3Ca3a",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bt-finance",
-    "market_cap_rank": 3269,
-    "24_hr_volume_usd": 448113,
+    "market_cap_usd": 55107,
+    "market_cap_rank": 3267,
+    "24_hr_volume_usd": 454138,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x76c5449F4950f6338A393F53CdA8b53B0cd3Ca3a/logo.png"
 }

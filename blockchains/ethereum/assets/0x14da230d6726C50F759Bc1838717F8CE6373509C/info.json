@@ -4,8 +4,9 @@
     "id": "0x14da230d6726C50F759Bc1838717F8CE6373509C",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/kambria",
-    "market_cap_rank": 1588,
-    "24_hr_volume_usd": 46828,
+    "market_cap_usd": 4571994,
+    "market_cap_rank": 1592,
+    "24_hr_volume_usd": 64738,
     "public_notice": "Contract address has migrated from 0xa858bc1b71a895ee83b92f149616f9b3f6afa0fb to 0x14da230d6726c50f759bc1838717f8ce6373509c",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x14da230d6726C50F759Bc1838717F8CE6373509C/logo.png"
 }

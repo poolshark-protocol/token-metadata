@@ -4,8 +4,9 @@
     "id": "0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/seigniorage-shares",
-    "market_cap_rank": 2740,
-    "24_hr_volume_usd": 10864.32,
+    "market_cap_usd": 433583,
+    "market_cap_rank": 2718,
+    "24_hr_volume_usd": 826.81,
     "public_notice": "Contract address has changed from 0x6b583cf4aba7bf9d6f8a51b3f1f7c7b2ce59bf15 to 0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x39795344CBCc76cC3Fb94B9D1b15C23c2070C66D/logo.png"
 }

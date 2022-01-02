@@ -4,7 +4,8 @@
     "id": "0x7825e833D495F3d1c28872415a4aee339D26AC88",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/telos",
-    "market_cap_rank": 386,
-    "24_hr_volume_usd": 1208838,
+    "market_cap_usd": 152421775,
+    "market_cap_rank": 380,
+    "24_hr_volume_usd": 1111973,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7825e833D495F3d1c28872415a4aee339D26AC88/logo.png"
 }

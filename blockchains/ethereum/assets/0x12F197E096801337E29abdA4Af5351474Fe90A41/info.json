@@ -4,7 +4,8 @@
     "id": "0x12F197E096801337E29abdA4Af5351474Fe90A41",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/kult-of-kek",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 154.21,
+    "24_hr_volume_usd": 143.35,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x12F197E096801337E29abdA4Af5351474Fe90A41/logo.png"
 }

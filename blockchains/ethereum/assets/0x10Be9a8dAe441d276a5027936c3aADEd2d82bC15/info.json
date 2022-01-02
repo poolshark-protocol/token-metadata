@@ -4,7 +4,8 @@
     "id": "0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/unimex-network",
-    "market_cap_rank": 1620,
-    "24_hr_volume_usd": 32053,
+    "market_cap_usd": 4213530,
+    "market_cap_rank": 1644,
+    "24_hr_volume_usd": 26748,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x10Be9a8dAe441d276a5027936c3aADEd2d82bC15/logo.png"
 }

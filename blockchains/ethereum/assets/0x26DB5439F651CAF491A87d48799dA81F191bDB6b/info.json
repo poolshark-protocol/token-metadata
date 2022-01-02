@@ -4,8 +4,9 @@
     "id": "0x26DB5439F651CAF491A87d48799dA81F191bDB6b",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/cashbet-coin",
-    "market_cap_rank": 1120,
-    "24_hr_volume_usd": 59070,
+    "market_cap_usd": 13641693,
+    "market_cap_rank": 1127,
+    "24_hr_volume_usd": 87356,
     "public_notice": "Casino Betting Coin has been rebranded to CBC.network. For more information, please read https://www.prnewswire.com/news-releases/casino-betting-coin-to-become-cbcnetwork-301281367.html ",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26DB5439F651CAF491A87d48799dA81F191bDB6b/logo.png"
 }

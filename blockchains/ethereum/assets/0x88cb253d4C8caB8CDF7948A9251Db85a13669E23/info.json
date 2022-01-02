@@ -4,7 +4,8 @@
     "id": "0x88cb253d4C8caB8CDF7948A9251Db85a13669E23",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yieldly",
-    "market_cap_rank": 481,
-    "24_hr_volume_usd": 205276,
+    "market_cap_usd": 94420560,
+    "market_cap_rank": 484,
+    "24_hr_volume_usd": 200301,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x88cb253d4C8caB8CDF7948A9251Db85a13669E23/logo.png"
 }

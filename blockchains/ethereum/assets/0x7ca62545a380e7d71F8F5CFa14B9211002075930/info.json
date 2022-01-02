@@ -4,7 +4,8 @@
     "id": "0x7ca62545a380e7d71F8F5CFa14B9211002075930",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/givingtoservices-svs",
-    "market_cap_rank": 788,
-    "24_hr_volume_usd": 26187,
+    "market_cap_usd": 33989993,
+    "market_cap_rank": 781,
+    "24_hr_volume_usd": 11069.73,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7ca62545a380e7d71F8F5CFa14B9211002075930/logo.png"
 }

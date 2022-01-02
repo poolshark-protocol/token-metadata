@@ -4,7 +4,8 @@
     "id": "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aave-mana-v1",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 331.96,
+    "24_hr_volume_usd": 304.27,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f/logo.png"
 }

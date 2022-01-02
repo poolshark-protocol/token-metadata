@@ -4,7 +4,8 @@
     "id": "0xcA47bC04ecfcd324b238Ed411741efb65B3C777b",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/ecosystem-coin-network",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 814380,
+    "24_hr_volume_usd": 540662,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xcA47bC04ecfcd324b238Ed411741efb65B3C777b/logo.png"
 }

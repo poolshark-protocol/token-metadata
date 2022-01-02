@@ -4,8 +4,9 @@
     "id": "0x662b67d00A13FAf93254714DD601F5Ed49Ef2F51",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/orbit-chain",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2516782,
+    "24_hr_volume_usd": 1820538,
     "public_notice": "One APOT token swap to One ORC with a ratio of 1:1. https://medium.com/orbit-chain/orc-token-swap-guide-c7a6b713d5e9",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x662b67d00A13FAf93254714DD601F5Ed49Ef2F51/logo.png"
 }

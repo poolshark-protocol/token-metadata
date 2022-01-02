@@ -4,7 +4,8 @@
     "id": "0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vabble",
-    "market_cap_rank": 1544,
-    "24_hr_volume_usd": 391055,
+    "market_cap_usd": 5068874,
+    "market_cap_rank": 1565,
+    "24_hr_volume_usd": 410013,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xe7aE6D0C56CACaf007b7e4d312f9af686a9E9a04/logo.png"
 }

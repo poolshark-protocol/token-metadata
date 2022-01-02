@@ -4,7 +4,8 @@
     "id": "0xbF776e4FCa664D791C4Ee3A71e2722990E003283",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/smoothy",
-    "market_cap_rank": 1446,
-    "24_hr_volume_usd": 213759,
+    "market_cap_usd": 6377574,
+    "market_cap_rank": 1465,
+    "24_hr_volume_usd": 137928,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbF776e4FCa664D791C4Ee3A71e2722990E003283/logo.png"
 }

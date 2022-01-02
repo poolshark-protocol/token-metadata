@@ -4,7 +4,8 @@
     "id": "0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/utopia-genesis-foundation",
-    "market_cap_rank": 2234,
-    "24_hr_volume_usd": 1976.12,
+    "market_cap_usd": 1250520,
+    "market_cap_rank": 2238,
+    "24_hr_volume_usd": 4.01,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F/logo.png"
 }

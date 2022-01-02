@@ -4,7 +4,8 @@
     "id": "0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/apix",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 322541,
+    "24_hr_volume_usd": 106189,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78/logo.png"
 }

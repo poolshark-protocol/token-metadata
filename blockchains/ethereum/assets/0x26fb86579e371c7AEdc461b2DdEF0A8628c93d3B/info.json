@@ -4,7 +4,8 @@
     "id": "0x26fb86579e371c7AEdc461b2DdEF0A8628c93d3B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bora",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 126882607,
+    "24_hr_volume_usd": 38158959,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x26fb86579e371c7AEdc461b2DdEF0A8628c93d3B/logo.png"
 }

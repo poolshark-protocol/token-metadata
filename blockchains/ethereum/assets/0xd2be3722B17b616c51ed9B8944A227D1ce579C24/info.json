@@ -4,7 +4,8 @@
     "id": "0xd2be3722B17b616c51ed9B8944A227D1ce579C24",
     "decimals": 2,
     "coingecko_url": "https://www.coingecko.com/en/coins/dtube-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 712.43,
+    "24_hr_volume_usd": 215.91,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xd2be3722B17b616c51ed9B8944A227D1ce579C24/logo.png"
 }

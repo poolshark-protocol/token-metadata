@@ -4,7 +4,8 @@
     "id": "0xD60d8E670438615721c8F50db31839f98A124Ff7",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/gatsby-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 507.76,
+    "24_hr_volume_usd": 3829.44,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xD60d8E670438615721c8F50db31839f98A124Ff7/logo.png"
 }

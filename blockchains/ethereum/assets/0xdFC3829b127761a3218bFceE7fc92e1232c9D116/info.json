@@ -4,7 +4,8 @@
     "id": "0xdFC3829b127761a3218bFceE7fc92e1232c9D116",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/prcy-coin",
-    "market_cap_rank": 2016,
-    "24_hr_volume_usd": 78441,
+    "market_cap_usd": 1946737,
+    "market_cap_rank": 2015,
+    "24_hr_volume_usd": 38545,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdFC3829b127761a3218bFceE7fc92e1232c9D116/logo.png"
 }

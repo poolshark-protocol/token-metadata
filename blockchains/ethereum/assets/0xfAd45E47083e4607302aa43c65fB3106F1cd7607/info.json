@@ -4,7 +4,8 @@
     "id": "0xfAd45E47083e4607302aa43c65fB3106F1cd7607",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/hoge-finance",
-    "market_cap_rank": 592,
-    "24_hr_volume_usd": 451504,
+    "market_cap_usd": 64606538,
+    "market_cap_rank": 588,
+    "24_hr_volume_usd": 459187,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xfAd45E47083e4607302aa43c65fB3106F1cd7607/logo.png"
 }

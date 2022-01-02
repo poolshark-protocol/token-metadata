@@ -4,7 +4,8 @@
     "id": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ramp",
-    "market_cap_rank": 557,
-    "24_hr_volume_usd": 1823929,
+    "market_cap_usd": 72710442,
+    "market_cap_rank": 561,
+    "24_hr_volume_usd": 1430068,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f/logo.png"
 }

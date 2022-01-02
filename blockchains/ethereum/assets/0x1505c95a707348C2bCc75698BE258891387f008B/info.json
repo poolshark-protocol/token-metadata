@@ -4,7 +4,8 @@
     "id": "0x1505c95a707348C2bCc75698BE258891387f008B",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/uncle-scrooge-finance",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 178.09,
+    "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1505c95a707348C2bCc75698BE258891387f008B/logo.png"
 }

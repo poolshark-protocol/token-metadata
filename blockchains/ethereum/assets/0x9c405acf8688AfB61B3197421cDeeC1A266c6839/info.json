@@ -4,7 +4,8 @@
     "id": "0x9c405acf8688AfB61B3197421cDeeC1A266c6839",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dogeyield",
-    "market_cap_rank": 3045,
-    "24_hr_volume_usd": 7.2,
+    "market_cap_usd": 161703,
+    "market_cap_rank": 3041,
+    "24_hr_volume_usd": 6.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9c405acf8688AfB61B3197421cDeeC1A266c6839/logo.png"
 }

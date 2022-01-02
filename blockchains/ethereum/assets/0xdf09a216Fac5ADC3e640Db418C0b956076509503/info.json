@@ -4,7 +4,8 @@
     "id": "0xdf09a216Fac5ADC3e640Db418C0b956076509503",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/poken",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 306801,
+    "24_hr_volume_usd": 167280,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdf09a216Fac5ADC3e640Db418C0b956076509503/logo.png"
 }

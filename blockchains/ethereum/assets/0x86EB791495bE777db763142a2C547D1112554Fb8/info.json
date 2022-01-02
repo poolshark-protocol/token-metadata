@@ -4,7 +4,8 @@
     "id": "0x86EB791495bE777db763142a2C547D1112554Fb8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/3x-short-huobi-token-token",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2262.62,
+    "24_hr_volume_usd": 1092.85,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x86EB791495bE777db763142a2C547D1112554Fb8/logo.png"
 }

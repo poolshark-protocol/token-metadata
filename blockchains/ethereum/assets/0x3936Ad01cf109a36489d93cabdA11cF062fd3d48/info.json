@@ -4,7 +4,8 @@
     "id": "0x3936Ad01cf109a36489d93cabdA11cF062fd3d48",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/coil-crypto",
-    "market_cap_rank": 2963,
+    "market_cap_usd": 210938,
+    "market_cap_rank": 2969,
     "24_hr_volume_usd": 0.0,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3936Ad01cf109a36489d93cabdA11cF062fd3d48/logo.png"
 }

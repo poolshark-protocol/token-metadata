@@ -4,7 +4,8 @@
     "id": "0xaC0968a3E2020aC8ca83e60CcF69081EBc6d3bC3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/cindrum",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 371879,
+    "24_hr_volume_usd": 243749,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaC0968a3E2020aC8ca83e60CcF69081EBc6d3bC3/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x2a2550e0A75aCec6D811AE3930732F7f3ad67588",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pathdao",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 10442.27,
+    "24_hr_volume_usd": 5992.34,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2a2550e0A75aCec6D811AE3930732F7f3ad67588/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x8315472Bae77F9a2B856A67Eb0796480AafCd51c",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mmaon",
-    "market_cap_rank": 2662,
+    "market_cap_usd": 486675,
+    "market_cap_rank": 2681,
     "24_hr_volume_usd": 27.98,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8315472Bae77F9a2B856A67Eb0796480AafCd51c/logo.png"
 }

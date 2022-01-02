@@ -4,7 +4,8 @@
     "id": "0x64c4cB03E19fB38E6aBfc15e7b68E7DD761a4046",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/fetch-inu",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 0.0,
+    "24_hr_volume_usd": 55.05,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x64c4cB03E19fB38E6aBfc15e7b68E7DD761a4046/logo.png"
 }

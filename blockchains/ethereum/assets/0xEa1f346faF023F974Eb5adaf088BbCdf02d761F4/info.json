@@ -4,7 +4,8 @@
     "id": "0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blocktix",
-    "market_cap_rank": 3106,
+    "market_cap_usd": 130025,
+    "market_cap_rank": 3104,
     "24_hr_volume_usd": 3.72,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4/logo.png"
 }

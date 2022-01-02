@@ -4,7 +4,8 @@
     "id": "0x1453Dbb8A29551ADe11D89825CA812e05317EAEB",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tendies",
-    "market_cap_rank": 3022,
-    "24_hr_volume_usd": 705.12,
+    "market_cap_usd": 142858,
+    "market_cap_rank": 3072,
+    "24_hr_volume_usd": 30.89,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x1453Dbb8A29551ADe11D89825CA812e05317EAEB/logo.png"
 }

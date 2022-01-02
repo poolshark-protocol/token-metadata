@@ -4,7 +4,8 @@
     "id": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/legolas-exchange",
-    "market_cap_rank": 1742,
+    "market_cap_usd": 3359802,
+    "market_cap_rank": 1762,
     "24_hr_volume_usd": 0.0,
     "public_notice": "Previously known LGO Exchange",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa/logo.png"

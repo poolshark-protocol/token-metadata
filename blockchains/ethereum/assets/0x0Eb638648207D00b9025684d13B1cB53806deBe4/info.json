@@ -4,8 +4,9 @@
     "id": "0x0Eb638648207D00b9025684d13B1cB53806deBe4",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/nil-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 66282,
+    "24_hr_volume_usd": 31593,
     "public_notice": "NIL has been redeployed from the <a href=\"https://etherscan.io/token/0xD31B00deA80cF282aCE1791D204d76a85Fb82556\">old contract</a> to a <a href=\"https://etherscan.io/token/0x0eb638648207d00b9025684d13b1cb53806debe4\">new one</a>. Find out more on\u00a0their <a href=\"https://doortoken.gitbook.io/nil-help/\">Gitbook</a>.\u00a0",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0Eb638648207D00b9025684d13B1cB53806deBe4/logo.png"
 }

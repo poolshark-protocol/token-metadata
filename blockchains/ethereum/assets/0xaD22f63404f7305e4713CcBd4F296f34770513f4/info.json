@@ -4,7 +4,8 @@
     "id": "0xaD22f63404f7305e4713CcBd4F296f34770513f4",
     "decimals": 8,
     "coingecko_url": "https://www.coingecko.com/en/coins/atomic-wallet-coin",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 31706,
+    "24_hr_volume_usd": 13421.26,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaD22f63404f7305e4713CcBd4F296f34770513f4/logo.png"
 }

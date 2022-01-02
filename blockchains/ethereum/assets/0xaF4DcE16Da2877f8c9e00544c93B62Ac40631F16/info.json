@@ -4,7 +4,8 @@
     "id": "0xaF4DcE16Da2877f8c9e00544c93B62Ac40631F16",
     "decimals": 5,
     "coingecko_url": "https://www.coingecko.com/en/coins/monetha",
-    "market_cap_rank": 1231,
-    "24_hr_volume_usd": 205345,
+    "market_cap_usd": 9539332,
+    "market_cap_rank": 1282,
+    "24_hr_volume_usd": 143667,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xaF4DcE16Da2877f8c9e00544c93B62Ac40631F16/logo.png"
 }

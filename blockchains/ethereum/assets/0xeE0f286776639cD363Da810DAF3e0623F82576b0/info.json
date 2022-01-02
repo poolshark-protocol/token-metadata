@@ -4,7 +4,8 @@
     "id": "0xeE0f286776639cD363Da810DAF3e0623F82576b0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/lung-protocol",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 231853,
+    "24_hr_volume_usd": 171736,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xeE0f286776639cD363Da810DAF3e0623F82576b0/logo.png"
 }

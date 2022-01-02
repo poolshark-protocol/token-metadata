@@ -4,7 +4,8 @@
     "id": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/aave-eth-v1",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 7868.15,
+    "24_hr_volume_usd": 3907.29,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04/logo.png"
 }

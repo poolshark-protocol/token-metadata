@@ -4,7 +4,8 @@
     "id": "0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/blocery",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 856397,
+    "24_hr_volume_usd": 760830,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xf8aD7dFe656188A23e89da09506Adf7ad9290D5d/logo.png"
 }

@@ -4,7 +4,8 @@
     "id": "0x9A54A39a8d78cD6031636628A11C890124b1b5cf",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nfraction",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 303.74,
+    "24_hr_volume_usd": 553.78,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x9A54A39a8d78cD6031636628A11C890124b1b5cf/logo.png"
 }

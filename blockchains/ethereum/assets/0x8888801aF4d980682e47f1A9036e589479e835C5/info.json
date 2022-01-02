@@ -4,7 +4,8 @@
     "id": "0x8888801aF4d980682e47f1A9036e589479e835C5",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/88mph",
-    "market_cap_rank": 1237,
-    "24_hr_volume_usd": 866529,
+    "market_cap_usd": 11858966,
+    "market_cap_rank": 1191,
+    "24_hr_volume_usd": 720978,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x8888801aF4d980682e47f1A9036e589479e835C5/logo.png"
 }

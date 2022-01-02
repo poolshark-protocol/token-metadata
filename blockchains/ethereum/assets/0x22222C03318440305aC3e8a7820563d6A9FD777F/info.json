@@ -4,8 +4,9 @@
     "id": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
     "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/clover",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 118.23,
+    "24_hr_volume_usd": 76.29,
     "public_notice": "Do take note that this is not the same coin as Clover Finance which will be going through their IEO on Coinlist. For more information on Clover Finance, please refer to https://coinlist.co/clover",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x22222C03318440305aC3e8a7820563d6A9FD777F/logo.png"
 }

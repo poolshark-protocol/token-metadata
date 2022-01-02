@@ -4,7 +4,8 @@
     "id": "0x92eF4FFBfe0Df030837b65d7FcCFE1ABd6549579",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/swirge",
-    "market_cap_rank": 3302,
-    "24_hr_volume_usd": 2376.69,
+    "market_cap_usd": 33435,
+    "market_cap_rank": 3333,
+    "24_hr_volume_usd": 2128.74,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x92eF4FFBfe0Df030837b65d7FcCFE1ABd6549579/logo.png"
 }

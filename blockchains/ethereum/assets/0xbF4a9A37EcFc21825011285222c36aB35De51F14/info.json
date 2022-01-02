@@ -4,8 +4,9 @@
     "id": "0xbF4a9A37EcFc21825011285222c36aB35De51F14",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/nyan-v2",
-    "market_cap_rank": 2334,
-    "24_hr_volume_usd": 0.0,
+    "market_cap_usd": 940273,
+    "market_cap_rank": 2387,
+    "24_hr_volume_usd": 439.68,
     "public_notice": "NYAN V2 is the migrated version of NYAN which can be found here: https://www.coingecko.com/en/coins/nyan-finance",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xbF4a9A37EcFc21825011285222c36aB35De51F14/logo.png"
 }

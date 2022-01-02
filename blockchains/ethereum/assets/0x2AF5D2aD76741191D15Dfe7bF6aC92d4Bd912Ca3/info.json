@@ -4,8 +4,9 @@
     "id": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/leo-token",
-    "market_cap_rank": 50,
-    "24_hr_volume_usd": 1206256,
+    "market_cap_usd": 3570241499,
+    "market_cap_rank": 49,
+    "24_hr_volume_usd": 351864,
     "public_notice": "The LEO Transparency Dashboard has been put together to provide token holders with unique, verifiable insights into the token buyback process. Check it out at https://leo.bitfinex.com/",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3/logo.png"
 }

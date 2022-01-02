@@ -4,7 +4,8 @@
     "id": "0xEd40834A13129509A89be39a9bE9C0E96A0DDd71",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/warp-finance",
-    "market_cap_rank": 1443,
-    "24_hr_volume_usd": 281917,
+    "market_cap_usd": 6847102,
+    "market_cap_rank": 1434,
+    "24_hr_volume_usd": 610575,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xEd40834A13129509A89be39a9bE9C0E96A0DDd71/logo.png"
 }

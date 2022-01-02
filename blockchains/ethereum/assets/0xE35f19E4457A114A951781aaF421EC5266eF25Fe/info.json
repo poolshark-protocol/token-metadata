@@ -4,7 +4,8 @@
     "id": "0xE35f19E4457A114A951781aaF421EC5266eF25Fe",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/vidiachange",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 10102.63,
+    "24_hr_volume_usd": 8541.39,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xE35f19E4457A114A951781aaF421EC5266eF25Fe/logo.png"
 }

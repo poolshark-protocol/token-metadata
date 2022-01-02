@@ -4,6 +4,7 @@
     "id": "0xCfD069247Bd5F01a17F1cA76424c9E424256908D",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ethereumsc",
+    "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "24_hr_volume_usd": 4.2,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xCfD069247Bd5F01a17F1cA76424c9E424256908D/logo.png"
