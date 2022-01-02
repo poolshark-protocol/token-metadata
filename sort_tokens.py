@@ -29,6 +29,9 @@ for chain in supported_chains:
             print('found bad token..')
             print(json.dumps(token))
     sorted_tokens = sorted(sorted_tokens, key=lambda d: d['sort_value'], reverse=True)
+    for token in sorted_tokens:
+        del token['sort_value']
+        del token['sort_key']
     tokenlist['search_tokens'] = sorted_tokens
     tokenlist['timestamp'] = str(datetime.now())
     f = open('blockchains/' + chain + '/tokenlist.json','w')
