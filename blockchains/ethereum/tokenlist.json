@@ -4,29 +4,59 @@
     "timestamp": "2022-01-02 07:52:09.408963",
     "listed_tokens": [
         {
-            "name": "Chainlink",
+            "name": "ChainLink Token",
             "symbol": "LINK",
-            "id": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
+            "id": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/chainlink",
+            "market_cap_usd": 9610528460,
+            "market_cap_rank": 22,
+            "24_hr_volume_usd": 654062882,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
         },
         {
-            "name": "TrueUSD",
-            "symbol": "TUSD",
-            "id": "0x0000000000085d4780B73119b644AE5ecd22b376"
+            "name": "Decentraland MANA",
+            "symbol": "MANA",
+            "id": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/decentraland",
+            "market_cap_usd": 4463835942,
+            "market_cap_rank": 45,
+            "24_hr_volume_usd": 234444591,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
         },
         {
-            "name": "Skale",
+            "name": "SKALE",
             "symbol": "SKL",
-            "id": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7"
+            "id": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/skale",
+            "market_cap_usd": 668337849,
+            "market_cap_rank": 158,
+            "24_hr_volume_usd": 12361414,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7/logo.png"
         },
         {
-            "name": "Alchemy",
-            "symbol": "ALCH",
-            "id": "0x0000A1c00009A619684135B824Ba02f7FbF3A572"
+            "name": "Alchemix",
+            "symbol": "ALCX",
+            "id": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/alchemix",
+            "market_cap_usd": 297420589,
+            "market_cap_rank": 252,
+            "24_hr_volume_usd": 46624567,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF/logo.png"
         },
         {
-            "name": "Aave DAI",
-            "symbol": "aDAI",
-            "id": "0x028171bCA77440897B824Ca71D1c56caC55b68A3"
+            "name": "Aave Token",
+            "symbol": "AAVE",
+            "id": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/aave",
+            "market_cap_usd": 3522312497,
+            "market_cap_rank": 51,
+            "24_hr_volume_usd": 258753519,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
         }
     ],
     "search_tokens": [
