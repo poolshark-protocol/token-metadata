@@ -7,8 +7,7 @@ from datetime import datetime
 # make background transparent for all images
 
 supported_chains = ['ethereum']
-sort_by_volume = []
-sort_by_mkt_cap = []
+sort_values = []
 for chain in supported_chains:
     f = open('blockchains/' + chain + '/tokenlist.json','r')
     print(time.time())
@@ -19,21 +18,19 @@ for chain in supported_chains:
     for token in search_tokens:
         #print(token)
         if 'market_cap_rank' in token.keys() and token['market_cap_rank'] == None and '24_hr_volume_usd' in token.keys():
-            sort_by_volume.append(token)
+            sort_values.append(token['24_hr_volume_usd'])
         elif 'market_cap_rank' in token.keys() and token['market_cap_rank'] != None:
-            sort_by_mkt_cap.append(token)
+            sort_values.append(token['market_cap_usd'])
         
         
     for token in search_tokens:
         if 'name' not in token.keys() or token['name'] == '':
+            print('found bad token..')
             print(json.dumps(token))
-      #  elif token['market_cap_rank'] == None:
-            #print(json.dumps(token))
 
-    sort_by_mkt_cap = sorted(sort_by_mkt_cap,key=itemgetter('market_cap_rank'))
-    sort_by_volume = sorted(sort_by_volume, key=itemgetter('24_hr_volume_usd'), reverse=True)
-    tokenlist['search_tokens'] = sort_by_mkt_cap + sort_by_volume
-    tokenlist['timestamp'] = str(datetime.now())
-    f = open('blockchains/' + chain + '/tokenlist.json','w')
-    f.write(json.dumps(tokenlist, indent=4))
+    print([search_tokens for _,search_tokens in sorted(zip(sort_values,search_tokens))])
+    # tokenlist['search_tokens'] = sort_by_mkt_cap + sort_by_volume
+    # tokenlist['timestamp'] = str(datetime.now())
+    # f = open('blockchains/' + chain + '/tokenlist.json','w')
+    # f.write(json.dumps(tokenlist, indent=4))
 
