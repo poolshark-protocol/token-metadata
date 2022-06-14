@@ -1,0 +1,10 @@
+{
+    "name": "CasualFood",
+    "symbol": "CFOOD",
+    "id": "0x33CC3b1852939Ef8CFd77BB5c3707cF2D3E72490",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ratalert-casual-food",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x33CC3b1852939Ef8CFd77BB5c3707cF2D3E72490/logo.png"
+}

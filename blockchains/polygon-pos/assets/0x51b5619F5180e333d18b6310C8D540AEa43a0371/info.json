@@ -1,0 +1,11 @@
+{
+    "name": "Vault Hill City (PoS)",
+    "symbol": "VHC",
+    "id": "0x51b5619F5180e333d18b6310C8D540AEa43a0371",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vault-hill-city",
+    "market_cap_usd": 1179959,
+    "market_cap_rank": 1804,
+    "24_hr_volume_usd": 480700,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x51b5619F5180e333d18b6310C8D540AEa43a0371/logo.png"
+}

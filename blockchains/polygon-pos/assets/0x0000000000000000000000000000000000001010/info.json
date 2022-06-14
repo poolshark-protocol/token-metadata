@@ -1,0 +1,11 @@
+{
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "id": "0x0000000000000000000000000000000000001010",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/matic-network",
+    "market_cap_usd": 2922305440,
+    "market_cap_rank": 22,
+    "24_hr_volume_usd": 715012860,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0000000000000000000000000000000000001010/logo.png"
+}

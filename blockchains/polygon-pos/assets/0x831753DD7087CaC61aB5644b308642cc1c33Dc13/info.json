@@ -1,0 +1,12 @@
+{
+    "name": "Quickswap",
+    "symbol": "QUICK",
+    "id": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/quick",
+    "market_cap_usd": 21311106,
+    "market_cap_rank": 595,
+    "24_hr_volume_usd": 4879548,
+    "public_notice": "Quickswap has redenominated to a 1:1000 ratio. New token page can be found <a href=\"https://www.coingecko.com/en/coins/quickswap\">Here</a>.<br>Read more at: https://quickswap-layer2.medium.com/how-to-convert-your-old-quick-to-new-quick-1000x-your-holdings-9443463290a4",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x831753DD7087CaC61aB5644b308642cc1c33Dc13/logo.png"
+}

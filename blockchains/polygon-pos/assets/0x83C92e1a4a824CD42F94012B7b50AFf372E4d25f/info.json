@@ -1,0 +1,11 @@
+{
+    "name": "Cryptocurrency Market Index",
+    "symbol": "CMI",
+    "id": "0x83C92e1a4a824CD42F94012B7b50AFf372E4d25f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptocurrency-market-index",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 269.92,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x83C92e1a4a824CD42F94012B7b50AFf372E4d25f/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Realm Defenders",
+    "symbol": "TRD",
+    "id": "0x2A1f0aD3Cab040e28845734d932f3fF0A24B14F4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-realm-defenders",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 690.46,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2A1f0aD3Cab040e28845734d932f3fF0A24B14F4/logo.png"
+}

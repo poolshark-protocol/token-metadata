@@ -1,0 +1,11 @@
+{
+    "name": "Unibright (PoS)",
+    "symbol": "UBT",
+    "id": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unibright",
+    "market_cap_usd": 30241777,
+    "market_cap_rank": 511,
+    "24_hr_volume_usd": 340946,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x7FBc10850caE055B27039aF31bD258430e714c62/logo.png"
+}

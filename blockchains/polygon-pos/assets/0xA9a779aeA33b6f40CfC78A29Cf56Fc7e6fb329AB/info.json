@@ -1,0 +1,11 @@
+{
+    "name": "MAMA DAO",
+    "symbol": "MAMA",
+    "id": "0xA9a779aeA33b6f40CfC78A29Cf56Fc7e6fb329AB",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mama-dao",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xA9a779aeA33b6f40CfC78A29Cf56Fc7e6fb329AB/logo.png"
+}

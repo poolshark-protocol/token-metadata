@@ -1,0 +1,11 @@
+{
+    "name": "Scalara NFT Index (PoS)",
+    "symbol": "NFTI",
+    "id": "0xc75ea0c71023C14952F3C7B9101ECbbAa14aA27A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/scalara-nft-index",
+    "market_cap_usd": 605318,
+    "market_cap_rank": 2187,
+    "24_hr_volume_usd": 69.68,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xc75ea0c71023C14952F3C7B9101ECbbAa14aA27A/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Coin of the champions",
+    "symbol": "COC",
+    "id": "0xc4BB7277A74678f053259CB1F96140347efbfd46",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lunachow",
+    "market_cap_usd": 359679,
+    "market_cap_rank": 2489,
+    "24_hr_volume_usd": 129173,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xc4BB7277A74678f053259CB1F96140347efbfd46/logo.png"
+}

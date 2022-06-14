@@ -1,0 +1,12 @@
+{
+    "name": "Coinerr",
+    "symbol": "ERR",
+    "id": "0xFB32513135e3267995268E3099d2B6114d20B6eD",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coinerr",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 222486,
+    "public_notice": "Coinerr has recently migrated from their <a href=\"https://bscscan.com/token/0x8fE8df37335EDB6E9F41F6baF550d2A973F48f21\">old contract</a> to a <a href=\"https://polygonscan.com/token/0xfb32513135e3267995268e3099d2b6114d20b6ed\">new one</a>. For more information, please visit this <a href=\"https://twitter.com/Coinerr_ERR/status/1529037918265810945\">post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xFB32513135e3267995268E3099d2B6114d20B6eD/logo.png"
+}

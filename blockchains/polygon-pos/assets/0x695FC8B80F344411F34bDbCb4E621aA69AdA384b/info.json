@@ -1,0 +1,11 @@
+{
+    "name": "Nitro (PoS)",
+    "symbol": "NITRO",
+    "id": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nitro-league",
+    "market_cap_usd": 686261,
+    "market_cap_rank": 2111,
+    "24_hr_volume_usd": 110348,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x695FC8B80F344411F34bDbCb4E621aA69AdA384b/logo.png"
+}

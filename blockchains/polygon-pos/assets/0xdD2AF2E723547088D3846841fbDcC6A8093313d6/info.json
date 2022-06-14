@@ -1,0 +1,11 @@
+{
+    "name": "GOGOcoin",
+    "symbol": "GOGO",
+    "id": "0xdD2AF2E723547088D3846841fbDcC6A8093313d6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gogocoin",
+    "market_cap_usd": 1256511,
+    "market_cap_rank": 1765,
+    "24_hr_volume_usd": 76881,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xdD2AF2E723547088D3846841fbDcC6A8093313d6/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Matic Aave interest bearing WETH",
+    "symbol": "maWETH",
+    "id": "0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/matic-aave-weth",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5012.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142/logo.png"
+}

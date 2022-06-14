@@ -1,0 +1,11 @@
+{
+    "name": "Space Token",
+    "symbol": "SPACE",
+    "id": "0x3Dc7B06dD0B1f08ef9AcBbD2564f8605b4868EEA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xdollar",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.405455,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3Dc7B06dD0B1f08ef9AcBbD2564f8605b4868EEA/logo.png"
+}

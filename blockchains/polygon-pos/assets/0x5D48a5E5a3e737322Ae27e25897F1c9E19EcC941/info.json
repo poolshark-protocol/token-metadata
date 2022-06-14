@@ -1,0 +1,11 @@
+{
+    "name": "OkLetsPlay",
+    "symbol": "OKLP",
+    "id": "0x5D48a5E5a3e737322Ae27e25897F1c9E19EcC941",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/okletsplay",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1548.32,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x5D48a5E5a3e737322Ae27e25897F1c9E19EcC941/logo.png"
+}

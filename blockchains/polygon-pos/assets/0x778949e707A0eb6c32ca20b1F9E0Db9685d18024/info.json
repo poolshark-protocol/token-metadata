@@ -1,0 +1,11 @@
+{
+    "name": "GAMESTA (PoS)",
+    "symbol": "GSG",
+    "id": "0x778949e707A0eb6c32ca20b1F9E0Db9685d18024",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gamesta",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4780.35,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x778949e707A0eb6c32ca20b1F9E0Db9685d18024/logo.png"
+}

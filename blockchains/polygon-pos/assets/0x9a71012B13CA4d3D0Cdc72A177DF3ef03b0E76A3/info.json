@@ -1,0 +1,11 @@
+{
+    "name": "Balancer (PoS)",
+    "symbol": "BAL",
+    "id": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/balancer",
+    "market_cap_usd": 50142640,
+    "market_cap_rank": 378,
+    "24_hr_volume_usd": 24413212,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3/logo.png"
+}

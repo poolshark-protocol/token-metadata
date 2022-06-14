@@ -1,0 +1,11 @@
+{
+    "name": "moonwolf.io",
+    "symbol": "WOLF",
+    "id": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moonwolf-io",
+    "market_cap_usd": 40961,
+    "market_cap_rank": 3440,
+    "24_hr_volume_usd": 852.27,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16/logo.png"
+}

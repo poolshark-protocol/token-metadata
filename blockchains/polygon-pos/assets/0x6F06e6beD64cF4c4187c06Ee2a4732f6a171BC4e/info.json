@@ -1,0 +1,11 @@
+{
+    "name": "FoodChain Global",
+    "symbol": "FOOD",
+    "id": "0x6F06e6beD64cF4c4187c06Ee2a4732f6a171BC4e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/foodchain-global",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 27.46,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x6F06e6beD64cF4c4187c06Ee2a4732f6a171BC4e/logo.png"
+}

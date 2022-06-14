@@ -1,0 +1,10 @@
+{
+    "name": "Holy Knight Win Token",
+    "symbol": "HOLY",
+    "id": "0xe8ba5cb9b157D74de255AF2bf614c89400fF61D9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/holy-knight",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xe8ba5cb9b157D74de255AF2bf614c89400fF61D9/logo.png"
+}

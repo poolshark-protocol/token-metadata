@@ -1,0 +1,11 @@
+{
+    "name": "renBTC",
+    "symbol": "renBTC",
+    "id": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/renbtc",
+    "market_cap_usd": 154980698,
+    "market_cap_rank": 181,
+    "24_hr_volume_usd": 57282479,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xDBf31dF14B66535aF65AaC99C32e9eA844e14501/logo.png"
+}

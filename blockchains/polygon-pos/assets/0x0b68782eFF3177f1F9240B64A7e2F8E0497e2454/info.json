@@ -1,0 +1,11 @@
+{
+    "name": "Atlantis",
+    "symbol": "ATLX",
+    "id": "0x0b68782eFF3177f1F9240B64A7e2F8E0497e2454",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/atlantis-loans-polygon",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 621.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0b68782eFF3177f1F9240B64A7e2F8E0497e2454/logo.png"
+}

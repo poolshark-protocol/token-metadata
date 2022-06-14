@@ -1,0 +1,11 @@
+{
+    "name": "Mask Network (PoS)",
+    "symbol": "MASK",
+    "id": "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mask-network",
+    "market_cap_usd": 61527575,
+    "market_cap_rank": 334,
+    "24_hr_volume_usd": 26382760,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "OwlDAO token",
+    "symbol": "OWL",
+    "id": "0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/owldao",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 19109.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x9085B4d52c3e0B8B6F9AF6213E85A433c7D76f19/logo.png"
+}

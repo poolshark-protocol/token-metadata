@@ -1,0 +1,11 @@
+{
+    "name": "0chain (PoS)",
+    "symbol": "ZCN",
+    "id": "0x8bB30E0e67b11b978a5040144c410e1ccDDcba30",
+    "decimals": 10,
+    "coingecko_url": "https://www.coingecko.com/en/coins/0chain",
+    "market_cap_usd": 8051224,
+    "market_cap_rank": 895,
+    "24_hr_volume_usd": 96627,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x8bB30E0e67b11b978a5040144c410e1ccDDcba30/logo.png"
+}

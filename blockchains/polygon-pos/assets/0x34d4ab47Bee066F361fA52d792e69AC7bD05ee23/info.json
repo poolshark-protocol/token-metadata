@@ -1,0 +1,11 @@
+{
+    "name": "RaiderAurum",
+    "symbol": "AURUM",
+    "id": "0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/raider-aurum",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 173170,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23/logo.png"
+}

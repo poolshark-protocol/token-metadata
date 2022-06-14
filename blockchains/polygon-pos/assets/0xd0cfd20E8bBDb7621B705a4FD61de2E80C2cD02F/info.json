@@ -1,0 +1,11 @@
+{
+    "name": "SafeSwap",
+    "symbol": "SSGTx",
+    "id": "0xd0cfd20E8bBDb7621B705a4FD61de2E80C2cD02F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/safeswap-token",
+    "market_cap_usd": 110036,
+    "market_cap_rank": 3101,
+    "24_hr_volume_usd": 555.46,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xd0cfd20E8bBDb7621B705a4FD61de2E80C2cD02F/logo.png"
+}

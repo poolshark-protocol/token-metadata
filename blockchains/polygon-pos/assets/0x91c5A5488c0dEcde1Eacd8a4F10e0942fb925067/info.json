@@ -1,0 +1,12 @@
+{
+    "name": "Auditchain",
+    "symbol": "AUDT",
+    "id": "0x91c5A5488c0dEcde1Eacd8a4F10e0942fb925067",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/auditchain",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9466.18,
+    "public_notice": "Auditchain has migrated from their <a href=\"https://etherscan.io/token/0x777f5591f0743b08701aa37eceaec82b0153f65b\">old contract</a> to a <a href=\"https://etherscan.io/token/0xb90cb79b72eb10c39cbdf86e50b1c89f6a235f2e\">new one</a>. For more information, please visit this <a href=\"https://docs.auditchain.finance/auditchain-protocol/audt-token\">post</a>. ",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x91c5A5488c0dEcde1Eacd8a4F10e0942fb925067/logo.png"
+}

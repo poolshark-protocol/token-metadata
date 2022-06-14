@@ -1,0 +1,11 @@
+{
+    "name": "Everipedia IQ (PoS)",
+    "symbol": "IQ",
+    "id": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/everipedia",
+    "market_cap_usd": 39887254,
+    "market_cap_rank": 431,
+    "24_hr_volume_usd": 2531864,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xB9638272aD6998708de56BBC0A290a1dE534a578/logo.png"
+}

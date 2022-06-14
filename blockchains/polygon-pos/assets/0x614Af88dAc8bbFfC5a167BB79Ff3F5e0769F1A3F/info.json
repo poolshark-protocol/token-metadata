@@ -1,0 +1,11 @@
+{
+    "name": "Realms Of Ethernity",
+    "symbol": "RETH",
+    "id": "0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/realms-of-ethernity",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 619460,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x614Af88dAc8bbFfC5a167BB79Ff3F5e0769F1A3F/logo.png"
+}

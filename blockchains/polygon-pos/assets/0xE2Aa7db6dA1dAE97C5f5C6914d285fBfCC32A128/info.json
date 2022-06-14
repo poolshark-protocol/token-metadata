@@ -1,0 +1,11 @@
+{
+    "name": "PAR Stablecoin",
+    "symbol": "PAR",
+    "id": "0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/par-stablecoin",
+    "market_cap_usd": 2779453,
+    "market_cap_rank": 1355,
+    "24_hr_volume_usd": 423156,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128/logo.png"
+}

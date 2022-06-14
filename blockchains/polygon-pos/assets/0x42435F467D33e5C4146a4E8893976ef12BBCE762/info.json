@@ -1,0 +1,12 @@
+{
+    "name": "DEFI Top 5 Tokens Index (PoS)",
+    "symbol": "DEFI5",
+    "id": "0x42435F467D33e5C4146a4E8893976ef12BBCE762",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defi-top-5-tokens-index",
+    "market_cap_usd": 78021,
+    "market_cap_rank": 3232,
+    "24_hr_volume_usd": 0.00014749,
+    "public_notice": "Indexed Finance was hacked and about $16m assets have been stolen from <a href=\"https://www.coingecko.com/en/coins/cryptocurrency-top-10-index\">CC10</a> and <a href=\"https://www.coingecko.com/en/coins/defi-top-5-index\">DEFI5</a>. Please proceed with caution. For more information, visit https://ndxfi.medium.com/indexed-attack-post-mortem-b006094f0bdc",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x42435F467D33e5C4146a4E8893976ef12BBCE762/logo.png"
+}

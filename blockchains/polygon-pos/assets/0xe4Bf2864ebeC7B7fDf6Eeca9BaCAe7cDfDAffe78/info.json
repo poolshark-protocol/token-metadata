@@ -1,0 +1,11 @@
+{
+    "name": "DODO bird (PoS)",
+    "symbol": "DODO",
+    "id": "0xe4Bf2864ebeC7B7fDf6Eeca9BaCAe7cDfDAffe78",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dodo",
+    "market_cap_usd": 45914460,
+    "market_cap_rank": 395,
+    "24_hr_volume_usd": 27666522,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xe4Bf2864ebeC7B7fDf6Eeca9BaCAe7cDfDAffe78/logo.png"
+}

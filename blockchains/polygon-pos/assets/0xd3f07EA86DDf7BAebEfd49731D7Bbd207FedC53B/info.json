@@ -1,0 +1,11 @@
+{
+    "name": "Polly nDefi Nest",
+    "symbol": "nDEFI",
+    "id": "0xd3f07EA86DDf7BAebEfd49731D7Bbd207FedC53B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polly-defi-nest",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1053.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xd3f07EA86DDf7BAebEfd49731D7Bbd207FedC53B/logo.png"
+}

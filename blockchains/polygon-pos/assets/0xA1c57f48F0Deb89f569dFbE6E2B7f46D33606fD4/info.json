@@ -1,0 +1,11 @@
+{
+    "name": "(PoS) Decentraland MANA",
+    "symbol": "MANA",
+    "id": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/decentraland",
+    "market_cap_usd": 1240965699,
+    "market_cap_rank": 41,
+    "24_hr_volume_usd": 739507568,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4/logo.png"
+}

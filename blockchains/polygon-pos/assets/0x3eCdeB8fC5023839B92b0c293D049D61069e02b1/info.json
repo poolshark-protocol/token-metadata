@@ -1,0 +1,11 @@
+{
+    "name": "GenX Token",
+    "symbol": "GENX",
+    "id": "0x3eCdeB8fC5023839B92b0c293D049D61069e02b1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/genx",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1370.41,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3eCdeB8fC5023839B92b0c293D049D61069e02b1/logo.png"
+}

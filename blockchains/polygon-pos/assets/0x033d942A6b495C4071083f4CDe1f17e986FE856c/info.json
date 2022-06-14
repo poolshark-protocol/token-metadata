@@ -1,0 +1,11 @@
+{
+    "name": "AGA Token (PoS)",
+    "symbol": "AGA",
+    "id": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aga-token",
+    "market_cap_usd": 291309,
+    "market_cap_rank": 2599,
+    "24_hr_volume_usd": 489.72,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x033d942A6b495C4071083f4CDe1f17e986FE856c/logo.png"
+}

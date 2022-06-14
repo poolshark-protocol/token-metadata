@@ -1,0 +1,11 @@
+{
+    "name": "JaguarSwap Token",
+    "symbol": "JAGUAR",
+    "id": "0x30f56F3f6D67011d7818F4CA36cD1d0e6BD1F6D6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jaguarswap",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.255054,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x30f56F3f6D67011d7818F4CA36cD1d0e6BD1F6D6/logo.png"
+}

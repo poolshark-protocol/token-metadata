@@ -1,0 +1,11 @@
+{
+    "name": "Toucan Protocol: Base Carbon Tonne",
+    "symbol": "BCT",
+    "id": "0x2F800Db0fdb5223b3C3f354886d907A671414A7F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/toucan-protocol-base-carbon-tonne",
+    "market_cap_usd": 39279843,
+    "market_cap_rank": 433,
+    "24_hr_volume_usd": 409571,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2F800Db0fdb5223b3C3f354886d907A671414A7F/logo.png"
+}

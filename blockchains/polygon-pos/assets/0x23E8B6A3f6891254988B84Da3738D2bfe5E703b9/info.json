@@ -1,0 +1,12 @@
+{
+    "name": "FABWELT",
+    "symbol": "WELT",
+    "id": "0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fabwelt",
+    "market_cap_usd": 625015,
+    "market_cap_rank": 2161,
+    "24_hr_volume_usd": 277397,
+    "public_notice": "Fabwelt has recently expanded to Binance Smart Chain. For more info, read their <a href=\"https://fabwelttoken.medium.com/fabwelt-bridge-to-the-binance-smart-chain-and-lists-on-pancakeswap-e38194fdb635\">Medium</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9/logo.png"
+}

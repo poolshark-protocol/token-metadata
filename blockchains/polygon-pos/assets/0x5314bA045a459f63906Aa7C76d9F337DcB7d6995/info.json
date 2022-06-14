@@ -1,0 +1,11 @@
+{
+    "name": "Fodl (PoS)",
+    "symbol": "FODL",
+    "id": "0x5314bA045a459f63906Aa7C76d9F337DcB7d6995",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fodl-finance",
+    "market_cap_usd": 12680627,
+    "market_cap_rank": 755,
+    "24_hr_volume_usd": 2009887,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x5314bA045a459f63906Aa7C76d9F337DcB7d6995/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped CHI (PoS)",
+    "symbol": "WCHI",
+    "id": "0xE79feAAA457ad7899357E8E2065a3267aC9eE601",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chimaera",
+    "market_cap_usd": 5147747,
+    "market_cap_rank": 1057,
+    "24_hr_volume_usd": 26994,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xE79feAAA457ad7899357E8E2065a3267aC9eE601/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Tixl Token",
+    "symbol": "TXL",
+    "id": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/autobahn-network",
+    "market_cap_usd": 1527643,
+    "market_cap_rank": 1660,
+    "24_hr_volume_usd": 11472.69,
+    "public_notice": "Tixl\u00a0has rebranded as Autobahn Network. For more info, visit their\u00a0<a href=\"https://medium.com/autobahnnetwork/tixl-rebrands-to-autobahn-network-6d653b820580\">Medium</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41/logo.png"
+}

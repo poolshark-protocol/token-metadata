@@ -1,0 +1,11 @@
+{
+    "name": "E-RADIX",
+    "symbol": "anyeXRD",
+    "id": "0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ice-token",
+    "market_cap_usd": 5340669,
+    "market_cap_rank": 1043,
+    "24_hr_volume_usd": 232647,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59/logo.png"
+}

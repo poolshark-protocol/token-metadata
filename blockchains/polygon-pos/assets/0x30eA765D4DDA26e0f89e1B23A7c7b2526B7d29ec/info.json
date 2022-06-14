@@ -1,0 +1,11 @@
+{
+    "name": "POLYPAD.com",
+    "symbol": "POLYPAD",
+    "id": "0x30eA765D4DDA26e0f89e1B23A7c7b2526B7d29ec",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polypad",
+    "market_cap_usd": 10594328,
+    "market_cap_rank": 810,
+    "24_hr_volume_usd": 45045,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x30eA765D4DDA26e0f89e1B23A7c7b2526B7d29ec/logo.png"
+}

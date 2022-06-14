@@ -1,0 +1,11 @@
+{
+    "name": "StackOS",
+    "symbol": "STACK",
+    "id": "0x980111ae1B84E50222C8843e3A7a038F36Fecd2b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stackos",
+    "market_cap_usd": 11917036,
+    "market_cap_rank": 777,
+    "24_hr_volume_usd": 256301,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x980111ae1B84E50222C8843e3A7a038F36Fecd2b/logo.png"
+}

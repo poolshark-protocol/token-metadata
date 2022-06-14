@@ -1,0 +1,10 @@
+{
+    "name": "Jarvis Synthetic Japanese Yen",
+    "symbol": "jJPY",
+    "id": "0x8343091F2499FD4b6174A46D067A920a3b851FF9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jarvis-synthetic-japanese-yen",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x8343091F2499FD4b6174A46D067A920a3b851FF9/logo.png"
+}

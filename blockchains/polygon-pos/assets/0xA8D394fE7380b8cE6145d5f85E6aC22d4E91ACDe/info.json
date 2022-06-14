@@ -1,0 +1,11 @@
+{
+    "name": "BUSD Token (Wormhole)",
+    "symbol": "BUSD",
+    "id": "0xA8D394fE7380b8cE6145d5f85E6aC22d4E91ACDe",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/binance-usd-wormhole-from-bsc",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4378266,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xA8D394fE7380b8cE6145d5f85E6aC22d4E91ACDe/logo.png"
+}

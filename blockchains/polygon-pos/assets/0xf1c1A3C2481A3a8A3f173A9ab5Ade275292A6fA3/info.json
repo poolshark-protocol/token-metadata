@@ -1,0 +1,11 @@
+{
+    "name": "BLOCKv Token (PoS)",
+    "symbol": "VEE",
+    "id": "0xf1c1A3C2481A3a8A3f173A9ab5Ade275292A6fA3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blockv",
+    "market_cap_usd": 3763807,
+    "market_cap_rank": 1199,
+    "24_hr_volume_usd": 4492.35,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xf1c1A3C2481A3a8A3f173A9ab5Ade275292A6fA3/logo.png"
+}

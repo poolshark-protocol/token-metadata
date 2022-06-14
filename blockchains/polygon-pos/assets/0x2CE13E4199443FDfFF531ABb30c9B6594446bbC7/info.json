@@ -1,0 +1,12 @@
+{
+    "name": "Rocket Vault (PoS)",
+    "symbol": "RVF",
+    "id": "0x2CE13E4199443FDfFF531ABb30c9B6594446bbC7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rocket-vault-rocketx",
+    "market_cap_usd": 2705520,
+    "market_cap_rank": 1374,
+    "24_hr_volume_usd": 109868,
+    "public_notice": "Rocket Vault-RocketX has rebranded to RocketX. For more information, please visit: https://rocketxexchange.medium.com/rocket-vault-rebrands-to-rocketx-768e4a80c4d3",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2CE13E4199443FDfFF531ABb30c9B6594446bbC7/logo.png"
+}

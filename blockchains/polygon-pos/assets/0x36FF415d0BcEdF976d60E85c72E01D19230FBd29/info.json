@@ -1,0 +1,11 @@
+{
+    "name": "HoboNickels (PoS)",
+    "symbol": "HOBO",
+    "id": "0x36FF415d0BcEdF976d60E85c72E01D19230FBd29",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hobonickels",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x36FF415d0BcEdF976d60E85c72E01D19230FBd29/logo.png"
+}

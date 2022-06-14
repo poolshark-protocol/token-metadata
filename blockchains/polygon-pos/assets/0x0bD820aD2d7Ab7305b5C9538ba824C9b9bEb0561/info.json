@@ -1,0 +1,11 @@
+{
+    "name": "Royale (PoS)",
+    "symbol": "ROYA",
+    "id": "0x0bD820aD2d7Ab7305b5C9538ba824C9b9bEb0561",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/royale",
+    "market_cap_usd": 166396,
+    "market_cap_rank": 2907,
+    "24_hr_volume_usd": 3654.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0bD820aD2d7Ab7305b5C9538ba824C9b9bEb0561/logo.png"
+}

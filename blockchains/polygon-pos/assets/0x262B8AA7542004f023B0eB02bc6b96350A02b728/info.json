@@ -1,0 +1,12 @@
+{
+    "name": "Sway Social Protocol",
+    "symbol": "SWAY",
+    "id": "0x262B8AA7542004f023B0eB02bc6b96350A02b728",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sway-social",
+    "market_cap_usd": 67248,
+    "market_cap_rank": 3285,
+    "24_hr_volume_usd": 2778.19,
+    "public_notice": "Clout.art has recently rebranded as Sway Social.\u00a0For more info, read <a href=\"https://twitter.com/cloutdotart/status/1467640621800243203?s=20\">here</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x262B8AA7542004f023B0eB02bc6b96350A02b728/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "PotCoin.com POT",
+    "symbol": "POT",
+    "id": "0xd7c8469c7eC40f853dA5f651DE81b45aeD47e5aB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/potcoin",
+    "market_cap_usd": 1002758,
+    "market_cap_rank": 1882,
+    "24_hr_volume_usd": 9.14,
+    "public_notice": "PotCoin (POT) has recently migrated to the Polygon network. For more information, please view this <a href=\"https://www.potcoin.com/2021/11/05/potcoin-is-migrating-to-polygon-swap-go-live-is-scheduled-for-november-1st-read-on-for-details/\">announcement</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xd7c8469c7eC40f853dA5f651DE81b45aeD47e5aB/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Orbs (PoS)",
+    "symbol": "ORBS",
+    "id": "0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/orbs",
+    "market_cap_usd": 114187097,
+    "market_cap_rank": 215,
+    "24_hr_volume_usd": 4861695,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff/logo.png"
+}

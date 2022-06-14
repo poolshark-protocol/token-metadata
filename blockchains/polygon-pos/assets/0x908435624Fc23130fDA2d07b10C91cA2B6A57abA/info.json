@@ -1,0 +1,11 @@
+{
+    "name": "CRYPTOPUNT Token (PoS)",
+    "symbol": "PUN",
+    "id": "0x908435624Fc23130fDA2d07b10C91cA2B6A57abA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryptopunt",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x908435624Fc23130fDA2d07b10C91cA2B6A57abA/logo.png"
+}

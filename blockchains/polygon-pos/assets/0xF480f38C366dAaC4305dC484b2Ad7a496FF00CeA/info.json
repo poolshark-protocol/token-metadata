@@ -1,0 +1,12 @@
+{
+    "name": "Graviton",
+    "symbol": "GTON",
+    "id": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gton-capital",
+    "market_cap_usd": 5374602,
+    "market_cap_rank": 1040,
+    "24_hr_volume_usd": 104830,
+    "public_notice": "Graviton (GTON) has recently rebranded to GTON CAPITAL (GTON). For more information, please view this <a href=\"https://twitter.com/GtonCapital/status/1468278184831590401\">announcement<a/> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA/logo.png"
+}

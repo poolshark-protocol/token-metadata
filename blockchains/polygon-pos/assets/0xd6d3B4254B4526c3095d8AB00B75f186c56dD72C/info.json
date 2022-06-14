@@ -1,0 +1,12 @@
+{
+    "name": "Lithium IONs",
+    "symbol": "IONs",
+    "id": "0xd6d3B4254B4526c3095d8AB00B75f186c56dD72C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lithium-ventures",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1339.64,
+    "public_notice": "Please note that EarlyBSC has been rebranded to Lithium Ventures. $EBSC is the underlying token of the Lithium ecosystem <br>Team of the project have taken the decision to migrate the Lithium ecosystem (and token) to Polygon chain. For more information, please view this <a href=\"https://medium.com/future-venture/the-birth-of-ions-f1dec714dc7e\" target=\"_blank\">announcement<a/> on Medium.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xd6d3B4254B4526c3095d8AB00B75f186c56dD72C/logo.png"
+}

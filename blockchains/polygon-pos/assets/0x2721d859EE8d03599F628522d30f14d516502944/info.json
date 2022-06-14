@@ -1,0 +1,11 @@
+{
+    "name": "FastFood",
+    "symbol": "FFOOD",
+    "id": "0x2721d859EE8d03599F628522d30f14d516502944",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ratalert-fastfood",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "public_notice": "The smart-contract owner can mint new tokens, please proceed with caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2721d859EE8d03599F628522d30f14d516502944/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Reyna Ventures",
+    "symbol": "REIN",
+    "id": "0x23c70Dd93d4ecaC7fb93631488C5412E02f4A57c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rein",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 474.94,
+    "public_notice": "Reyna (REY) has rebranded to Reyna Ventures (REIN) and migrated from their <a href=\"https://bscscan.com/token/0x5c5d9fd5e044d550f382155b5dbb1ce425e01b6a\">old BSC ontract</a> to a <a href=\"https://polygonscan.com/token/0x23c70Dd93d4ecaC7fb93631488C5412E02f4A57c\">new one on Polygon</a>. For more information, please view this <a href=\"https://twitter.com/reynaventures/status/1533442794278330369\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x23c70Dd93d4ecaC7fb93631488C5412E02f4A57c/logo.png"
+}

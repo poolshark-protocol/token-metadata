@@ -1,0 +1,12 @@
+{
+    "name": "INVERSE (PoS)",
+    "symbol": "XIV",
+    "id": "0xde799636aF0d8D65a17AAa83b66cBBE9B185EB01",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/project-inverse",
+    "market_cap_usd": 314773,
+    "market_cap_rank": 2565,
+    "24_hr_volume_usd": 336715,
+    "public_notice": "Project Inverse has rebranded to Planet Inverse. Read more at: https://planetinverse.medium.com/hello-vault-keepers-c8d6b6192b33",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xde799636aF0d8D65a17AAa83b66cBBE9B185EB01/logo.png"
+}

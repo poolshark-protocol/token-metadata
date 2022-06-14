@@ -1,0 +1,11 @@
+{
+    "name": "Playermon",
+    "symbol": "PYM",
+    "id": "0x0bD49815EA8e2682220BCB41524c0dd10Ba71d41",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/playermon",
+    "market_cap_usd": 281736,
+    "market_cap_rank": 2617,
+    "24_hr_volume_usd": 5882.98,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0bD49815EA8e2682220BCB41524c0dd10Ba71d41/logo.png"
+}

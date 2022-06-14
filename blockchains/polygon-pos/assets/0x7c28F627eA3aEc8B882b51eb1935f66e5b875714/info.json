@@ -1,0 +1,11 @@
+{
+    "name": "Paint",
+    "symbol": "PAINT",
+    "id": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/paint",
+    "market_cap_usd": 363972,
+    "market_cap_rank": 2475,
+    "24_hr_volume_usd": 1961.3,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x7c28F627eA3aEc8B882b51eb1935f66e5b875714/logo.png"
+}

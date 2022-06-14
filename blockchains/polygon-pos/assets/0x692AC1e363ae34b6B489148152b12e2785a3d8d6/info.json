@@ -1,0 +1,11 @@
+{
+    "name": "Polytrade (PoS)",
+    "symbol": "TRADE",
+    "id": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polytrade",
+    "market_cap_usd": 682922,
+    "market_cap_rank": 2113,
+    "24_hr_volume_usd": 556901,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x692AC1e363ae34b6B489148152b12e2785a3d8d6/logo.png"
+}

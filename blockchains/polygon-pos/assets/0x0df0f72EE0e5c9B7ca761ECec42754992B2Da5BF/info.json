@@ -1,0 +1,11 @@
+{
+    "name": "Automata (PoS)",
+    "symbol": "ATA",
+    "id": "0x0df0f72EE0e5c9B7ca761ECec42754992B2Da5BF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/automata",
+    "market_cap_usd": 40844830,
+    "market_cap_rank": 426,
+    "24_hr_volume_usd": 32446433,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0df0f72EE0e5c9B7ca761ECec42754992B2Da5BF/logo.png"
+}

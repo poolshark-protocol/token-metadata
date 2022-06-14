@@ -1,0 +1,11 @@
+{
+    "name": "(PoS) Dai Stablecoin",
+    "symbol": "DAI",
+    "id": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dai",
+    "market_cap_usd": 6361101261,
+    "market_cap_rank": 12,
+    "24_hr_volume_usd": 1068317191,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
+}

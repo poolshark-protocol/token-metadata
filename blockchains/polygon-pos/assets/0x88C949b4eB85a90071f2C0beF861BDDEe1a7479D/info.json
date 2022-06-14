@@ -1,0 +1,11 @@
+{
+    "name": "SHEESHA POLYGON",
+    "symbol": "mSHEESHA",
+    "id": "0x88C949b4eB85a90071f2C0beF861BDDEe1a7479D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sheesha-finance-polygon",
+    "market_cap_usd": 1054465,
+    "market_cap_rank": 1852,
+    "24_hr_volume_usd": 65185,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x88C949b4eB85a90071f2C0beF861BDDEe1a7479D/logo.png"
+}

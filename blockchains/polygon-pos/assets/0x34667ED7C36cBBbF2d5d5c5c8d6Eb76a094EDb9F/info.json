@@ -1,0 +1,11 @@
+{
+    "name": "GenomesDAO (PoS)",
+    "symbol": "GENE",
+    "id": "0x34667ED7C36cBBbF2d5d5c5c8d6Eb76a094EDb9F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/genomesdao",
+    "market_cap_usd": 89804,
+    "market_cap_rank": 3182,
+    "24_hr_volume_usd": 1361.5,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x34667ED7C36cBBbF2d5d5c5c8d6Eb76a094EDb9F/logo.png"
+}

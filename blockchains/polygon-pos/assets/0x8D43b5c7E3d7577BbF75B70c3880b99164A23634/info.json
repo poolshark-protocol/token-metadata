@@ -1,0 +1,12 @@
+{
+    "name": "",
+    "symbol": "",
+    "id": "0x8D43b5c7E3d7577BbF75B70c3880b99164A23634",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/trodl",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 985.44,
+    "public_notice": "Trodl has migrated from Ethereum and Binance Smart Chain to Polygon Chain, for more information, please read the announcement: https://t.me/trodl/32526",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x8D43b5c7E3d7577BbF75B70c3880b99164A23634/logo.png"
+}

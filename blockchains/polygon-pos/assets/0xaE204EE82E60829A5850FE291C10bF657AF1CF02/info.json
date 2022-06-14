@@ -1,0 +1,11 @@
+{
+    "name": "AQAR TOKEN",
+    "symbol": "AQR",
+    "id": "0xaE204EE82E60829A5850FE291C10bF657AF1CF02",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aqar-chain",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13.21,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xaE204EE82E60829A5850FE291C10bF657AF1CF02/logo.png"
+}

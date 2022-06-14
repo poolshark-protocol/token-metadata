@@ -1,0 +1,11 @@
+{
+    "name": "AGA Carbon Rewards",
+    "symbol": "AGAcr",
+    "id": "0xcBce9f77921C2E90522d438dF4C5582F4c617768",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aga-carbon-rewards",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 87.02,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xcBce9f77921C2E90522d438dF4C5582F4c617768/logo.png"
+}

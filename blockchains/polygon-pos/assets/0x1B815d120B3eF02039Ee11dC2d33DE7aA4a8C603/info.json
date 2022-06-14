@@ -1,0 +1,12 @@
+{
+    "name": "Wootrade Network (PoS)",
+    "symbol": "WOO",
+    "id": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/woo-network",
+    "market_cap_usd": 134744745,
+    "market_cap_rank": 196,
+    "24_hr_volume_usd": 54533146,
+    "public_notice": "Wootrade Network has rebranded to WOO Network. For more information, please read https://medium.com/woonetwork/new-names-new-logos-how-woo-network-is-changing-markets-as-we-know-them-575ed472b0d9",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603/logo.png"
+}

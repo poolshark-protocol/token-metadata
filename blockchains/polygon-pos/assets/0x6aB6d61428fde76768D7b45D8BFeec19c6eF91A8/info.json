@@ -1,0 +1,12 @@
+{
+    "name": "Anyswap",
+    "symbol": "ANY",
+    "id": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/anyswap",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 487939,
+    "public_notice": "Anyswap has rebranded to <a href=\"https://www.coingecko.com/en/coins/multichain\">Multichain</a>. For more information, please view this announcement on <a href=\"https://medium.com/multichainorg/anyswap-to-officially-rebrand-as-multichain-16ee7b961ffa\">Medium</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png"
+}

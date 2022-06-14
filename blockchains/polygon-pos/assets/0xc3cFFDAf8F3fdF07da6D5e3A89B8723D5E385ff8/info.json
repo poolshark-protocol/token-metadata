@@ -1,0 +1,11 @@
+{
+    "name": "Rubic (PoS)",
+    "symbol": "RBC",
+    "id": "0xc3cFFDAf8F3fdF07da6D5e3A89B8723D5E385ff8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rubic",
+    "market_cap_usd": 6065620,
+    "market_cap_rank": 993,
+    "24_hr_volume_usd": 273080,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xc3cFFDAf8F3fdF07da6D5e3A89B8723D5E385ff8/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Opium Governance Token (PoS)",
+    "symbol": "OPIUM",
+    "id": "0xE8F157E041Df3B28151B667364e9c90789Da7923",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/opium",
+    "market_cap_usd": 1566501,
+    "market_cap_rank": 1646,
+    "24_hr_volume_usd": 25380,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xE8F157E041Df3B28151B667364e9c90789Da7923/logo.png"
+}

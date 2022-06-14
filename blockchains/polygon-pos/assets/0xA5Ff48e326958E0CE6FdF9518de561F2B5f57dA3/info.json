@@ -1,0 +1,12 @@
+{
+    "name": "Polkalokr",
+    "symbol": "LKR",
+    "id": "0xA5Ff48e326958E0CE6FdF9518de561F2B5f57dA3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lokr",
+    "market_cap_usd": 816379,
+    "market_cap_rank": 1993,
+    "24_hr_volume_usd": 158635,
+    "public_notice": "Polkalokr has rebranded as Lokr. For more info, visit their <a href=\"https://medium.com/lokr/polkalokr-becomes-lokr-1dcb08f17c44\">Medium</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xA5Ff48e326958E0CE6FdF9518de561F2B5f57dA3/logo.png"
+}

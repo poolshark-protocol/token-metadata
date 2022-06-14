@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped PRCY",
+    "symbol": "WPRCY",
+    "id": "0xdFC3829b127761a3218bFceE7fc92e1232c9D116",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/prcy-coin",
+    "market_cap_usd": 533303,
+    "market_cap_rank": 2270,
+    "24_hr_volume_usd": 64321,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xdFC3829b127761a3218bFceE7fc92e1232c9D116/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Jarvis Synthetic Swiss Franc",
+    "symbol": "jCHF",
+    "id": "0xbD1463F02f61676d53fd183C2B19282BFF93D099",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jarvis-synthetic-swiss-franc",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 18759.03,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xbD1463F02f61676d53fd183C2B19282BFF93D099/logo.png"
+}

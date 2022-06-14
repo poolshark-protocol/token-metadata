@@ -1,0 +1,12 @@
+{
+    "name": "Elk",
+    "symbol": "ELK",
+    "id": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/elk-finance",
+    "market_cap_usd": 2395857,
+    "market_cap_rank": 1444,
+    "24_hr_volume_usd": 423745,
+    "public_notice": "$ELK has migrated to a new contract. Read more at: https://medium.com/elk-finance/introducing-elknet-v2-overview-token-migration-governance-35714de67e70",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE/logo.png"
+}

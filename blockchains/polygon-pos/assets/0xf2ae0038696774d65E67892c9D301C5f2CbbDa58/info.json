@@ -1,0 +1,11 @@
+{
+    "name": "CargoX Token (PoS)",
+    "symbol": "CXO",
+    "id": "0xf2ae0038696774d65E67892c9D301C5f2CbbDa58",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cargox",
+    "market_cap_usd": 13373308,
+    "market_cap_rank": 737,
+    "24_hr_volume_usd": 39476,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xf2ae0038696774d65E67892c9D301C5f2CbbDa58/logo.png"
+}

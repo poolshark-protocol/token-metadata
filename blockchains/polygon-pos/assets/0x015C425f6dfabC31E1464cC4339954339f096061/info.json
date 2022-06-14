@@ -1,0 +1,11 @@
+{
+    "name": "ETNA Network",
+    "symbol": "ETNA",
+    "id": "0x015C425f6dfabC31E1464cC4339954339f096061",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/etna-network",
+    "market_cap_usd": 513594,
+    "market_cap_rank": 2287,
+    "24_hr_volume_usd": 9468.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x015C425f6dfabC31E1464cC4339954339f096061/logo.png"
+}

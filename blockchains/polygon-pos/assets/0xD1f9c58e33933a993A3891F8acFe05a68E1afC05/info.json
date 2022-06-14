@@ -1,0 +1,12 @@
+{
+    "name": "Sunflower Land",
+    "symbol": "SFL",
+    "id": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sunflower-land",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 44770,
+    "public_notice": "The smart-contract owner can mint new tokens, please proceed with caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xD1f9c58e33933a993A3891F8acFe05a68E1afC05/logo.png"
+}

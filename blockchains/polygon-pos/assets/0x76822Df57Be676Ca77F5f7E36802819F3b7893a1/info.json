@@ -1,0 +1,12 @@
+{
+    "name": "rhoUSDT Token",
+    "symbol": "rhoUSDT",
+    "id": "0x76822Df57Be676Ca77F5f7E36802819F3b7893a1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rhousdt",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "rhoUSDT has recently migrated from their <a href=\"https://bscscan.com/token/0xD845dA3fFc349472fE77DFdFb1F93839a5DA8C96\">old contract</a> to a <a href=\"https://bscscan.com/token/0xfe1168a882C46c94e381e775118e418ef1615315\">new one</a>. Visit this <a href=\"https://docs.flurry.finance/flurry-finance/mainnet-contract-address/bnb-chain-former-bsc-chain#bnb-chain-mainnet\">post</a> for more information and visit the new token page <a href=\"https://www.coingecko.com/en/coins/rhousdt\">here.</a>",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x76822Df57Be676Ca77F5f7E36802819F3b7893a1/logo.png"
+}

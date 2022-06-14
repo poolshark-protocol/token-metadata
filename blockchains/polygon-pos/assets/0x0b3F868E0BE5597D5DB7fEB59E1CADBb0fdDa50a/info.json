@@ -1,0 +1,11 @@
+{
+    "name": "SushiToken (PoS)",
+    "symbol": "SUSHI",
+    "id": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sushi",
+    "market_cap_usd": 191023145,
+    "market_cap_rank": 160,
+    "24_hr_volume_usd": 133586983,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a/logo.png"
+}

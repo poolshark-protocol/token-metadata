@@ -1,0 +1,12 @@
+{
+    "name": "LUNA (Wormhole)",
+    "symbol": "LUNA",
+    "id": "0x9cd6746665D9557e1B9a775819625711d0693439",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/luna-wormhole",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 554.75,
+    "public_notice": "The original Terra Chain will be rebranded as Terra Classic. Please visit this <a href=\"https://docs.terra.money/docs/migration/exchange-migration.html\">post</a> for more info.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x9cd6746665D9557e1B9a775819625711d0693439/logo.png"
+}

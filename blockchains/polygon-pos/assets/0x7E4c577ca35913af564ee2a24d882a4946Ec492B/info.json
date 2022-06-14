@@ -1,0 +1,11 @@
+{
+    "name": "MoonEdge",
+    "symbol": "MOONED",
+    "id": "0x7E4c577ca35913af564ee2a24d882a4946Ec492B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/moonedge",
+    "market_cap_usd": 538607,
+    "market_cap_rank": 2260,
+    "24_hr_volume_usd": 603.24,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x7E4c577ca35913af564ee2a24d882a4946Ec492B/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "OBORTECH",
+    "symbol": "OBOT",
+    "id": "0x221743dc9E954bE4f86844649Bf19B43D6F8366d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/obortech",
+    "market_cap_usd": 1258195,
+    "market_cap_rank": 1762,
+    "24_hr_volume_usd": 9934.82,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x221743dc9E954bE4f86844649Bf19B43D6F8366d/logo.png"
+}

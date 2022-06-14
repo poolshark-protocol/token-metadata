@@ -1,0 +1,11 @@
+{
+    "name": "Fidira",
+    "symbol": "FID",
+    "id": "0x9A4Eb698e5DE3D3Df0a68F681789072DE1E50222",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fidira",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1239.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x9A4Eb698e5DE3D3Df0a68F681789072DE1E50222/logo.png"
+}

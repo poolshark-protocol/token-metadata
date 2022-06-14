@@ -1,0 +1,11 @@
+{
+    "name": "Peri Finance Token",
+    "symbol": "PERI",
+    "id": "0xDC0E17eAE3B9651875030244b971fa0223a1764f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/peri-finance",
+    "market_cap_usd": 836995,
+    "market_cap_rank": 1984,
+    "24_hr_volume_usd": 409744,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xDC0E17eAE3B9651875030244b971fa0223a1764f/logo.png"
+}

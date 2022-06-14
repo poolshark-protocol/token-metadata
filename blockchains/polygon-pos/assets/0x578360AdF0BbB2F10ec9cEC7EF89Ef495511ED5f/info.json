@@ -1,0 +1,11 @@
+{
+    "name": "KIWI Token",
+    "symbol": "KIWI",
+    "id": "0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kiwi-token",
+    "market_cap_usd": 50698,
+    "market_cap_rank": 3379,
+    "24_hr_volume_usd": 1592.4,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f/logo.png"
+}

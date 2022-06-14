@@ -1,0 +1,11 @@
+{
+    "name": "DxSale.Network (PoS)",
+    "symbol": "SALE",
+    "id": "0x8f6196901a4a153d8eE8F3fa779A042F6092D908",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dxsale-network",
+    "market_cap_usd": 1314035,
+    "market_cap_rank": 1731,
+    "24_hr_volume_usd": 2923.15,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x8f6196901a4a153d8eE8F3fa779A042F6092D908/logo.png"
+}

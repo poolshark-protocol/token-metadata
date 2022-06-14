@@ -1,0 +1,11 @@
+{
+    "name": "Parachute (PoS)",
+    "symbol": "PAR",
+    "id": "0xF521D590Fb1e0b432fD0e020cdbD6c6397d652C2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/parachute",
+    "market_cap_usd": 237023,
+    "market_cap_rank": 2704,
+    "24_hr_volume_usd": 55818,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xF521D590Fb1e0b432fD0e020cdbD6c6397d652C2/logo.png"
+}

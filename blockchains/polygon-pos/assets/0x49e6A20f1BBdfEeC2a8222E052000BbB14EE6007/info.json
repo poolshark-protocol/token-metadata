@@ -1,0 +1,12 @@
+{
+    "name": "Tangible",
+    "symbol": "TNGBL",
+    "id": "0x49e6A20f1BBdfEeC2a8222E052000BbB14EE6007",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tangible",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "The smart-contract owner can mint new tokens, please proceed with caution. <br><br> Tangible (TNGBL) has performed a token swap from their <a href=\"https://polygonscan.com/token/0x05d71db24f436e40d4bcb54724dc458eb641c2f1\">old contract</a> to a <a href=\"https://polygonscan.com/token/0x49e6a20f1bbdfeec2a8222e052000bbb14ee6007\">new one</a> . For more information please view this <a href=\"https://twitter.com/tangibleDAO/status/1521922468520206336?s=20&t=39X2jeoHltbJ40ASD8qEpA\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x49e6A20f1BBdfEeC2a8222E052000BbB14EE6007/logo.png"
+}

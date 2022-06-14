@@ -1,0 +1,11 @@
+{
+    "name": "PolyShark Token",
+    "symbol": "Shark",
+    "id": "0xD201B8511aaB3E9b094b35ABcD5d7863c78D6d0e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polyshark-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xD201B8511aaB3E9b094b35ABcD5d7863c78D6d0e/logo.png"
+}

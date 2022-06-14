@@ -1,0 +1,12 @@
+{
+    "name": "PayBolt",
+    "symbol": "PAY",
+    "id": "0xe580074A10360404AF3ABfe2d524D5806D993ea3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/paybolt",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 38320,
+    "public_notice": "The following token has a variable tax function on the smart contract - which allows contract owners to <a href=\"https://support.coingecko.com/hc/en-us/articles/4499153900185-What-are-variable-taxes-on-Smart-Contracts-\">change tax rates post deployment</a>. <br>Do your own research and be careful if you are trading this token.<br><br> BNBPay (BPAY) rebranded to PayBolt (PAY) and migrated from their <a href=\"https://bscscan.com/token/0xebc76079da0c245fae7225b58a57a54809b40618\">old contract</a> to a <a href=\"https://www.bscscan.com/token/0xe580074A10360404AF3ABfe2d524D5806D993ea3\">new one</a>. More information can be found at their <a href=\"https://www.paybolt.com/\">website</a>. ",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xe580074A10360404AF3ABfe2d524D5806D993ea3/logo.png"
+}

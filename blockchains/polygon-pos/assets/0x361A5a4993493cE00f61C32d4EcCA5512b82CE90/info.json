@@ -1,0 +1,11 @@
+{
+    "name": "Stake DAO Token (PoS)",
+    "symbol": "SDT",
+    "id": "0x361A5a4993493cE00f61C32d4EcCA5512b82CE90",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stake-dao",
+    "market_cap_usd": 7028673,
+    "market_cap_rank": 945,
+    "24_hr_volume_usd": 51759,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x361A5a4993493cE00f61C32d4EcCA5512b82CE90/logo.png"
+}

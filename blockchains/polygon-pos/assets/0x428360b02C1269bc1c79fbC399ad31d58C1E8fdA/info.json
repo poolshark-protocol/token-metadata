@@ -1,0 +1,11 @@
+{
+    "name": "Digital Fitness",
+    "symbol": "DEFIT",
+    "id": "0x428360b02C1269bc1c79fbC399ad31d58C1E8fdA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defit",
+    "market_cap_usd": 1745057,
+    "market_cap_rank": 1593,
+    "24_hr_volume_usd": 161706,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x428360b02C1269bc1c79fbC399ad31d58C1E8fdA/logo.png"
+}

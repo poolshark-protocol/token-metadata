@@ -1,0 +1,11 @@
+{
+    "name": "Tidal Token",
+    "symbol": "TIDAL",
+    "id": "0xB41EC2c036f8a42DA384DDE6ADA79884F8b84b26",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tidal-finance",
+    "market_cap_usd": 2541556,
+    "market_cap_rank": 1415,
+    "24_hr_volume_usd": 345665,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xB41EC2c036f8a42DA384DDE6ADA79884F8b84b26/logo.png"
+}

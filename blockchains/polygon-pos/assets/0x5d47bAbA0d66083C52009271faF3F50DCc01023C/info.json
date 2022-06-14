@@ -1,0 +1,11 @@
+{
+    "name": "Ledgity",
+    "symbol": "anyLTY",
+    "id": "0x5d47bAbA0d66083C52009271faF3F50DCc01023C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apeswap-finance",
+    "market_cap_usd": 10843232,
+    "market_cap_rank": 804,
+    "24_hr_volume_usd": 906543,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x5d47bAbA0d66083C52009271faF3F50DCc01023C/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Nord Token (PoS)",
+    "symbol": "NORD",
+    "id": "0xF6F85b3f9fd581C2eE717c404F7684486F057F95",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nord-finance",
+    "market_cap_usd": 1341473,
+    "market_cap_rank": 1727,
+    "24_hr_volume_usd": 68820,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xF6F85b3f9fd581C2eE717c404F7684486F057F95/logo.png"
+}

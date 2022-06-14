@@ -1,0 +1,10 @@
+{
+    "name": "floyx.com",
+    "symbol": "FLOYX",
+    "id": "0x67db542157b7437Ea1dd02F765f3c9F0a00f8228",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/floyx",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x67db542157b7437Ea1dd02F765f3c9F0a00f8228/logo.png"
+}

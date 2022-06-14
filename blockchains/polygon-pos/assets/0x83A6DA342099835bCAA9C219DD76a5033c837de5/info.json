@@ -1,0 +1,12 @@
+{
+    "name": "BASv2 (PoS)",
+    "symbol": "BASv2",
+    "id": "0x83A6DA342099835bCAA9C219DD76a5033c837de5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/basis-share",
+    "market_cap_usd": 117550,
+    "market_cap_rank": 3060,
+    "24_hr_volume_usd": 451.58,
+    "public_notice": "BAS v1 (0xa7ed29b253d8b4e3109ce07c80fc570f81b63696) is currently undergoing a migration to BAS v2 (0x106538CC16F938776c7c180186975BCA23875287). To migrate to BAS v2, use the Migration Portal: http://migrate.basis.cash. For more information, read https://medium.com/basis-cash/basis-cash-v2-migration-plan-6bdd88198da2",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x83A6DA342099835bCAA9C219DD76a5033c837de5/logo.png"
+}

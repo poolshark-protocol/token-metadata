@@ -1,0 +1,11 @@
+{
+    "name": "yAxis V2",
+    "symbol": "anyYAXIS",
+    "id": "0x64Ee4f41A15D6c431AB6607d4e95462169d50f6C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unvest",
+    "market_cap_usd": 344752,
+    "market_cap_rank": 2507,
+    "24_hr_volume_usd": 134.55,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x64Ee4f41A15D6c431AB6607d4e95462169d50f6C/logo.png"
+}

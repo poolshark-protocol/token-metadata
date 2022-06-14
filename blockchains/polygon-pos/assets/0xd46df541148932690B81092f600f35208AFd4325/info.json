@@ -1,0 +1,11 @@
+{
+    "name": "PRISM Token",
+    "symbol": "PRISM",
+    "id": "0xd46df541148932690B81092f600f35208AFd4325",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/prism-network",
+    "market_cap_usd": 7905.26,
+    "market_cap_rank": 3717,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xd46df541148932690B81092f600f35208AFd4325/logo.png"
+}

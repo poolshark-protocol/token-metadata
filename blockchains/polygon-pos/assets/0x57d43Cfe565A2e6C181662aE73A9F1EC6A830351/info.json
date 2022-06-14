@@ -1,0 +1,10 @@
+{
+    "name": "GourmetFood",
+    "symbol": "GFOOD",
+    "id": "0x57d43Cfe565A2e6C181662aE73A9F1EC6A830351",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ratalert-gourmet-food",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x57d43Cfe565A2e6C181662aE73A9F1EC6A830351/logo.png"
+}

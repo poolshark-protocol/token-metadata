@@ -1,0 +1,11 @@
+{
+    "name": "PlotX",
+    "symbol": "PLOT",
+    "id": "0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/plotx",
+    "market_cap_usd": 3521664,
+    "market_cap_rank": 1232,
+    "24_hr_volume_usd": 325504,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xe82808eaA78339b06a691fd92E1Be79671cAd8D3/logo.png"
+}

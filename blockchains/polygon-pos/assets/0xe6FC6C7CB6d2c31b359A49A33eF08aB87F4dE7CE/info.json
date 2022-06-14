@@ -1,0 +1,12 @@
+{
+    "name": "IG Gold (PoS)",
+    "symbol": "IGG",
+    "id": "0xe6FC6C7CB6d2c31b359A49A33eF08aB87F4dE7CE",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ig-gold",
+    "market_cap_usd": 1227524,
+    "market_cap_rank": 1777,
+    "24_hr_volume_usd": 51154,
+    "public_notice": "IG Gold has migrated from Tron to Ethereum. ",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xe6FC6C7CB6d2c31b359A49A33eF08aB87F4dE7CE/logo.png"
+}

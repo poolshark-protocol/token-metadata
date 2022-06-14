@@ -1,0 +1,11 @@
+{
+    "name": "Vision Token (PoS)",
+    "symbol": "VISION",
+    "id": "0x034b2090b579228482520c589dbD397c53Fc51cC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apy-vision",
+    "market_cap_usd": 645058,
+    "market_cap_rank": 2149,
+    "24_hr_volume_usd": 237.12,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x034b2090b579228482520c589dbD397c53Fc51cC/logo.png"
+}

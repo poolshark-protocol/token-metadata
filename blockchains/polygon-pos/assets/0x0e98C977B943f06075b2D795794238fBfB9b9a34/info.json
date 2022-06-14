@@ -1,0 +1,11 @@
+{
+    "name": "TOMB",
+    "symbol": "TOMB",
+    "id": "0x0e98C977B943f06075b2D795794238fBfB9b9a34",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tomb",
+    "market_cap_usd": 21303652,
+    "market_cap_rank": 597,
+    "24_hr_volume_usd": 1913878,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0e98C977B943f06075b2D795794238fBfB9b9a34/logo.png"
+}

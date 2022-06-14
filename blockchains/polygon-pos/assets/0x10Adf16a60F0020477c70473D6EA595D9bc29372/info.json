@@ -1,0 +1,11 @@
+{
+    "name": "WUMI",
+    "symbol": "WUMI",
+    "id": "0x10Adf16a60F0020477c70473D6EA595D9bc29372",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/umi",
+    "market_cap_usd": 2657.73,
+    "market_cap_rank": 3780,
+    "24_hr_volume_usd": 51875,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x10Adf16a60F0020477c70473D6EA595D9bc29372/logo.png"
+}

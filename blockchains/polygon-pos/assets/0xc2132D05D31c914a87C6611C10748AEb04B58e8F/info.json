@@ -1,0 +1,11 @@
+{
+    "name": "(PoS) Tether USD",
+    "symbol": "USDT",
+    "id": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tether",
+    "market_cap_usd": 71579978176,
+    "market_cap_rank": 3,
+    "24_hr_volume_usd": 90983951607,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
+}

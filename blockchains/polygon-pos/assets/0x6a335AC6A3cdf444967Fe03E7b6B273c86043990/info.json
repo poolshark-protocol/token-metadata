@@ -1,0 +1,11 @@
+{
+    "name": "GhostMarket Token",
+    "symbol": "GM",
+    "id": "0x6a335AC6A3cdf444967Fe03E7b6B273c86043990",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ghostmarket",
+    "market_cap_usd": 601000,
+    "market_cap_rank": 2189,
+    "24_hr_volume_usd": 8753.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x6a335AC6A3cdf444967Fe03E7b6B273c86043990/logo.png"
+}

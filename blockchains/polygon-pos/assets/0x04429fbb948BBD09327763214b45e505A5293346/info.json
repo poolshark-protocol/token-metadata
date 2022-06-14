@@ -1,0 +1,11 @@
+{
+    "name": "Allbridge",
+    "symbol": "ABR",
+    "id": "0x04429fbb948BBD09327763214b45e505A5293346",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/allbridge",
+    "market_cap_usd": 3708630,
+    "market_cap_rank": 1209,
+    "24_hr_volume_usd": 14255.56,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x04429fbb948BBD09327763214b45e505A5293346/logo.png"
+}

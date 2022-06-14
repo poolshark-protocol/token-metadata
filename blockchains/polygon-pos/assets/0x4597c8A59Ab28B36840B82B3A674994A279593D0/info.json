@@ -1,0 +1,11 @@
+{
+    "name": "Circuits of Value V2",
+    "symbol": "COVAL",
+    "id": "0x4597c8A59Ab28B36840B82B3A674994A279593D0",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/circuits-of-value",
+    "market_cap_usd": 21728994,
+    "market_cap_rank": 589,
+    "24_hr_volume_usd": 457626,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4597c8A59Ab28B36840B82B3A674994A279593D0/logo.png"
+}

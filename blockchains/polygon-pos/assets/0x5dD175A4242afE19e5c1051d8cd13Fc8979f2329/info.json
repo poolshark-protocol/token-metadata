@@ -1,0 +1,11 @@
+{
+    "name": "REVERSE",
+    "symbol": "RVRS",
+    "id": "0x5dD175A4242afE19e5c1051d8cd13Fc8979f2329",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/reverse",
+    "market_cap_usd": 197723,
+    "market_cap_rank": 2811,
+    "24_hr_volume_usd": 1345.29,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x5dD175A4242afE19e5c1051d8cd13Fc8979f2329/logo.png"
+}

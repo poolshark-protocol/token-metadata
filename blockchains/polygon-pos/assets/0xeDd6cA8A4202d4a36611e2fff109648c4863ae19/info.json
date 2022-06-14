@@ -1,0 +1,11 @@
+{
+    "name": "MahaDAO (PoS)",
+    "symbol": "MAHA",
+    "id": "0xeDd6cA8A4202d4a36611e2fff109648c4863ae19",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mahadao",
+    "market_cap_usd": 3888556,
+    "market_cap_rank": 1183,
+    "24_hr_volume_usd": 294326,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xeDd6cA8A4202d4a36611e2fff109648c4863ae19/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "PickleToken (PoS)",
+    "symbol": "PICKLE",
+    "id": "0x2b88aD57897A8b496595925F43048301C37615Da",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pickle-finance",
+    "market_cap_usd": 886017,
+    "market_cap_rank": 1954,
+    "24_hr_volume_usd": 130049,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2b88aD57897A8b496595925F43048301C37615Da/logo.png"
+}

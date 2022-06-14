@@ -1,0 +1,11 @@
+{
+    "name": "Tutellus token",
+    "symbol": "TUT",
+    "id": "0x12a34A6759c871C4C1E8A0A42CFc97e4D7Aaf68d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tutellus",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 32896,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x12a34A6759c871C4C1E8A0A42CFc97e4D7Aaf68d/logo.png"
+}

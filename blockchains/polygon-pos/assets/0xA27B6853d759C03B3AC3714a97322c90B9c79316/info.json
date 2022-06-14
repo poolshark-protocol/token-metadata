@@ -1,0 +1,11 @@
+{
+    "name": "Malt Stablecoin (V2)",
+    "symbol": "MALT",
+    "id": "0xA27B6853d759C03B3AC3714a97322c90B9c79316",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/malt-stablecoin-v2",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 182425,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xA27B6853d759C03B3AC3714a97322c90B9c79316/logo.png"
+}

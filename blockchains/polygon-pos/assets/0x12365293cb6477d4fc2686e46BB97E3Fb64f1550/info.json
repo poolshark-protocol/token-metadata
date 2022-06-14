@@ -1,0 +1,12 @@
+{
+    "name": "Coinage",
+    "symbol": "anyCAGE",
+    "id": "0x12365293cb6477d4fc2686e46BB97E3Fb64f1550",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/citizen-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2228.2,
+    "public_notice": "Citizen Finance has migrated from the <a href=\"https://bscscan.com/token/0x89f2a5463ef4e4176e57eef2b2fdd256bf4bc2bd\">old contract</a> to a <a href=\"https://bscscan.com/token/0x4DCd4700B38ce6562730c27Da557F6de819b347B\">new one</a>. Read more at their <a href=\"https://citizen-finance.medium.com/citizen-finance-token-migration-and-products-upgrade-576827f9b5ac\">Medium</a>. The smart-contract owner can also mint new tokens, please proceed with caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x12365293cb6477d4fc2686e46BB97E3Fb64f1550/logo.png"
+}

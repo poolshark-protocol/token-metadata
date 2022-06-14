@@ -1,0 +1,11 @@
+{
+    "name": "PureFi Token (PoS)",
+    "symbol": "UFI",
+    "id": "0x3c205C8B3e02421Da82064646788c82f7bd753B9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/purefi",
+    "market_cap_usd": 502906,
+    "market_cap_rank": 2298,
+    "24_hr_volume_usd": 37865,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3c205C8B3e02421Da82064646788c82f7bd753B9/logo.png"
+}

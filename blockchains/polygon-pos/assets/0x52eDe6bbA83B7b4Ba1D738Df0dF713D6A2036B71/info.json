@@ -1,0 +1,11 @@
+{
+    "name": "0xMonero (PoS)",
+    "symbol": "0xMR",
+    "id": "0x52eDe6bbA83B7b4Ba1D738Df0dF713D6A2036B71",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/0xmonero",
+    "market_cap_usd": 106435,
+    "market_cap_rank": 3113,
+    "24_hr_volume_usd": 263.51,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x52eDe6bbA83B7b4Ba1D738Df0dF713D6A2036B71/logo.png"
+}

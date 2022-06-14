@@ -1,0 +1,12 @@
+{
+    "name": "JustMoney",
+    "symbol": "JM",
+    "id": "0x388D819724dD6d71760A38F00dc01D310d879771",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/justmoney-2",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 71.99,
+    "public_notice": "JustMoney has recently migrated from their <a href=\"https://tronscan.org/#/token20/TT8VkSkW6igkiRsV5WiJgLrsbVwY5bLLjA\">old contract</a> to a <a href=\"https://tronscan.org/#/token20/TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR\">new one</a>. Visit this <a href=\"https://justmoneyio.medium.com/justmoney-a-new-paradigm-302ccce5b84e\">post</a> for more information and visit the old token page <a href=\"https://www.coingecko.com/en/coins/justmoney-old\">here.</a><br>The smart-contract owner can mint new tokens, please proceed with caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x388D819724dD6d71760A38F00dc01D310d879771/logo.png"
+}

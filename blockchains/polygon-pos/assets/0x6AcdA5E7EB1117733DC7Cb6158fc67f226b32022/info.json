@@ -1,0 +1,11 @@
+{
+    "name": "ZROToken",
+    "symbol": "ZRO",
+    "id": "0x6AcdA5E7EB1117733DC7Cb6158fc67f226b32022",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zro",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 190.6,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x6AcdA5E7EB1117733DC7Cb6158fc67f226b32022/logo.png"
+}

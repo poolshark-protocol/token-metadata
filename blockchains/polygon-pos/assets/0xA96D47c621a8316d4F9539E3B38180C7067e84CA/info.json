@@ -1,0 +1,12 @@
+{
+    "name": "AurusPLATINUM",
+    "symbol": "AWP",
+    "id": "0xA96D47c621a8316d4F9539E3B38180C7067e84CA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aurus-silver",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "public_notice": "AurusSILVER (AWS) has recently migrated from their <a href=\"https://polygonscan.com/token/0x24aD14A4f0BB79a9dcf201514CB0E651C79DB76B\">old contract</a> to a <a href=\"https://polygonscan.com/token/0xa96d47c621a8316d4f9539e3b38180c7067e84ca\">new contract on Polygon</a>. For more information, please view this <a href=\"https://twitter.com/AurusOfficial/status/1516418974023667714\">announcement</a> on Twitter. ",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xA96D47c621a8316d4F9539E3B38180C7067e84CA/logo.png"
+}

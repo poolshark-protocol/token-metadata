@@ -1,0 +1,11 @@
+{
+    "name": "MIMO Parallel Governance Token (PoS)",
+    "symbol": "MIMO",
+    "id": "0xADAC33f543267c4D59a8c299cF804c303BC3e4aC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mimo-parallel-governance-token",
+    "market_cap_usd": 9660784,
+    "market_cap_rank": 839,
+    "24_hr_volume_usd": 133453,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xADAC33f543267c4D59a8c299cF804c303BC3e4aC/logo.png"
+}

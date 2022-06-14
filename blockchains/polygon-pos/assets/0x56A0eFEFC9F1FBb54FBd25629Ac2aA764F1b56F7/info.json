@@ -1,0 +1,11 @@
+{
+    "name": "AurusDeFi",
+    "symbol": "AWX",
+    "id": "0x56A0eFEFC9F1FBb54FBd25629Ac2aA764F1b56F7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/auruscoin",
+    "market_cap_usd": 3124188,
+    "market_cap_rank": 1298,
+    "24_hr_volume_usd": 472.4,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x56A0eFEFC9F1FBb54FBd25629Ac2aA764F1b56F7/logo.png"
+}

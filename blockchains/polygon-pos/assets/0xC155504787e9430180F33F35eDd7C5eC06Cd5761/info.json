@@ -1,0 +1,11 @@
+{
+    "name": "Apreum",
+    "symbol": "APU",
+    "id": "0xC155504787e9430180F33F35eDd7C5eC06Cd5761",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apreum",
+    "market_cap_usd": 2264173,
+    "market_cap_rank": 1470,
+    "24_hr_volume_usd": 153.02,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xC155504787e9430180F33F35eDd7C5eC06Cd5761/logo.png"
+}

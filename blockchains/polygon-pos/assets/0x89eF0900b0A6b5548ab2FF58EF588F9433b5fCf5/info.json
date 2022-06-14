@@ -1,0 +1,11 @@
+{
+    "name": "Carbon (PoS)",
+    "symbol": "CRBN",
+    "id": "0x89eF0900b0A6b5548ab2FF58EF588F9433b5fCf5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/carbon",
+    "market_cap_usd": 493233,
+    "market_cap_rank": 2318,
+    "24_hr_volume_usd": 5393.35,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x89eF0900b0A6b5548ab2FF58EF588F9433b5fCf5/logo.png"
+}

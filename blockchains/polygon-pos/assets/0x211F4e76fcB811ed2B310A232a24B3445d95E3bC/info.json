@@ -1,0 +1,12 @@
+{
+    "name": "MatrixSwapToken (PoS)",
+    "symbol": "MATRIX",
+    "id": "0x211F4e76fcB811ed2B310A232a24B3445d95E3bC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/matrixswap",
+    "market_cap_usd": 119618,
+    "market_cap_rank": 3049,
+    "24_hr_volume_usd": 5108.57,
+    "public_notice": "Matrixswap (MATRIX) has recently rebranded to Matrix Labs (MATRIX). For more information, please visit this <a href=\"https://twitter.com/matrixswap/status/1486323068977160193\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x211F4e76fcB811ed2B310A232a24B3445d95E3bC/logo.png"
+}

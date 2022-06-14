@@ -1,0 +1,11 @@
+{
+    "name": "Kirobo (PoS)",
+    "symbol": "KIRO",
+    "id": "0xB382C1cfA622795a534e5bd56Fac93d59BAc8B0D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kirobo",
+    "market_cap_usd": 119964465,
+    "market_cap_rank": 208,
+    "24_hr_volume_usd": 11725.89,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xB382C1cfA622795a534e5bd56Fac93d59BAc8B0D/logo.png"
+}

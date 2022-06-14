@@ -1,0 +1,11 @@
+{
+    "name": "DATA Economy Index (PoS)",
+    "symbol": "DATA",
+    "id": "0x1D607Faa0A51518a7728580C238d912747e71F7a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/data-economy-index",
+    "market_cap_usd": 469716,
+    "market_cap_rank": 2340,
+    "24_hr_volume_usd": 32524,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x1D607Faa0A51518a7728580C238d912747e71F7a/logo.png"
+}

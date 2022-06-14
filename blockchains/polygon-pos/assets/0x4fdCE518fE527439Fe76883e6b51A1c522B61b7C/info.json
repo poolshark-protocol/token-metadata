@@ -1,0 +1,11 @@
+{
+    "name": "Coreto (PoS)",
+    "symbol": "COR",
+    "id": "0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coreto",
+    "market_cap_usd": 369860,
+    "market_cap_rank": 2474,
+    "24_hr_volume_usd": 33400,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C/logo.png"
+}

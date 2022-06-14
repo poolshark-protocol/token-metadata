@@ -1,0 +1,11 @@
+{
+    "name": "BTC 2x Flexible Leverage Index",
+    "symbol": "BTC2x-FLI-P",
+    "id": "0xd6cA869a4EC9eD2C7E618062Cdc45306d8dBBc14",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/btc-2x-flexible-leverage-index-polygon",
+    "market_cap_usd": 50434,
+    "market_cap_rank": 3382,
+    "24_hr_volume_usd": 376.43,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xd6cA869a4EC9eD2C7E618062Cdc45306d8dBBc14/logo.png"
+}

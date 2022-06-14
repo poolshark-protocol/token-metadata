@@ -1,0 +1,11 @@
+{
+    "name": "CyberFi Token (PoS)",
+    "symbol": "CFi",
+    "id": "0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cyberfi",
+    "market_cap_usd": 641857,
+    "market_cap_rank": 2150,
+    "24_hr_volume_usd": 14519.49,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e/logo.png"
+}

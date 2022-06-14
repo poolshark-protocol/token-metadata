@@ -1,0 +1,11 @@
+{
+    "name": "ecoCREDIT",
+    "symbol": "ECO",
+    "id": "0x21FDB8e43d84420AfbD6351D645F50c9138DAae0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ecocredit",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7.59,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x21FDB8e43d84420AfbD6351D645F50c9138DAae0/logo.png"
+}

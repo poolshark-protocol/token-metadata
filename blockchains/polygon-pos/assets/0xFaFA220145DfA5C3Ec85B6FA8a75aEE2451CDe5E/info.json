@@ -1,0 +1,11 @@
+{
+    "name": "Binance USD",
+    "symbol": "anyBUSD",
+    "id": "0xFaFA220145DfA5C3Ec85B6FA8a75aEE2451CDe5E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/roobee",
+    "market_cap_usd": 1720949,
+    "market_cap_rank": 1605,
+    "24_hr_volume_usd": 573152,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xFaFA220145DfA5C3Ec85B6FA8a75aEE2451CDe5E/logo.png"
+}

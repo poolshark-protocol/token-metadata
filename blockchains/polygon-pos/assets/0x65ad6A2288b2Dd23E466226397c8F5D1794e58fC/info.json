@@ -1,0 +1,11 @@
+{
+    "name": "GamyFi",
+    "symbol": "GFX",
+    "id": "0x65ad6A2288b2Dd23E466226397c8F5D1794e58fC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gamyfi-token",
+    "market_cap_usd": 256029,
+    "market_cap_rank": 2670,
+    "24_hr_volume_usd": 38025,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x65ad6A2288b2Dd23E466226397c8F5D1794e58fC/logo.png"
+}

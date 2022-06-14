@@ -1,0 +1,11 @@
+{
+    "name": "ToolApe",
+    "symbol": "TAPE",
+    "id": "0xf98f70C265093A3B3ADbef84ddc29EaCE900685b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/toolape",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xf98f70C265093A3B3ADbef84ddc29EaCE900685b/logo.png"
+}

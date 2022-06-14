@@ -1,0 +1,11 @@
+{
+    "name": "Affyn",
+    "symbol": "FYN",
+    "id": "0x3B56a704C01D650147ADE2b8cEE594066b3F9421",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/affyn",
+    "market_cap_usd": 6039078,
+    "market_cap_rank": 994,
+    "24_hr_volume_usd": 308040,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3B56a704C01D650147ADE2b8cEE594066b3F9421/logo.png"
+}

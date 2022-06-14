@@ -1,0 +1,11 @@
+{
+    "name": "Gains V2",
+    "symbol": "GFARM2",
+    "id": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gains-farm",
+    "market_cap_usd": 24169585,
+    "market_cap_rank": 557,
+    "24_hr_volume_usd": 37430,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x7075cAB6bCCA06613e2d071bd918D1a0241379E2/logo.png"
+}

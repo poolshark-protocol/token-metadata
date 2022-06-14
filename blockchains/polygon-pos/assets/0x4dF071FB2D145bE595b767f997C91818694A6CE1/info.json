@@ -1,0 +1,11 @@
+{
+    "name": "MerchDAO (PoS)",
+    "symbol": "MRCH",
+    "id": "0x4dF071FB2D145bE595b767f997C91818694A6CE1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/merchdao",
+    "market_cap_usd": 95782,
+    "market_cap_rank": 3162,
+    "24_hr_volume_usd": 480.03,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4dF071FB2D145bE595b767f997C91818694A6CE1/logo.png"
+}

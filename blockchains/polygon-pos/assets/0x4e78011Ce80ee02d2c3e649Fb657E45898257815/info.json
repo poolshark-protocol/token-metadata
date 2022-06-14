@@ -1,0 +1,11 @@
+{
+    "name": "Klima DAO",
+    "symbol": "KLIMA",
+    "id": "0x4e78011Ce80ee02d2c3e649Fb657E45898257815",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/klima-dao",
+    "market_cap_usd": 24078367,
+    "market_cap_rank": 561,
+    "24_hr_volume_usd": 143627,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4e78011Ce80ee02d2c3e649Fb657E45898257815/logo.png"
+}

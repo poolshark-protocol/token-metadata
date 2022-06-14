@@ -1,0 +1,11 @@
+{
+    "name": "MATICPAD",
+    "symbol": "MATPAD",
+    "id": "0x3BfcE6D6F0d3D3f1326d86abdbe2845b4740Dc2E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/maticpad",
+    "market_cap_usd": 1628.64,
+    "market_cap_rank": 3798,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3BfcE6D6F0d3D3f1326d86abdbe2845b4740Dc2E/logo.png"
+}

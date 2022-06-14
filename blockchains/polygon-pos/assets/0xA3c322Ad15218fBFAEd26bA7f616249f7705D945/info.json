@@ -1,0 +1,11 @@
+{
+    "name": "Metaverse (PoS)",
+    "symbol": "MV",
+    "id": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gensokishis-metaverse",
+    "market_cap_usd": 87636115,
+    "market_cap_rank": 257,
+    "24_hr_volume_usd": 1306478,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xA3c322Ad15218fBFAEd26bA7f616249f7705D945/logo.png"
+}

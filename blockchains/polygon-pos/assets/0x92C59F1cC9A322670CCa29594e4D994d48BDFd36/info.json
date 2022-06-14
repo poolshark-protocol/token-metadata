@@ -1,0 +1,11 @@
+{
+    "name": "PhoenixDAO (PoS)",
+    "symbol": "PHNX",
+    "id": "0x92C59F1cC9A322670CCa29594e4D994d48BDFd36",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/phoenixdao",
+    "market_cap_usd": 332498,
+    "market_cap_rank": 2536,
+    "24_hr_volume_usd": 21280,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x92C59F1cC9A322670CCa29594e4D994d48BDFd36/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Polyroll Token",
+    "symbol": "ROLL",
+    "id": "0xC68e83a305b0FaD69E264A1769a0A070F190D2d6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polyroll",
+    "market_cap_usd": 3731.95,
+    "market_cap_rank": 3765,
+    "24_hr_volume_usd": 2.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xC68e83a305b0FaD69E264A1769a0A070F190D2d6/logo.png"
+}

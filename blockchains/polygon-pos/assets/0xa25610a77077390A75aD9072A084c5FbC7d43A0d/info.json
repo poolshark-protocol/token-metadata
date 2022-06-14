@@ -1,0 +1,11 @@
+{
+    "name": "Monsoon Finance",
+    "symbol": "MCASH",
+    "id": "0xa25610a77077390A75aD9072A084c5FbC7d43A0d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/monsoon-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 7008.35,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xa25610a77077390A75aD9072A084c5FbC7d43A0d/logo.png"
+}

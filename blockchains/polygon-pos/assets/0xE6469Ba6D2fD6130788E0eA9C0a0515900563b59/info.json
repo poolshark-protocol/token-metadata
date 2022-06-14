@@ -1,0 +1,11 @@
+{
+    "name": "UST (Wormhole)",
+    "symbol": "UST",
+    "id": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/terrausd-wormhole",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 95244,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "C3 Token",
+    "symbol": "C3",
+    "id": "0xad01DFfe604CDc172D8237566eE3a3ab6524d4C6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/c3",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xad01DFfe604CDc172D8237566eE3a3ab6524d4C6/logo.png"
+}

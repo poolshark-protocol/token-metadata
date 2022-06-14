@@ -1,0 +1,12 @@
+{
+    "name": "Sekuritance (PoS)",
+    "symbol": "SKRT",
+    "id": "0xE51E88dD08499762B8e4EB3a9f3Da9b8e79608c3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sekuritance",
+    "market_cap_usd": 949324,
+    "market_cap_rank": 1908,
+    "24_hr_volume_usd": 23735,
+    "public_notice": "Sekuritance has recently expanded to Polygon, For more info, read <a href=\"https://sekuritance.medium.com/skrt-is-now-also-live-on-polygon-matic-afcfe77a06c1\">here</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xE51E88dD08499762B8e4EB3a9f3Da9b8e79608c3/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Cryption Network Token",
+    "symbol": "CNT",
+    "id": "0xD1e6354fb05bF72A8909266203dAb80947dcEccF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cryption-network",
+    "market_cap_usd": 56485,
+    "market_cap_rank": 3343,
+    "24_hr_volume_usd": 1819.31,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xD1e6354fb05bF72A8909266203dAb80947dcEccF/logo.png"
+}

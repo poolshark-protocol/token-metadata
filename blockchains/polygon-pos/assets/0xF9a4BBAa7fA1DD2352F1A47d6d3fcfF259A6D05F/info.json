@@ -1,0 +1,11 @@
+{
+    "name": "Lepasa (PoS)",
+    "symbol": "LEPA",
+    "id": "0xF9a4BBAa7fA1DD2352F1A47d6d3fcfF259A6D05F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lepasa",
+    "market_cap_usd": 349996,
+    "market_cap_rank": 2498,
+    "24_hr_volume_usd": 20404,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xF9a4BBAa7fA1DD2352F1A47d6d3fcfF259A6D05F/logo.png"
+}

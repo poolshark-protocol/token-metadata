@@ -1,0 +1,12 @@
+{
+    "name": "Kenshi",
+    "symbol": "KENSHI",
+    "id": "0x164caf66c45e483F7eE647CcaD275B35B4C75719",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kenshi",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 570.43,
+    "public_notice": "Kenshi has recently migrated from their <a href=\"https://bscscan.com/token/0x8AdA51404F297bF2603912d1606340223c0a7784\">old contract</a> to a <a href=\"https://bscscan.com/token/0x42f9c5a27a2647a64f7D3d58d8f896C60a727b0f\">new one</a>. For more information, please visit this <a href=\"https://twitter.com/kenshi_token/status/1523403217023172608\">post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x164caf66c45e483F7eE647CcaD275B35B4C75719/logo.png"
+}

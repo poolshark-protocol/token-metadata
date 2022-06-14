@@ -1,0 +1,11 @@
+{
+    "name": "WIVA (PoS)",
+    "symbol": "WIVA",
+    "id": "0x784641e51C300120A8D15bFDb3b45375D4352748",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wiva",
+    "market_cap_usd": 1143565,
+    "market_cap_rank": 1813,
+    "24_hr_volume_usd": 629.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x784641e51C300120A8D15bFDb3b45375D4352748/logo.png"
+}

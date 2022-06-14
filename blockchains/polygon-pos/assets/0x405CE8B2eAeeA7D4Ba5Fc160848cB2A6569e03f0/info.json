@@ -1,0 +1,11 @@
+{
+    "name": "Metria",
+    "symbol": "METR",
+    "id": "0x405CE8B2eAeeA7D4Ba5Fc160848cB2A6569e03f0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metria",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5840.96,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x405CE8B2eAeeA7D4Ba5Fc160848cB2A6569e03f0/logo.png"
+}

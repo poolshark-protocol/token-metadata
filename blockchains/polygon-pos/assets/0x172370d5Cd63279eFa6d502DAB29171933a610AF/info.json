@@ -1,0 +1,11 @@
+{
+    "name": "CRV (PoS)",
+    "symbol": "CRV",
+    "id": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/curve-dao-token",
+    "market_cap_usd": 275470855,
+    "market_cap_rank": 121,
+    "24_hr_volume_usd": 129228463,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
+}

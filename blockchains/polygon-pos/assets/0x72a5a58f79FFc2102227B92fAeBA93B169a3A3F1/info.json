@@ -1,0 +1,11 @@
+{
+    "name": "finance.vote Token",
+    "symbol": "FVT",
+    "id": "0x72a5a58f79FFc2102227B92fAeBA93B169a3A3F1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/finance-vote",
+    "market_cap_usd": 301779,
+    "market_cap_rank": 2573,
+    "24_hr_volume_usd": 1823.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x72a5a58f79FFc2102227B92fAeBA93B169a3A3F1/logo.png"
+}

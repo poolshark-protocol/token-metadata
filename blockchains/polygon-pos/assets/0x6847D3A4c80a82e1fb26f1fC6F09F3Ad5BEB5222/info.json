@@ -1,0 +1,10 @@
+{
+    "name": "Code4rena",
+    "symbol": "ARENA",
+    "id": "0x6847D3A4c80a82e1fb26f1fC6F09F3Ad5BEB5222",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/code4rena",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x6847D3A4c80a82e1fb26f1fC6F09F3Ad5BEB5222/logo.png"
+}

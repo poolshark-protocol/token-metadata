@@ -1,0 +1,12 @@
+{
+    "name": "Holyheld (PoS)",
+    "symbol": "HH",
+    "id": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/holyheld-2",
+    "market_cap_usd": 1294474,
+    "market_cap_rank": 1748,
+    "24_hr_volume_usd": 2681.76,
+    "public_notice": "HolyHeld(HH) has migrated to Mover(MOVE). https://viamover.com/news_and_promos/holyheld_is_moving",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC/logo.png"
+}

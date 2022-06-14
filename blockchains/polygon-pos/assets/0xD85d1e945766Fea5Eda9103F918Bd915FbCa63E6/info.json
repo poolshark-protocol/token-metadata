@@ -1,0 +1,12 @@
+{
+    "name": "Celsius (PoS)",
+    "symbol": "CEL",
+    "id": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
+    "decimals": 4,
+    "coingecko_url": "https://www.coingecko.com/en/coins/celsius-degree-token",
+    "market_cap_usd": 137185886,
+    "market_cap_rank": 193,
+    "24_hr_volume_usd": 24756711,
+    "public_notice": "13th June 2022: Celsius is pausing all withdrawals, swaps, and transfers between accounts on its platform to address current market volatility. For more information, please visit https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Aave Matic Market WMATIC",
+    "symbol": "amWMATIC",
+    "id": "0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-polygon-wmatic",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.6334,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4/logo.png"
+}

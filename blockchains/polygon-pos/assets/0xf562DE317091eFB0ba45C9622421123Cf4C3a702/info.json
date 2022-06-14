@@ -1,0 +1,11 @@
+{
+    "name": "POP TOKEN",
+    "symbol": "POP",
+    "id": "0xf562DE317091eFB0ba45C9622421123Cf4C3a702",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/popop-world",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10580.55,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xf562DE317091eFB0ba45C9622421123Cf4C3a702/logo.png"
+}

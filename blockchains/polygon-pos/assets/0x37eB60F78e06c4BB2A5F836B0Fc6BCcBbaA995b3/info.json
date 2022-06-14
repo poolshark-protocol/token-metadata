@@ -1,0 +1,12 @@
+{
+    "name": "Hanzo",
+    "symbol": "HANZO",
+    "id": "0x37eB60F78e06c4BB2A5F836B0Fc6BCcBbaA995b3",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hanzo-inu",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 28.77,
+    "public_notice": "Hanzo Inu has recently rebranded to Hanzo and migrated to a <a href=\"https://polygonscan.com/token/0x37eb60f78e06c4bb2a5f836b0fc6bccbbaa995b3\">new contract</a>. For more information, kindly visit this <a href=\"https://twitter.com/hanzo/status/1489289082786177029?s=21\">announcement</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x37eB60F78e06c4BB2A5F836B0Fc6BCcBbaA995b3/logo.png"
+}

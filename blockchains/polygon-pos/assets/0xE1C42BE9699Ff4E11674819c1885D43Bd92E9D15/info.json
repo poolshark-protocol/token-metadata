@@ -1,0 +1,11 @@
+{
+    "name": "Torum (PoS)",
+    "symbol": "XTM",
+    "id": "0xE1C42BE9699Ff4E11674819c1885D43Bd92E9D15",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/torum",
+    "market_cap_usd": 3048152,
+    "market_cap_rank": 1305,
+    "24_hr_volume_usd": 373288,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xE1C42BE9699Ff4E11674819c1885D43Bd92E9D15/logo.png"
+}

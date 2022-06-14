@@ -1,0 +1,11 @@
+{
+    "name": "GAME Credits",
+    "symbol": "GAME",
+    "id": "0x8d1566569d5b695d44a9a234540f68D393cDC40D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gamecredits",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 89630,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x8d1566569d5b695d44a9a234540f68D393cDC40D/logo.png"
+}

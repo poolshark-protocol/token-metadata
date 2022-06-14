@@ -1,0 +1,11 @@
+{
+    "name": "AGRO-MATIC",
+    "symbol": "AMT",
+    "id": "0xedBe70ef62b74730215728eD6B3F1f8705E3c58B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/agro-matic",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 340.63,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xedBe70ef62b74730215728eD6B3F1f8705E3c58B/logo.png"
+}

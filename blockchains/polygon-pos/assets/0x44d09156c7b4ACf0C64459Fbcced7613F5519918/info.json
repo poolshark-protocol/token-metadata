@@ -1,0 +1,11 @@
+{
+    "name": "$KMC",
+    "symbol": "$KMC",
+    "id": "0x44d09156c7b4ACf0C64459Fbcced7613F5519918",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kitsumon",
+    "market_cap_usd": 938753,
+    "market_cap_rank": 1912,
+    "24_hr_volume_usd": 22534,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x44d09156c7b4ACf0C64459Fbcced7613F5519918/logo.png"
+}

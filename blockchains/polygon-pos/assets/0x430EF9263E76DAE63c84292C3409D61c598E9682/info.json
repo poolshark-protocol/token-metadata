@@ -1,0 +1,12 @@
+{
+    "name": "PYR Token",
+    "symbol": "PYR",
+    "id": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vulcan-forged",
+    "market_cap_usd": 87358851,
+    "market_cap_rank": 257,
+    "24_hr_volume_usd": 34059763,
+    "public_notice": "Vulcan Forged has been redeployed on\u00a0<a href=\"https://etherscan.io/token/0x430ef9263e76dae63c84292c3409d61c598e9682\">Ethereum</a> and\u00a0<a href=\"https://polygonscan.com/token/0x430EF9263E76DAE63c84292C3409D61c598E9682\">Polygon</a>. Find out more in their official <a href=\"https://twitter.com/VulcanForged/status/1474010140810653699?s=20\">announcement</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x430EF9263E76DAE63c84292C3409D61c598E9682/logo.png"
+}

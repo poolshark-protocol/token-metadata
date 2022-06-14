@@ -1,0 +1,11 @@
+{
+    "name": "CelsiusX Wrapped ETH",
+    "symbol": "cxETH",
+    "id": "0xfe4546feFe124F30788c4Cc1BB9AA6907A7987F9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/celsiusx-wrapped-eth",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 363470,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xfe4546feFe124F30788c4Cc1BB9AA6907A7987F9/logo.png"
+}

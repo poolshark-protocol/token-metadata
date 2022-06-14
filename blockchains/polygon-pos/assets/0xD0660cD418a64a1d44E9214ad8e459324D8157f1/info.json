@@ -1,0 +1,11 @@
+{
+    "name": "Woofy",
+    "symbol": "WOOFY",
+    "id": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
+    "decimals": 12,
+    "coingecko_url": "https://www.coingecko.com/en/coins/woofy",
+    "market_cap_usd": 2210195,
+    "market_cap_rank": 1486,
+    "24_hr_volume_usd": 175.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xD0660cD418a64a1d44E9214ad8e459324D8157f1/logo.png"
+}

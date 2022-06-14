@@ -1,0 +1,11 @@
+{
+    "name": "Centaur Token (PoS)",
+    "symbol": "CNTR",
+    "id": "0xdae89dA41a96956e9e70320Ac9c0dd077070D3a5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/centaur",
+    "market_cap_usd": 288850,
+    "market_cap_rank": 2604,
+    "24_hr_volume_usd": 136.18,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xdae89dA41a96956e9e70320Ac9c0dd077070D3a5/logo.png"
+}

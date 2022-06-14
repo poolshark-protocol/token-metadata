@@ -1,0 +1,11 @@
+{
+    "name": "FOOTIE+ V2\ufe0f",
+    "symbol": "FOOTIE",
+    "id": "0x47cAc8a868e301aFb89B52AC31665858938E96b5",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/footie-plus",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x47cAc8a868e301aFb89B52AC31665858938E96b5/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Carbonic Share",
+    "symbol": "SCO2",
+    "id": "0xc54884870F7A9c9fFb3541462e192D5eb1BBBB8C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/carbonic-shares",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8100.9,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xc54884870F7A9c9fFb3541462e192D5eb1BBBB8C/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Time Token",
+    "symbol": "TIME",
+    "id": "0x5c59D7Cb794471a9633391c4927ADe06B8787a90",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/timeleap-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.154341,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x5c59D7Cb794471a9633391c4927ADe06B8787a90/logo.png"
+}

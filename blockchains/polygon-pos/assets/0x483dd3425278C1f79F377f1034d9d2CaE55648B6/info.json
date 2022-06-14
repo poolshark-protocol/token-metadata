@@ -1,0 +1,11 @@
+{
+    "name": "CrowdToken",
+    "symbol": "CROWD",
+    "id": "0x483dd3425278C1f79F377f1034d9d2CaE55648B6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crowdswap",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 8961.17,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x483dd3425278C1f79F377f1034d9d2CaE55648B6/logo.png"
+}

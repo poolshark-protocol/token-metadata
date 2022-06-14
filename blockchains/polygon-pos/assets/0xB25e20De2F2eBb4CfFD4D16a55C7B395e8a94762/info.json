@@ -1,0 +1,11 @@
+{
+    "name": "Forward",
+    "symbol": "any$FORWARD",
+    "id": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/request-network",
+    "market_cap_usd": 70578837,
+    "market_cap_rank": 304,
+    "24_hr_volume_usd": 11168380,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762/logo.png"
+}

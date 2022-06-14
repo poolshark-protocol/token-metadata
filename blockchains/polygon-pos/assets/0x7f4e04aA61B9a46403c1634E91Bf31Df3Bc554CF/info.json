@@ -1,0 +1,11 @@
+{
+    "name": "WSBT",
+    "symbol": "WSBT",
+    "id": "0x7f4e04aA61B9a46403c1634E91Bf31Df3Bc554CF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wsb-sh",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 412.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x7f4e04aA61B9a46403c1634E91Bf31Df3Bc554CF/logo.png"
+}

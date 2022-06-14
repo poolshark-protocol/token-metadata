@@ -1,0 +1,11 @@
+{
+    "name": "Pear Token",
+    "symbol": "PEAR",
+    "id": "0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pear",
+    "market_cap_usd": 4845.4,
+    "market_cap_rank": 3753,
+    "24_hr_volume_usd": 16.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xc8bcb58caEf1bE972C0B638B1dD8B0748Fdc8A44/logo.png"
+}

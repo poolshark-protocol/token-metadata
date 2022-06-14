@@ -1,0 +1,12 @@
+{
+    "name": "CyberFM Radio",
+    "symbol": "CYFM",
+    "id": "0xDa5949544aAf6124D06F398BFdE4C86Cc33B0Ee7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cyberfm",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 53.72,
+    "public_notice": "Note: Price displayed for CYFM represents an aggregated average across CYFM trading pairs available across ETH, BSC and TRON networks. For more information. please refer to the team at https://t.me/mftudotnet",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xDa5949544aAf6124D06F398BFdE4C86Cc33B0Ee7/logo.png"
+}

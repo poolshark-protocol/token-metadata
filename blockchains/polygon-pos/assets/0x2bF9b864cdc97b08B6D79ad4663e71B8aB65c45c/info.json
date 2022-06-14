@@ -1,0 +1,11 @@
+{
+    "name": "Fusion",
+    "symbol": "FSN",
+    "id": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fsn",
+    "market_cap_usd": 18491628,
+    "market_cap_rank": 641,
+    "24_hr_volume_usd": 115678,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c/logo.png"
+}

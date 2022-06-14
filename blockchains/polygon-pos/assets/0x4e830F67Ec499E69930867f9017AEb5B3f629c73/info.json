@@ -1,0 +1,11 @@
+{
+    "name": "OddzToken",
+    "symbol": "ODDZ",
+    "id": "0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/oddz",
+    "market_cap_usd": 2049937,
+    "market_cap_rank": 1518,
+    "24_hr_volume_usd": 311997,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4e830F67Ec499E69930867f9017AEb5B3f629c73/logo.png"
+}

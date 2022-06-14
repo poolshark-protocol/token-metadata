@@ -1,0 +1,11 @@
+{
+    "name": "Impermax (PoS)",
+    "symbol": "IMX",
+    "id": "0x60bB3D364B765C497C8cE50AE0Ae3f0882c5bD05",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/impermax",
+    "market_cap_usd": 1413041,
+    "market_cap_rank": 1699,
+    "24_hr_volume_usd": 11810.02,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x60bB3D364B765C497C8cE50AE0Ae3f0882c5bD05/logo.png"
+}

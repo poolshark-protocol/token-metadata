@@ -1,0 +1,11 @@
+{
+    "name": "Rebel Bots Token",
+    "symbol": "RBLS",
+    "id": "0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rebel-bots",
+    "market_cap_usd": 5412315,
+    "market_cap_rank": 1037,
+    "24_hr_volume_usd": 32752,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB/logo.png"
+}

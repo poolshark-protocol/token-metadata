@@ -1,0 +1,11 @@
+{
+    "name": "My\u014dbu",
+    "symbol": "anyMYOBU",
+    "id": "0x34f380a4e3389e99C0369264453523Bbe5aF7faB",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kangal",
+    "market_cap_usd": 265180,
+    "market_cap_rank": 2659,
+    "24_hr_volume_usd": 355.37,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x34f380a4e3389e99C0369264453523Bbe5aF7faB/logo.png"
+}

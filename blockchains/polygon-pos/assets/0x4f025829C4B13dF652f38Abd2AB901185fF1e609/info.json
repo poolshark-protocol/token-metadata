@@ -1,0 +1,11 @@
+{
+    "name": "Inverse ETH Flexible Leverage Index",
+    "symbol": "iETH-FLI-P",
+    "id": "0x4f025829C4B13dF652f38Abd2AB901185fF1e609",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/index-coop-inverse-eth-flexible-leverage-index",
+    "market_cap_usd": 12805.37,
+    "market_cap_rank": 3662,
+    "24_hr_volume_usd": 0.253446,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4f025829C4B13dF652f38Abd2AB901185fF1e609/logo.png"
+}

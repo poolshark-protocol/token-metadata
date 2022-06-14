@@ -1,0 +1,11 @@
+{
+    "name": "Exchange Genesis Ethlas Medium",
+    "symbol": "XGEM",
+    "id": "0x02649C1Ff4296038De4b9bA8F491b42b940A8252",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/exchange-genesis-ethlas-medium",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3342.39,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x02649C1Ff4296038De4b9bA8F491b42b940A8252/logo.png"
+}

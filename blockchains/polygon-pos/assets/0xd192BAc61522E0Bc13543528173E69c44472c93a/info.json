@@ -1,0 +1,11 @@
+{
+    "name": "VersoView",
+    "symbol": "VVT",
+    "id": "0xd192BAc61522E0Bc13543528173E69c44472c93a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/versoview",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": 3872,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xd192BAc61522E0Bc13543528173E69c44472c93a/logo.png"
+}

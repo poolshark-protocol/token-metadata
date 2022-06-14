@@ -1,0 +1,11 @@
+{
+    "name": "Aave (PoS)",
+    "symbol": "AAVE",
+    "id": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave",
+    "market_cap_usd": 845380215,
+    "market_cap_rank": 57,
+    "24_hr_volume_usd": 331065930,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png"
+}

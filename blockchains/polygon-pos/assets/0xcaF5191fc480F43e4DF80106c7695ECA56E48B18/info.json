@@ -1,0 +1,11 @@
+{
+    "name": "pTokens TLOS",
+    "symbol": "anyTLOS",
+    "id": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dinox",
+    "market_cap_usd": 1885786,
+    "market_cap_rank": 1561,
+    "24_hr_volume_usd": 416417,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xcaF5191fc480F43e4DF80106c7695ECA56E48B18/logo.png"
+}

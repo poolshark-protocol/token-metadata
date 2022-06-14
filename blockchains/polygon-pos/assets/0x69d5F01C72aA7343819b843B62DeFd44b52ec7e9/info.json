@@ -1,0 +1,10 @@
+{
+    "name": "Quix Defi Index Fund",
+    "symbol": "QDI",
+    "id": "0x69d5F01C72aA7343819b843B62DeFd44b52ec7e9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/quix-defi-index",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x69d5F01C72aA7343819b843B62DeFd44b52ec7e9/logo.png"
+}

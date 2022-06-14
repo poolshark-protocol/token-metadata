@@ -1,0 +1,11 @@
+{
+    "name": "The SporkDAO Token (PoS)",
+    "symbol": "SPORK",
+    "id": "0x9CA6a77C8B38159fd2dA9Bd25bc3E259C33F5E39",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sporkdao",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 123.1,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x9CA6a77C8B38159fd2dA9Bd25bc3E259C33F5E39/logo.png"
+}

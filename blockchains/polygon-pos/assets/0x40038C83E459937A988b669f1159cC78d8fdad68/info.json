@@ -1,0 +1,11 @@
+{
+    "name": "pQBERT",
+    "symbol": "pQBERT",
+    "id": "0x40038C83E459937A988b669f1159cC78d8fdad68",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pqbert",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1279.71,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x40038C83E459937A988b669f1159cC78d8fdad68/logo.png"
+}

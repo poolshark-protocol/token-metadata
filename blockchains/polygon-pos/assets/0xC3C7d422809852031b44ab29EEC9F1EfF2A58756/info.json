@@ -1,0 +1,11 @@
+{
+    "name": "Lido DAO Token (PoS)",
+    "symbol": "LDO",
+    "id": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lido-dao",
+    "market_cap_usd": 256895514,
+    "market_cap_rank": 131,
+    "24_hr_volume_usd": 12466710,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xC3C7d422809852031b44ab29EEC9F1EfF2A58756/logo.png"
+}

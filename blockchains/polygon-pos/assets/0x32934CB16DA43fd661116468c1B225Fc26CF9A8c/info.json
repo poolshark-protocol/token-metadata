@@ -1,0 +1,11 @@
+{
+    "name": "StrongNodeEdge Token",
+    "symbol": "SNE",
+    "id": "0x32934CB16DA43fd661116468c1B225Fc26CF9A8c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/strongnode",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 20481,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x32934CB16DA43fd661116468c1B225Fc26CF9A8c/logo.png"
+}

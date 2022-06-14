@@ -1,0 +1,11 @@
+{
+    "name": "iNFTspaceToken",
+    "symbol": "INS",
+    "id": "0xb988Bd378A0754957d5D9471C96E0F8051645a26",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/inftspace",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 86269,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xb988Bd378A0754957d5D9471C96E0F8051645a26/logo.png"
+}

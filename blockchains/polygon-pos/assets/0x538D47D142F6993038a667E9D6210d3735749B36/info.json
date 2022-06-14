@@ -1,0 +1,11 @@
+{
+    "name": "Burp (PoS)",
+    "symbol": "BURP",
+    "id": "0x538D47D142F6993038a667E9D6210d3735749B36",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/burp",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 56900,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x538D47D142F6993038a667E9D6210d3735749B36/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "CrystalToken",
+    "symbol": "CRYSTL",
+    "id": "0x76bF0C28e604CC3fE9967c83b3C3F31c213cfE64",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crystl-finance",
+    "market_cap_usd": 427799,
+    "market_cap_rank": 2393,
+    "24_hr_volume_usd": 6901.75,
+    "public_notice": "PolyCrystal has rebranded to Crystl Finance. Read more at : https://crystlfinance.medium.com/polycrystal-rebranding-announcement-c2c72528ea5b",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x76bF0C28e604CC3fE9967c83b3C3F31c213cfE64/logo.png"
+}

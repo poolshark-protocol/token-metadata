@@ -1,0 +1,11 @@
+{
+    "name": "XEND",
+    "symbol": "XEND",
+    "id": "0x86775d0B80B3df266AF5377dB34Ba8f318d715ec",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xend-finance",
+    "market_cap_usd": 1987422,
+    "market_cap_rank": 1532,
+    "24_hr_volume_usd": 44193,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x86775d0B80B3df266AF5377dB34Ba8f318d715ec/logo.png"
+}

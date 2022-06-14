@@ -1,0 +1,11 @@
+{
+    "name": "Synapse",
+    "symbol": "SYN",
+    "id": "0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/synapse-2",
+    "market_cap_usd": 105615326,
+    "market_cap_rank": 231,
+    "24_hr_volume_usd": 4356558,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xf8F9efC0db77d8881500bb06FF5D6ABc3070E695/logo.png"
+}

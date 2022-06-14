@@ -1,0 +1,11 @@
+{
+    "name": "xDollar Stablecoin",
+    "symbol": "xUSD",
+    "id": "0x3A3e7650f8B9f667dA98F236010fBf44Ee4B2975",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xdollar-stablecoin",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 116.21,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3A3e7650f8B9f667dA98F236010fBf44Ee4B2975/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Matic Aave interest bearing AAVE",
+    "symbol": "maAAVE",
+    "id": "0x823CD4264C1b951C9209aD0DeAea9988fE8429bF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/matic-aave-aave",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 74.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x823CD4264C1b951C9209aD0DeAea9988fE8429bF/logo.png"
+}

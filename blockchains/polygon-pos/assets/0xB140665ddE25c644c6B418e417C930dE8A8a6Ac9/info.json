@@ -1,0 +1,11 @@
+{
+    "name": "Atari (PoS)",
+    "symbol": "ATRI",
+    "id": "0xB140665ddE25c644c6B418e417C930dE8A8a6Ac9",
+    "decimals": 0,
+    "coingecko_url": "https://www.coingecko.com/en/coins/atari",
+    "market_cap_usd": 4596616,
+    "market_cap_rank": 1106,
+    "24_hr_volume_usd": 29585,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xB140665ddE25c644c6B418e417C930dE8A8a6Ac9/logo.png"
+}

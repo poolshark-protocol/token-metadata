@@ -1,0 +1,12 @@
+{
+    "name": "Wrapped LUNA Token (PoS)",
+    "symbol": "LUNA",
+    "id": "0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-terra",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 215793,
+    "public_notice": "The original Terra Chain will be rebranded as Terra Classic. Please visit this <a href=\"https://docs.terra.money/docs/migration/exchange-migration.html\">post</a> for more info.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57/logo.png"
+}

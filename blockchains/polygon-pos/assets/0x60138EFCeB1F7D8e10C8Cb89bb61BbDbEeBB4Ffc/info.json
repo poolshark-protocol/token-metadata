@@ -1,0 +1,12 @@
+{
+    "name": "RICE",
+    "symbol": "RICE",
+    "id": "0x60138EFCeB1F7D8e10C8Cb89bb61BbDbEeBB4Ffc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rice-wallet",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3728.13,
+    "public_notice": "Rice Wallet has recently migrated from their <a href=\"https://etherscan.io/token/0xbcd515d6c5de70d3a31d999a7fa6a299657de294\">old contract</a> to a <a href=\"https://etherscan.io/token/0xa64c3a85ddc4cd351eeb7aecebc6a44a64a76392\">new one</a>. For more information, please visit this <a href=\"https://ricewallet.io/blog/rice-conversion-new-erc20-smart-contract\">post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x60138EFCeB1F7D8e10C8Cb89bb61BbDbEeBB4Ffc/logo.png"
+}

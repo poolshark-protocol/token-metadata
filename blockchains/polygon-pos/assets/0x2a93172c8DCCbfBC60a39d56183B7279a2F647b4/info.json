@@ -1,0 +1,12 @@
+{
+    "name": "decentral.games (PoS)",
+    "symbol": "$DG",
+    "id": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/decentral-games-old",
+    "market_cap_usd": 1295807,
+    "market_cap_rank": 1750,
+    "24_hr_volume_usd": 10462.13,
+    "public_notice": "The Decentral Games (DG) token has split 1:1000 and upgraded to DG Governance V2. The new contract address is 0x4b520c812e8430659fc9f12f6d0c39026c83588d. Read the official announcement (https://decentral.games/blog/dg-token-split-governance-v2-and-liquidity-pool-updates) for details on migrating old DG tokens. View the new DG Token page at https://www.coingecko.com/en/coins/decentral-games",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4/logo.png"
+}

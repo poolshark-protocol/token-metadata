@@ -1,0 +1,11 @@
+{
+    "name": "Aave Polygon USDC",
+    "symbol": "aPolUSDC",
+    "id": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-usdc",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x625E7708f30cA75bfd92586e17077590C60eb4cD/logo.png"
+}

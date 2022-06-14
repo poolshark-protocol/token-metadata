@@ -1,0 +1,11 @@
+{
+    "name": "Crypto Development Services",
+    "symbol": "CDS",
+    "id": "0x23f07a1C03e7C6D0C88e0E05E79B6E3511073fD5",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crypto-development-services",
+    "market_cap_usd": 34542,
+    "market_cap_rank": 3482,
+    "24_hr_volume_usd": 0.402956,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x23f07a1C03e7C6D0C88e0E05E79B6E3511073fD5/logo.png"
+}

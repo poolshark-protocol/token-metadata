@@ -1,0 +1,11 @@
+{
+    "name": "PolyCub",
+    "symbol": "POLYCUB",
+    "id": "0x7cC15fEf543f205Bf21018F038F591C6BaDa941c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polycub",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 43215,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x7cC15fEf543f205Bf21018F038F591C6BaDa941c/logo.png"
+}

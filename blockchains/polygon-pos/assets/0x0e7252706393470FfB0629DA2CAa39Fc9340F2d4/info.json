@@ -1,0 +1,11 @@
+{
+    "name": "DogeGF",
+    "symbol": "DOGEGF",
+    "id": "0x0e7252706393470FfB0629DA2CAa39Fc9340F2d4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dogegf",
+    "market_cap_usd": 1628040,
+    "market_cap_rank": 1634,
+    "24_hr_volume_usd": 9637.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0e7252706393470FfB0629DA2CAa39Fc9340F2d4/logo.png"
+}

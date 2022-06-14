@@ -1,0 +1,10 @@
+{
+    "name": "Endless Battlefield Coin For Polygon",
+    "symbol": "EBC",
+    "id": "0xAFC430b4A9AcD52401d19D09330Eb41a19055d00",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/endless-battlefield-coin",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xAFC430b4A9AcD52401d19D09330Eb41a19055d00/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "MacaronSwap Token",
+    "symbol": "MCRN",
+    "id": "0xBA25B552C8A098AFdf276324C32C71fE28e0Ad40",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/macaronswap",
+    "market_cap_usd": 114154,
+    "market_cap_rank": 3077,
+    "24_hr_volume_usd": 1545.35,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xBA25B552C8A098AFdf276324C32C71fE28e0Ad40/logo.png"
+}

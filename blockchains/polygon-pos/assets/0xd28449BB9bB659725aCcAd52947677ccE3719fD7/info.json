@@ -1,0 +1,11 @@
+{
+    "name": "Dark Matter Token (PoS)",
+    "symbol": "DMT",
+    "id": "0xd28449BB9bB659725aCcAd52947677ccE3719fD7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dark-matter",
+    "market_cap_usd": 93072,
+    "market_cap_rank": 3167,
+    "24_hr_volume_usd": 1947.65,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xd28449BB9bB659725aCcAd52947677ccE3719fD7/logo.png"
+}

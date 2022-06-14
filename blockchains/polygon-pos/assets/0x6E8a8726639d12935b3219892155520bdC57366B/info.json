@@ -1,0 +1,11 @@
+{
+    "name": "GenomesDAO Governance (PoS)",
+    "symbol": "GNOME",
+    "id": "0x6E8a8726639d12935b3219892155520bdC57366B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gnome",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 696.6,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x6E8a8726639d12935b3219892155520bdC57366B/logo.png"
+}

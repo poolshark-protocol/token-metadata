@@ -1,0 +1,11 @@
+{
+    "name": "AnRKey X (PoS)",
+    "symbol": "$ANRX",
+    "id": "0x554f074d9cCda8F483d1812d4874cBebD682644E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/anrkey-x",
+    "market_cap_usd": 459144,
+    "market_cap_rank": 2355,
+    "24_hr_volume_usd": 68312,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x554f074d9cCda8F483d1812d4874cBebD682644E/logo.png"
+}

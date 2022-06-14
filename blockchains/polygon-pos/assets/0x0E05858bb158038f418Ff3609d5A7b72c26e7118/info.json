@@ -1,0 +1,11 @@
+{
+    "name": "Fruit Token Polygon",
+    "symbol": "FRUIT",
+    "id": "0x0E05858bb158038f418Ff3609d5A7b72c26e7118",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fruit",
+    "market_cap_usd": 370.89,
+    "market_cap_rank": 3830,
+    "24_hr_volume_usd": 2.64,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0E05858bb158038f418Ff3609d5A7b72c26e7118/logo.png"
+}

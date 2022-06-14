@@ -1,0 +1,11 @@
+{
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "id": "0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jpy-coin",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "public_notice": "JPY Coin (JPYC) was recently migrated : Polygon - from <a href=https://polygonscan.com/token/0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c>old contract</a> to <a href=https://polygonscan.com/address/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB>new contract</a>; Shiden - from <a href=https://blockscout.com/shiden/address/0x735aBE48e8782948a37C7765ECb76b98CdE97B0F/transactions>old contract</a> to <a href=https://blockscout.com/shiden/address/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB/transactions>new contract</a> ; Astar -  from <a href=https://blockscout.com/xdai/mainnet/token/0x417602f4fbdd471A431Ae29fB5fe0A681964C11b/token-transfers>old contract</a> to <a href=https://blockscout.com/astar/address/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB/transactions>new contract</a>. <br>This is JPY Coin (JPYC) v2. Visit this <a href=https://twitter.com/jpy_coin/status/1525058228626653184>post</a> for more information.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x431D5dfF03120AFA4bDf332c61A6e1766eF37BDB/logo.png"
+}

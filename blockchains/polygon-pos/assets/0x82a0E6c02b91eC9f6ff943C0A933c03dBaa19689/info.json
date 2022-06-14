@@ -1,0 +1,11 @@
+{
+    "name": "Wicrypt Network Token",
+    "symbol": "WNT",
+    "id": "0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wicrypt",
+    "market_cap_usd": 605551,
+    "market_cap_rank": 2188,
+    "24_hr_volume_usd": 58031,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x82a0E6c02b91eC9f6ff943C0A933c03dBaa19689/logo.png"
+}

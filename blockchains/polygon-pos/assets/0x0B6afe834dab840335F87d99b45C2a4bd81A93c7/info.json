@@ -1,0 +1,11 @@
+{
+    "name": "Angel (PoS)",
+    "symbol": "ANGEL",
+    "id": "0x0B6afe834dab840335F87d99b45C2a4bd81A93c7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polylauncher",
+    "market_cap_usd": 387821,
+    "market_cap_rank": 2447,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0B6afe834dab840335F87d99b45C2a4bd81A93c7/logo.png"
+}

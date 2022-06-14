@@ -1,0 +1,11 @@
+{
+    "name": "Fear NFTs (PoS)",
+    "symbol": "FEAR",
+    "id": "0xa2CA40DBe72028D3Ac78B5250a8CB8c404e7Fb8C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fear",
+    "market_cap_usd": 2908638,
+    "market_cap_rank": 1331,
+    "24_hr_volume_usd": 116397,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xa2CA40DBe72028D3Ac78B5250a8CB8c404e7Fb8C/logo.png"
+}

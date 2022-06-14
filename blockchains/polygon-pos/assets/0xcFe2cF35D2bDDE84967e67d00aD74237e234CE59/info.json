@@ -1,0 +1,11 @@
+{
+    "name": "Pup Token",
+    "symbol": "PUP",
+    "id": "0xcFe2cF35D2bDDE84967e67d00aD74237e234CE59",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polypup",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xcFe2cF35D2bDDE84967e67d00aD74237e234CE59/logo.png"
+}

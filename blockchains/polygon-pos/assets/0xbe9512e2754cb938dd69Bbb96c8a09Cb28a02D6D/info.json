@@ -1,0 +1,11 @@
+{
+    "name": "GemBites",
+    "symbol": "GBTS",
+    "id": "0xbe9512e2754cb938dd69Bbb96c8a09Cb28a02D6D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gembites",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.04753027,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xbe9512e2754cb938dd69Bbb96c8a09Cb28a02D6D/logo.png"
+}

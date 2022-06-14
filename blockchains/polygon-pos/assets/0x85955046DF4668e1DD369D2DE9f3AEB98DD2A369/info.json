@@ -1,0 +1,11 @@
+{
+    "name": "DefiPulse Index (PoS)",
+    "symbol": "DPI",
+    "id": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/defipulse-index",
+    "market_cap_usd": 26391049,
+    "market_cap_rank": 542,
+    "24_hr_volume_usd": 467454,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369/logo.png"
+}

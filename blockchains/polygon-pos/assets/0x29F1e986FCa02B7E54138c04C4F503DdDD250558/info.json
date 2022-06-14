@@ -1,0 +1,11 @@
+{
+    "name": "VSQ",
+    "symbol": "VSQ",
+    "id": "0x29F1e986FCa02B7E54138c04C4F503DdDD250558",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vesq",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 24440,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x29F1e986FCa02B7E54138c04C4F503DdDD250558/logo.png"
+}

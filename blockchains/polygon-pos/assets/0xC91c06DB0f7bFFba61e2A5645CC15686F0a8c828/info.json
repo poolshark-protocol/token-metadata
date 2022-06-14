@@ -1,0 +1,11 @@
+{
+    "name": "RAZOR (PoS)",
+    "symbol": "RAZOR",
+    "id": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/razor-network",
+    "market_cap_usd": 905361,
+    "market_cap_rank": 1942,
+    "24_hr_volume_usd": 34829,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "ForLootAndGlory",
+    "symbol": "FLAG - PoS",
+    "id": "0x9111D6446Ac5b88A84cf06425c6286658368542F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/for-loot-and-glory",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6913.19,
+    "public_notice": "For Loot And Glory has migrated from <a href=\"https://polygonscan.com/token/0xb89fd55ef1ea71560469d55637ef9c2770d4830d\">V1</a> to <a href=\"https://polygonscan.com/token/0x9111D6446Ac5b88A84cf06425c6286658368542F\">V2</a>. Find out more <a href=\"https://twitter.com/ForLootAndGlory/status/1531539947932594178\">here</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x9111D6446Ac5b88A84cf06425c6286658368542F/logo.png"
+}

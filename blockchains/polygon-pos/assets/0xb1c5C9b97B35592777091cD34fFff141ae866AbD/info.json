@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Ubiq",
+    "symbol": "WUBQ",
+    "id": "0xb1c5C9b97B35592777091cD34fFff141ae866AbD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ubiq",
+    "market_cap_usd": 2350159,
+    "market_cap_rank": 1446,
+    "24_hr_volume_usd": 17122.43,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xb1c5C9b97B35592777091cD34fFff141ae866AbD/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "MASQ (PoS)",
+    "symbol": "MASQ",
+    "id": "0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/masq",
+    "market_cap_usd": 781275,
+    "market_cap_rank": 2018,
+    "24_hr_volume_usd": 63968,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35/logo.png"
+}

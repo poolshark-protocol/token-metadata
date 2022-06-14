@@ -1,0 +1,12 @@
+{
+    "name": "Sphere Finance",
+    "symbol": "SPHERE",
+    "id": "0x17e9C5b37283ac5fBE527011CeC257b832f03eb3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sphere-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 169.5,
+    "public_notice": "The following token has a variable tax function on the smart contract - which allows contract owners to <a href=\"https://support.coingecko.com/support/solutions/articles/72000524399-what-are-variable-taxes-on-smart-contracts-\">change tax rates post deployment</a>. <br>Do your own research and be careful if you are trading this token.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x17e9C5b37283ac5fBE527011CeC257b832f03eb3/logo.png"
+}

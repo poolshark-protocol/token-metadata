@@ -9,11 +9,12 @@ from io import BytesIO
 from pathlib import Path
 
 cg = CoinGeckoAPI()
-w3 = Web3(Web3.HTTPProvider('https://eth-mainnet.alchemyapi.io/v2/UtS222NKanBSIOdJz3yMWWQjFeC3OtyV'))
+w3 = Web3(Web3.HTTPProvider('https://polygon-mainnet.g.alchemy.com/v2/Q0kaVFDZYtPDdMzGcGCQ6lrFNqJrLCVi'))
 print(w3.isConnected())
 erc20_file = open('abis/ERC20.json')
 erc20_abi = json.load(erc20_file)
-supported_chains = ['ethereum']
+supported_chains = ['polygon-pos']
+new_tokens_only = True
 search_tokens_blacklist = ['RealT Token', 
                            'RealToken', 
                            'All.me', 
@@ -59,40 +60,27 @@ for chain in supported_chains:
     for coin in coins:
         if chain in coin['platforms'].keys() and coin['platforms'][chain] != '':
             skip_token = False
+            new_token = False
             for term in search_tokens_blacklist:
                 if coin['name'].startswith(term):
                     skip_token = True
                     #print('skipped token')
-                # if os.path.exists('blockchains/' + chain + '/assets/' + Web3.toChecksumAddress(coin['platforms']['ethereum'])):
-                #     skip_token = True
-                #     #print('token already exists')
 
             if skip_token == False:
-                contract = w3.eth.contract(Web3.toChecksumAddress(coin['platforms']['ethereum']), abi=erc20_abi)
+                contract = w3.eth.contract(Web3.toChecksumAddress(coin['platforms'][chain]), abi=erc20_abi)
                 path = 'blockchains/' + chain + '/assets/' + contract.address
+                token = {}
                 if not os.path.exists(path):
                     os.makedirs(path)
-                if coin['name'] != 'ADAPad':
-                    token = {}
-                    #try:
-                    print(coin)
-                    too_many_requests = True
-                    while too_many_requests:
-                        try:
-                            time.sleep(1.3)
-                            coin_info = cg.get_coin_info_from_contract_address_by_id(chain, coin['platforms'][chain])
-                            too_many_requests = False
-                        except:
-                            print('429 - Too Many Requests: waiting 5 seconds')
-                            time.sleep(5)
-                    try: 
-                        img_data = requests.get(coin_info['image']['large']).content
-                    except:
-                        print('bad image URL...continuing')
-                        continue
-                    img = Image.open(BytesIO(img_data))
-                    img.save(path + '/logo.png')
+                    new_token = True
 
+                #############################
+                ###### CONTRACT CALLS #######
+                #############################
+
+                if not os.path.exists(path + '/info.json'):
+                    too_many_requests = True
+                
                     try:  
                         token['name'] = contract.functions.name().call()
                     except:
@@ -104,7 +92,7 @@ for chain in supported_chains:
                     except:
                         print('symbol() failed for' + json.dumps(coin) + '..using coingecko symbol value..')
                         token['symbol'] = coin['symbol'].upper()
-                      
+                        
                     token['id'] = contract.address
 
                     try:
@@ -113,44 +101,67 @@ for chain in supported_chains:
                         print('decimals() failed for' + json.dumps(coin) + '..continuing on..')
                         continue
 
-                    token['coingecko_url'] = 'https://www.coingecko.com/en/coins/' + coin['id']
-                    if 'usd' in coin_info['market_data']['market_cap'].keys():
-                        token['market_cap_usd'] = coin_info['market_data']['market_cap']['usd']
-                    else:
-                        token['market_cap_usd'] = 0.0
-                    token['market_cap_rank'] = coin_info['market_data']['market_cap_rank']
-                    
-                    if coin_info['market_data']['total_volume'] != None and coin_info['market_data']['total_volume'] != '{}' and 'usd' in coin_info['market_data']['total_volume'].keys():
-                        #print(coin_info['market_data']['total_volume'])
-                        token['24_hr_volume_usd'] =coin_info['market_data']['total_volume']['usd']
+                ##########################################
+                ###### HANDLE TOKEN ALREADY EXISTS #######
+                ##########################################
 
-                    if coin_info['public_notice'] != None:
-                        token['public_notice'] = coin_info['public_notice']
-                    
-
-                    token['logoURI'] = 'https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/' + path + '/logo.png'
-                    
-                    with open(path + '/info.json','w+') as token_info:
-                        token_info.write(json.dumps(token, indent=4))
-                    # except:
-                    #   print('error calling contract for ' + json.dumps(coin))
-                    
-                    
                 else:
-                    print('found token')
-                    break
-                    # print('token already exists')
-                    # with open(path + '/info.json','r+') as token_info:
-                    #     token = json.load(token_info)
-                    #     print('found file: ' + json.dumps(coin))
+                    print('token info.json already exists')
+                    with open(path + '/info.json','r+') as token_info:
+                        token = json.load(token_info)
+                        print('found file: ' + json.dumps(coin))
+
+                if new_tokens_only and not new_token:
+                    print(token)
+                    tokens[chain].append(token)
+                    continue
+
+                #############################
+                ###### COINGECKO INFO #######
+                #############################
+                
+                while too_many_requests:
+                    try:
+                        time.sleep(1.3)
+                        coin_info = cg.get_coin_info_from_contract_address_by_id(chain, coin['platforms'][chain])
+                        too_many_requests = False
+                    except:
+                        print('429 - Too Many Requests: waiting 5 seconds')
+                        time.sleep(5)
+                    try: 
+                        img_data = requests.get(coin_info['image']['large']).content
+                    except:
+                        print('bad image URL...continuing')
+                        continue
+                    img = Image.open(BytesIO(img_data))
+                    img.save(path + '/logo.png')
+
+                token['coingecko_url'] = 'https://www.coingecko.com/en/coins/' + coin['id']
+                if 'usd' in coin_info['market_data']['market_cap'].keys():
+                    token['market_cap_usd'] = coin_info['market_data']['market_cap']['usd']
+                else:
+                    token['market_cap_usd'] = 0.0
+                token['market_cap_rank'] = coin_info['market_data']['market_cap_rank']
+                
+                if coin_info['market_data']['total_volume'] != None and coin_info['market_data']['total_volume'] != '{}' and 'usd' in coin_info['market_data']['total_volume'].keys():
+                    #print(coin_info['market_data']['total_volume'])
+                    token['24_hr_volume_usd'] =coin_info['market_data']['total_volume']['usd']
+
+                if coin_info['public_notice'] != None:
+                    token['public_notice'] = coin_info['public_notice']
+
+                token['logoURI'] = 'https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/' + path + '/logo.png'
+                
+                with open(path + '/info.json','w+') as token_info:
+                    token_info.write(json.dumps(token, indent=4))
                     
                 tokens[chain].append(token)
-            #else:
-                #print('skipped token')
+            else:
+                print('skipped token')
 
     f = open('blockchains/' + chain + '/tokenlist.json','r')
     print(time.time())
     tokenlist = json.load(f)
     tokenlist['search_tokens'] = tokens[chain] + tokenlist['search_tokens']
-    fw = open('blockchains' + '/ethereum' + '/tokenlist.json','w')
+    fw = open('blockchains' + '/' + chain + '/tokenlist.json','w+')
     fw.write(json.dumps(tokenlist, indent=4))

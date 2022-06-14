@@ -1,0 +1,11 @@
+{
+    "name": "Nash Exchange Token (PoS)",
+    "symbol": "NEX",
+    "id": "0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/neon-exchange",
+    "market_cap_usd": 8574794,
+    "market_cap_rank": 879,
+    "24_hr_volume_usd": 7928.27,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB/logo.png"
+}

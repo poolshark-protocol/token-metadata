@@ -1,0 +1,11 @@
+{
+    "name": "DuDe Peoples Money (metalbacked.money)",
+    "symbol": "DuDe",
+    "id": "0xb6169E71144B4DEbd9CAa2dbb851fC8FFde6119F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dude",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 983589,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xb6169E71144B4DEbd9CAa2dbb851fC8FFde6119F/logo.png"
+}

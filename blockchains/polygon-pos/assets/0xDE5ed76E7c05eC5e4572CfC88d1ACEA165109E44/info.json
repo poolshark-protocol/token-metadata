@@ -1,0 +1,11 @@
+{
+    "name": "DEUS",
+    "symbol": "DEUS",
+    "id": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/deus-finance-2",
+    "market_cap_usd": 6770149,
+    "market_cap_rank": 959,
+    "24_hr_volume_usd": 526918,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "USD+",
+    "symbol": "USD+",
+    "id": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/usd",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 231658,
+    "public_notice": "The smart contract is not verified for the following asset, which means the owners may be able to modify contract behaviour (for example: disable selling, change fees, mint new tokens, or transfer tokens). <br>Please proceed with caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f/logo.png"
+}

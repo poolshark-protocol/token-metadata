@@ -1,0 +1,11 @@
+{
+    "name": "Gelato Network Token",
+    "symbol": "GEL",
+    "id": "0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gelato",
+    "market_cap_usd": 6439390,
+    "market_cap_rank": 975,
+    "24_hr_volume_usd": 1915834,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x15b7c0c907e4C6b9AdaAaabC300C08991D6CEA05/logo.png"
+}

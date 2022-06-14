@@ -1,0 +1,11 @@
+{
+    "name": "Bankless Token (PoS)",
+    "symbol": "BANK",
+    "id": "0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bankless-dao",
+    "market_cap_usd": 3103700,
+    "market_cap_rank": 1302,
+    "24_hr_volume_usd": 32406,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xDB7Cb471dd0b49b29CAB4a1C14d070f27216a0Ab/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Jarvis Synthetic Swedish Krona",
+    "symbol": "jSEK",
+    "id": "0x197E5d6CcfF265AC3E303a34Db360ee1429f5d1A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jarvis-synthetic-swedish-krona",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x197E5d6CcfF265AC3E303a34Db360ee1429f5d1A/logo.png"
+}

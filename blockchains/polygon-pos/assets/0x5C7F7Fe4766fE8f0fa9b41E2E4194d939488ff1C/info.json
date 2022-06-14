@@ -1,0 +1,11 @@
+{
+    "name": "DokiDokiFinance (PoS)",
+    "symbol": "DOKI",
+    "id": "0x5C7F7Fe4766fE8f0fa9b41E2E4194d939488ff1C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/doki-doki-finance",
+    "market_cap_usd": 53492,
+    "market_cap_rank": 3367,
+    "24_hr_volume_usd": 13.73,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x5C7F7Fe4766fE8f0fa9b41E2E4194d939488ff1C/logo.png"
+}

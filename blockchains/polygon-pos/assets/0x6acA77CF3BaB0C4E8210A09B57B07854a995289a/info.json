@@ -1,0 +1,11 @@
+{
+    "name": "Meeds Token (PoS)",
+    "symbol": "MEED",
+    "id": "0x6acA77CF3BaB0C4E8210A09B57B07854a995289a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/meeds-dao",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 69.54,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x6acA77CF3BaB0C4E8210A09B57B07854a995289a/logo.png"
+}

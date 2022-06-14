@@ -1,0 +1,11 @@
+{
+    "name": "Idle (PoS)",
+    "symbol": "IDLE",
+    "id": "0xC25351811983818c9Fe6D8c580531819c8ADe90f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/idle",
+    "market_cap_usd": 852499,
+    "market_cap_rank": 1972,
+    "24_hr_volume_usd": 3474.12,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xC25351811983818c9Fe6D8c580531819c8ADe90f/logo.png"
+}

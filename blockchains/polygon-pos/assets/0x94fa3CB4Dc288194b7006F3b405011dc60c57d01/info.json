@@ -1,0 +1,10 @@
+{
+    "name": "Builder Coin",
+    "symbol": "BLDR",
+    "id": "0x94fa3CB4Dc288194b7006F3b405011dc60c57d01",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/builder-coin",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x94fa3CB4Dc288194b7006F3b405011dc60c57d01/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "PolyYeld V2",
+    "symbol": "YELD V2",
+    "id": "0x1fd6cF265fd3428F655378a803658942095b4C4e",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polyyeld-token",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 123.18,
+    "public_notice": "PolyYeld was previously <a href=\"https://twitter.com/RugDocIO/status/1420210217019605002\">exploited</a> and contract has migrated to 0x1fd6cf265fd3428f655378a803658942095b4c4e. Read more at: https://polyyeld.gitbook.io/polyyeld-finance/tokenomics/untitled",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x1fd6cF265fd3428F655378a803658942095b4C4e/logo.png"
+}

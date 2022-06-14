@@ -1,0 +1,11 @@
+{
+    "name": "Kommunitas",
+    "symbol": "KOM",
+    "id": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kommunitas",
+    "market_cap_usd": 2323820,
+    "market_cap_rank": 1451,
+    "24_hr_volume_usd": 977065,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xC004e2318722EA2b15499D6375905d75Ee5390B8/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "WheyToken",
+    "symbol": "WHEY",
+    "id": "0x0cfbBb89Fd58F6B49B7bF5665397ddc84003d47c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/whey",
+    "market_cap_usd": 14029.15,
+    "market_cap_rank": 3648,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0cfbBb89Fd58F6B49B7bF5665397ddc84003d47c/logo.png"
+}

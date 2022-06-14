@@ -1,0 +1,11 @@
+{
+    "name": "Weble Ecosystem Token",
+    "symbol": "WET",
+    "id": "0x632B8c4e95B2F8A9309417f8D990ab9C04c77369",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/weble-ecosystem-token",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 44.79,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x632B8c4e95B2F8A9309417f8D990ab9C04c77369/logo.png"
+}

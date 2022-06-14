@@ -1,0 +1,11 @@
+{
+    "name": "solace",
+    "symbol": "SOLACE",
+    "id": "0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/solace",
+    "market_cap_usd": 3547612,
+    "market_cap_rank": 1232,
+    "24_hr_volume_usd": 19941.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x501acE9c35E60f03A2af4d484f49F9B1EFde9f40/logo.png"
+}

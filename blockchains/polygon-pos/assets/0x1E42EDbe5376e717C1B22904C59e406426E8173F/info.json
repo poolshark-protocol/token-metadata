@@ -1,0 +1,11 @@
+{
+    "name": "SURF.Finance (PoS)",
+    "symbol": "SURF",
+    "id": "0x1E42EDbe5376e717C1B22904C59e406426E8173F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/surf-finance",
+    "market_cap_usd": 451085,
+    "market_cap_rank": 2376,
+    "24_hr_volume_usd": 1924.08,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x1E42EDbe5376e717C1B22904C59e406426E8173F/logo.png"
+}

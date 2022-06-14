@@ -1,0 +1,11 @@
+{
+    "name": "Aluna (PoS)",
+    "symbol": "ALN",
+    "id": "0xa8fcEe762642f156b5D757b6FabC36E06b6d4A1A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aluna",
+    "market_cap_usd": 173485,
+    "market_cap_rank": 2889,
+    "24_hr_volume_usd": 17770.22,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xa8fcEe762642f156b5D757b6FabC36E06b6d4A1A/logo.png"
+}

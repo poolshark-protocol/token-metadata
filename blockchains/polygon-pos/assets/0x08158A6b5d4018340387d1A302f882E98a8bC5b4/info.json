@@ -1,0 +1,11 @@
+{
+    "name": "Plasma (PoS)",
+    "symbol": "PPAY",
+    "id": "0x08158A6b5d4018340387d1A302f882E98a8bC5b4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/plasma-finance",
+    "market_cap_usd": 928188,
+    "market_cap_rank": 1922,
+    "24_hr_volume_usd": 34477,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x08158A6b5d4018340387d1A302f882E98a8bC5b4/logo.png"
+}

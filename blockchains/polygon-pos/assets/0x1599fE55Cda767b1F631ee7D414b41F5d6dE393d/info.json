@@ -1,0 +1,11 @@
+{
+    "name": "Milk",
+    "symbol": "MILK",
+    "id": "0x1599fE55Cda767b1F631ee7D414b41F5d6dE393d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/milk",
+    "market_cap_usd": 452019,
+    "market_cap_rank": 2369,
+    "24_hr_volume_usd": 2433.76,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x1599fE55Cda767b1F631ee7D414b41F5d6dE393d/logo.png"
+}

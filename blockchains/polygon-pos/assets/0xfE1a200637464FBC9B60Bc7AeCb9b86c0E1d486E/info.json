@@ -1,0 +1,11 @@
+{
+    "name": "LITHIUM",
+    "symbol": "LITHIUM",
+    "id": "0xfE1a200637464FBC9B60Bc7AeCb9b86c0E1d486E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lithium-2",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6.19,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xfE1a200637464FBC9B60Bc7AeCb9b86c0E1d486E/logo.png"
+}

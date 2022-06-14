@@ -1,0 +1,11 @@
+{
+    "name": "RAMP (PoS)",
+    "symbol": "RAMP",
+    "id": "0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ramp",
+    "market_cap_usd": 13446651,
+    "market_cap_rank": 736,
+    "24_hr_volume_usd": 2366329,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2/logo.png"
+}

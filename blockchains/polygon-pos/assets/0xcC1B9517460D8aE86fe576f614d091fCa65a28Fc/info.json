@@ -1,0 +1,11 @@
+{
+    "name": "Vigorus",
+    "symbol": "VIS",
+    "id": "0xcC1B9517460D8aE86fe576f614d091fCa65a28Fc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vigorus",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 159.85,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xcC1B9517460D8aE86fe576f614d091fCa65a28Fc/logo.png"
+}

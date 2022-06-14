@@ -1,0 +1,10 @@
+{
+    "name": "Jarvis Synthetic Chinese Yuan",
+    "symbol": "jCNY",
+    "id": "0x84526c812D8f6c4fD6C1a5B68713AFF50733E772",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jarvis-synthetic-chinese-yuan",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x84526c812D8f6c4fD6C1a5B68713AFF50733E772/logo.png"
+}

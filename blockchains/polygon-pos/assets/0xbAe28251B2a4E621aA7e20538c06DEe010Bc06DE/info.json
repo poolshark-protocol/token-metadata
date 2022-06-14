@@ -1,0 +1,11 @@
+{
+    "name": "dHEDGE Stablecoin Yield",
+    "symbol": "dUSD",
+    "id": "0xbAe28251B2a4E621aA7e20538c06DEe010Bc06DE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dhedge-stablecoin-yield",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13727.24,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xbAe28251B2a4E621aA7e20538c06DEe010Bc06DE/logo.png"
+}

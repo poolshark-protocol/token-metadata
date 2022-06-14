@@ -1,0 +1,11 @@
+{
+    "name": "WrappedPeercoin",
+    "symbol": "wPPC",
+    "id": "0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/peercoin",
+    "market_cap_usd": 7442678,
+    "market_cap_rank": 924,
+    "24_hr_volume_usd": 6832.13,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x91E7E32C710661C44ae44D10Aa86135d91C3Ed65/logo.png"
+}

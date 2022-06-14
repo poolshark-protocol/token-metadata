@@ -1,0 +1,11 @@
+{
+    "name": "Basic Attention Token (PoS)",
+    "symbol": "BAT",
+    "id": "0x3Cef98bb43d732E2F285eE605a8158cDE967D219",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/basic-attention-token",
+    "market_cap_usd": 414952669,
+    "market_cap_rank": 94,
+    "24_hr_volume_usd": 89618786,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3Cef98bb43d732E2F285eE605a8158cDE967D219/logo.png"
+}

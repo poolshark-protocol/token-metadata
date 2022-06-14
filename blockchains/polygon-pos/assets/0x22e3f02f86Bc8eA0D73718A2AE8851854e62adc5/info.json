@@ -1,0 +1,11 @@
+{
+    "name": "FireStarter",
+    "symbol": "FLAME",
+    "id": "0x22e3f02f86Bc8eA0D73718A2AE8851854e62adc5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/firestarter",
+    "market_cap_usd": 1271049,
+    "market_cap_rank": 1752,
+    "24_hr_volume_usd": 318262,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x22e3f02f86Bc8eA0D73718A2AE8851854e62adc5/logo.png"
+}

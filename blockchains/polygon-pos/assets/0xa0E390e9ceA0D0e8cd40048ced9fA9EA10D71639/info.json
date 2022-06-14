@@ -1,0 +1,11 @@
+{
+    "name": "DSLA (PoS)",
+    "symbol": "DSLA",
+    "id": "0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stacktical",
+    "market_cap_usd": 4109624,
+    "market_cap_rank": 1156,
+    "24_hr_volume_usd": 114691,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639/logo.png"
+}

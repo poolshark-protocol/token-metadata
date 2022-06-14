@@ -1,0 +1,11 @@
+{
+    "name": "TryHards",
+    "symbol": "TRY",
+    "id": "0xEFeE2de82343BE622Dcb4E545f75a3b9f50c272D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tryhards",
+    "market_cap_usd": 524675,
+    "market_cap_rank": 2275,
+    "24_hr_volume_usd": 2450.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xEFeE2de82343BE622Dcb4E545f75a3b9f50c272D/logo.png"
+}

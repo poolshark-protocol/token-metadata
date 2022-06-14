@@ -1,0 +1,12 @@
+{
+    "name": "Mysterium (PoS)",
+    "symbol": "MYST",
+    "id": "0x1379E8886A944d2D9d440b3d88DF536Aea08d9F3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mysterium",
+    "market_cap_usd": 5214220,
+    "market_cap_rank": 1053,
+    "24_hr_volume_usd": 182044,
+    "public_notice": "Mysterium Network has conducted a 1:1 token swap on 31 Aug 2020. The old contract address is 0xa645264c5603e96c3b0b078cdab68733794b0a71 and the new contract address is 0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361. For more information, read https://mysterium.network/2020/08/31/mysterium-network-begins-token-migration/",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x1379E8886A944d2D9d440b3d88DF536Aea08d9F3/logo.png"
+}

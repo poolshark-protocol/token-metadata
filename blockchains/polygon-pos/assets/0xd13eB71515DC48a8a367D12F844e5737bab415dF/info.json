@@ -1,0 +1,11 @@
+{
+    "name": "Binance USD",
+    "symbol": "anyBUSD",
+    "id": "0xd13eB71515DC48a8a367D12F844e5737bab415dF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polkaex",
+    "market_cap_usd": 46846,
+    "market_cap_rank": 3397,
+    "24_hr_volume_usd": 1261.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xd13eB71515DC48a8a367D12F844e5737bab415dF/logo.png"
+}

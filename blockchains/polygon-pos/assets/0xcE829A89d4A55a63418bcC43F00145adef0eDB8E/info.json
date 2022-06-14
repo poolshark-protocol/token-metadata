@@ -1,0 +1,11 @@
+{
+    "name": "renDOGE",
+    "symbol": "renDOGE",
+    "id": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rendoge",
+    "market_cap_usd": 672004,
+    "market_cap_rank": 2127,
+    "24_hr_volume_usd": 514844,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xcE829A89d4A55a63418bcC43F00145adef0eDB8E/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Swarm Markets",
+    "symbol": "SMT",
+    "id": "0xE631DABeF60c37a37d70d3B4f812871df663226f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/swarm-markets",
+    "market_cap_usd": 943628,
+    "market_cap_rank": 1909,
+    "24_hr_volume_usd": 60.54,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xE631DABeF60c37a37d70d3B4f812871df663226f/logo.png"
+}

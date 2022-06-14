@@ -1,0 +1,11 @@
+{
+    "name": "Rainbow Token",
+    "symbol": "RBW",
+    "id": "0x431CD3C9AC9Fc73644BF68bF5691f4B83F9E104f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rainbow-token-2",
+    "market_cap_usd": 8791818,
+    "market_cap_rank": 872,
+    "24_hr_volume_usd": 18655.28,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x431CD3C9AC9Fc73644BF68bF5691f4B83F9E104f/logo.png"
+}

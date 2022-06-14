@@ -1,0 +1,12 @@
+{
+    "name": "Wallstreetbets",
+    "symbol": "WSB",
+    "id": "0x4CB9050EA02395a8941715ceeffe0cDf60c59f07",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wallstreetbets-com",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 423.07,
+    "public_notice": "The smart-contract owner can mint new tokens, please proceed with caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4CB9050EA02395a8941715ceeffe0cDf60c59f07/logo.png"
+}

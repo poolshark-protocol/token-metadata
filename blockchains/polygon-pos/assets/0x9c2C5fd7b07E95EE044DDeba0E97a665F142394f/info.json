@@ -1,0 +1,11 @@
+{
+    "name": "1Inch (PoS)",
+    "symbol": "1INCH",
+    "id": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/1inch",
+    "market_cap_usd": 312954158,
+    "market_cap_rank": 112,
+    "24_hr_volume_usd": 66901844,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f/logo.png"
+}

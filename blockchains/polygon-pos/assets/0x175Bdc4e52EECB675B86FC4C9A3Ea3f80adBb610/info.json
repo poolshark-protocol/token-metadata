@@ -1,0 +1,11 @@
+{
+    "name": "Havens Nook (PoS)",
+    "symbol": "HXN",
+    "id": "0x175Bdc4e52EECB675B86FC4C9A3Ea3f80adBb610",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/havens-nook",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9.35,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x175Bdc4e52EECB675B86FC4C9A3Ea3f80adBb610/logo.png"
+}

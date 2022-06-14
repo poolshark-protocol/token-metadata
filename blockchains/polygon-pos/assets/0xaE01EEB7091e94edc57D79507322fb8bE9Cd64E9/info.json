@@ -1,0 +1,11 @@
+{
+    "name": "WAPSWAP",
+    "symbol": "WAP",
+    "id": "0xaE01EEB7091e94edc57D79507322fb8bE9Cd64E9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wapswap-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.17,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xaE01EEB7091e94edc57D79507322fb8bE9Cd64E9/logo.png"
+}

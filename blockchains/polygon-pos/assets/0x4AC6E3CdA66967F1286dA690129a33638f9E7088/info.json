@@ -1,0 +1,11 @@
+{
+    "name": "EGG",
+    "symbol": "EGG",
+    "id": "0x4AC6E3CdA66967F1286dA690129a33638f9E7088",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/polyfarm-egg",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 191.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4AC6E3CdA66967F1286dA690129a33638f9E7088/logo.png"
+}

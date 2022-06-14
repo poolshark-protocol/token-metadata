@@ -1,0 +1,11 @@
+{
+    "name": "Graph Token (PoS)",
+    "symbol": "GRT",
+    "id": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-graph",
+    "market_cap_usd": 798336487,
+    "market_cap_rank": 60,
+    "24_hr_volume_usd": 124007266,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x5fe2B58c013d7601147DcdD68C143A77499f5531/logo.png"
+}

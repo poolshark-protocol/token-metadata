@@ -1,0 +1,11 @@
+{
+    "name": "MaticLaunch",
+    "symbol": "MTCL",
+    "id": "0x3642c3c8eBe0b36a29e37809e1c9A7DE06BC0B26",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/maticlaunch",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 77.46,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3642c3c8eBe0b36a29e37809e1c9A7DE06BC0B26/logo.png"
+}

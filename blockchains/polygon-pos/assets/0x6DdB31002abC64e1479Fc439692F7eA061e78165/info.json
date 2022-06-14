@@ -1,0 +1,11 @@
+{
+    "name": "Furucombo (PoS)",
+    "symbol": "COMBO",
+    "id": "0x6DdB31002abC64e1479Fc439692F7eA061e78165",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/furucombo",
+    "market_cap_usd": 986253,
+    "market_cap_rank": 1892,
+    "24_hr_volume_usd": 19224.36,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x6DdB31002abC64e1479Fc439692F7eA061e78165/logo.png"
+}

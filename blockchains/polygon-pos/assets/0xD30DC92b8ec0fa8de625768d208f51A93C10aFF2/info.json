@@ -1,0 +1,11 @@
+{
+    "name": "CelsiusX Wrapped BTC",
+    "symbol": "cxBTC",
+    "id": "0xD30DC92b8ec0fa8de625768d208f51A93C10aFF2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/celsiusx-wrapped-btc",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 250804,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xD30DC92b8ec0fa8de625768d208f51A93C10aFF2/logo.png"
+}

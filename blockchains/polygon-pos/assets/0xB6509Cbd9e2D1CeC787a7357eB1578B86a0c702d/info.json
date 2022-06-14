@@ -1,0 +1,11 @@
+{
+    "name": "Drakoin (PoS)",
+    "symbol": "DRK",
+    "id": "0xB6509Cbd9e2D1CeC787a7357eB1578B86a0c702d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/drakoin",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 52.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xB6509Cbd9e2D1CeC787a7357eB1578B86a0c702d/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "XCAD Token (PoS)",
+    "symbol": "XCAD",
+    "id": "0xA55870278d6389ec5B524553D03C04F5677c061E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xcad-network",
+    "market_cap_usd": 109057246,
+    "market_cap_rank": 224,
+    "24_hr_volume_usd": 16470906,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xA55870278d6389ec5B524553D03C04F5677c061E/logo.png"
+}

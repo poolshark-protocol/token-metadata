@@ -1,0 +1,11 @@
+{
+    "name": "0xBitcoin Token",
+    "symbol": "0xBTC",
+    "id": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/oxbitcoin",
+    "market_cap_usd": 2809373,
+    "market_cap_rank": 1343,
+    "24_hr_volume_usd": 9914.26,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x71B821aa52a49F32EEd535fCA6Eb5aa130085978/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Dragon QUICK",
+    "symbol": "dQUICK",
+    "id": "0xf28164A485B0B2C90639E47b0f377b4a438a16B1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dragons-quick",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xf28164A485B0B2C90639E47b0f377b4a438a16B1/logo.png"
+}

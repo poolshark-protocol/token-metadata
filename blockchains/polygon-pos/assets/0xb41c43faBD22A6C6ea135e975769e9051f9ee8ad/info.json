@@ -1,0 +1,11 @@
+{
+    "name": "ethbox Token",
+    "symbol": "EBOX",
+    "id": "0xb41c43faBD22A6C6ea135e975769e9051f9ee8ad",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ebox",
+    "market_cap_usd": 155223,
+    "market_cap_rank": 2926,
+    "24_hr_volume_usd": 1657.69,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xb41c43faBD22A6C6ea135e975769e9051f9ee8ad/logo.png"
+}

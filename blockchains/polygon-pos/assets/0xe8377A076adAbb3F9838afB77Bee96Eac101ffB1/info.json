@@ -1,0 +1,11 @@
+{
+    "name": "MetaSoccer Universe",
+    "symbol": "MSU",
+    "id": "0xe8377A076adAbb3F9838afB77Bee96Eac101ffB1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metasoccer",
+    "market_cap_usd": 5980436,
+    "market_cap_rank": 998,
+    "24_hr_volume_usd": 88724,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xe8377A076adAbb3F9838afB77Bee96Eac101ffB1/logo.png"
+}

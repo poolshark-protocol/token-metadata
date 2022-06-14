@@ -1,0 +1,11 @@
+{
+    "name": "KwikTrust (PoS)",
+    "symbol": "KTX",
+    "id": "0x60E6895184448f3e8EF509D083e3cC3AC31F82Fd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kwiktrust",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 320628,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x60E6895184448f3e8EF509D083e3cC3AC31F82Fd/logo.png"
+}

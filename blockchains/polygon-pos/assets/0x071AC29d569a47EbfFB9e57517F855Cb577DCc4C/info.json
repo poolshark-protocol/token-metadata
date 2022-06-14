@@ -1,0 +1,11 @@
+{
+    "name": "GCOIN",
+    "symbol": "GFC",
+    "id": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/galaxy-fight-club",
+    "market_cap_usd": 1469232,
+    "market_cap_rank": 1667,
+    "24_hr_volume_usd": 87827,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C/logo.png"
+}

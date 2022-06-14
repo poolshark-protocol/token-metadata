@@ -1,0 +1,11 @@
+{
+    "name": "DFYN Token (PoS)",
+    "symbol": "DFYN",
+    "id": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dfyn-network",
+    "market_cap_usd": 3669899,
+    "market_cap_rank": 1213,
+    "24_hr_volume_usd": 460898,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97/logo.png"
+}

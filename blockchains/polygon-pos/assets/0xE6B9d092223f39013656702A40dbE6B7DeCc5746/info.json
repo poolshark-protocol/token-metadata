@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped BTC",
+    "symbol": "anyWBTC",
+    "id": "0xE6B9d092223f39013656702A40dbE6B7DeCc5746",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/realfevr",
+    "market_cap_usd": 4764144,
+    "market_cap_rank": 1096,
+    "24_hr_volume_usd": 14109.45,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xE6B9d092223f39013656702A40dbE6B7DeCc5746/logo.png"
+}

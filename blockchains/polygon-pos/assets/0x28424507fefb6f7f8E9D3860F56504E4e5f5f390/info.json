@@ -1,0 +1,11 @@
+{
+    "name": "Aave Matic Market WETH",
+    "symbol": "amWETH",
+    "id": "0x28424507fefb6f7f8E9D3860F56504E4e5f5f390",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-polygon-weth",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x28424507fefb6f7f8E9D3860F56504E4e5f5f390/logo.png"
+}

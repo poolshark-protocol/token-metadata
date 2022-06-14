@@ -1,0 +1,11 @@
+{
+    "name": "Shardus (PoS)",
+    "symbol": "ULT",
+    "id": "0xf0059CC2b3E980065A906940fbce5f9Db7ae40A7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/shardus",
+    "market_cap_usd": 5413103,
+    "market_cap_rank": 1036,
+    "24_hr_volume_usd": 59307,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xf0059CC2b3E980065A906940fbce5f9Db7ae40A7/logo.png"
+}

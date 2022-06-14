@@ -1,0 +1,11 @@
+{
+    "name": "BakedToken (PoS)",
+    "symbol": "BAKED",
+    "id": "0x32515ffdc3a84cfbf9AD4dB14EF8f0A535c7Afd6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/baked-token",
+    "market_cap_usd": 271615,
+    "market_cap_rank": 2635,
+    "24_hr_volume_usd": 3152.32,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x32515ffdc3a84cfbf9AD4dB14EF8f0A535c7Afd6/logo.png"
+}

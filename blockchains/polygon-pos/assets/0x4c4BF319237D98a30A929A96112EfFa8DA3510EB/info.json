@@ -1,0 +1,11 @@
+{
+    "name": "WaultSwap Polygon",
+    "symbol": "WEXpoly",
+    "id": "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/waultswap-polygon",
+    "market_cap_usd": 259664,
+    "market_cap_rank": 2663,
+    "24_hr_volume_usd": 519.63,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4c4BF319237D98a30A929A96112EfFa8DA3510EB/logo.png"
+}

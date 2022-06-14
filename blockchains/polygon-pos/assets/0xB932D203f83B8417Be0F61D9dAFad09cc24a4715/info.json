@@ -1,0 +1,12 @@
+{
+    "name": "CAT",
+    "symbol": "CAT",
+    "id": "0xB932D203f83B8417Be0F61D9dAFad09cc24a4715",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mcat",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2675.33,
+    "public_notice": "The following token has a variable tax function on the smart contract - which allows contract owners to <a href=\"https://support.coingecko.com/support/solutions/articles/72000524399-what-are-variable-taxes-on-smart-contracts-\">change tax rates post deployment</a>. <br>Do your own research and be careful if you are trading this token.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xB932D203f83B8417Be0F61D9dAFad09cc24a4715/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Staked Ice Tokens",
+    "symbol": "anynICE",
+    "id": "0x5fCB9de282Af6122ce3518CDe28B7089c9F97b26",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dehive",
+    "market_cap_usd": 407139,
+    "market_cap_rank": 2417,
+    "24_hr_volume_usd": 17667.04,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x5fCB9de282Af6122ce3518CDe28B7089c9F97b26/logo.png"
+}

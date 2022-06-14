@@ -1,0 +1,11 @@
+{
+    "name": "dotmoovs (PoS)",
+    "symbol": "MOOV",
+    "id": "0xe46F5128B933e5A6F907Fe73EcE80059c222DB0A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dotmoovs",
+    "market_cap_usd": 10483118,
+    "market_cap_rank": 812,
+    "24_hr_volume_usd": 1646409,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xe46F5128B933e5A6F907Fe73EcE80059c222DB0A/logo.png"
+}

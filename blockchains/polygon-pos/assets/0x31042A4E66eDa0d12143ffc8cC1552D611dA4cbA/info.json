@@ -1,0 +1,11 @@
+{
+    "name": "Morpheus Infrastructure Token (PoS)",
+    "symbol": "MITx",
+    "id": "0x31042A4E66eDa0d12143ffc8cC1552D611dA4cbA",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/morpheus-labs",
+    "market_cap_usd": 3430539,
+    "market_cap_rank": 1235,
+    "24_hr_volume_usd": 61397,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x31042A4E66eDa0d12143ffc8cC1552D611dA4cbA/logo.png"
+}

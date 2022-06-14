@@ -1,0 +1,11 @@
+{
+    "name": "ZeroSwapToken",
+    "symbol": "ZEE",
+    "id": "0xfd4959c06FbCc02250952DAEbf8e0Fb38cF9FD8C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zeroswap",
+    "market_cap_usd": 1523840,
+    "market_cap_rank": 1658,
+    "24_hr_volume_usd": 171405,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xfd4959c06FbCc02250952DAEbf8e0Fb38cF9FD8C/logo.png"
+}

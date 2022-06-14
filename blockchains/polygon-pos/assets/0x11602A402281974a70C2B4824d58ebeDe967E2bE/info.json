@@ -1,0 +1,12 @@
+{
+    "name": "Beyond Finance (PoS)",
+    "symbol": "BYN",
+    "id": "0x11602A402281974a70C2B4824d58ebeDe967E2bE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/beyond-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 16772.7,
+    "public_notice": "Beyond Finance has rebranded to BeyondFi",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x11602A402281974a70C2B4824d58ebeDe967E2bE/logo.png"
+}

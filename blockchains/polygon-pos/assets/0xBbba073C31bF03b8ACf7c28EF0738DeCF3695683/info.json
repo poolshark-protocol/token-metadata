@@ -1,0 +1,11 @@
+{
+    "name": "SAND",
+    "symbol": "SAND",
+    "id": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-sandbox",
+    "market_cap_usd": 1114077728,
+    "market_cap_rank": 47,
+    "24_hr_volume_usd": 552416012,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683/logo.png"
+}

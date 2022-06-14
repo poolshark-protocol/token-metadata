@@ -1,0 +1,11 @@
+{
+    "name": "Krida Fans",
+    "symbol": "KRIDA",
+    "id": "0x3c5A5885F6EE4aCC2597069FE3C19F49c6EfBA96",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/krida-fans",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2418.05,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3c5A5885F6EE4aCC2597069FE3C19F49c6EfBA96/logo.png"
+}

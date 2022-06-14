@@ -1,0 +1,12 @@
+{
+    "name": "MANUFACTORY",
+    "symbol": "MNFT",
+    "id": "0x39fC9e94Caeacb435842FADeDeCB783589F50f5f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kampay",
+    "market_cap_usd": 709534,
+    "market_cap_rank": 2092,
+    "24_hr_volume_usd": 60475,
+    "public_notice": "Kindly note that the old <a href=\\\"https://etherscan.io/token/0xf8d9fd49d0519a7b93f3ce80c2c070f1294ead26\\\">KAMPAY V1 (ERC-20)</a> has migrated to a new contract - <a href=\\\"https://bscscan.com/token/0x8e984e03ab35795c60242c902ece2450242c90e9\\\">KAMPAY (BSC)</a>. For more information, visit their  <a href=\"https://medium.com/kamari-coin/the-digital-currency-of-africa-kamari-2-0-on-binance-smart-chain-7963bd6cf27b\">official Medium post</a>",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x39fC9e94Caeacb435842FADeDeCB783589F50f5f/logo.png"
+}

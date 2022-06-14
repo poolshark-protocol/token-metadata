@@ -1,0 +1,11 @@
+{
+    "name": "Blockchain Adventurers Guild [BAG Bridge]",
+    "symbol": "BAG",
+    "id": "0xB1d82666384bE5F8C59AA18e650493ABb8A614Ad",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/blockchain-adventurers-guild",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xB1d82666384bE5F8C59AA18e650493ABb8A614Ad/logo.png"
+}

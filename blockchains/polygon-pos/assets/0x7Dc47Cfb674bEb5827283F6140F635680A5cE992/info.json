@@ -1,0 +1,11 @@
+{
+    "name": "Bollycoin (PoS)",
+    "symbol": "BOLLY",
+    "id": "0x7Dc47Cfb674bEb5827283F6140F635680A5cE992",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bollycoin",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 840.53,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x7Dc47Cfb674bEb5827283F6140F635680A5cE992/logo.png"
+}

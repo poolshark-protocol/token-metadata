@@ -1,0 +1,11 @@
+{
+    "name": "The Space",
+    "symbol": "SPACE",
+    "id": "0x264808855b0a6A5a318D238C6ee9F299179f27FC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-space",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 90.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x264808855b0a6A5a318D238C6ee9F299179f27FC/logo.png"
+}

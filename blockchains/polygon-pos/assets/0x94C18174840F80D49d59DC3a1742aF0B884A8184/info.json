@@ -1,0 +1,11 @@
+{
+    "name": "SwapMatic Token (PoS)",
+    "symbol": "SWAM",
+    "id": "0x94C18174840F80D49d59DC3a1742aF0B884A8184",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/swapmatic",
+    "market_cap_usd": 10575.45,
+    "market_cap_rank": 3692,
+    "24_hr_volume_usd": 5.86,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x94C18174840F80D49d59DC3a1742aF0B884A8184/logo.png"
+}

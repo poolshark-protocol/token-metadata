@@ -1,0 +1,11 @@
+{
+    "name": "TrustSwap Token (PoS)",
+    "symbol": "SWAP",
+    "id": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/trustswap",
+    "market_cap_usd": 18294728,
+    "market_cap_rank": 640,
+    "24_hr_volume_usd": 2303969,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F/logo.png"
+}

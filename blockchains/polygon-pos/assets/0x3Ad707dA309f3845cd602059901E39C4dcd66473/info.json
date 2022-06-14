@@ -1,0 +1,11 @@
+{
+    "name": "ETH 2x Flexible Leverage Index",
+    "symbol": "ETH2x-FLI-P",
+    "id": "0x3Ad707dA309f3845cd602059901E39C4dcd66473",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/index-coop-eth-2x-flexible-leverage-index",
+    "market_cap_usd": 441211,
+    "market_cap_rank": 2380,
+    "24_hr_volume_usd": 102012,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x3Ad707dA309f3845cd602059901E39C4dcd66473/logo.png"
+}

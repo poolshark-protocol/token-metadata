@@ -1,0 +1,11 @@
+{
+    "name": "Genesis",
+    "symbol": "GENESIS",
+    "id": "0x51869836681BcE74a514625c856aFb697a013797",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/genesis-worlds",
+    "market_cap_usd": 231982,
+    "market_cap_rank": 2715,
+    "24_hr_volume_usd": 427.48,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x51869836681BcE74a514625c856aFb697a013797/logo.png"
+}

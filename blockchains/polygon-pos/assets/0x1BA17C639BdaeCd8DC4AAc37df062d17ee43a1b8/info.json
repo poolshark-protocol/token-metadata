@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Ixs Token",
+    "symbol": "WIXS",
+    "id": "0x1BA17C639BdaeCd8DC4AAc37df062d17ee43a1b8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ix-swap",
+    "market_cap_usd": 3408551,
+    "market_cap_rank": 1246,
+    "24_hr_volume_usd": 36874,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x1BA17C639BdaeCd8DC4AAc37df062d17ee43a1b8/logo.png"
+}

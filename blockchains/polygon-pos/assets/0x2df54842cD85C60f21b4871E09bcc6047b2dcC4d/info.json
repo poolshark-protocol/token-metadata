@@ -1,0 +1,11 @@
+{
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "id": "0x2df54842cD85C60f21b4871E09bcc6047b2dcC4d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/immortl",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1248.82,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2df54842cD85C60f21b4871E09bcc6047b2dcC4d/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Jarvis Synthetic Singapore Dollar",
+    "symbol": "jSGD",
+    "id": "0xa926db7a4CC0cb1736D5ac60495ca8Eb7214B503",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jarvis-synthetic-singapore-dollar",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xa926db7a4CC0cb1736D5ac60495ca8Eb7214B503/logo.png"
+}

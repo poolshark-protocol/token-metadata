@@ -1,0 +1,11 @@
+{
+    "name": "Ankr (PoS)",
+    "symbol": "ANKR",
+    "id": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ankr",
+    "market_cap_usd": 213714468,
+    "market_cap_rank": 142,
+    "24_hr_volume_usd": 31420233,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x101A023270368c0D50BFfb62780F4aFd4ea79C35/logo.png"
+}
