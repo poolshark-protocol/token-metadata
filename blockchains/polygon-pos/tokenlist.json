@@ -1,4 +1,39 @@
 {
+    "listed_tokens": [
+        {
+            "name": "ChainLink Token",
+            "symbol": "LINK",
+            "id": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/chainlink",
+            "market_cap_usd": 9610528460,
+            "market_cap_rank": 22,
+            "24_hr_volume_usd": 654062882,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+        },
+        {
+            "name": "(PoS) Decentraland MANA",
+            "symbol": "MANA",
+            "id": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/decentraland",
+            "market_cap_usd": 4463835942,
+            "market_cap_rank": 45,
+            "24_hr_volume_usd": 234444591,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
+        },
+        {
+            "name": "Aave (PoS)",
+            "symbol": "AAVE",
+            "id": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/aave",
+            "market_cap_usd": 3522312497,
+            "market_cap_rank": 51,
+            "24_hr_volume_usd": 258753519,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+        }
+    ],
     "search_tokens": [
         {
             "name": "(PoS) Tether USD",
