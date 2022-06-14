@@ -4,9 +4,9 @@
     "id": "0xC17c30e98541188614dF99239cABD40280810cA3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/everrise",
-    "market_cap_usd": 24685479,
-    "market_cap_rank": 557,
-    "24_hr_volume_usd": 101119,
+    "market_cap_usd": 24399110,
+    "market_cap_rank": 554,
+    "24_hr_volume_usd": 96325,
     "public_notice": "EverRise (RISE) has recently migrated from their <a href=\"https://bscscan.com/token/0x0cd022dde27169b20895e0e2b2b8a33b25e63579\">V2 contract</a> to a <a href=\"https://bscscan.com/token/0xc17c30e98541188614df99239cabd40280810ca3\">new V3 contract</a>. For more information, please view this <a href=\"https://everrise.com/post/everrise-v3-upgrate-complete/\">announcement</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xC17c30e98541188614dF99239cABD40280810cA3/logo.png"
 }

@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-ust",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 148053,
+    "24_hr_volume_usd": 140123,
     "public_notice": "The original Terra Chain will be rebranded as Terra Classic. Please visit this <a href=\"https://docs.terra.money/docs/migration/exchange-migration.html\">post</a> and <a href=\"https://twitter.com/terra_money/status/1529451631263174656\">Twitter annoucement</a> for more info.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x692597b009d13C4049a947CAB2239b7d6517875F/logo.png"
 }

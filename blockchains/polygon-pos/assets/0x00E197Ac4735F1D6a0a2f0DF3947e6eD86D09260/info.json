@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/frmx-token",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 31521,
+    "24_hr_volume_usd": 31143,
     "public_notice": "FRMx Token (FRMX) has recently migrated from Binance Chain (BEP2) to a <a href=\"https://bscscan.com/token/0x8523518001ad5d24b2a04e8729743c0643a316c0\">new contract</a> on BSC (BEP20). For more information, please view this announcement on <a href=\"https://medium.com/ferrumnetwork/frm-frmx-to-launch-on-bsc-frm-bep2-to-bep20-migration-62bbb94ebb3b\">Medium</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x00E197Ac4735F1D6a0a2f0DF3947e6eD86D09260/logo.png"
 }

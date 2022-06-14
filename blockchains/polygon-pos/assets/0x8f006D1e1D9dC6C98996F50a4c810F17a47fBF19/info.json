@@ -4,9 +4,9 @@
     "id": "0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pleasure-coin",
-    "market_cap_usd": 3389893,
-    "market_cap_rank": 1254,
-    "24_hr_volume_usd": 138350,
+    "market_cap_usd": 3386901,
+    "market_cap_rank": 1253,
+    "24_hr_volume_usd": 131728,
     "public_notice": "xxxNifty (NSFW) has recently rebranded to Pleasure Coin (NSFW) and migrated from their <a href=\"https://bscscan.com/token/0x9daaa05946e486add2c81e0d32d936866b8449d9\">old contract on BSC</a> to <a href=\"https://polygonscan.com/token/0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19\">new Polygon contract</a> . For more information, please view this <a href=\"https://twitter.com/Pleasure_coin/status/1505898440533975047?s=20&t=eZYO8cvv9RbP_h5dau9R3w\">announcement </a> on Twitter.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19/logo.png"
 }

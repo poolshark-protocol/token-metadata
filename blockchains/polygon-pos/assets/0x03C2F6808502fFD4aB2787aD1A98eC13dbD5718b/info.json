@@ -4,9 +4,9 @@
     "id": "0x03C2F6808502fFD4aB2787aD1A98eC13dbD5718b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/clintex-cti",
-    "market_cap_usd": 549436,
-    "market_cap_rank": 2246,
-    "24_hr_volume_usd": 2138538,
+    "market_cap_usd": 551698,
+    "market_cap_rank": 2239,
+    "24_hr_volume_usd": 2121699,
     "public_notice": "ClinTex has recently migrated from their <a href=\"https://etherscan.io/token/0x8c18d6a985ef69744b9d57248a45c0861874f244\">old contract</a> to a <a href=\"https://etherscan.io/token/0xcB8fb2438A805664cD8c3e640b85AC473DA5BE87\">new one</a>. For more information, please visit this <a href=\"https://clintexcti.medium.com/cti2-0-is-live-67f92a0e8fe8\">post</a>.<br>The smart-contract owner can mint new tokens, please proceed with caution.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x03C2F6808502fFD4aB2787aD1A98eC13dbD5718b/logo.png"
 }

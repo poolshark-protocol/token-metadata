@@ -4,9 +4,9 @@
     "id": "0x5E0294Af1732498C77F8dB015a2d52a76298542B",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/orion-money",
-    "market_cap_usd": 326726,
-    "market_cap_rank": 2542,
-    "24_hr_volume_usd": 14819.83,
+    "market_cap_usd": 323454,
+    "market_cap_rank": 2543,
+    "24_hr_volume_usd": 14574.62,
     "public_notice": "Orion Money (ORION) has recently migrated from their <a href=\"https://bscscan.com/token/0x5530ec23f4ee1521182bd158c09f4ca7efec1ef0\">old BSC contract</a> to a <a href=\"https://bscscan.com/token/0x3dcb18569425930954feb191122e574b87f66abd\">new one (Wormhole)</a>. For more information, please view this <a href=\"https://twitter.com/orion_money/status/1481629917628571656\">announcement<a/> on Twitter.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x5E0294Af1732498C77F8dB015a2d52a76298542B/logo.png"
 }

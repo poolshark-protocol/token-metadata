@@ -4,9 +4,9 @@
     "id": "0x187Ae45f2D361CbCE37c6A8622119c91148F261b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polylastic",
-    "market_cap_usd": 755192,
-    "market_cap_rank": 2049,
-    "24_hr_volume_usd": 218256,
+    "market_cap_usd": 763796,
+    "market_cap_rank": 2040,
+    "24_hr_volume_usd": 221191,
     "public_notice": "Polylastic (POLX) has recently migrated from their <a href=\"https://bscscan.com/token/0xbe510da084E084e3C27b20D79C135Dc841135c7F\">V2 contract</a> on BSC to a new <a href=\"https://polygonscan.com/token/0x187ae45f2d361cbce37c6a8622119c91148f261b\">V3 contract</a> on Polygon. For more information, please view this <a href=\"https://polylastic.medium.com/polylastic-v3-token-upgrade-8257b4e38cd4\">announcement<a/> on Medium.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x187Ae45f2D361CbCE37c6A8622119c91148F261b/logo.png"
 }

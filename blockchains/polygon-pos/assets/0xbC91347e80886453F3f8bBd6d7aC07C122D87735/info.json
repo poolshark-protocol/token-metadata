@@ -4,9 +4,9 @@
     "id": "0xbC91347e80886453F3f8bBd6d7aC07C122D87735",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/banana",
-    "market_cap_usd": 4426097,
-    "market_cap_rank": 1118,
-    "24_hr_volume_usd": 8522.35,
+    "market_cap_usd": 4398573,
+    "market_cap_rank": 1122,
+    "24_hr_volume_usd": 8549.58,
     "public_notice": "$BANANA has migrated from <a href=\"https://etherscan.io/token/0xe2311ae37502105b442bbef831e9b53c5d2e9b3b\">old contract</a> to <a href=\"<https://etherscan.io/token/0x94e496474f1725f1c1824cb5bdb92d7691a4f03a\">new contract</a>. Read more at: https://cyberkongz.medium.com/play-kollect-is-coming-f91d3a6a39d0",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xbC91347e80886453F3f8bBd6d7aC07C122D87735/logo.png"
 }

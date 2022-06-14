@@ -4,9 +4,9 @@
     "id": "0x613a489785C95afEB3b404CC41565cCff107B6E0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/radioshack",
-    "market_cap_usd": 48786759,
-    "market_cap_rank": 383,
-    "24_hr_volume_usd": 1342770,
+    "market_cap_usd": 48106046,
+    "market_cap_rank": 382,
+    "24_hr_volume_usd": 1216239,
     "public_notice": "The smart-contract owner can mint new tokens, please proceed with caution.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x613a489785C95afEB3b404CC41565cCff107B6E0/logo.png"
 }

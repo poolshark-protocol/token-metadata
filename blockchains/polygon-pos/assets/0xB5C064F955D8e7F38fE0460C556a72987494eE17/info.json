@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/quickswap",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 120906,
+    "24_hr_volume_usd": 124392,
     "public_notice": "Quickswap has redenominated to a 1:1000 ratio. Read more at: https://quickswap-layer2.medium.com/how-to-convert-your-old-quick-to-new-quick-1000x-your-holdings-9443463290a4",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xB5C064F955D8e7F38fE0460C556a72987494eE17/logo.png"
 }

@@ -4,9 +4,9 @@
     "id": "0xFFb89d7637Cf4860884ED48b57Ae5562bF64e10F",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/pikachu",
-    "market_cap_usd": 2190839,
-    "market_cap_rank": 1486,
-    "24_hr_volume_usd": 3286.72,
+    "market_cap_usd": 2159266,
+    "market_cap_rank": 1489,
+    "24_hr_volume_usd": 3199.38,
     "public_notice": "Pika has upgraded its smart contract. Old smart contract: 0xa682ee16b497afceedf47e4820fc2af3845fd2d2. New smart contract: 0x60f5672a271c7e39e787427a18353ba59a4a3578",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xFFb89d7637Cf4860884ED48b57Ae5562bF64e10F/logo.png"
 }

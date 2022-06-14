@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/verse",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2758.04,
+    "24_hr_volume_usd": 2676.34,
     "public_notice": "Verse has recently migrated from their <a href=\"https://etherscan.io/token/0xe18841d7a75866688e291703bde66c3378bd74a3\">old contract</a> to a <a href=\"https://polygonscan.com/token/0x48c97cf0a3837106cb58009d308df4dfabe441c7\">new one</a>. For more information, please visit their <a href=\"https://www.aidiverse.com/home#tokens\">website</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x48C97cf0A3837106Cb58009D308DF4DfAbe441C7/logo.png"
 }

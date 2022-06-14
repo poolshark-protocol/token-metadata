@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/decentralized-universal-basic-income",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 212.34,
+    "24_hr_volume_usd": 216.62,
     "public_notice": "Decentralized Universal Basic Income (DUBI) has migrated from their old contracts (on <a href=\"https://etherscan.io/token/0xF3D6Af45C6dFeC43216CC3347Ea91fEfBa0849D1\">ETH</a> and <a href=\"https://bscscan.com/token/0x9e40868e8024aa52433ad3af311dba88ff8c86bd\">BSC</a>) to a new <a href=\"https://polygonscan.com/token/0x950e1561B7A7dEB1A32A6419FD435410daf851B0\">Polygon contract</a> . For more information, please visit their <a href=\"https://prps.io/\">website</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x950e1561B7A7dEB1A32A6419FD435410daf851B0/logo.png"
 }

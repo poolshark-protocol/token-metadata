@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/rematicegc",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2287.64,
+    "24_hr_volume_usd": 2347.64,
     "public_notice": "RematicEGC has recently migrated from their <a href=\"https://bscscan.com/token/0x0c01099f3d4c920504E577bd7617F0D7c53cD8Df\">old contract</a> to a <a href=\"https://bscscan.com/token/0x7f372df070880bc9b84d317921bbec8c30124770\">new one</a>. For more information, please visit this <a href=\"https://twitter.com/RematicEGC/status/1501938300352806918\">post</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x0A47Bf9672a5E235819A807aF2fDE6246E8B0e89/logo.png"
 }

@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/coinpoker",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 10687.21,
+    "24_hr_volume_usd": 10664.14,
     "public_notice": "CoinPoker has migrated from the <a href=\"https://etherscan.io/token/0xf3db7560e820834658b590c96234c333cd3d5e5e\">old contract</a> to a <a href=\"https://etherscan.io/token/0x0a6e18fb2842855c3af925310b0f50a4bfa17909\">new one</a>. The new token is bridged to Polygon as well.\u00a0Read more at their <a href=\"https://blog.coinpoker.com/chp-token-swap/\">Medium</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x59B5654a17Ac44F3068b3882F298881433bB07Ef/logo.png"
 }

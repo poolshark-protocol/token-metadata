@@ -1,11 +1,11 @@
 {
     "name": "Route",
-    "symbol": "ROUTE",
+    "symbol": "ROUTE (PoS)",
     "id": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/route",
-    "market_cap_usd": 12248658,
-    "market_cap_rank": 770,
-    "24_hr_volume_usd": 7174061,
+    "market_cap_usd": 11824354,
+    "market_cap_rank": 776,
+    "24_hr_volume_usd": 7316401,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4/logo.png"
 }

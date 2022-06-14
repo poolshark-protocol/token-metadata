@@ -4,9 +4,9 @@
     "id": "0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/ferrum-network",
-    "market_cap_usd": 3123902,
-    "market_cap_rank": 1303,
-    "24_hr_volume_usd": 340169,
+    "market_cap_usd": 3112055,
+    "market_cap_rank": 1294,
+    "24_hr_volume_usd": 330695,
     "public_notice": "Ferrum Network (FRM) has recently migrated from Binance Chain (BEP2) to a <a href=\"https://bscscan.com/token/0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc\">new contract</a> on BSC (BEP20). For more information, please view this announcement on <a href=\"https://medium.com/ferrumnetwork/frm-frmx-to-launch-on-bsc-frm-bep2-to-bep20-migration-62bbb94ebb3b\">Medium</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xd99baFe5031cC8B345cb2e8c80135991F12D7130/logo.png"
 }

@@ -4,9 +4,9 @@
     "id": "0x4F6cbacA3151f7746273004Fd7295933a9b70E69",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/omniwhirl",
-    "market_cap_usd": 51551,
-    "market_cap_rank": 3375,
-    "24_hr_volume_usd": 10.5,
+    "market_cap_usd": 50610,
+    "market_cap_rank": 3380,
+    "24_hr_volume_usd": 10.31,
     "public_notice": "PolyWhirl has rebranded to OmniWhirl and has migrated to a new contract address (0x4f6cbaca3151f7746273004fd7295933a9b70e69). For more information, please read: https://omniwhirl.medium.com/omniwhirl-migration-guide-7c4948c8573f",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x4F6cbacA3151f7746273004Fd7295933a9b70E69/logo.png"
 }

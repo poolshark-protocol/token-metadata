@@ -4,9 +4,9 @@
     "id": "0xC250e9987A032ACAC293d838726C511E6E1C029d",
     "decimals": 9,
     "coingecko_url": "https://www.coingecko.com/en/coins/otterclam",
-    "market_cap_usd": 1205023,
-    "market_cap_rank": 1791,
-    "24_hr_volume_usd": 13999.01,
+    "market_cap_usd": 1204663,
+    "market_cap_rank": 1784,
+    "24_hr_volume_usd": 12615.99,
     "public_notice": "OtterClam has migrated from the <a href=\"https://polygonscan.com/token/0x4d6a30efbe2e9d7a9c143fce1c5bb30d9312a465\">old contract</a> to a <a href=\"https://polygonscan.com/token/0xC250e9987A032ACAC293d838726C511E6E1C029d\">new one</a>. Read more on their Twitter.\u00a0",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xC250e9987A032ACAC293d838726C511E6E1C029d/logo.png"
 }

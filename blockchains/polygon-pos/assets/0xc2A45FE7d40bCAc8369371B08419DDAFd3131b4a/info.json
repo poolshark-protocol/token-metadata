@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/lucidao",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 2467.85,
+    "24_hr_volume_usd": 2704.43,
     "public_notice": "Lucidao (LCD) has migrated from their <a href=\"https://ftmscan.com/token/0xc2a45fe7d40bcac8369371b08419ddafd3131b4a\">old Fantom contract</a> to a <a href=\"https://polygonscan.com/token/0xc2a45fe7d40bcac8369371b08419ddafd3131b4a\">new one on Polygon</a> . For more information please view this <a href=\"https://twitter.com/Lucidao_/status/1524028855605989376\">announcement</a> on Twitter.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a/logo.png"
 }

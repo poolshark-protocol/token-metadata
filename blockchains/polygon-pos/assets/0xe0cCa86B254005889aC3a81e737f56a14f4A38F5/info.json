@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/alta-finance",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 72198,
+    "24_hr_volume_usd": 71977,
     "public_notice": "AltaFin has rebranded to Alta Finance and\u00a0migrated from the <a href=\"https://etherscan.io/token/0xe46f290cd59195a83e757891430d8d517d16b334\">old contract</a> to a <a href=\"https://etherscan.io/token/0xe0cca86b254005889ac3a81e737f56a14f4a38f5\">new one</a>. Read more at their <a href=\"https://alta.finance/updates/altafin-is-rebranding-to-alta-finance\">website</a>.\u00a0",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xe0cCa86B254005889aC3a81e737f56a14f4A38F5/logo.png"
 }

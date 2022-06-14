@@ -4,9 +4,9 @@
     "id": "0x086373fad3447F7F86252fb59d56107e9E0FaaFa",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/yup",
-    "market_cap_usd": 98255,
-    "market_cap_rank": 3154,
-    "24_hr_volume_usd": 6325.63,
+    "market_cap_usd": 94950,
+    "market_cap_rank": 3162,
+    "24_hr_volume_usd": 6143.69,
     "public_notice": "YUP has migrated from EOS to Ethereum. Refer to https://medium.com/@yup./introducing-yup-9408fa37335d",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x086373fad3447F7F86252fb59d56107e9E0FaaFa/logo.png"
 }

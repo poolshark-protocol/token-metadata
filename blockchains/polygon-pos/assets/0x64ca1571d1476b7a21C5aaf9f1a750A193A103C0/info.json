@@ -4,9 +4,9 @@
     "id": "0x64ca1571d1476b7a21C5aaf9f1a750A193A103C0",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/bondly",
-    "market_cap_usd": 5908024,
-    "market_cap_rank": 999,
-    "24_hr_volume_usd": 353026,
+    "market_cap_usd": 5838103,
+    "market_cap_rank": 1005,
+    "24_hr_volume_usd": 349953,
     "public_notice": "Bondly has rebranded to Forj. Read more at: https://www.animocabrands.com/bondly-finance-announces-strategic-rebrand-to-forj",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x64ca1571d1476b7a21C5aaf9f1a750A193A103C0/logo.png"
 }

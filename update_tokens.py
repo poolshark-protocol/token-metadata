@@ -14,7 +14,7 @@ print(w3.isConnected())
 erc20_file = open('abis/ERC20.json')
 erc20_abi = json.load(erc20_file)
 supported_chains = ['polygon-pos']
-new_tokens_only = True
+new_tokens_only = False
 search_tokens_blacklist = ['RealT Token', 
                            'RealToken', 
                            'All.me', 
@@ -79,11 +79,13 @@ for chain in supported_chains:
                 #############################
 
                 if not os.path.exists(path + '/info.json'):
-                    too_many_requests = True
                 
                     try:  
                         token['name'] = contract.functions.name().call()
                     except:
+                        print('name() failed for' + json.dumps(coin) + '..using coingecko name value..')
+                        token['name'] = coin['name']
+                    if name == '':
                         print('name() failed for' + json.dumps(coin) + '..using coingecko name value..')
                         token['name'] = coin['name']
 
@@ -119,6 +121,7 @@ for chain in supported_chains:
                 #############################
                 ###### COINGECKO INFO #######
                 #############################
+                too_many_requests = True
                 
                 while too_many_requests:
                     try:
@@ -159,9 +162,13 @@ for chain in supported_chains:
             else:
                 print('skipped token')
 
-    f = open('blockchains/' + chain + '/tokenlist.json','r')
-    print(time.time())
-    tokenlist = json.load(f)
-    tokenlist['search_tokens'] = tokens[chain] + tokenlist['search_tokens']
+    if os.path.exists('blockchains/' + chain + '/tokenlist.json'):
+        f = open('blockchains/' + chain + '/tokenlist.json','r')
+        print(time.time())
+        tokenlist = json.load(f)
+        tokenlist['search_tokens'] = tokens[chain] + tokenlist['search_tokens']
+    else:
+        tokenlist = {}
+        tokenlist['search_tokens'] = tokens[chain]
     fw = open('blockchains' + '/' + chain + '/tokenlist.json','w+')
     fw.write(json.dumps(tokenlist, indent=4))

@@ -1,11 +1,11 @@
 {
-    "name": "Bat True Dollar",
-    "symbol": "BTD",
+    "name": "beefy.finance",
+    "symbol": "BIFI",
     "id": "0xFbdd194376de19a88118e84E279b977f165d01b8",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/beefy-finance",
-    "market_cap_usd": 33805993,
-    "market_cap_rank": 480,
-    "24_hr_volume_usd": 4011986,
+    "market_cap_usd": 32704443,
+    "market_cap_rank": 484,
+    "24_hr_volume_usd": 3763105,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xFbdd194376de19a88118e84E279b977f165d01b8/logo.png"
 }

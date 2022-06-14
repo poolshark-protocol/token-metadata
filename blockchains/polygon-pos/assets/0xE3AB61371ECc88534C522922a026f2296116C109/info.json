@@ -1,11 +1,11 @@
 {
-    "name": "DeFiner",
-    "symbol": "anyFIN",
+    "name": "MOchi MArket",
+    "symbol": "MOMA",
     "id": "0xE3AB61371ECc88534C522922a026f2296116C109",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mochi-market",
-    "market_cap_usd": 113264,
-    "market_cap_rank": 3089,
-    "24_hr_volume_usd": 4816.33,
+    "market_cap_usd": 121768,
+    "market_cap_rank": 3045,
+    "24_hr_volume_usd": 5889.16,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xE3AB61371ECc88534C522922a026f2296116C109/logo.png"
 }

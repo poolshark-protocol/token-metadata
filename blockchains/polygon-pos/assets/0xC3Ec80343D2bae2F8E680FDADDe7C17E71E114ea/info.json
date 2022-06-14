@@ -4,9 +4,9 @@
     "id": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/mantra-dao",
-    "market_cap_usd": 18208948,
-    "market_cap_rank": 645,
-    "24_hr_volume_usd": 1904446,
+    "market_cap_usd": 18042221,
+    "market_cap_rank": 642,
+    "24_hr_volume_usd": 1860464,
     "public_notice": "MantraDAO is conducting a 1:1 token migration to a new contract. More details here: https://mantradao.medium.com/om-token-v2-migration-step-by-step-guide-e26e04196d29",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea/logo.png"
 }

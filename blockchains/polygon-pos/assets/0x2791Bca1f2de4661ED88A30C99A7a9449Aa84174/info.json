@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "symbol": "",
+    "name": "USD Coin (PoS)",
+    "symbol": "USDC",
     "id": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-    "decimals": 18,
+    "decimals": 6,
     "coingecko_url": "https://www.coingecko.com/en/coins/usd-coin",
-    "market_cap_usd": 54349400523,
+    "market_cap_usd": 54220961545,
     "market_cap_rank": 4,
-    "24_hr_volume_usd": 12843571606,
+    "24_hr_volume_usd": 11635200033,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
 }

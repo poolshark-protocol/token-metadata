@@ -1,11 +1,11 @@
 {
-    "name": "Faceter Token",
-    "symbol": "anyFACE",
+    "name": "PolkaParty",
+    "symbol": "POLP",
     "id": "0x2d72A97a31Dc920dB03330780d30074626e39C8A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polkaparty",
-    "market_cap_usd": 372410,
-    "market_cap_rank": 2473,
-    "24_hr_volume_usd": 1570.97,
+    "market_cap_usd": 360780,
+    "market_cap_rank": 2478,
+    "24_hr_volume_usd": 752.2,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x2d72A97a31Dc920dB03330780d30074626e39C8A/logo.png"
 }

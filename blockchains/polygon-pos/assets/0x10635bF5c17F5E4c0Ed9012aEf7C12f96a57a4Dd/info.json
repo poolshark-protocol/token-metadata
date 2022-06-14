@@ -4,9 +4,9 @@
     "id": "0x10635bF5c17F5E4c0Ed9012aEf7C12f96a57a4Dd",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/tapmydata",
-    "market_cap_usd": 248606,
-    "market_cap_rank": 2683,
-    "24_hr_volume_usd": 7003.46,
+    "market_cap_usd": 244356,
+    "market_cap_rank": 2690,
+    "24_hr_volume_usd": 6735.14,
     "public_notice": "Tapmydata (TAP) has rebranded to Tapx (TAP). For more information, please view this <a href=\"https://medium.com/tapx/we-are-evolving-tapmydata-rebrands-into-tapx-e0d7683bb91b\">announcement</a> on Medium.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x10635bF5c17F5E4c0Ed9012aEf7C12f96a57a4Dd/logo.png"
 }

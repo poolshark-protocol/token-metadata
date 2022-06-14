@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/pddollar",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 38754,
+    "24_hr_volume_usd": 35590,
     "public_notice": "The following token has a variable tax function on the smart contract - which allows contract owners to <a href=\"https://support.coingecko.com/support/solutions/articles/72000524399-what-are-variable-taxes-on-smart-contracts-\">change tax rates post deployment</a>. <br>Do your own research and be careful if you are trading this token. The smart-contract protocol/ owner can mint new tokens, please proceed with caution.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x146e58D34EaB0bFf7e0a63cfe9332908d680c667/logo.png"
 }

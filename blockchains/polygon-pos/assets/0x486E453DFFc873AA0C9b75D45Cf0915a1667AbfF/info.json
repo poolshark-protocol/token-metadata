@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/orica",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 167.74,
+    "24_hr_volume_usd": 164.12,
     "public_notice": "Orica has recently migrated from their <a href=\"https://bscscan.com/token/0x3045d1A840364c3657b8Df6c6F86a4359c23472B\">old contract</a> to a <a href=\"https://polygonscan.com/token/0x486E453DFFc873AA0C9b75D45Cf0915a1667AbfF\">new one</a>. For more information, please visit this <a href=\"https://orica.io/token-v2\">post</a>.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x486E453DFFc873AA0C9b75D45Cf0915a1667AbfF/logo.png"
 }

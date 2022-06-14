@@ -1,11 +1,11 @@
 {
-    "name": "FevrToken",
-    "symbol": "FEVR",
+    "name": "Binance-Peg BUSD Token",
+    "symbol": "BUSD",
     "id": "0x9fB83c0635De2E815fd1c21b3a292277540C2e8d",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/binance-usd",
-    "market_cap_usd": 17398087629,
+    "market_cap_usd": 17299195243,
     "market_cap_rank": 6,
-    "24_hr_volume_usd": 11594829964,
+    "24_hr_volume_usd": 8945716045,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x9fB83c0635De2E815fd1c21b3a292277540C2e8d/logo.png"
 }

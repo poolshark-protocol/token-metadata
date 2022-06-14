@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "symbol": "",
+    "name": "LUXY",
+    "symbol": "LUXY",
     "id": "0xD4945a3D0De9923035521687D4bf18cC9B0c7c2A",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/luxy",
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
-    "24_hr_volume_usd": 27042,
+    "24_hr_volume_usd": 27222,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xD4945a3D0De9923035521687D4bf18cC9B0c7c2A/logo.png"
 }

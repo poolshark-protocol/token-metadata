@@ -1,11 +1,11 @@
 {
     "name": "Multichain",
-    "symbol": "anyMULTI",
+    "symbol": "MULTI",
     "id": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/multichain",
-    "market_cap_usd": 64487311,
-    "market_cap_rank": 326,
-    "24_hr_volume_usd": 3901590,
+    "market_cap_usd": 63540667,
+    "market_cap_rank": 324,
+    "24_hr_volume_usd": 3962212,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3/logo.png"
 }

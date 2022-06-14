@@ -6,7 +6,7 @@
     "coingecko_url": "https://www.coingecko.com/en/coins/libre-defi",
     "market_cap_usd": 18839.64,
     "market_cap_rank": 3593,
-    "24_hr_volume_usd": 49.28,
+    "24_hr_volume_usd": 49.22,
     "public_notice": "LibreDeFi has suffered from an exploit. Please proceed with caution. For more information, kindly visit this <a href=\"https://libredefi.medium.com/libre-post-mortem-announcement-b832b7aa0f2d\">announcement</a>. <br> Libre DeFi\u00a0has recently expanded to Polygon and Avalanche. More can be found on their Twitter.",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xF52d69BC301BE21cbed7D3ca652D1708FF8a1162/logo.png"
 }

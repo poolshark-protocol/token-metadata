@@ -1,11 +1,11 @@
 {
-    "name": "Amun DeFi Index",
-    "symbol": "DFI",
+    "name": "Polygon Ecosystem Index",
+    "symbol": "PECO",
     "id": "0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/polygon-ecosystem-index",
-    "market_cap_usd": 183335,
-    "market_cap_rank": 2869,
-    "24_hr_volume_usd": 34027,
+    "market_cap_usd": 177533,
+    "market_cap_rank": 2874,
+    "24_hr_volume_usd": 30382,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978/logo.png"
 }

@@ -1,11 +1,11 @@
 {
-    "name": "DappRadar",
-    "symbol": "anyRADAR",
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
     "id": "0x49a0400587A7F65072c87c4910449fDcC5c47242",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/magic-internet-money",
-    "market_cap_usd": 316037488,
+    "market_cap_usd": 313434179,
     "market_cap_rank": 109,
-    "24_hr_volume_usd": 50814786,
+    "24_hr_volume_usd": 50444495,
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x49a0400587A7F65072c87c4910449fDcC5c47242/logo.png"
 }

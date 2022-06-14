@@ -5,8 +5,8 @@
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/axion",
     "market_cap_usd": 43431003,
-    "market_cap_rank": 416,
-    "24_hr_volume_usd": 300.42,
+    "market_cap_rank": 414,
+    "24_hr_volume_usd": 321.0,
     "public_notice": "Contract has been migrated from Ethereum to Polygon. For more information, visit https://twitter.com/axion_network/status/1450595405956276230",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/polygon-pos/assets/0x839F1a22A59eAAf26c85958712aB32F80FEA23d9/logo.png"
 }
