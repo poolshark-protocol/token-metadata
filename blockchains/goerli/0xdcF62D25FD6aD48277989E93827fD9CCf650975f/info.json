@@ -1,0 +1,11 @@
+{
+    "name": "Token20A",
+    "symbol": "TOKEN20A",
+    "id": "0xdcF62D25FD6aD48277989E93827fD9CCf650975f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/weth",
+    "market_cap_usd": 9610528460,
+    "market_cap_rank": 22,
+    "24_hr_volume_usd": 654062882,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+}
