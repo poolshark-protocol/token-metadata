@@ -13,6 +13,19 @@
             "market_cap_rank": 24,
             "24_hr_volume_usd": 284154686,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        }
+    ],
+    "search_tokens": [
+         {
+            "name": "Token20A",
+            "symbol": "TOKEN20A",
+            "id": "0x52167F1EC8940e5b8FC642bB86F3c0C6F0A4899D",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/dai",
+            "market_cap_usd": 8996817126,
+            "market_cap_rank": 24,
+            "24_hr_volume_usd": 284154686,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
         },
         {
             "name": "Token20B",
