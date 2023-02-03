@@ -17,7 +17,7 @@
         {
             "name": "Token20B",
             "symbol": "TOKEN20B",
-            "id": "0x52167F1EC8940e5b8FC642bB86F3c0C6F0A4899D",
+            "id": "0xdcF62D25FD6aD48277989E93827fD9CCf650975f",
             "decimals": 18,
             "coingecko_url": "https://www.coingecko.com/en/coins/weth",
             "market_cap_usd": 9610528460,
@@ -39,7 +39,7 @@
         {
             "name": "Decentraland MANA",
             "symbol": "MANA",
-            "id": "0x52167F1EC8940e5b8FC642bB86F3c0C6F0A4899D",
+            "id": "0xdcF62D25FD6aD48277989E93827fD9CCf650975f",
             "decimals": 18,
             "coingecko_url": "https://www.coingecko.com/en/coins/decentraland",
             "market_cap_usd": 4463835942,
@@ -50,7 +50,7 @@
         {
             "name": "Alchemix",
             "symbol": "ALCX",
-            "id": "0xdcF62D25FD6aD48277989E93827fD9CCf650975f",
+            "id": "0x52167F1EC8940e5b8FC642bB86F3c0C6F0A4899D",
             "decimals": 18,
             "coingecko_url": "https://www.coingecko.com/en/coins/alchemix",
             "market_cap_usd": 297420589,
@@ -61,7 +61,7 @@
         {
             "name": "USD Coin",
             "symbol": "USDC",
-            "id": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "id": "0x52167F1EC8940e5b8FC642bB86F3c0C6F0A4899D",
             "decimals": 6,
             "coingecko_url": "https://www.coingecko.com/en/coins/usd-coin",
             "market_cap_usd": 42469904448,
@@ -69,6 +69,17 @@
             "24_hr_volume_usd": 1863512605,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "id": "0x52167F1EC8940e5b8FC642bB86F3c0C6F0A4899D",
+            "decimals": 8,
+            "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-bitcoin",
+            "market_cap_usd": 12247348857,
+            "market_cap_rank": 17,
+            "24_hr_volume_usd": 307106685,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        }
     ],
     "search_tokens": [
          {
@@ -129,13 +140,35 @@
         {
             "name": "USD Coin",
             "symbol": "USDC",
-            "id": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "id": "0xdcF62D25FD6aD48277989E93827fD9CCf650975f",
             "decimals": 6,
             "coingecko_url": "https://www.coingecko.com/en/coins/usd-coin",
             "market_cap_usd": 42469904448,
             "market_cap_rank": 7,
             "24_hr_volume_usd": 1863512605,
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        },
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "id": "0xdcF62D25FD6aD48277989E93827fD9CCf650975f",
+            "decimals": 8,
+            "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-bitcoin",
+            "market_cap_usd": 12247348857,
+            "market_cap_rank": 17,
+            "24_hr_volume_usd": 307106685,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+        },
+        {
+            "name": "Search Test Token",
+            "symbol": "AAVE",
+            "id": "0xdcF62D25FD6aD48277989E93827fD9CCf650975f",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/aave",
+            "market_cap_usd": 3522312497,
+            "market_cap_rank": 51,
+            "24_hr_volume_usd": 258753519,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
         },
     ]
   }
