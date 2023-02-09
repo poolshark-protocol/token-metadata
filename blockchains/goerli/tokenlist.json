@@ -17,7 +17,7 @@
         {
             "name": "Token20B",
             "symbol": "TOKEN20B",
-            "id": "0xdcF62D25FD6aD48277989E93827fD9CCf650975f",
+            "id": "0x52167F1EC8940e5b8FC642bB86F3c0C6F0A4899D",
             "decimals": 18,
             "coingecko_url": "https://www.coingecko.com/en/coins/weth",
             "market_cap_usd": 9610528460,
