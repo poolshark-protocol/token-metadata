@@ -1,0 +1,30 @@
+{
+    "name": "Goerli",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/goerli/logo.png",
+    "timestamp": "2023-01-02 07:52:09.408963",
+    "listed_tokens": [
+        {
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "id": "0x7024879Eda80577Cbc0Cb039ad3c7081f38ABb41",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/dai",
+            "market_cap_usd": 8996817126,
+            "market_cap_rank": 24,
+            "24_hr_volume_usd": 284154686,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "name": "Wrapper Ether",
+            "symbol": "WETH",
+            "id": "0xA826F06C47597549faa74D8916EF4Da8f417F16c",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/weth",
+            "market_cap_usd": 9610528460,
+            "market_cap_rank": 22,
+            "24_hr_volume_usd": 654062882,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        }
+    ]
+  }
+  
