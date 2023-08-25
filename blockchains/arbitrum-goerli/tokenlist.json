@@ -6,7 +6,7 @@
         {
             "name": "Wrapper Ether",
             "symbol": "WETH",
-            "id": "0x6774be1a283Faed7ED8e40463c40Fb33A8da3461",
+            "id": "0x0BfaaAfa6e8fB009cD4e2Bd3693F2EEC2d18B053",
             "decimals": 18,
             "coingecko_url": "https://www.coingecko.com/en/coins/weth",
             "market_cap_usd": 9610528460,
@@ -17,7 +17,7 @@
         {
             "name": "Dai Stablecoin",
             "symbol": "DAI",
-            "id": "0xC26906E10E8BDaDeb2cf297eb56DF59775eE52c4",
+            "id": "0x19beE8e887a5db5cf20A841eb4DAACBCacF14B1b",
             "decimals": 18,
             "coingecko_url": "https://www.coingecko.com/en/coins/dai",
             "market_cap_usd": 8996817126,
