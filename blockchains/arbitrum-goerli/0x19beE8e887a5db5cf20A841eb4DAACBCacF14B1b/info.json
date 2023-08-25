@@ -1,7 +1,7 @@
 {
     "name": "Dai Stablecoin",
     "symbol": "DAI",
-    "id": "0x829e4a03A5Bd1EC5b6f5CC1d3A77c8e54A294847",
+    "id": "0x19beE8e887a5db5cf20A841eb4DAACBCacF14B1b",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dai",
     "market_cap_usd": 8996817126,

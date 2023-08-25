@@ -1,7 +1,7 @@
 {
     "name": "Wrapper Ether",
     "symbol": "WETH",
-    "id": "0xf853592f1e4ceA2B5e722A17C6f917a4c70d40Ca",
+    "id": "0x0BfaaAfa6e8fB009cD4e2Bd3693F2EEC2d18B053",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/weth",
     "market_cap_usd": 9610528460,

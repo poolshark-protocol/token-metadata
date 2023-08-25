@@ -1,6 +1,6 @@
 {
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
+    "name": "USD Coin",
+    "symbol": "USDC",
     "id": "0x7024879Eda80577Cbc0Cb039ad3c7081f38ABb41",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/dai",
