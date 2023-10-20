@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "id": "0xAf412fe6aDAc79B04f22140ecb583b2fed3A0d8E",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-bitcoin",
+    "market_cap_usd": 12247348857,
+    "market_cap_rank": 17,
+    "24_hr_volume_usd": 307106685,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+}
