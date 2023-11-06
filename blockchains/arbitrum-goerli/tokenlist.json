@@ -16,28 +16,6 @@
             "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
-            "name": "Ether",
-            "symbol": "ETH",
-            "id": "0x0BfaaAfa6e8fB009cD4e2Bd3693F2EEC2d18B053",
-            "decimals": 18,
-            "coingecko_url": "https://www.coingecko.com/en/coins/weth",
-            "market_cap_usd": 9610528460,
-            "market_cap_rank": 22,
-            "24_hr_volume_usd": 654062882,
-            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-        },
-        {
-            "name": "Wrapper Ether",
-            "symbol": "WETH",
-            "id": "0x0BfaaAfa6e8fB009cD4e2Bd3693F2EEC2d18B053",
-            "decimals": 18,
-            "coingecko_url": "https://www.coingecko.com/en/coins/weth",
-            "market_cap_usd": 9610528460,
-            "market_cap_rank": 22,
-            "24_hr_volume_usd": 654062882,
-            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-        },
-        {
             "name": "Wrapper Ether",
             "symbol": "WETH",
             "id": "0x0BfaaAfa6e8fB009cD4e2Bd3693F2EEC2d18B053",
@@ -75,29 +53,6 @@
         {
             "name": "Ether",
             "symbol": "ETH",
-            "id": "0x0BfaaAfa6e8fB009cD4e2Bd3693F2EEC2d18B053",
-            "decimals": 18,
-            "native": true,
-            "coingecko_url": "https://www.coingecko.com/en/coins/eth",
-            "market_cap_usd": 9610528460,
-            "market_cap_rank": 22,
-            "24_hr_volume_usd": 654062882,
-            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-        },
-        {
-            "name": "Ether",
-            "symbol": "ETH",
-            "id": "0x0BfaaAfa6e8fB009cD4e2Bd3693F2EEC2d18B053",
-            "decimals": 18,
-            "coingecko_url": "https://www.coingecko.com/en/coins/weth",
-            "market_cap_usd": 9610528460,
-            "market_cap_rank": 22,
-            "24_hr_volume_usd": 654062882,
-            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-        },
-        {
-            "name": "Wrapper Ether",
-            "symbol": "WETH",
             "id": "0x0BfaaAfa6e8fB009cD4e2Bd3693F2EEC2d18B053",
             "decimals": 18,
             "coingecko_url": "https://www.coingecko.com/en/coins/weth",
