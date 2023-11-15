@@ -6,7 +6,7 @@
         {
             "name": "Ether",
             "symbol": "ETH",
-            "id": "0x0BfaaAfa6e8fB009cD4e2Bd3693F2EEC2d18B053",
+            "id": "0x4cd24cddfd0b2adf3ef17a203bc34eaf650a380d",
             "decimals": 18,
             "native": true,
             "coingecko_url": "https://www.coingecko.com/en/coins/eth",
