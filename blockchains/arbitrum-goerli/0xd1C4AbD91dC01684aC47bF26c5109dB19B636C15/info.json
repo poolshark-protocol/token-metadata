@@ -1,0 +1,11 @@
+{
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "id": "0xd1C4AbD91dC01684aC47bF26c5109dB19B636C15",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chainlink",
+    "market_cap_usd": 9610528460,
+    "market_cap_rank": 22,
+    "24_hr_volume_usd": 654062882,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+}
