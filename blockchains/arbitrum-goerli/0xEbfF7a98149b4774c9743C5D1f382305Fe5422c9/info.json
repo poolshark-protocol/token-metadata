@@ -1,7 +1,7 @@
 {
     "name": "USD Coin",
     "symbol": "USDC",
-    "id": "0x7024879Eda80577Cbc0Cb039ad3c7081f38ABb41",
+    "id": "0xEbfF7a98149b4774c9743C5D1f382305Fe5422c9",
     "decimals": 18,
     "coingecko_url": "https://www.coingecko.com/en/coins/usd-coin",
     "market_cap_usd": 8996817126,
