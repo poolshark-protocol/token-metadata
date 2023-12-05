@@ -1,4 +1,7 @@
 {
+    "name": "Arbitrum One",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/logo.png",
+    "timestamp": "2023-12-04 17:29:51.936783",
     "search_tokens": [
         {
             "name": "Tether USD",
@@ -5850,6 +5853,5 @@
             "24_hr_volume_usd": 0.0,
             "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x7AC168c81F4F3820Fa3F22603ce5864D6aB3C547/logo.png"
         }
-    ],
-    "timestamp": "2023-12-04 17:29:51.936783"
+    ]
 }
