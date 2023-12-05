@@ -8,5 +8,5 @@
     "market_cap_rank": 1756,
     "24_hr_volume_usd": 370333,
     "public_notice": "Battle Pets (PET) has rebranded to Hello Pets (PET) and migrated from their <a href=\"https://bscscan.com/token/0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8\">older BSC contract</a> to a <a href=\"https://etherscan.io/token/0xb870679a7fa65b924026f496de7f27c1dd0e5c5f\">new ETH contract</a>. For more information, please view this <a href=\"https://hellopets.medium.com/hello-pets-a-new-adventure-begins-6d8867a6cb8e\">post</a> on Medium.",
-    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x43c25F828390DE5a3648864eb485CC523E039e67/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x43c25F828390DE5a3648864eb485CC523E039e67/logo.png"
 }

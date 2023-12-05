@@ -8,5 +8,5 @@
     "market_cap_rank": null,
     "24_hr_volume_usd": 10565.44,
     "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0x643b34980e635719c15a2d4ce69571a258f940e9>GoPlus</a>, this is a proxy contract. The contract owner can make code changes to the token contract including but not limited to disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
-    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x643b34980E635719C15a2D4ce69571a258F940E9/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x643b34980E635719C15a2D4ce69571a258F940E9/logo.png"
 }

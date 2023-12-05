@@ -8,5 +8,5 @@
     "market_cap_rank": null,
     "24_hr_volume_usd": 220623486,
     "public_notice": "Circle has introduced <a href=\"https://www.coingecko.com/en/coins/usd-coin\"> Native USDC </a>  to Arbitrum. While Bridged USDC will function on Arbitrum, it won't be fungible with Circle's native smart contract. For more information, read <a href=\"https://www.circle.com/blog/arbitrum-usdc-now-available\">here.</a>  ",
-    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8/logo.png"
 }

@@ -8,5 +8,5 @@
     "market_cap_rank": null,
     "24_hr_volume_usd": 21.1,
     "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0x3006e4cc90440c7d011c20f36c841a269ae6601a>GoPlus</a>, the contract creator can make changes to the token contract such as disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
-    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3006E4Cc90440C7d011c20f36c841A269AE6601A/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3006E4Cc90440C7d011c20f36c841A269AE6601A/logo.png"
 }

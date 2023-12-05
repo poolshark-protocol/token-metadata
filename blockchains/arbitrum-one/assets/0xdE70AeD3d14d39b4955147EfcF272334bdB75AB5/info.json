@@ -8,5 +8,5 @@
     "market_cap_rank": null,
     "24_hr_volume_usd": 85110,
     "public_notice": "YachtingVerse (YACHT) has migrated from their BSC <a href=\"https://bscscan.com/token/0x0f208f5ea1d4fbca61ac6b6754f765950d3840de\">older contract</a> to a ARB <a href=\"https://arbiscan.io/token/0xdE70AeD3d14d39b4955147EfcF272334bdB75AB5\">new one</a> . For more information, please view this <a href=\"https://twitter.com/YachtingVerse/status/1712731828216365446\">announcement</a> on Twitter. Please visit their old token page <a href=\"https://www.coingecko.com/en/coins/yachtingverse-old\"> here</a>.",
-    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xdE70AeD3d14d39b4955147EfcF272334bdB75AB5/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xdE70AeD3d14d39b4955147EfcF272334bdB75AB5/logo.png"
 }

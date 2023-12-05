@@ -7,5 +7,5 @@
     "market_cap_usd": 0.0,
     "market_cap_rank": null,
     "public_notice": "Dinari has migrated their tokens to v2 <a href=\"https://docs.dinari.com/architecture/contracts\">contract</a>. For more information, view this Twitter <a href=\"https://twitter.com/DinariGlobal/status/1723946460591648966\">post</a>.",
-    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8E50D11a54CFF859b202b7Fe5225353bE0646410/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8E50D11a54CFF859b202b7Fe5225353bE0646410/logo.png"
 }

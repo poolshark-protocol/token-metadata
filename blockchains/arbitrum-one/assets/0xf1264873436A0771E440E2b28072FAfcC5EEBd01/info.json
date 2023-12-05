@@ -8,5 +8,5 @@
     "market_cap_rank": null,
     "24_hr_volume_usd": 34067,
     "public_notice": "Kenshi KENSHI has recently migrated from their <a href=\"https://bscscan.com/token/0x42f9c5a27a2647a64f7D3d58d8f896C60a727b0f\">old contract</a> to a <a href=\"https://arbiscan.io/token/0xf1264873436a0771e440e2b28072fafcc5eebd01\">new one</a>. Kindly refer to this <a href=\"https://twitter.com/KenshiTech/status/1669067644115230745\">post</a> for more information. Visit the old token page <a href=\"https://www.coingecko.com/en/coins/kenshi-old\">here.</a>",
-    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xf1264873436A0771E440E2b28072FAfcC5EEBd01/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xf1264873436A0771E440E2b28072FAfcC5EEBd01/logo.png"
 }

@@ -8,5 +8,5 @@
     "market_cap_rank": null,
     "24_hr_volume_usd": 83618,
     "public_notice": "Roseon (ROSX) has recently migrated from their <a href=\"https://arbiscan.io/token/0xd6c0156e85decdf2983c7a2c4a3015ed268d6f8a\">old contract</a> to a <a href=\"https://arbiscan.io/token/0xDC8184ba488e949815d4AAfb35B3c56ad03B4179\">new one</a>. For more information, please visit this Twitter<a href=\"https://twitter.com/RoseonExchange/status/1664486679137357830\"> post</a>.",
-    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xDC8184ba488e949815d4AAfb35B3c56ad03B4179/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xDC8184ba488e949815d4AAfb35B3c56ad03B4179/logo.png"
 }
