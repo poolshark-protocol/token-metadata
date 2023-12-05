@@ -1,0 +1,11 @@
+{
+    "name": "Yuri",
+    "symbol": "Yuri",
+    "id": "0x077BC655C8d81b7dE71c79318D0eB8F987E12820",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yuri",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3303.46,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x077BC655C8d81b7dE71c79318D0eB8F987E12820/logo.png"
+}

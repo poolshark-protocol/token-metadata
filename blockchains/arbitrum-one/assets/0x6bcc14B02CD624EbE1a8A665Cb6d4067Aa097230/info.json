@@ -1,0 +1,11 @@
+{
+    "name": "Foxify",
+    "symbol": "FOX",
+    "id": "0x6bcc14B02CD624EbE1a8A665Cb6d4067Aa097230",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/foxify",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 66900,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x6bcc14B02CD624EbE1a8A665Cb6d4067Aa097230/logo.png"
+}

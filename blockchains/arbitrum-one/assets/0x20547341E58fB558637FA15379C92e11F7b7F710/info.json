@@ -1,0 +1,11 @@
+{
+    "name": "Mozaic Token",
+    "symbol": "MOZ",
+    "id": "0x20547341E58fB558637FA15379C92e11F7b7F710",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mozaic",
+    "market_cap_usd": 6086557,
+    "market_cap_rank": 1339,
+    "24_hr_volume_usd": 658768,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x20547341E58fB558637FA15379C92e11F7b7F710/logo.png"
+}

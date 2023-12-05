@@ -1,0 +1,12 @@
+{
+    "name": "Astra DAO",
+    "symbol": "ASTRADAO",
+    "id": "0xd3188e0df68559c0B63361f6160c57Ad88B239D8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/astra-dao-2",
+    "market_cap_usd": 6014246,
+    "market_cap_rank": 1348,
+    "24_hr_volume_usd": 56552,
+    "public_notice": "Astra DAO (ASTRADAO) has migrated from their <a href=\"https://etherscan.io/token/0x7E9c15C43f0D6C4a12E6bdfF7c7D55D0f80e3E23\">older contract</a> on ETH to a <a href=\"https://arbiscan.io/token/0xd3188e0df68559c0B63361f6160c57Ad88B239D8\">new one</a> on Arbitrum. For more information, please view this <a href=\"https://twitter.com/astradao_org/status/1719005341214560380?s=20\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xd3188e0df68559c0B63361f6160c57Ad88B239D8/logo.png"
+}

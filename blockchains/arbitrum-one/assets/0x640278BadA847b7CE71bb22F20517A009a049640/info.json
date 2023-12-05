@@ -1,0 +1,11 @@
+{
+    "name": "NGT",
+    "symbol": "NGT",
+    "id": "0x640278BadA847b7CE71bb22F20517A009a049640",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ngt",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 145.96,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x640278BadA847b7CE71bb22F20517A009a049640/logo.png"
+}

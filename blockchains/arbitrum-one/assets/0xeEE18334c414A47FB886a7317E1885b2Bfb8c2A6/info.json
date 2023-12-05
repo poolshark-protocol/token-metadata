@@ -1,0 +1,11 @@
+{
+    "name": "Savvy BTC",
+    "symbol": "svBTC",
+    "id": "0xeEE18334c414A47FB886a7317E1885b2Bfb8c2A6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/savvy-btc",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 110.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xeEE18334c414A47FB886a7317E1885b2Bfb8c2A6/logo.png"
+}

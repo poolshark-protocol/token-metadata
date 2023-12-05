@@ -1,0 +1,11 @@
+{
+    "name": "Pizon",
+    "symbol": "PZT",
+    "id": "0xfb17d52F77Db6E32B5A082Ed4307FCFb0a86BEEE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pizon",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 841.87,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xfb17d52F77Db6E32B5A082Ed4307FCFb0a86BEEE/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Kapital DAO Token",
+    "symbol": "KAP",
+    "id": "0x965d00aA7ABC62CA10132e641D08593435aC811d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kapital-dao",
+    "market_cap_usd": 10163982,
+    "market_cap_rank": 1111,
+    "24_hr_volume_usd": 684582,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x965d00aA7ABC62CA10132e641D08593435aC811d/logo.png"
+}

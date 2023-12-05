@@ -1,0 +1,10 @@
+{
+    "name": "Sumerian BTC",
+    "symbol": "suBTC",
+    "id": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sumer-money-subtc",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xe85411C030fB32A9D8b14Bbbc6CB19417391F711/logo.png"
+}

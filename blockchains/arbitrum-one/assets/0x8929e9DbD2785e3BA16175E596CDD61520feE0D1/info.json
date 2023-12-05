@@ -1,0 +1,11 @@
+{
+    "name": "Altitude",
+    "symbol": "ALTD",
+    "id": "0x8929e9DbD2785e3BA16175E596CDD61520feE0D1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/altitude",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2827.67,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8929e9DbD2785e3BA16175E596CDD61520feE0D1/logo.png"
+}

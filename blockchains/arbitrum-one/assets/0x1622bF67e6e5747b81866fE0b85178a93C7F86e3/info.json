@@ -1,0 +1,11 @@
+{
+    "name": "Umami",
+    "symbol": "UMAMI",
+    "id": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/umami-finance",
+    "market_cap_usd": 2827628,
+    "market_cap_rank": 1708,
+    "24_hr_volume_usd": 10917.57,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x1622bF67e6e5747b81866fE0b85178a93C7F86e3/logo.png"
+}

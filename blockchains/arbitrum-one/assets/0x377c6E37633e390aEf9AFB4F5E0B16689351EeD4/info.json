@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped ZYX",
+    "symbol": "WZYX",
+    "id": "0x377c6E37633e390aEf9AFB4F5E0B16689351EeD4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zyx",
+    "market_cap_usd": 848433,
+    "market_cap_rank": 2312,
+    "24_hr_volume_usd": 9.84,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x377c6E37633e390aEf9AFB4F5E0B16689351EeD4/logo.png"
+}

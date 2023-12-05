@@ -1,0 +1,12 @@
+{
+    "name": "Multichain",
+    "symbol": "MULTI",
+    "id": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/multichain",
+    "market_cap_usd": 38399617,
+    "market_cap_rank": 595,
+    "24_hr_volume_usd": 1722852,
+    "public_notice": "Multichain MULTI has been exploited and the team is currently investigating, kindly refer to this <a href=https://twitter.com/MultichainOrg/status/1677096839731097600?t=KtcQz2iRtXkTH1XxlOTVYQ&s=19>post</a> for more details.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3/logo.png"
+}

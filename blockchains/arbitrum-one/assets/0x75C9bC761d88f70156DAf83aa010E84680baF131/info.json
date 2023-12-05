@@ -1,0 +1,12 @@
+{
+    "name": "Saddle DAO",
+    "symbol": "SDL",
+    "id": "0x75C9bC761d88f70156DAf83aa010E84680baF131",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/saddle-finance",
+    "market_cap_usd": 10932.5,
+    "market_cap_rank": 3679,
+    "24_hr_volume_usd": 228.55,
+    "public_notice": "Based on this <a href=\"https://vote.saddle.community/#/proposal/0x271aef6b1d04cf08878b33d304add4827da146dc7b1ca12d802a3922e29ad34b\">SIP-54 proposal</a>, the Saddle DAO has voted to wind down the protocol and airdrop the DAO treasury to SDL/veSDL token holders. For more information, please refer to this <a href=\"https://twitter.com/saddlefinance/status/1692290322162692481\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x75C9bC761d88f70156DAf83aa010E84680baF131/logo.png"
+}

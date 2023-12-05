@@ -1,0 +1,11 @@
+{
+    "name": "SmarDex Token",
+    "symbol": "SDEX",
+    "id": "0xabD587f2607542723b17f14d00d99b987C29b074",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/smardex",
+    "market_cap_usd": 93942396,
+    "market_cap_rank": 357,
+    "24_hr_volume_usd": 2068849,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xabD587f2607542723b17f14d00d99b987C29b074/logo.png"
+}

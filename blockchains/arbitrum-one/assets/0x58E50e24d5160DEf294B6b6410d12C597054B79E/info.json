@@ -1,0 +1,11 @@
+{
+    "name": "Fuzz Finance",
+    "symbol": "FUZZ",
+    "id": "0x58E50e24d5160DEf294B6b6410d12C597054B79E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fuzz-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 114.24,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x58E50e24d5160DEf294B6b6410d12C597054B79E/logo.png"
+}

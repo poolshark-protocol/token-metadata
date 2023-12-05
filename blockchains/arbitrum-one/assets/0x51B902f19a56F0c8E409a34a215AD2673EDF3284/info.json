@@ -1,0 +1,12 @@
+{
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE",
+    "id": "0x51B902f19a56F0c8E409a34a215AD2673EDF3284",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nftearth",
+    "market_cap_usd": 11466.27,
+    "market_cap_rank": 3674,
+    "24_hr_volume_usd": 9.59,
+    "public_notice": "NFTEarth (NFTE) has recently migrated from their older contracts to new omnichain contracts. For more information, please visit this Twitter <a href=\"https://twitter.com/NFTEarth_L2/status/1684437107400404992?t=lbGGifxYq-NIBm3LK-CFjA&s=19\">post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x51B902f19a56F0c8E409a34a215AD2673EDF3284/logo.png"
+}

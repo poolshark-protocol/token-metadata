@@ -1,0 +1,11 @@
+{
+    "name": "Nulswap",
+    "symbol": "NSWAP",
+    "id": "0xFdad8EDC724277e975F4955d288C6EB5b20A3146",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nulswap",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5.75,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xFdad8EDC724277e975F4955d288C6EB5b20A3146/logo.png"
+}

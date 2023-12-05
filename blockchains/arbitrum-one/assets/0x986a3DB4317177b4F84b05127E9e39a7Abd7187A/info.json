@@ -1,0 +1,11 @@
+{
+    "name": "CatKing",
+    "symbol": "CKING",
+    "id": "0x986a3DB4317177b4F84b05127E9e39a7Abd7187A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/catking",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 44.23,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x986a3DB4317177b4F84b05127E9e39a7Abd7187A/logo.png"
+}

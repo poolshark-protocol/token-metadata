@@ -1,0 +1,11 @@
+{
+    "name": "CEX",
+    "symbol": "CEX",
+    "id": "0x306634BD3a7982AfdB42DeC1C6b15176cd9e02e0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cex-index",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4205.91,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x306634BD3a7982AfdB42DeC1C6b15176cd9e02e0/logo.png"
+}

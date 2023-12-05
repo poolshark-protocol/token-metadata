@@ -1,0 +1,12 @@
+{
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "id": "0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kyber-network-crystal",
+    "market_cap_usd": 109856257,
+    "market_cap_rank": 317,
+    "24_hr_volume_usd": 21571775,
+    "public_notice": "KyberSwap Elastic has experienced a security incident. As a precautionary measure, KyberSwap team advises all users to promptly withdraw their funds. However, please note that the KNC token contract itself is unaffected by the exploit, and KNC and KyberDAO are functioning as per normal. For more information, please refer to their Twitter <a href=\"https://twitter.com/KyberNetwork/status/1728115858889929021\" target=\"_blank\">announcement</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xe4DDDfe67E7164b0FE14E218d80dC4C08eDC01cB/logo.png"
+}

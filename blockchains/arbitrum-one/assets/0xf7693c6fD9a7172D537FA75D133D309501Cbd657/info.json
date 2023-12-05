@@ -1,0 +1,12 @@
+{
+    "name": "Web3 No Value",
+    "symbol": "W3N",
+    "id": "0xf7693c6fD9a7172D537FA75D133D309501Cbd657",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/web3-no-value",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 59287,
+    "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0xf7693c6fD9a7172D537FA75D133D309501Cbd657>GoPlus</a>, the contract creator can make changes to the token contract such as disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xf7693c6fD9a7172D537FA75D133D309501Cbd657/logo.png"
+}

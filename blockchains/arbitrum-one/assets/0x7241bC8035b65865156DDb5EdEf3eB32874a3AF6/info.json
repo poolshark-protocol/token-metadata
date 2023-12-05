@@ -1,0 +1,11 @@
+{
+    "name": "Jones GLP",
+    "symbol": "jGLP",
+    "id": "0x7241bC8035b65865156DDb5EdEf3eB32874a3AF6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jones-glp",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5963.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x7241bC8035b65865156DDb5EdEf3eB32874a3AF6/logo.png"
+}

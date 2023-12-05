@@ -1,0 +1,11 @@
+{
+    "name": "Impermax",
+    "symbol": "IBEX",
+    "id": "0x56659245931CB6920e39C189D2a0e7DD0dA2d57b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/impermax-2",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10609.55,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x56659245931CB6920e39C189D2a0e7DD0dA2d57b/logo.png"
+}

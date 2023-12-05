@@ -1,0 +1,11 @@
+{
+    "name": "The Bet",
+    "symbol": "BET",
+    "id": "0x9eb6299e4Bb6669E42cb295a254c8492F67AE2C6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-bet",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 19.19,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9eb6299e4Bb6669E42cb295a254c8492F67AE2C6/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Axelar Wrapped USDT",
+    "symbol": "axlUSDT",
+    "id": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/axelar-usdt",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 17087.97,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6/logo.png"
+}

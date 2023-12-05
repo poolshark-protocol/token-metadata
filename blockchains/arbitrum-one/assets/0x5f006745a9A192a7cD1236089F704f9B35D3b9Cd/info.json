@@ -1,0 +1,11 @@
+{
+    "name": "Arable Protocol",
+    "symbol": "ACRE",
+    "id": "0x5f006745a9A192a7cD1236089F704f9B35D3b9Cd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arable-protocol",
+    "market_cap_usd": 24487,
+    "market_cap_rank": 3587,
+    "24_hr_volume_usd": 317.33,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x5f006745a9A192a7cD1236089F704f9B35D3b9Cd/logo.png"
+}

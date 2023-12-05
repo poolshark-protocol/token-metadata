@@ -1,0 +1,11 @@
+{
+    "name": "CheckDot",
+    "symbol": "CDT",
+    "id": "0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/checkdot",
+    "market_cap_usd": 2705755,
+    "market_cap_rank": 1728,
+    "24_hr_volume_usd": 30063,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x0cBD6fAdcF8096cC9A43d90B45F65826102e3eCE/logo.png"
+}

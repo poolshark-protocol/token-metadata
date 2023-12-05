@@ -1,0 +1,11 @@
+{
+    "name": "xToken",
+    "symbol": "XTK",
+    "id": "0xF0A5717Ec0883eE56438932b0fe4A20822735fBa",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xtoken",
+    "market_cap_usd": 90984,
+    "market_cap_rank": 3275,
+    "24_hr_volume_usd": 227.58,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xF0A5717Ec0883eE56438932b0fe4A20822735fBa/logo.png"
+}

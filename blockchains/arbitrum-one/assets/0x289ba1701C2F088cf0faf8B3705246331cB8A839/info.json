@@ -1,0 +1,11 @@
+{
+    "name": "Livepeer Token",
+    "symbol": "LPT",
+    "id": "0x289ba1701C2F088cf0faf8B3705246331cB8A839",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/livepeer",
+    "market_cap_usd": 202696165,
+    "market_cap_rank": 210,
+    "24_hr_volume_usd": 35012766,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x289ba1701C2F088cf0faf8B3705246331cB8A839/logo.png"
+}

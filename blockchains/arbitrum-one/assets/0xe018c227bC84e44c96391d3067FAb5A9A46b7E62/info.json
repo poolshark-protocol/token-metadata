@@ -1,0 +1,10 @@
+{
+    "name": "Chromium Dollar",
+    "symbol": "Cr",
+    "id": "0xe018c227bC84e44c96391d3067FAb5A9A46b7E62",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chromium-dollar",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xe018c227bC84e44c96391d3067FAb5A9A46b7E62/logo.png"
+}

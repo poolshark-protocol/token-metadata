@@ -1,0 +1,11 @@
+{
+    "name": "CHAI",
+    "symbol": "CHAI",
+    "id": "0x743b077b103d91109082A7a48e19fFC1093137A5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/characterai",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x743b077b103d91109082A7a48e19fFC1093137A5/logo.png"
+}

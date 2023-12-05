@@ -1,0 +1,12 @@
+{
+    "name": "Radiant",
+    "symbol": "RDNT",
+    "id": "0x3082CC23568eA640225c2467653dB90e9250AaA0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/radiant-capital",
+    "market_cap_usd": 102297551,
+    "market_cap_rank": 333,
+    "24_hr_volume_usd": 37550323,
+    "public_notice": "Radiant Capital (RDNT) has migrated from their <a href=\"https://arbiscan.io/token/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017\">older contract</a> to a <a href=\"https://arbiscan.io/token/0x3082cc23568ea640225c2467653db90e9250aaa0\">new V2 contract</a>. For more information, please view this <a href=\"https://medium.com/@RadiantCapital/radiant-v2-migration-day-faq-ca97551dcbb7\">Medium</a> post and <a href=\"https://twitter.com/RDNTCapital/status/1637281533315743749\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3082CC23568eA640225c2467653dB90e9250AaA0/logo.png"
+}

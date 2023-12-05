@@ -1,0 +1,11 @@
+{
+    "name": "Starfish Token",
+    "symbol": "SEAN",
+    "id": "0x37596F20adEf5CC9618c8b6Ddfa9DCB6329CB0fD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/starfish-finance",
+    "market_cap_usd": 297441,
+    "market_cap_rank": 2816,
+    "24_hr_volume_usd": 95847,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x37596F20adEf5CC9618c8b6Ddfa9DCB6329CB0fD/logo.png"
+}

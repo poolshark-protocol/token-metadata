@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "id": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/weth",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1675455518,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
+}

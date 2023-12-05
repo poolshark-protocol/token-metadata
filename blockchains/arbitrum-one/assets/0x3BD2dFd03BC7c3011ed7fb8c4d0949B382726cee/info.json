@@ -1,0 +1,11 @@
+{
+    "name": "ROOBEE",
+    "symbol": "ROOBEE",
+    "id": "0x3BD2dFd03BC7c3011ed7fb8c4d0949B382726cee",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/roobee",
+    "market_cap_usd": 1318635,
+    "market_cap_rank": 2063,
+    "24_hr_volume_usd": 392763,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3BD2dFd03BC7c3011ed7fb8c4d0949B382726cee/logo.png"
+}

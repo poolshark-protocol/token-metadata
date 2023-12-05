@@ -1,0 +1,11 @@
+{
+    "name": "WeFi",
+    "symbol": "WEFI",
+    "id": "0xfFA188493C15DfAf2C206c97D8633377847b6a52",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wefi-finance",
+    "market_cap_usd": 184355,
+    "market_cap_rank": 3018,
+    "24_hr_volume_usd": 80320,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xfFA188493C15DfAf2C206c97D8633377847b6a52/logo.png"
+}

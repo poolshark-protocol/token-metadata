@@ -1,0 +1,12 @@
+{
+    "name": "Wagmi",
+    "symbol": "WAGMI",
+    "id": "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wagmi-2",
+    "market_cap_usd": 13189065,
+    "market_cap_rank": 1007,
+    "24_hr_volume_usd": 1131546,
+    "public_notice": "As Popsicle Finance <a href=\"https://popsiclefinance.medium.com/exciting-developments-introducing-our-new-path-5e209aa8c69e\">relaunched</a> as Wagmi, ICE or NICE will be migrated to WAGMI. For more information, refer to their official <a href=\"https://docs.popsicle.finance/v/wagmi-1/ice-nice-to-wagmi-token-swap\">documentation.</a>",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xaf20f5f19698f1D19351028cd7103B63D30DE7d7/logo.png"
+}

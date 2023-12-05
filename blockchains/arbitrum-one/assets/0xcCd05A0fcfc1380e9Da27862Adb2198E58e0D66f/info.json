@@ -1,0 +1,10 @@
+{
+    "name": "Anima",
+    "symbol": "ANIMA",
+    "id": "0xcCd05A0fcfc1380e9Da27862Adb2198E58e0D66f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/anima",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xcCd05A0fcfc1380e9Da27862Adb2198E58e0D66f/logo.png"
+}

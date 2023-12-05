@@ -1,0 +1,11 @@
+{
+    "name": "Baby Arbitrum",
+    "symbol": "BARB",
+    "id": "0xB98058640970d8Aa7BbcE3B067B2D63C14143786",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/baby-arbitrum",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1058.07,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xB98058640970d8Aa7BbcE3B067B2D63C14143786/logo.png"
+}

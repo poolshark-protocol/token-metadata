@@ -1,0 +1,12 @@
+{
+    "name": "LqdrV2",
+    "symbol": "Lqdr",
+    "id": "0x816E21c33fa5F8440EBcDF6e01D39314541BEA72",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/liquiddriver",
+    "market_cap_usd": 1265082,
+    "market_cap_rank": 2110,
+    "24_hr_volume_usd": 30776,
+    "public_notice": "LiquidDriver (LQDR) has migrated from their older contracts to V2. For more information, please view this <a href=\"https://twitter.com/LiquidDriver/status/1684193787646447618\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x816E21c33fa5F8440EBcDF6e01D39314541BEA72/logo.png"
+}

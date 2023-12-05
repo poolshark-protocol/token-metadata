@@ -1,0 +1,11 @@
+{
+    "name": "Penpie Token",
+    "symbol": "PNP",
+    "id": "0x2Ac2B254Bc18cD4999f64773a966E4f4869c34Ee",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/penpie",
+    "market_cap_usd": 11407772,
+    "market_cap_rank": 1063,
+    "24_hr_volume_usd": 134240,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x2Ac2B254Bc18cD4999f64773a966E4f4869c34Ee/logo.png"
+}

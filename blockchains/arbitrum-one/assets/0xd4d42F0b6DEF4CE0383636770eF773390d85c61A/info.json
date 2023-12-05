@@ -1,0 +1,11 @@
+{
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "id": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sushi",
+    "market_cap_usd": 273080448,
+    "market_cap_rank": 178,
+    "24_hr_volume_usd": 250748353,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xd4d42F0b6DEF4CE0383636770eF773390d85c61A/logo.png"
+}

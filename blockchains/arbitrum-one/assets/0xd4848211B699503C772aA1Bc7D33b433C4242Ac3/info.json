@@ -1,0 +1,11 @@
+{
+    "name": "Equilibria Pendle",
+    "symbol": "ePendle",
+    "id": "0xd4848211B699503C772aA1Bc7D33b433C4242Ac3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/equilibria-finance-ependle",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 16704.16,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xd4848211B699503C772aA1Bc7D33b433C4242Ac3/logo.png"
+}

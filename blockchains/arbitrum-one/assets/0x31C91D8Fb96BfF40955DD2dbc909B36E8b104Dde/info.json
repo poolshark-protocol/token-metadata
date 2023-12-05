@@ -1,0 +1,11 @@
+{
+    "name": "Poison.Finance Poison",
+    "symbol": "POI$ON",
+    "id": "0x31C91D8Fb96BfF40955DD2dbc909B36E8b104Dde",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/poison-finance",
+    "market_cap_usd": 586761,
+    "market_cap_rank": 2500,
+    "24_hr_volume_usd": 10115.11,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x31C91D8Fb96BfF40955DD2dbc909B36E8b104Dde/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "AISHIB",
+    "symbol": "AISHIB",
+    "id": "0xF1A82bfA7fCEb8B8741e7E04a6B8EfD348cA6393",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbshib",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xF1A82bfA7fCEb8B8741e7E04a6B8EfD348cA6393/logo.png"
+}

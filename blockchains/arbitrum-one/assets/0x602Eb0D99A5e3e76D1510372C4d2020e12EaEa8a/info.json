@@ -1,0 +1,11 @@
+{
+    "name": "Trident",
+    "symbol": "PSI",
+    "id": "0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tridentdao",
+    "market_cap_usd": 37909,
+    "market_cap_rank": 3503,
+    "24_hr_volume_usd": 164225,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x602Eb0D99A5e3e76D1510372C4d2020e12EaEa8a/logo.png"
+}

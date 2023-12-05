@@ -1,0 +1,11 @@
+{
+    "name": "dHedge DAO Token",
+    "symbol": "DHT",
+    "id": "0x8038F3C971414FD1FC220bA727F2D4A0fC98cb65",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dhedge-dao",
+    "market_cap_usd": 3913345,
+    "market_cap_rank": 1531,
+    "24_hr_volume_usd": 9275.56,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8038F3C971414FD1FC220bA727F2D4A0fC98cb65/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "id": "0x5979D7b546E38E414F7E9822514be443A4800529",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-steth",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 75563753,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x5979D7b546E38E414F7E9822514be443A4800529/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Edgeware",
+    "symbol": "EDG",
+    "id": "0x6e7118b82fB9608342c288a90eEb5E614AaeE2E9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/edgeware",
+    "market_cap_usd": 1796485,
+    "market_cap_rank": 1932,
+    "24_hr_volume_usd": 364412,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x6e7118b82fB9608342c288a90eEb5E614AaeE2E9/logo.png"
+}

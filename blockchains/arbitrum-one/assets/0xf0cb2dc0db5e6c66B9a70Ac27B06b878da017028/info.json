@@ -1,0 +1,12 @@
+{
+    "name": "Olympus",
+    "symbol": "OHM",
+    "id": "0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/olympus",
+    "market_cap_usd": 195022837,
+    "market_cap_rank": 216,
+    "24_hr_volume_usd": 217336,
+    "public_notice": "This is Olympus (OHM) v2. If you have not migrated, read more at: https://docs.olympusdao.finance/main/basics/migration",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028/logo.png"
+}

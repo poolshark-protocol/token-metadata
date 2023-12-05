@@ -1,0 +1,11 @@
+{
+    "name": "BarnBridge Governance Token",
+    "symbol": "BOND",
+    "id": "0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/barnbridge",
+    "market_cap_usd": 36643379,
+    "market_cap_rank": 603,
+    "24_hr_volume_usd": 16188370,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x0D81E50bC677fa67341c44D7eaA9228DEE64A4e1/logo.png"
+}

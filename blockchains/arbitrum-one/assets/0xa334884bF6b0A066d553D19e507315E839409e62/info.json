@@ -1,0 +1,11 @@
+{
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN",
+    "id": "0xa334884bF6b0A066d553D19e507315E839409e62",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethos-reserve-note",
+    "market_cap_usd": 4587240,
+    "market_cap_rank": 1465,
+    "24_hr_volume_usd": 291473,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xa334884bF6b0A066d553D19e507315E839409e62/logo.png"
+}

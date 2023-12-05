@@ -1,0 +1,12 @@
+{
+    "name": "ACryptoS",
+    "symbol": "ACS",
+    "id": "0x8888888888f004100C0353d657BE6300587A6CcD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/acryptos-2",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 216.57,
+    "public_notice": "ACryptoS (ACS) has recently migrated from their old <a href=\"https://bscscan.com/token/0x4197C6EF3879a08cD51e5560da5064B773aa1d29\">contract</a> to a new <a href=\"https://bscscan.com/token/0x8888888888f004100C0353d657BE6300587A6CcD\">one</a>. For more information, please visit this Twitter<a href=\"https://twitter.com/acryptosx/status/1678656460602101760\"> post</a>. You may also view their old token page <a href=\"https://www.coingecko.com/en/coins/acryptos-old\">here</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8888888888f004100C0353d657BE6300587A6CcD/logo.png"
+}

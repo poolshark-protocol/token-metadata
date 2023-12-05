@@ -1,0 +1,11 @@
+{
+    "name": "LionDEX Token",
+    "symbol": "LION",
+    "id": "0x8eBb85D53e6955e557b7c53acDE1D42fD68561Ec",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/liondex",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 81.19,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8eBb85D53e6955e557b7c53acDE1D42fD68561Ec/logo.png"
+}

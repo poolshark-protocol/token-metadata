@@ -1,0 +1,12 @@
+{
+    "name": "MetaPocket",
+    "symbol": "MPCKT",
+    "id": "0xD1c533a00548Dd9C1e7b0f8Ea834F65383b116De",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metapocket",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 768.69,
+    "public_notice": "The creator of the contract has the ability to make changes to the smart contract associated with the asset mentioned, such as disabling selling, adjusting fees, creating new tokens, or transferring tokens. Please DYOR before proceed.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xD1c533a00548Dd9C1e7b0f8Ea834F65383b116De/logo.png"
+}

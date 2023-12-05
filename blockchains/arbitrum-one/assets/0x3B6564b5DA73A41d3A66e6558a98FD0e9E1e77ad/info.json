@@ -1,0 +1,12 @@
+{
+    "name": "Unitus",
+    "symbol": "UTS",
+    "id": "0x3B6564b5DA73A41d3A66e6558a98FD0e9E1e77ad",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unitus-2",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1138.84,
+    "public_notice": "According to <a href=https://gopluslabs.io/token-security/1/0x3B6564b5DA73A41d3A66e6558a98FD0e9E1e77ad>GoPlus</a>, this is a proxy contract. The contract owner can make code changes to the token contract including but not limited to disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3B6564b5DA73A41d3A66e6558a98FD0e9E1e77ad/logo.png"
+}

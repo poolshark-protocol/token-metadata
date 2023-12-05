@@ -1,0 +1,11 @@
+{
+    "name": "OreoSwap",
+    "symbol": "OREO",
+    "id": "0x319e222De462ac959BAf2aEc848697AeC2bbD770",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/oreoswap",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 594.76,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x319e222De462ac959BAf2aEc848697AeC2bbD770/logo.png"
+}

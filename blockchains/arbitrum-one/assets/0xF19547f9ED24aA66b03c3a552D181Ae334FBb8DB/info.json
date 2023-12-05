@@ -1,0 +1,11 @@
+{
+    "name": "Lodestar",
+    "symbol": "LODE",
+    "id": "0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lodestar",
+    "market_cap_usd": 2741879,
+    "market_cap_rank": 1724,
+    "24_hr_volume_usd": 18454.27,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xF19547f9ED24aA66b03c3a552D181Ae334FBb8DB/logo.png"
+}

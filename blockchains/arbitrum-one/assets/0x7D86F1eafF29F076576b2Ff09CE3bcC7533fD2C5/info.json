@@ -1,0 +1,11 @@
+{
+    "name": "Risitas Coin",
+    "symbol": "RISITA",
+    "id": "0x7D86F1eafF29F076576b2Ff09CE3bcC7533fD2C5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/risitas",
+    "market_cap_usd": 1165989,
+    "market_cap_rank": 2151,
+    "24_hr_volume_usd": 175226,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x7D86F1eafF29F076576b2Ff09CE3bcC7533fD2C5/logo.png"
+}

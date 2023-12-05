@@ -1,0 +1,11 @@
+{
+    "name": "3xcalibur Ecosystem Token",
+    "symbol": "XCAL",
+    "id": "0xd2568acCD10A4C98e87c44E9920360031ad89fCB",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/3xcalibur",
+    "market_cap_usd": 12015.43,
+    "market_cap_rank": 3672,
+    "24_hr_volume_usd": 8.65,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xd2568acCD10A4C98e87c44E9920360031ad89fCB/logo.png"
+}

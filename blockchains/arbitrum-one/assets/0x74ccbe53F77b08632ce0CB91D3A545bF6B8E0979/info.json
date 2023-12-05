@@ -1,0 +1,12 @@
+{
+    "name": "Fantom Bomb",
+    "symbol": "fBOMB",
+    "id": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fbomb",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 33463,
+    "public_notice": "fBOMB has migrated from <a href=\"https://ftmscan.com/token/0x8503eb4A136bDBeB323E37Aa6e0FA0C772228378\">the old contract</a> to <a href=\"https://ftmscan.com/token/0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979\">a new one</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979/logo.png"
+}

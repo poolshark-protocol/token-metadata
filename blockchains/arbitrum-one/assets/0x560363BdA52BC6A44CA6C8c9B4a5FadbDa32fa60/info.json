@@ -1,0 +1,11 @@
+{
+    "name": "SeedifyFund",
+    "symbol": "SFUND",
+    "id": "0x560363BdA52BC6A44CA6C8c9B4a5FadbDa32fa60",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/seedify-fund",
+    "market_cap_usd": 154350412,
+    "market_cap_rank": 247,
+    "24_hr_volume_usd": 11252980,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x560363BdA52BC6A44CA6C8c9B4a5FadbDa32fa60/logo.png"
+}

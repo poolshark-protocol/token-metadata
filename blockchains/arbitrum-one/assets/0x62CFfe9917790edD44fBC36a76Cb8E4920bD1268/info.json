@@ -1,0 +1,10 @@
+{
+    "name": "Twister Finance Token",
+    "symbol": "TWST",
+    "id": "0x62CFfe9917790edD44fBC36a76Cb8E4920bD1268",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/twister-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x62CFfe9917790edD44fBC36a76Cb8E4920bD1268/logo.png"
+}

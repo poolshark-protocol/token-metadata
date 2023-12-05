@@ -1,0 +1,11 @@
+{
+    "name": "ArbiDex Token",
+    "symbol": "ARX",
+    "id": "0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbitrum-exchange",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1002.37,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xD5954c3084a1cCd70B4dA011E67760B8e78aeE84/logo.png"
+}

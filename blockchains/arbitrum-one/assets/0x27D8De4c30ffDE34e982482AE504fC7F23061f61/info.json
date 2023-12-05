@@ -1,0 +1,11 @@
+{
+    "name": "MyMetaTrader Token",
+    "symbol": "MMT",
+    "id": "0x27D8De4c30ffDE34e982482AE504fC7F23061f61",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/my-metatrader",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 50.44,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x27D8De4c30ffDE34e982482AE504fC7F23061f61/logo.png"
+}

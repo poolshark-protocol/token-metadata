@@ -1,0 +1,11 @@
+{
+    "name": "Archi token",
+    "symbol": "ARCHI",
+    "id": "0x93D504070AB0eede5449C89C5eA0F5e34D8103f8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/archi-token",
+    "market_cap_usd": 799436,
+    "market_cap_rank": 2345,
+    "24_hr_volume_usd": 27071,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x93D504070AB0eede5449C89C5eA0F5e34D8103f8/logo.png"
+}

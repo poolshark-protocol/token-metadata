@@ -1,0 +1,11 @@
+{
+    "name": "Aave Arbitrum ARB",
+    "symbol": "aArbARB",
+    "id": "0x6533afac2E7BCCB20dca161449A13A32D391fb00",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-v3-arb",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x6533afac2E7BCCB20dca161449A13A32D391fb00/logo.png"
+}

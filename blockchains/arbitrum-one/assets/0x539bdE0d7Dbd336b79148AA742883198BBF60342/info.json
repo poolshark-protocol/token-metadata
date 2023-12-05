@@ -1,0 +1,11 @@
+{
+    "name": "MAGIC",
+    "symbol": "MAGIC",
+    "id": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/magic",
+    "market_cap_usd": 210155675,
+    "market_cap_rank": 204,
+    "24_hr_volume_usd": 84179284,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x539bdE0d7Dbd336b79148AA742883198BBF60342/logo.png"
+}

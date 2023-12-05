@@ -1,0 +1,11 @@
+{
+    "name": "Sperax USD",
+    "symbol": "USDs",
+    "id": "0xD74f5255D557944cf7Dd0E45FF521520002D5748",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sperax-usd",
+    "market_cap_usd": 1135089,
+    "market_cap_rank": 2167,
+    "24_hr_volume_usd": 116415,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xD74f5255D557944cf7Dd0E45FF521520002D5748/logo.png"
+}

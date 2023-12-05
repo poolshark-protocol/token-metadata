@@ -1,0 +1,11 @@
+{
+    "name": "Orbs",
+    "symbol": "ORBS",
+    "id": "0xf3C091ed43de9c270593445163a41A876A0bb3dd",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/orbs",
+    "market_cap_usd": 145761356,
+    "market_cap_rank": 260,
+    "24_hr_volume_usd": 10936519,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xf3C091ed43de9c270593445163a41A876A0bb3dd/logo.png"
+}

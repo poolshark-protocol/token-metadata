@@ -1,0 +1,11 @@
+{
+    "name": "ETH+",
+    "symbol": "ETH+",
+    "id": "0xD4939D69B31fbE981ed6904A3aF43Ee1dc777Aab",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ethereum-overnight",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0xD4939D69B31fbE981ed6904A3aF43Ee1dc777Aab>GoPlus</a>, this is a proxy contract. The contract owner can make code changes to the token contract including but not limited to disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xD4939D69B31fbE981ed6904A3aF43Ee1dc777Aab/logo.png"
+}

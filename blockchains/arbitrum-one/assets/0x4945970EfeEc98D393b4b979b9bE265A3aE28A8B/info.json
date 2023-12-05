@@ -1,0 +1,11 @@
+{
+    "name": "GMD",
+    "symbol": "GMD",
+    "id": "0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gmd-protocol",
+    "market_cap_usd": 2893618,
+    "market_cap_rank": 1695,
+    "24_hr_volume_usd": 57707,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B/logo.png"
+}

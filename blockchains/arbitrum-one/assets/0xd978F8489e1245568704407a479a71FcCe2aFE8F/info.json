@@ -1,0 +1,11 @@
+{
+    "name": "ApeSwapFinance Banana",
+    "symbol": "BANANA",
+    "id": "0xd978F8489e1245568704407a479a71FcCe2aFE8F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apeswap-finance",
+    "market_cap_usd": 6683555,
+    "market_cap_rank": 1298,
+    "24_hr_volume_usd": 462447,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xd978F8489e1245568704407a479a71FcCe2aFE8F/logo.png"
+}

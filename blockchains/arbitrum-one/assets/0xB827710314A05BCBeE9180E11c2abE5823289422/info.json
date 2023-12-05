@@ -1,0 +1,12 @@
+{
+    "name": "Abachi",
+    "symbol": "ABI",
+    "id": "0xB827710314A05BCBeE9180E11c2abE5823289422",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/abachi-2",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 38.44,
+    "public_notice": "Abachi (ABI) has recently migrated from their <a href=\"https://polygonscan.com/token/0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7\">old contract</a> to a <a href=\"https://etherscan.io/token/0xBF0B8b7475EdB32D103001Efd19FdD2753d7B76D\">new one</a>. For more information, please visit this announcement<a href=\"https://mirror.xyz/0x954d3721bf423aa8aE42BE01d34B572aB121F950/xPU3Zgutw7bJDNzhVqMDUgl2gtWDj2V0JmqYk49axuk\"> link</a>. You may also visit their old token page <a href=\"https://www.coingecko.com/en/coins/abachi-old\"> here</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xB827710314A05BCBeE9180E11c2abE5823289422/logo.png"
+}

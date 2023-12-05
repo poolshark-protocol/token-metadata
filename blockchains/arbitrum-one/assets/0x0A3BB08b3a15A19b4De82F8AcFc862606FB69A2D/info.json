@@ -1,0 +1,11 @@
+{
+    "name": "iZUMi Bond USD",
+    "symbol": "iUSD",
+    "id": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/izumi-bond-usd",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 6631.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D/logo.png"
+}

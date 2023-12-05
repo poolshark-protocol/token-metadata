@@ -1,0 +1,11 @@
+{
+    "name": "Arbswap Token",
+    "symbol": "ARBS",
+    "id": "0xf50874f8246776CA4B89eEF471E718F70f38458F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbswap",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 101888,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xf50874f8246776CA4B89eEF471E718F70f38458F/logo.png"
+}

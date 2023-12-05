@@ -1,0 +1,12 @@
+{
+    "name": "Carbon Token",
+    "symbol": "SWTH",
+    "id": "0xF763fa322Dc58dEe588252fAFee5f448e863b633",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/switcheo",
+    "market_cap_usd": 9523034,
+    "market_cap_rank": 1137,
+    "24_hr_volume_usd": 85999,
+    "public_notice": "Switcheo has rebranded to new Carbon. For detailed information, kindly visit this <a href=\"https://twitter.com/0xcarbon/status/1493514795920031746?s=20&t=Ir62Ch5MKxKzEkcXIiNIaw\">post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xF763fa322Dc58dEe588252fAFee5f448e863b633/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "PickleToken",
+    "symbol": "PICKLE",
+    "id": "0x965772e0E9c84b6f359c8597C891108DcF1c5B1A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pickle-finance",
+    "market_cap_usd": 757945,
+    "market_cap_rank": 2379,
+    "24_hr_volume_usd": 28456,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x965772e0E9c84b6f359c8597C891108DcF1c5B1A/logo.png"
+}

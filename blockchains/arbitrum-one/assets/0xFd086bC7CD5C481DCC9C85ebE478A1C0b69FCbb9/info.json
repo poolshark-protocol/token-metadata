@@ -1,0 +1,12 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "id": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tether",
+    "market_cap_usd": 89652433731,
+    "market_cap_rank": 3,
+    "24_hr_volume_usd": 70491240066,
+    "public_notice": "Tether announced the ending of the support of 3 blockchains : OmniLayer, BCH-SLP and Kusama. For more details, please visit this <a href=https://tether.to/en/tether-makes-strategic-transition-to-meet-community-demands-and-foster-innovation/>page</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png"
+}

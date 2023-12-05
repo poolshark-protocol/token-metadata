@@ -1,0 +1,11 @@
+{
+    "name": "Unlimited Network Token",
+    "symbol": "UWU",
+    "id": "0x05d35769a222AfFd6185e20F3f3676Abde56C25F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/unlimited-network-token",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 201.82,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x05d35769a222AfFd6185e20F3f3676Abde56C25F/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "CEX AI",
+    "symbol": "CEX-AI",
+    "id": "0x3A74a9032f731D504f10E02d7247d23B939EA4f6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cex-ai",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3A74a9032f731D504f10E02d7247d23B939EA4f6/logo.png"
+}

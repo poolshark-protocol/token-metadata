@@ -1,0 +1,11 @@
+{
+    "name": "Plutus",
+    "symbol": "PLS",
+    "id": "0x51318B7D00db7ACc4026C88c3952B66278B6A67F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/plutusdao",
+    "market_cap_usd": 2160385,
+    "market_cap_rank": 1835,
+    "24_hr_volume_usd": 159999,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x51318B7D00db7ACc4026C88c3952B66278B6A67F/logo.png"
+}

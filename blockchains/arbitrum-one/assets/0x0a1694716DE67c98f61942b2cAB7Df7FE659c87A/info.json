@@ -1,0 +1,10 @@
+{
+    "name": "Moonlight",
+    "symbol": "MNLT",
+    "id": "0x0a1694716DE67c98f61942b2cAB7Df7FE659c87A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crescentswap-moonlight",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x0a1694716DE67c98f61942b2cAB7Df7FE659c87A/logo.png"
+}

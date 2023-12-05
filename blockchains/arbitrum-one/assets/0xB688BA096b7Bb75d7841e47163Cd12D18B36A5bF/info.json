@@ -1,0 +1,10 @@
+{
+    "name": "mPendle",
+    "symbol": "mPendle",
+    "id": "0xB688BA096b7Bb75d7841e47163Cd12D18B36A5bF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mpendle",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xB688BA096b7Bb75d7841e47163Cd12D18B36A5bF/logo.png"
+}

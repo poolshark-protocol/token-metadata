@@ -1,0 +1,11 @@
+{
+    "name": "Sector",
+    "symbol": "SECT",
+    "id": "0x0B63C61bba4a876a6eB8b5e596800F7649A9B71E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sector",
+    "market_cap_usd": 307411,
+    "market_cap_rank": 2798,
+    "24_hr_volume_usd": 1882.02,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x0B63C61bba4a876a6eB8b5e596800F7649A9B71E/logo.png"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "TIA",
+    "symbol": "TIA.n",
+    "id": "0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bridged-tia-hyperlane",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C/logo.png"
+}

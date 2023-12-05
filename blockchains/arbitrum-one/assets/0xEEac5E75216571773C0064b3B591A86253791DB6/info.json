@@ -1,0 +1,11 @@
+{
+    "name": "Ellerium",
+    "symbol": "ELM",
+    "id": "0xEEac5E75216571773C0064b3B591A86253791DB6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ellerium",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 11223.9,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xEEac5E75216571773C0064b3B591A86253791DB6/logo.png"
+}

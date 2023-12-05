@@ -1,0 +1,11 @@
+{
+    "name": "Kabosu",
+    "symbol": "KABOSU",
+    "id": "0x53bCF6698C911b2A7409a740EACDDB901fC2a2C6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kabosu-arbitrum",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 29845,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x53bCF6698C911b2A7409a740EACDDB901fC2a2C6/logo.png"
+}

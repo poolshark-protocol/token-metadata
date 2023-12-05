@@ -1,0 +1,11 @@
+{
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "id": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/magic-internet-money",
+    "market_cap_usd": 39427923,
+    "market_cap_rank": 586,
+    "24_hr_volume_usd": 332977,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "COTI Token",
+    "symbol": "COTI",
+    "id": "0x6FE14d3CC2f7bDdffBa5CdB3BBE7467dd81ea101",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/coti",
+    "market_cap_usd": 72403600,
+    "market_cap_rank": 420,
+    "24_hr_volume_usd": 7376396,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x6FE14d3CC2f7bDdffBa5CdB3BBE7467dd81ea101/logo.png"
+}

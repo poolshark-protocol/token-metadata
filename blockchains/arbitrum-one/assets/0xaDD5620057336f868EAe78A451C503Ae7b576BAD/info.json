@@ -1,0 +1,11 @@
+{
+    "name": "noiseGPT",
+    "symbol": "noiseGPT",
+    "id": "0xaDD5620057336f868EAe78A451C503Ae7b576BAD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/noisegpt",
+    "market_cap_usd": 18602912,
+    "market_cap_rank": 856,
+    "24_hr_volume_usd": 592217,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xaDD5620057336f868EAe78A451C503Ae7b576BAD/logo.png"
+}

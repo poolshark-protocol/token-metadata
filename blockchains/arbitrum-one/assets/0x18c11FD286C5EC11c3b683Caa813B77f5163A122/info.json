@@ -1,0 +1,11 @@
+{
+    "name": "Gains Network",
+    "symbol": "GNS",
+    "id": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gains-network",
+    "market_cap_usd": 131611108,
+    "market_cap_rank": 279,
+    "24_hr_volume_usd": 6821032,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x18c11FD286C5EC11c3b683Caa813B77f5163A122/logo.png"
+}

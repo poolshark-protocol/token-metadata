@@ -1,0 +1,12 @@
+{
+    "name": "Hundred Finance",
+    "symbol": "HND",
+    "id": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hundred-finance",
+    "market_cap_usd": 317293,
+    "market_cap_rank": 2779,
+    "24_hr_volume_usd": 27.17,
+    "public_notice": "A Protocol exploit has been reported and the situation is currently still developing. If you have funds affected, the team is requesting that you reach out to them: https://twitter.com/HundredFinance/status/1647670104535056385",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png"
+}

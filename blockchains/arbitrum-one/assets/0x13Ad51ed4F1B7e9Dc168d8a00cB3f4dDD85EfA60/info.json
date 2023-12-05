@@ -1,0 +1,12 @@
+{
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "id": "0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lido-dao",
+    "market_cap_usd": 2106825554,
+    "market_cap_rank": 36,
+    "24_hr_volume_usd": 81098725,
+    "public_notice": "Due to the termination of development and technical support of Lido on Solana, from 16th of October, 2023, staking function is not available anymore. Please, unstake your funds via UI before 4th of February, 2024. For more information, please visit their <a href=\"https://blog.lido.fi/sunset-lido-on-solana/\">blog</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x13Ad51ed4F1B7e9Dc168d8a00cB3f4dDD85EfA60/logo.png"
+}

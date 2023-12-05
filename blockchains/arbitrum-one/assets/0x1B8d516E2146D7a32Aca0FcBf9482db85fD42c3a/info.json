@@ -1,0 +1,11 @@
+{
+    "name": "AlphaScan",
+    "symbol": "ASCN",
+    "id": "0x1B8d516E2146D7a32Aca0FcBf9482db85fD42c3a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alphascan",
+    "market_cap_usd": 1834862,
+    "market_cap_rank": 1922,
+    "24_hr_volume_usd": 38808,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x1B8d516E2146D7a32Aca0FcBf9482db85fD42c3a/logo.png"
+}

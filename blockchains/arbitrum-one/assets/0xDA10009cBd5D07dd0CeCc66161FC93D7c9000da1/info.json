@@ -1,0 +1,12 @@
+{
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "id": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dai",
+    "market_cap_usd": 5354643917,
+    "market_cap_rank": 17,
+    "24_hr_volume_usd": 437806737,
+    "public_notice": "7 Nov 2023: The Circulating Supply and Total Supply for DAI is updated to reflect the Total DAI Supply. For more information on Total DAI Supply and ERC-20 DAI Supply, please read <a href=\"https://github.com/makerdao/developerguides/blob/master/dai/dai-supply/dai-supply.md#tracking-dai-supply\" target=\"_blank\">here</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+}

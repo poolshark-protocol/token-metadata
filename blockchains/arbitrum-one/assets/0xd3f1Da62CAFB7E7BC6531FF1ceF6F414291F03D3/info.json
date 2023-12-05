@@ -1,0 +1,11 @@
+{
+    "name": "Doubloon Token",
+    "symbol": "DBL",
+    "id": "0xd3f1Da62CAFB7E7BC6531FF1ceF6F414291F03D3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/doubloon",
+    "market_cap_usd": 8968.2,
+    "market_cap_rank": 3694,
+    "24_hr_volume_usd": 28.29,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xd3f1Da62CAFB7E7BC6531FF1ceF6F414291F03D3/logo.png"
+}

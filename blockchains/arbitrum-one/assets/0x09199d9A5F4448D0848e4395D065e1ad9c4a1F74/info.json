@@ -1,0 +1,11 @@
+{
+    "name": "Bonk",
+    "symbol": "Bonk",
+    "id": "0x09199d9A5F4448D0848e4395D065e1ad9c4a1F74",
+    "decimals": 5,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bonk",
+    "market_cap_usd": 393353526,
+    "market_cap_rank": 131,
+    "24_hr_volume_usd": 165235553,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x09199d9A5F4448D0848e4395D065e1ad9c4a1F74/logo.png"
+}

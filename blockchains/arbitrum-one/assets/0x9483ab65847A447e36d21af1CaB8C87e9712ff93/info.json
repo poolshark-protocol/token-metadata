@@ -1,0 +1,12 @@
+{
+    "name": "Wrapped USDR",
+    "symbol": "wUSDR",
+    "id": "0x9483ab65847A447e36d21af1CaB8C87e9712ff93",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-usdr",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 26317,
+    "public_notice": "Wrapped USDR (WUSDR) has recently migrated from their <a href=\"https://polygonscan.com/token/0xAF0D9D65fC54de245cdA37af3d18cbEc860A4D4b\">old contract</a> to a <a href=\"https://polygonscan.com/token/0x00e8c0E92eB3Ad88189E7125Ec8825eDc03Ab265\">new one</a>. For more information, please visit this Twitter <a href=\"https://twitter.com/tangibleDAO/status/1686081693768364032?s=20\"> post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9483ab65847A447e36d21af1CaB8C87e9712ff93/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "artGPT",
+    "symbol": "AGPT",
+    "id": "0xD2F8B81CFFf297c70E5d58aC58762Dd5D213EA20",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/artgpt",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 20.09,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xD2F8B81CFFf297c70E5d58aC58762Dd5D213EA20/logo.png"
+}

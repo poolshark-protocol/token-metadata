@@ -1,0 +1,11 @@
+{
+    "name": "Wheat",
+    "symbol": "WHEAT",
+    "id": "0x771146816a0C7d74DAF652252D646aB0BFF7c21A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wheat",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3.5,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x771146816a0C7d74DAF652252D646aB0BFF7c21A/logo.png"
+}

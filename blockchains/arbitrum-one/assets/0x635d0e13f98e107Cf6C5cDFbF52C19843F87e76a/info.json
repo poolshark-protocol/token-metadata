@@ -1,0 +1,10 @@
+{
+    "name": "Dominator Domain",
+    "symbol": "DomDom",
+    "id": "0x635d0e13f98e107Cf6C5cDFbF52C19843F87e76a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dominator-domains",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x635d0e13f98e107Cf6C5cDFbF52C19843F87e76a/logo.png"
+}

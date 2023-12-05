@@ -1,0 +1,11 @@
+{
+    "name": "STAR",
+    "symbol": "STAR",
+    "id": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/preon-star",
+    "market_cap_usd": 1539631,
+    "market_cap_rank": 2012,
+    "24_hr_volume_usd": 1808.42,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xC19669A405067927865B40Ea045a2baabbbe57f5/logo.png"
+}

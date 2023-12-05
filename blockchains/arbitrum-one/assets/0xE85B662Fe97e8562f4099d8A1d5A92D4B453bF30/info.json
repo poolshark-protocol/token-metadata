@@ -1,0 +1,11 @@
+{
+    "name": "Thales DAO Token",
+    "symbol": "THALES",
+    "id": "0xE85B662Fe97e8562f4099d8A1d5A92D4B453bF30",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/thales",
+    "market_cap_usd": 18127440,
+    "market_cap_rank": 872,
+    "24_hr_volume_usd": 133134,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xE85B662Fe97e8562f4099d8A1d5A92D4B453bF30/logo.png"
+}

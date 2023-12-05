@@ -1,0 +1,11 @@
+{
+    "name": "Gravita Debt Token",
+    "symbol": "GRAI",
+    "id": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/grai",
+    "market_cap_usd": 11516990,
+    "market_cap_rank": 1059,
+    "24_hr_volume_usd": 1143237,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487/logo.png"
+}

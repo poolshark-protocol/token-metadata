@@ -1,0 +1,11 @@
+{
+    "name": "Phonon DAO",
+    "symbol": "PHONON",
+    "id": "0x39A49bc5017Fc668299Cd32e734C9269aCc35295",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/phonon-dao",
+    "market_cap_usd": 1930061,
+    "market_cap_rank": 1878,
+    "24_hr_volume_usd": 2688.38,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x39A49bc5017Fc668299Cd32e734C9269aCc35295/logo.png"
+}

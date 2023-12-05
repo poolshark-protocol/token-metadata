@@ -1,0 +1,11 @@
+{
+    "name": "Mycelium",
+    "symbol": "MYC",
+    "id": "0xC74fE4c715510Ec2F8C61d70D397B32043F55Abe",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mycelium",
+    "market_cap_usd": 930388,
+    "market_cap_rank": 2263,
+    "24_hr_volume_usd": 1.78,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xC74fE4c715510Ec2F8C61d70D397B32043F55Abe/logo.png"
+}

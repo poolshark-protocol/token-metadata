@@ -1,0 +1,11 @@
+{
+    "name": "Premia",
+    "symbol": "PREMIA",
+    "id": "0x51fC0f6660482Ea73330E414eFd7808811a57Fa2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/premia",
+    "market_cap_usd": 19604943,
+    "market_cap_rank": 824,
+    "24_hr_volume_usd": 203955,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x51fC0f6660482Ea73330E414eFd7808811a57Fa2/logo.png"
+}

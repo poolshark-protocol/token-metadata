@@ -1,0 +1,12 @@
+{
+    "name": "AIDOGE",
+    "symbol": "AIDOGE",
+    "id": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbdoge-ai",
+    "market_cap_usd": 28268919,
+    "market_cap_rank": 692,
+    "24_hr_volume_usd": 62129146,
+    "public_notice": "ArbDoge AI\u2019s X profile has been hacked, kindly refer to this <a href=https://twitter.com/ArbDoge_AI/status/1699728467590594620>link</a> for more details. ",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b/logo.png"
+}

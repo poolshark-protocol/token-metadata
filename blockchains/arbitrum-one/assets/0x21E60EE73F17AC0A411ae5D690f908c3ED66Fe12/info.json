@@ -1,0 +1,11 @@
+{
+    "name": "Deri",
+    "symbol": "DERI",
+    "id": "0x21E60EE73F17AC0A411ae5D690f908c3ED66Fe12",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/deri-protocol",
+    "market_cap_usd": 2170563,
+    "market_cap_rank": 1827,
+    "24_hr_volume_usd": 67758,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x21E60EE73F17AC0A411ae5D690f908c3ED66Fe12/logo.png"
+}

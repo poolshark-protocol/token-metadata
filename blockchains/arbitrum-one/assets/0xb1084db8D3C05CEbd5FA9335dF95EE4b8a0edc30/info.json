@@ -1,0 +1,11 @@
+{
+    "name": "USDT+",
+    "symbol": "USDT+",
+    "id": "0xb1084db8D3C05CEbd5FA9335dF95EE4b8a0edc30",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/usdtplus",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 973.53,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xb1084db8D3C05CEbd5FA9335dF95EE4b8a0edc30/logo.png"
+}

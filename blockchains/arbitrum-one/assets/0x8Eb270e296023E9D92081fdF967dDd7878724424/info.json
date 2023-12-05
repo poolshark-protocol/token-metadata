@@ -1,0 +1,11 @@
+{
+    "name": "Aave Arbitrum rETH",
+    "symbol": "aArbrETH",
+    "id": "0x8Eb270e296023E9D92081fdF967dDd7878724424",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-v3-reth",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8Eb270e296023E9D92081fdF967dDd7878724424/logo.png"
+}

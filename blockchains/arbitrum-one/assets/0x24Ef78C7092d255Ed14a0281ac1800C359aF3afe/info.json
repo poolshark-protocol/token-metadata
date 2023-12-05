@@ -1,0 +1,12 @@
+{
+    "name": "Rabbit",
+    "symbol": "RAB",
+    "id": "0x24Ef78C7092d255Ed14a0281ac1800C359aF3afe",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rabbit-wallet",
+    "market_cap_usd": 217954,
+    "market_cap_rank": 2934,
+    "24_hr_volume_usd": 1071027,
+    "public_notice": "Antex\u00a0has rebranded as Rabbit Wallet and migrated from <a href=\"https://bscscan.com/token/0xca1acab14e85f30996ac83c64ff93ded7586977c\">the old contract</a> to <a href=\"https://bscscan.com/token/0x24Ef78C7092d255Ed14a0281ac1800C359aF3afe\">a new one</a>.\u00a0",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x24Ef78C7092d255Ed14a0281ac1800C359aF3afe/logo.png"
+}

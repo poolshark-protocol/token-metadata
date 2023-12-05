@@ -1,0 +1,11 @@
+{
+    "name": "Tellor Tributes",
+    "symbol": "TRB",
+    "id": "0xd58D345Fd9c82262E087d2D0607624B410D88242",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tellor",
+    "market_cap_usd": 200594463,
+    "market_cap_rank": 211,
+    "24_hr_volume_usd": 22565118,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xd58D345Fd9c82262E087d2D0607624B410D88242/logo.png"
+}

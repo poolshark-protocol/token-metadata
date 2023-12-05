@@ -1,0 +1,11 @@
+{
+    "name": "Wombex Token",
+    "symbol": "WMX",
+    "id": "0x5190F06EaceFA2C552dc6BD5e763b81C73293293",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wombex",
+    "market_cap_usd": 613148,
+    "market_cap_rank": 2479,
+    "24_hr_volume_usd": 9960.7,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x5190F06EaceFA2C552dc6BD5e763b81C73293293/logo.png"
+}

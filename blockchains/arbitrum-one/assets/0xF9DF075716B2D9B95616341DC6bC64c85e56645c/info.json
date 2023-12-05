@@ -1,0 +1,11 @@
+{
+    "name": "Mayfair",
+    "symbol": "$MAY",
+    "id": "0xF9DF075716B2D9B95616341DC6bC64c85e56645c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mayfair",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 542.42,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xF9DF075716B2D9B95616341DC6bC64c85e56645c/logo.png"
+}

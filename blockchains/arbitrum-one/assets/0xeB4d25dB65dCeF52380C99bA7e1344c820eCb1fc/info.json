@@ -1,0 +1,11 @@
+{
+    "name": "XWG",
+    "symbol": "XWG",
+    "id": "0xeB4d25dB65dCeF52380C99bA7e1344c820eCb1fc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/x-world-games",
+    "market_cap_usd": 4495951,
+    "market_cap_rank": 1474,
+    "24_hr_volume_usd": 169614,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xeB4d25dB65dCeF52380C99bA7e1344c820eCb1fc/logo.png"
+}

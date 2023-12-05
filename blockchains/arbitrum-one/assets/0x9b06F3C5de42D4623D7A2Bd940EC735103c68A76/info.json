@@ -1,0 +1,11 @@
+{
+    "name": "Volta Club",
+    "symbol": "Volta",
+    "id": "0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/volta-club",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 132277,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9b06F3C5de42D4623D7A2Bd940EC735103c68A76/logo.png"
+}

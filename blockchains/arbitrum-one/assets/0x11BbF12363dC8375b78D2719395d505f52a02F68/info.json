@@ -1,0 +1,11 @@
+{
+    "name": "Route Token",
+    "symbol": "ROUTE",
+    "id": "0x11BbF12363dC8375b78D2719395d505f52a02F68",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/route",
+    "market_cap_usd": 56044257,
+    "market_cap_rank": 488,
+    "24_hr_volume_usd": 1674908,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x11BbF12363dC8375b78D2719395d505f52a02F68/logo.png"
+}

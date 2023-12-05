@@ -1,0 +1,11 @@
+{
+    "name": "Stabilize Token",
+    "symbol": "STBZ",
+    "id": "0x2C110867CA90e43D372C1C2E92990B00EA32818b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stabilize",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4.74,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x2C110867CA90e43D372C1C2E92990B00EA32818b/logo.png"
+}

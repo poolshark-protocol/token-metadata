@@ -1,0 +1,11 @@
+{
+    "name": "ZZZ",
+    "symbol": "ZZZ",
+    "id": "0x7A2C1b8e26c48a5b73816B7EC826Fd4053F5F34b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zzz",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 513332,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x7A2C1b8e26c48a5b73816B7EC826Fd4053F5F34b/logo.png"
+}

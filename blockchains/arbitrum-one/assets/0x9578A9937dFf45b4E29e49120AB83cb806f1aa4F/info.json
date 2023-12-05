@@ -1,0 +1,11 @@
+{
+    "name": "AITom",
+    "symbol": "AITom",
+    "id": "0x9578A9937dFf45b4E29e49120AB83cb806f1aa4F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aitom",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2284036,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9578A9937dFf45b4E29e49120AB83cb806f1aa4F/logo.png"
+}

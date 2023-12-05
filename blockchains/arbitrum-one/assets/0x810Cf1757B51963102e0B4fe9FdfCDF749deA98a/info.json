@@ -1,0 +1,11 @@
+{
+    "name": "Sanctum Coin",
+    "symbol": "SANCTA",
+    "id": "0x810Cf1757B51963102e0B4fe9FdfCDF749deA98a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sanctum-coin",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1087.43,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x810Cf1757B51963102e0B4fe9FdfCDF749deA98a/logo.png"
+}

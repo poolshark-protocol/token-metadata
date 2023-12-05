@@ -1,0 +1,12 @@
+{
+    "name": "Arbitrum tBTC v2",
+    "symbol": "tBTC",
+    "id": "0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tbtc",
+    "market_cap_usd": 66367664,
+    "market_cap_rank": 446,
+    "24_hr_volume_usd": 958548,
+    "public_notice": "tBTC is being upgraded from <a href=\"https://etherscan.io/token/0x8daebade922df735c38c80c7ebd708af50815faa\">V1</a> to <a href=\"https://etherscan.io/token/0x18084fba666a33d37592fa2633fd49a74dd93a88\">V2</a>. For more info, refer to their <a href=\"https://blog.threshold.network/an-updated-timeline-for-the-launch-of-tbtc-v2/\">Blog article</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40/logo.png"
+}

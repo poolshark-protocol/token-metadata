@@ -1,0 +1,11 @@
+{
+    "name": "Auctus Token",
+    "symbol": "AUC",
+    "id": "0xea986d33eF8a20A96120ecc44dBdD49830192043",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/auctus",
+    "market_cap_usd": 23600,
+    "market_cap_rank": 3592,
+    "24_hr_volume_usd": 80.59,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xea986d33eF8a20A96120ecc44dBdD49830192043/logo.png"
+}

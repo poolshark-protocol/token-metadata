@@ -1,0 +1,11 @@
+{
+    "name": "Connect Financial",
+    "symbol": "CNFI",
+    "id": "0x6F5401c53e2769c858665621d22DDBF53D8d27c5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/connect-financial",
+    "market_cap_usd": 1589896,
+    "market_cap_rank": 1992,
+    "24_hr_volume_usd": 554.49,
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x6F5401c53e2769c858665621d22DDBF53D8d27c5/logo.png"
+}
