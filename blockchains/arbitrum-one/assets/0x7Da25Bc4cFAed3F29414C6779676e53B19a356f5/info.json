@@ -1,0 +1,11 @@
+{
+    "name": "Kokomo Finance",
+    "symbol": "KOKO",
+    "id": "0x7Da25Bc4cFAed3F29414C6779676e53B19a356f5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kokomo-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x7Da25Bc4cFAed3F29414C6779676e53B19a356f5/logo.png"
+}

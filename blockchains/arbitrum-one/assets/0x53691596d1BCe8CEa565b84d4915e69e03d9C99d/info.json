@@ -1,0 +1,11 @@
+{
+    "name": "Across Protocol Token",
+    "symbol": "ACX",
+    "id": "0x53691596d1BCe8CEa565b84d4915e69e03d9C99d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/across-protocol",
+    "market_cap_usd": 46077236,
+    "market_cap_rank": 546,
+    "24_hr_volume_usd": 364680,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x53691596d1BCe8CEa565b84d4915e69e03d9C99d/logo.png"
+}

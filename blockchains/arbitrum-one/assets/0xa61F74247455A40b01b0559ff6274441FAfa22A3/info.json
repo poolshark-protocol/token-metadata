@@ -1,0 +1,11 @@
+{
+    "name": "Magpie Token",
+    "symbol": "MGP",
+    "id": "0xa61F74247455A40b01b0559ff6274441FAfa22A3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/magpie",
+    "market_cap_usd": 21575544,
+    "market_cap_rank": 786,
+    "24_hr_volume_usd": 53334,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xa61F74247455A40b01b0559ff6274441FAfa22A3/logo.png"
+}

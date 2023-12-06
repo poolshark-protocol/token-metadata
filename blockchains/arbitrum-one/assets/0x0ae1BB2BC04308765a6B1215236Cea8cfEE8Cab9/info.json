@@ -1,0 +1,10 @@
+{
+    "name": "Tdex Token",
+    "symbol": "TT",
+    "id": "0x0ae1BB2BC04308765a6B1215236Cea8cfEE8Cab9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metatdex",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x0ae1BB2BC04308765a6B1215236Cea8cfEE8Cab9/logo.png"
+}

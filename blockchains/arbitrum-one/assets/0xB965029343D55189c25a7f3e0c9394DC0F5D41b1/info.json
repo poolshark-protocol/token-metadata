@@ -1,0 +1,11 @@
+{
+    "name": "Indexed",
+    "symbol": "NDX",
+    "id": "0xB965029343D55189c25a7f3e0c9394DC0F5D41b1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/indexed-finance",
+    "market_cap_usd": 30471,
+    "market_cap_rank": 3545,
+    "24_hr_volume_usd": 707.7,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xB965029343D55189c25a7f3e0c9394DC0F5D41b1/logo.png"
+}

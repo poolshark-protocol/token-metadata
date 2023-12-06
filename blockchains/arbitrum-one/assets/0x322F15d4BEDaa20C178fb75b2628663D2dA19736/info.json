@@ -1,0 +1,11 @@
+{
+    "name": "DUO",
+    "symbol": "DUO",
+    "id": "0x322F15d4BEDaa20C178fb75b2628663D2dA19736",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/monopoly-layer2-duo",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 893.65,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x322F15d4BEDaa20C178fb75b2628663D2dA19736/logo.png"
+}

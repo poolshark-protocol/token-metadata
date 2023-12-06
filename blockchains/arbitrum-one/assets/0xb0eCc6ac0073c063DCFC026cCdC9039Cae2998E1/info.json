@@ -1,0 +1,11 @@
+{
+    "name": "Account Abstraction Incentive",
+    "symbol": "AA",
+    "id": "0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/a3s",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 510554,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xb0eCc6ac0073c063DCFC026cCdC9039Cae2998E1/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Mad Meerkat Finance",
+    "symbol": "MMF",
+    "id": "0x56b251d4b493ee3956E3f899D36b7290902D2326",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mmfinance-arbitrum",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1283.32,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x56b251d4b493ee3956E3f899D36b7290902D2326/logo.png"
+}

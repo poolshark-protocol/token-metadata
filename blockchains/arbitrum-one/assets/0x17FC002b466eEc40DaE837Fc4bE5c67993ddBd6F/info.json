@@ -1,0 +1,11 @@
+{
+    "name": "Frax",
+    "symbol": "FRAX",
+    "id": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/frax",
+    "market_cap_usd": 669136248,
+    "market_cap_rank": 83,
+    "24_hr_volume_usd": 19007453,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F/logo.png"
+}

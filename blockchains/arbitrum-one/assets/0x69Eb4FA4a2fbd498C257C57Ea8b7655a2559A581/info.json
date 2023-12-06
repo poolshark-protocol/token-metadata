@@ -1,0 +1,11 @@
+{
+    "name": "DODO bird",
+    "symbol": "DODO",
+    "id": "0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dodo",
+    "market_cap_usd": 79928851,
+    "market_cap_rank": 396,
+    "24_hr_volume_usd": 55972994,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x69Eb4FA4a2fbd498C257C57Ea8b7655a2559A581/logo.png"
+}

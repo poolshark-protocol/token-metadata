@@ -1,0 +1,11 @@
+{
+    "name": "Black Rabbit AI",
+    "symbol": "BRAIN",
+    "id": "0x847Db21ef9DE627c23d3DfF470af6599b1A30d3f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/black-rabbit-ai",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 22.82,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x847Db21ef9DE627c23d3DfF470af6599b1A30d3f/logo.png"
+}

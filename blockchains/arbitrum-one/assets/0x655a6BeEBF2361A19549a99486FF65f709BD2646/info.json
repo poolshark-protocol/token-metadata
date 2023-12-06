@@ -1,0 +1,11 @@
+{
+    "name": "LilAI",
+    "symbol": "LILAI",
+    "id": "0x655a6BeEBF2361A19549a99486FF65f709BD2646",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lilai",
+    "market_cap_usd": 3636507,
+    "market_cap_rank": 1580,
+    "24_hr_volume_usd": 56406,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x655a6BeEBF2361A19549a99486FF65f709BD2646/logo.png"
+}

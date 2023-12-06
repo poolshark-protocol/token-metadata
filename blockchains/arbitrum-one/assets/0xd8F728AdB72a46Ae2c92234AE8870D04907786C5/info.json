@@ -1,0 +1,10 @@
+{
+    "name": "Advanced Micro Devices - Dinari",
+    "symbol": "AMD.d",
+    "id": "0xd8F728AdB72a46Ae2c92234AE8870D04907786C5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dinari-amd",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xd8F728AdB72a46Ae2c92234AE8870D04907786C5/logo.png"
+}

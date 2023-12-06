@@ -1,0 +1,11 @@
+{
+    "name": "SPDR S&P 500 ETF Trust - Dinari",
+    "symbol": "SPY.d",
+    "id": "0xF4BD09B048248876E39Fcf2e0CDF1aee1240a9D2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dinari-spy-dshares",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "public_notice": "Dinari has migrated their tokens to v2 <a href=\"https://docs.dinari.com/architecture/contracts\">contract</a>. For more information, view this Twitter <a href=\"https://twitter.com/DinariGlobal/status/1723946460591648966\">post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xF4BD09B048248876E39Fcf2e0CDF1aee1240a9D2/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "MUX Protocol",
+    "symbol": "MCB",
+    "id": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mcdex",
+    "market_cap_usd": 41874237,
+    "market_cap_rank": 573,
+    "24_hr_volume_usd": 340512,
+    "public_notice": "MCDEX (MCB) has recently rebranded to MUX Protocol (MCB). For more information, please view this <a href=\"https://twitter.com/muxprotocol/status/1554471873962217473?s=20&t=JIutd4_XfVIUhsIrvczDEA\">announcement</a> on Twitter.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42/logo.png"
+}

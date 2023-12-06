@@ -1,0 +1,10 @@
+{
+    "name": "Berkshire Hathaway Inc. - Dinari",
+    "symbol": "BRK.A.d",
+    "id": "0x9dA913f4DCa9B210a232d588113047685a4ed4B1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dinari-brk-a-d",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9dA913f4DCa9B210a232d588113047685a4ed4B1/logo.png"
+}

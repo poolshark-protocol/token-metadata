@@ -1,0 +1,11 @@
+{
+    "name": "Kunji Finance",
+    "symbol": "KNJ",
+    "id": "0xfbbb21d8e7A461f06e5E27efD69703aCB5C732A8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/kunji-finance",
+    "market_cap_usd": 728278,
+    "market_cap_rank": 2401,
+    "24_hr_volume_usd": 15425.65,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xfbbb21d8e7A461f06e5E27efD69703aCB5C732A8/logo.png"
+}

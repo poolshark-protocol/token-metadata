@@ -1,0 +1,11 @@
+{
+    "name": "poor guy",
+    "symbol": "pogai",
+    "id": "0x6fD58f5a2F3468e35fEb098b5F59F04157002407",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/pogai",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1377633,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x6fD58f5a2F3468e35fEb098b5F59F04157002407/logo.png"
+}

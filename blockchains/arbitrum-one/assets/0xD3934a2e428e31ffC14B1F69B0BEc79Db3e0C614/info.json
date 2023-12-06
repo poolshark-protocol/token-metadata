@@ -1,0 +1,12 @@
+{
+    "name": "CONE",
+    "symbol": "CONE",
+    "id": "0xD3934a2e428e31ffC14B1F69B0BEc79Db3e0C614",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/concentric-fi",
+    "market_cap_usd": 700202,
+    "market_cap_rank": 2423,
+    "24_hr_volume_usd": 22163,
+    "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0xD3934a2e428e31ffC14B1F69B0BEc79Db3e0C614>GoPlus</a>, the contract creator can make changes to the token contract such as disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xD3934a2e428e31ffC14B1F69B0BEc79Db3e0C614/logo.png"
+}

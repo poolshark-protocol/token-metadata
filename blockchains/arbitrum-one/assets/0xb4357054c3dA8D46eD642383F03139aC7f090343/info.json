@@ -1,0 +1,10 @@
+{
+    "name": "Port3 Network",
+    "symbol": "PORT3",
+    "id": "0xb4357054c3dA8D46eD642383F03139aC7f090343",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/port3-network",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xb4357054c3dA8D46eD642383F03139aC7f090343/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Alongside Crypto Market Index",
+    "symbol": "AMKT",
+    "id": "0x498C620C7C91C6eba2E3Cd5485383f41613b7EB6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alongside-crypto-market-index",
+    "market_cap_usd": 3849191,
+    "market_cap_rank": 1540,
+    "24_hr_volume_usd": 104464,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x498C620C7C91C6eba2E3Cd5485383f41613b7EB6/logo.png"
+}

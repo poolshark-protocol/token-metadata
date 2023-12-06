@@ -1,0 +1,12 @@
+{
+    "name": "Sundae Token",
+    "symbol": "SUNDAE",
+    "id": "0x352F4bF396a7353A0877f99e99757E5d294Df374",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sundae-the-dog",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 562521,
+    "public_notice": "SUNDAE has no affiliations or connections with any commercial brands or trademarks including McDonald's. Please DYOR before trading.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x352F4bF396a7353A0877f99e99757E5d294Df374/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "SHARBI",
+    "symbol": "$SHARBI",
+    "id": "0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sharbi",
+    "market_cap_usd": 519764,
+    "market_cap_rank": 2561,
+    "24_hr_volume_usd": 775.98,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xaa54e84A3e6e5A80288d2C2f8e36eA5cA3A3Ca30/logo.png"
+}

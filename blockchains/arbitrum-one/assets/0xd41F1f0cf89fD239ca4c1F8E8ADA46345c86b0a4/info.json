@@ -1,0 +1,10 @@
+{
+    "name": "Fiat24 CHF",
+    "symbol": "CHF24",
+    "id": "0xd41F1f0cf89fD239ca4c1F8E8ADA46345c86b0a4",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fiat24-chf",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xd41F1f0cf89fD239ca4c1F8E8ADA46345c86b0a4/logo.png"
+}

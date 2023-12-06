@@ -1,0 +1,11 @@
+{
+    "name": "Curve.fi USDC/USDT",
+    "symbol": "2CRV",
+    "id": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/curve-fi-usdc-usdt",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 10.98,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x7f90122BF0700F9E7e1F688fe926940E8839F353/logo.png"
+}

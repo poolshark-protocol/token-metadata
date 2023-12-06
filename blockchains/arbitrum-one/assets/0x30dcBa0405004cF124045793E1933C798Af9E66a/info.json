@@ -1,0 +1,11 @@
+{
+    "name": "Yieldification",
+    "symbol": "YDF",
+    "id": "0x30dcBa0405004cF124045793E1933C798Af9E66a",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yieldification",
+    "market_cap_usd": 6025232,
+    "market_cap_rank": 1344,
+    "24_hr_volume_usd": 218314,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x30dcBa0405004cF124045793E1933C798Af9E66a/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Axelar Wrapped wstETH",
+    "symbol": "axl-wstETH",
+    "id": "0x9cfB13E6c11054ac9fcB92BA89644F30775436e4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-steth-axelar",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 92680,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9cfB13E6c11054ac9fcB92BA89644F30775436e4/logo.png"
+}

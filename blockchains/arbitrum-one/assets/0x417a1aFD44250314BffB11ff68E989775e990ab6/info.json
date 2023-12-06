@@ -1,0 +1,11 @@
+{
+    "name": "Volta Protocol Token",
+    "symbol": "VOLTA",
+    "id": "0x417a1aFD44250314BffB11ff68E989775e990ab6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/volta-protocol",
+    "market_cap_usd": 70645,
+    "market_cap_rank": 3351,
+    "24_hr_volume_usd": 2.04,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x417a1aFD44250314BffB11ff68E989775e990ab6/logo.png"
+}

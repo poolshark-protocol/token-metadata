@@ -1,0 +1,12 @@
+{
+    "name": "Hydranet",
+    "symbol": "HDN",
+    "id": "0x3404149e9EE6f17Fb41DB1Ce593ee48FBDcD9506",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hydranet",
+    "market_cap_usd": 18231666,
+    "market_cap_rank": 870,
+    "24_hr_volume_usd": 269226,
+    "public_notice": "Hydranet (HDX) has rebranded to Hydranet (HDN) and recently migrated from their <a href=\"https://arbiscan.io/token/0xf4fe727c855c2d395852ca43f645cab4b504af23\">old contract</a> to a <a href=\"https://arbiscan.io/token/0x3404149e9ee6f17fb41db1ce593ee48fbdcd9506\">new one</a>. For more information, please visit this <a href=\"https://twitter.com/TheHydranet/status/1675092698754166785\">Twitter post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3404149e9EE6f17Fb41DB1Ce593ee48FBDcD9506/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Gemdrop",
+    "symbol": "GEM",
+    "id": "0x4d010DBE0C6CdC0571BBa026D6dFAbBf40C9af28",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gemdrop",
+    "market_cap_usd": 536053,
+    "market_cap_rank": 2542,
+    "24_hr_volume_usd": 6602.25,
+    "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0x4d010DBE0C6CdC0571BBa026D6dFAbBf40C9af28>GoPlus</a>, this is a proxy contract. The contract owner can make code changes to the token contract including but not limited to disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x4d010DBE0C6CdC0571BBa026D6dFAbBf40C9af28/logo.png"
+}

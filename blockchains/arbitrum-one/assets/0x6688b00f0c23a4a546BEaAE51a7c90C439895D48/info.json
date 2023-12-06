@@ -1,0 +1,12 @@
+{
+    "name": "Tarot",
+    "symbol": "TAROT",
+    "id": "0x6688b00f0c23a4a546BEaAE51a7c90C439895D48",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tarot",
+    "market_cap_usd": 2124856,
+    "market_cap_rank": 1844,
+    "24_hr_volume_usd": 3320.45,
+    "public_notice": "Tarot (TAROT) has recently migrated to new contracts. For more information, please visit this <a href=\"https://twitter.com/tarotfinance/status/1685447998325567488\">Twitter </a> post. You may also visit their new token page <a href=\"https://www.coingecko.com/en/coins/tarot\"> here</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x6688b00f0c23a4a546BEaAE51a7c90C439895D48/logo.png"
+}

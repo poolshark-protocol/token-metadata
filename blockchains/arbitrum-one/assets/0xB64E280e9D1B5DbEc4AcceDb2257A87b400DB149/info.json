@@ -1,0 +1,11 @@
+{
+    "name": "Level Token",
+    "symbol": "LVL",
+    "id": "0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/level",
+    "market_cap_usd": 3826457,
+    "market_cap_rank": 1544,
+    "24_hr_volume_usd": 133645,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xB64E280e9D1B5DbEc4AcceDb2257A87b400DB149/logo.png"
+}

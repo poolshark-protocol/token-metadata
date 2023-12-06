@@ -1,0 +1,11 @@
+{
+    "name": "Ankr Network",
+    "symbol": "ANKR",
+    "id": "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ankr",
+    "market_cap_usd": 269103157,
+    "market_cap_rank": 177,
+    "24_hr_volume_usd": 35952762,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861/logo.png"
+}

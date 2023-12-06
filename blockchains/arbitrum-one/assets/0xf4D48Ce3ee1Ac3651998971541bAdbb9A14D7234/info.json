@@ -1,0 +1,11 @@
+{
+    "name": "Cream",
+    "symbol": "CREAM",
+    "id": "0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/cream-2",
+    "market_cap_usd": 13552023,
+    "market_cap_rank": 1000,
+    "24_hr_volume_usd": 2547030,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xf4D48Ce3ee1Ac3651998971541bAdbb9A14D7234/logo.png"
+}

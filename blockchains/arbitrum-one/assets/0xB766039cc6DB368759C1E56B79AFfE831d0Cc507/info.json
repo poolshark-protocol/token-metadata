@@ -1,0 +1,11 @@
+{
+    "name": "Rocket Pool Protocol",
+    "symbol": "RPL",
+    "id": "0xB766039cc6DB368759C1E56B79AFfE831d0Cc507",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/rocket-pool",
+    "market_cap_usd": 624374767,
+    "market_cap_rank": 90,
+    "24_hr_volume_usd": 12608032,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xB766039cc6DB368759C1E56B79AFfE831d0Cc507/logo.png"
+}

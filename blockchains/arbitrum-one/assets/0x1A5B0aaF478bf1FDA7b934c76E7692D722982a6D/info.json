@@ -1,0 +1,12 @@
+{
+    "name": "Buffer Token",
+    "symbol": "BFR",
+    "id": "0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ibuffer-token",
+    "market_cap_usd": 2020075,
+    "market_cap_rank": 1862,
+    "24_hr_volume_usd": 64298,
+    "public_notice": "iBuffer had rebranded to Buffer, their contract was migrated from their <a href=https://bscscan.com/token/0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5>old contract</a> to a <a href=https://arbiscan.io/token/0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d>new one</a>, kindly refer to this <a href=https://twitter.com/Buffer_Finance/status/1573323048723574784?s=20&t=pvngiXx8AZa7wDsvRUJ29g>post</a> for more information. ",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "GoldenBoys",
+    "symbol": "GOLD",
+    "id": "0x8b5e4C9a188b1A187f2D1E80b1c2fB17fA2922e1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/goldenboys",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 37606,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8b5e4C9a188b1A187f2D1E80b1c2fB17fA2922e1/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "GenomesDAO Governance",
+    "symbol": "GNOME",
+    "id": "0x7698Ac5D15bb3Ba7185adCBff32A80ebD9d0709B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gnome",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 311802,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x7698Ac5D15bb3Ba7185adCBff32A80ebD9d0709B/logo.png"
+}

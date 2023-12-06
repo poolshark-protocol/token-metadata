@@ -1,0 +1,12 @@
+{
+    "name": "Uramaki",
+    "symbol": "MAKI",
+    "id": "0xC7D91EC2B29CD22C45c15760Abc189c4e78E8036",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/uramaki",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 581915,
+    "public_notice": "Uramaki has migrated from the <a href=\"https://arbiscan.io/token/0x13444b88D886E517f3fDaA3f3BCCa87BA347DA00\">old contract</a> to <a href=\"https://arbiscan.io/token/0xc7d91ec2b29cd22c45c15760abc189c4e78e8036\">new one</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xC7D91EC2B29CD22C45c15760Abc189c4e78E8036/logo.png"
+}

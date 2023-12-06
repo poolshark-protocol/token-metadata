@@ -1,0 +1,11 @@
+{
+    "name": "Minato",
+    "symbol": "MNTO",
+    "id": "0xF0DFAD1817b5ba73726B02Ab34dd4B4B00bcD392",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/minato",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 12.75,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xF0DFAD1817b5ba73726B02Ab34dd4B4B00bcD392/logo.png"
+}

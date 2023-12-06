@@ -1,0 +1,11 @@
+{
+    "name": "Perpetual",
+    "symbol": "PERP",
+    "id": "0x753D224bCf9AAFaCD81558c32341416df61D3DAC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/perpetual-protocol",
+    "market_cap_usd": 50625280,
+    "market_cap_rank": 512,
+    "24_hr_volume_usd": 12649431,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x753D224bCf9AAFaCD81558c32341416df61D3DAC/logo.png"
+}

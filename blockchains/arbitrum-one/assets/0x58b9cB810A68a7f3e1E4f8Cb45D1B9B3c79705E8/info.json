@@ -1,0 +1,11 @@
+{
+    "name": "Connext",
+    "symbol": "NEXT",
+    "id": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/connext",
+    "market_cap_usd": 18323209,
+    "market_cap_rank": 866,
+    "24_hr_volume_usd": 15737094,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8/logo.png"
+}

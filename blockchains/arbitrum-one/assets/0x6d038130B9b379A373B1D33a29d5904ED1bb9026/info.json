@@ -1,0 +1,11 @@
+{
+    "name": "Quick Intel",
+    "symbol": "QUICKI",
+    "id": "0x6d038130B9b379A373B1D33a29d5904ED1bb9026",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/quick-intel",
+    "market_cap_usd": 935520,
+    "market_cap_rank": 2261,
+    "24_hr_volume_usd": 563.0,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x6d038130B9b379A373B1D33a29d5904ED1bb9026/logo.png"
+}

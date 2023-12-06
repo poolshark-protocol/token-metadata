@@ -1,0 +1,10 @@
+{
+    "name": "Plutus Vault GLP",
+    "symbol": "plvGLP",
+    "id": "0x5326E71Ff593Ecc2CF7AcaE5Fe57582D6e74CFF1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/plvglp",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x5326E71Ff593Ecc2CF7AcaE5Fe57582D6e74CFF1/logo.png"
+}

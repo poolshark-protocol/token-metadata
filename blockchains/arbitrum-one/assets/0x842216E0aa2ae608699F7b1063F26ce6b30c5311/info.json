@@ -1,0 +1,11 @@
+{
+    "name": "URD Token",
+    "symbol": "URD",
+    "id": "0x842216E0aa2ae608699F7b1063F26ce6b30c5311",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/urdex-finance",
+    "market_cap_usd": 103623,
+    "market_cap_rank": 3226,
+    "24_hr_volume_usd": 20.39,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x842216E0aa2ae608699F7b1063F26ce6b30c5311/logo.png"
+}

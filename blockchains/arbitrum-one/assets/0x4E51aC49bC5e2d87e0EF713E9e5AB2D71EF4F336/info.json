@@ -1,0 +1,11 @@
+{
+    "name": "Celo native asset",
+    "symbol": "CELO",
+    "id": "0x4E51aC49bC5e2d87e0EF713E9e5AB2D71EF4F336",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/celo-wormhole",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 307.25,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x4E51aC49bC5e2d87e0EF713E9e5AB2D71EF4F336/logo.png"
+}

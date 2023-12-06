@@ -1,0 +1,11 @@
+{
+    "name": "Metavault DAO",
+    "symbol": "MVD",
+    "id": "0x15a808ed3846D25e88AE868DE79F1bcB1Ac382B5",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/metavault-dao",
+    "market_cap_usd": 1071873,
+    "market_cap_rank": 2189,
+    "24_hr_volume_usd": 10054.09,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x15a808ed3846D25e88AE868DE79F1bcB1Ac382B5/logo.png"
+}

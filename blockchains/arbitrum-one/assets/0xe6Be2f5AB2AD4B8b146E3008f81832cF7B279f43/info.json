@@ -1,0 +1,11 @@
+{
+    "name": "ToxicGarden.finance SEED",
+    "symbol": "SEED",
+    "id": "0xe6Be2f5AB2AD4B8b146E3008f81832cF7B279f43",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/toxicgarden-finance-seed",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 81.19,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xe6Be2f5AB2AD4B8b146E3008f81832cF7B279f43/logo.png"
+}

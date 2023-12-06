@@ -1,0 +1,11 @@
+{
+    "name": "Equation",
+    "symbol": "EQU",
+    "id": "0x87AAfFdF26c6885f6010219208D5B161ec7609c0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/equation",
+    "market_cap_usd": 2132682,
+    "market_cap_rank": 1842,
+    "24_hr_volume_usd": 181751,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x87AAfFdF26c6885f6010219208D5B161ec7609c0/logo.png"
+}

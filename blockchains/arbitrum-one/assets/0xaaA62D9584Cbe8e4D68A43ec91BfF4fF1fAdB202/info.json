@@ -1,0 +1,11 @@
+{
+    "name": "Antimatter.Finance Governance Token",
+    "symbol": "MATTER",
+    "id": "0xaaA62D9584Cbe8e4D68A43ec91BfF4fF1fAdB202",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/antimatter",
+    "market_cap_usd": 3483013,
+    "market_cap_rank": 1610,
+    "24_hr_volume_usd": 1793609,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xaaA62D9584Cbe8e4D68A43ec91BfF4fF1fAdB202/logo.png"
+}

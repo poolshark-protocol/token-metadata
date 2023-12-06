@@ -1,0 +1,11 @@
+{
+    "name": "Vertex",
+    "symbol": "VRTX",
+    "id": "0x95146881b86B3ee99e63705eC87AfE29Fcc044D9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/vertex-protocol",
+    "market_cap_usd": 61621259,
+    "market_cap_rank": 465,
+    "24_hr_volume_usd": 3509539,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x95146881b86B3ee99e63705eC87AfE29Fcc044D9/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "swETH",
+    "symbol": "swETH",
+    "id": "0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sweth",
+    "market_cap_usd": 109220450,
+    "market_cap_rank": 319,
+    "24_hr_volume_usd": 543496,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18/logo.png"
+}

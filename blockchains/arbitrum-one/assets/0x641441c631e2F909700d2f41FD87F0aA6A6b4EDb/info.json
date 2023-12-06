@@ -1,0 +1,11 @@
+{
+    "name": "dForce USD",
+    "symbol": "USX",
+    "id": "0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/token-dforce-usd",
+    "market_cap_usd": 31715243,
+    "market_cap_rank": 659,
+    "24_hr_volume_usd": 45069,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x641441c631e2F909700d2f41FD87F0aA6A6b4EDb/logo.png"
+}

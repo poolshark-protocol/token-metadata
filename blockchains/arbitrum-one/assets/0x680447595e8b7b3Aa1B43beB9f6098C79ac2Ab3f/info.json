@@ -1,0 +1,11 @@
+{
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "id": "0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/usdd",
+    "market_cap_usd": 714773201,
+    "market_cap_rank": 80,
+    "24_hr_volume_usd": 63747433,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x680447595e8b7b3Aa1B43beB9f6098C79ac2Ab3f/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Impossible Decentralized Incubat",
+    "symbol": "IDIA",
+    "id": "0xE6045890B20945D00e6f3c01878265C03C5435D3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/idia",
+    "market_cap_usd": 17856426,
+    "market_cap_rank": 882,
+    "24_hr_volume_usd": 134887,
+    "public_notice": "Impossible Finance Launchpad (IDIA) has migrated from their <a href=\"https://arbiscan.io/token/0xD91903D548f19C0FC0a6B9ED09D2F72b4dFe7144\">older Arbitrum contract</a> to a <a href=\"https://arbiscan.io/token/0xe6045890b20945d00e6f3c01878265c03c5435d3\">new one</a>. For more information, please view this <a href=\"https://blog.impossible.finance/arbitrum-idia-migration/\">announcement</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xE6045890B20945D00e6f3c01878265C03C5435D3/logo.png"
+}

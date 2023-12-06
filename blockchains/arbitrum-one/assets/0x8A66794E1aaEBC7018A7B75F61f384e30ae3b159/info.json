@@ -1,0 +1,11 @@
+{
+    "name": "BLS Token",
+    "symbol": "BLS",
+    "id": "0x8A66794E1aaEBC7018A7B75F61f384e30ae3b159",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bluesale",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 111274,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8A66794E1aaEBC7018A7B75F61f384e30ae3b159/logo.png"
+}

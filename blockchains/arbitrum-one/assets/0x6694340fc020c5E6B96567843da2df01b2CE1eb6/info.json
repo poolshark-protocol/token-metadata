@@ -1,0 +1,11 @@
+{
+    "name": "StargateToken",
+    "symbol": "STG",
+    "id": "0x6694340fc020c5E6B96567843da2df01b2CE1eb6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stargate-finance",
+    "market_cap_usd": 115644796,
+    "market_cap_rank": 305,
+    "24_hr_volume_usd": 61565623,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x6694340fc020c5E6B96567843da2df01b2CE1eb6/logo.png"
+}

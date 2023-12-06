@@ -1,0 +1,11 @@
+{
+    "name": "Empyreal",
+    "symbol": "EMP",
+    "id": "0x772598E9e62155D7fDFe65FdF01EB5a53a8465BE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/empyreal",
+    "market_cap_usd": 19480431,
+    "market_cap_rank": 826,
+    "24_hr_volume_usd": 261900,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x772598E9e62155D7fDFe65FdF01EB5a53a8465BE/logo.png"
+}

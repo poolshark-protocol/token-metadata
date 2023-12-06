@@ -1,0 +1,11 @@
+{
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe",
+    "id": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/euroe-stablecoin",
+    "market_cap_usd": 1719340,
+    "market_cap_rank": 1949,
+    "24_hr_volume_usd": 16181.28,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xcF985abA4647a432E60efcEeB8054BBd64244305/logo.png"
+}

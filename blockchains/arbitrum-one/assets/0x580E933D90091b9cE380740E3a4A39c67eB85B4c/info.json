@@ -1,0 +1,11 @@
+{
+    "name": "GameSwift",
+    "symbol": "GSWIFT",
+    "id": "0x580E933D90091b9cE380740E3a4A39c67eB85B4c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gameswift",
+    "market_cap_usd": 24927452,
+    "market_cap_rank": 737,
+    "24_hr_volume_usd": 1388170,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x580E933D90091b9cE380740E3a4A39c67eB85B4c/logo.png"
+}

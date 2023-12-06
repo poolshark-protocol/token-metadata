@@ -1,0 +1,11 @@
+{
+    "name": "Aave Arbitrum USDCn",
+    "symbol": "aArbUSDCn",
+    "id": "0x724dc807b04555b71ed48a6896b6F41593b8C637",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-v3-usdc",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x724dc807b04555b71ed48a6896b6F41593b8C637/logo.png"
+}

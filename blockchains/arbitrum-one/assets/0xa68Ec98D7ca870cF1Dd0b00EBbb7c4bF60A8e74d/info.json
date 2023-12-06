@@ -1,0 +1,11 @@
+{
+    "name": "Biconomy Token",
+    "symbol": "BICO",
+    "id": "0xa68Ec98D7ca870cF1Dd0b00EBbb7c4bF60A8e74d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/biconomy",
+    "market_cap_usd": 206371423,
+    "market_cap_rank": 207,
+    "24_hr_volume_usd": 8379760,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xa68Ec98D7ca870cF1Dd0b00EBbb7c4bF60A8e74d/logo.png"
+}

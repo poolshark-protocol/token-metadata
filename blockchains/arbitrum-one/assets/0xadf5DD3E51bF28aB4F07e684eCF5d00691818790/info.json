@@ -1,0 +1,11 @@
+{
+    "name": "ICHI",
+    "symbol": "ICHI",
+    "id": "0xadf5DD3E51bF28aB4F07e684eCF5d00691818790",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ichi-farm",
+    "market_cap_usd": 13712141,
+    "market_cap_rank": 989,
+    "24_hr_volume_usd": 852107,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xadf5DD3E51bF28aB4F07e684eCF5d00691818790/logo.png"
+}

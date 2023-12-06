@@ -1,0 +1,12 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "id": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/usd-coin",
+    "market_cap_usd": 24400386546,
+    "market_cap_rank": 7,
+    "24_hr_volume_usd": 16364388390,
+    "public_notice": "USD Coin (USDC) has rebranded to USDC (USDC). For more information, please refer to this <a href=\"https://www.circle.com/blog/usd-coin-and-euro-coin-are-now-exclusively-usdc-and-eurc\">announcement</a> from the Circle Blog.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xaf88d065e77c8cC2239327C5EDb3A432268e5831/logo.png"
+}

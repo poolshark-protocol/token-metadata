@@ -1,0 +1,12 @@
+{
+    "name": "Lybra",
+    "symbol": "LBR",
+    "id": "0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lybra-finance",
+    "market_cap_usd": 27522132,
+    "market_cap_rank": 703,
+    "24_hr_volume_usd": 5434430,
+    "public_notice": "Lybra (LBR) has migrated from their <a href=\"https://etherscan.io/token/0xf1182229b71e79e504b1d2bf076c15a277311e05\">older contract</a> to a <a href=\"https://etherscan.io/token/0xed1167b6Dc64E8a366DB86F2E952A482D0981ebd\">new one</a>. For more information, please view this <a href=\"https://twitter.com/LybraFinanceLSD/status/1696211858783617285?s=20\">announcement</a> on Twitter/X.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xA23e44aEa714fbBc08ef28340D78067B9A8Cad73/logo.png"
+}

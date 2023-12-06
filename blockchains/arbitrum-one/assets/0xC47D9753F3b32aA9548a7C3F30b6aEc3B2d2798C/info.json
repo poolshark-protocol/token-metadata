@@ -1,0 +1,11 @@
+{
+    "name": "TND",
+    "symbol": "TND",
+    "id": "0xC47D9753F3b32aA9548a7C3F30b6aEc3B2d2798C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/tender-fi",
+    "market_cap_usd": 201999,
+    "market_cap_rank": 2975,
+    "24_hr_volume_usd": 4961.89,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xC47D9753F3b32aA9548a7C3F30b6aEc3B2d2798C/logo.png"
+}

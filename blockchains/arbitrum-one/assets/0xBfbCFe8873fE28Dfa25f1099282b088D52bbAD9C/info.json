@@ -1,0 +1,11 @@
+{
+    "name": "Equilibria Token",
+    "symbol": "EQB",
+    "id": "0xBfbCFe8873fE28Dfa25f1099282b088D52bbAD9C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/equilibria-finance",
+    "market_cap_usd": 3081503,
+    "market_cap_rank": 1661,
+    "24_hr_volume_usd": 37361,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xBfbCFe8873fE28Dfa25f1099282b088D52bbAD9C/logo.png"
+}

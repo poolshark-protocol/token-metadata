@@ -1,0 +1,11 @@
+{
+    "name": "Synth sUSD",
+    "symbol": "sUSD",
+    "id": "0xA970AF1a584579B618be4d69aD6F73459D112F95",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/nusd",
+    "market_cap_usd": 47675174,
+    "market_cap_rank": 534,
+    "24_hr_volume_usd": 5296442,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xA970AF1a584579B618be4d69aD6F73459D112F95/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ArbiNYAN",
+    "symbol": "NYAN",
+    "id": "0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbinyan",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1012.41,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC/logo.png"
+}

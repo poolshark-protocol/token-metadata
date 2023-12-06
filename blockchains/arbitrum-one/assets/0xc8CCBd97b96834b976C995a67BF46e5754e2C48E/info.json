@@ -1,0 +1,11 @@
+{
+    "name": "Parallax Token",
+    "symbol": "PLX",
+    "id": "0xc8CCBd97b96834b976C995a67BF46e5754e2C48E",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/parallax",
+    "market_cap_usd": 811699,
+    "market_cap_rank": 2335,
+    "24_hr_volume_usd": 55161,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xc8CCBd97b96834b976C995a67BF46e5754e2C48E/logo.png"
+}

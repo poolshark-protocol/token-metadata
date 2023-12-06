@@ -1,0 +1,11 @@
+{
+    "name": "Frax Price Index",
+    "symbol": "FPI",
+    "id": "0x1B01514A2B3CdEf16fD3c680a818A0Ab97Da8a09",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/frax-price-index",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1557.35,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x1B01514A2B3CdEf16fD3c680a818A0Ab97Da8a09/logo.png"
+}

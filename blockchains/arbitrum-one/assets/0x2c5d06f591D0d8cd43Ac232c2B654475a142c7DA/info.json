@@ -1,0 +1,10 @@
+{
+    "name": "Fiat24 EUR",
+    "symbol": "EUR24",
+    "id": "0x2c5d06f591D0d8cd43Ac232c2B654475a142c7DA",
+    "decimals": 2,
+    "coingecko_url": "https://www.coingecko.com/en/coins/fiat24-eur",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x2c5d06f591D0d8cd43Ac232c2B654475a142c7DA/logo.png"
+}

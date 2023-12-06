@@ -1,0 +1,12 @@
+{
+    "name": "DarkMeta",
+    "symbol": "DMT",
+    "id": "0x9E92B9Ef3c3Cc4053591002F4f04d2Aef87bf2d2",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/darkmeta",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9.38,
+    "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0x9e92b9ef3c3cc4053591002f4f04d2aef87bf2d2>GoPlus</a>, the contract creator can make changes to the token contract such as disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9E92B9Ef3c3Cc4053591002F4f04d2Aef87bf2d2/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Strips Token",
+    "symbol": "STRP",
+    "id": "0x326c33FD1113c1F29B35B4407F3d6312a8518431",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/strips-finance",
+    "market_cap_usd": 38078150,
+    "market_cap_rank": 600,
+    "24_hr_volume_usd": 31479,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x326c33FD1113c1F29B35B4407F3d6312a8518431/logo.png"
+}

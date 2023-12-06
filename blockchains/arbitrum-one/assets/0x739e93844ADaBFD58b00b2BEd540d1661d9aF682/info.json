@@ -1,0 +1,11 @@
+{
+    "name": "GO!",
+    "symbol": "GO!",
+    "id": "0x739e93844ADaBFD58b00b2BEd540d1661d9aF682",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/norigo",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 15.56,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x739e93844ADaBFD58b00b2BEd540d1661d9aF682/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Alt Markets",
+    "symbol": "AMX",
+    "id": "0xB2d948Be3a74ECCe80378D4093E6cD7f4dC1Cf9C",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/alt-markets",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 26.04,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xB2d948Be3a74ECCe80378D4093E6cD7f4dC1Cf9C/logo.png"
+}

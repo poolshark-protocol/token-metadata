@@ -1,0 +1,11 @@
+{
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
+    "id": "0x95aB45875cFFdba1E5f451B950bC2E42c0053f39",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/staked-frax-ether",
+    "market_cap_usd": 505090513,
+    "market_cap_rank": 111,
+    "24_hr_volume_usd": 313123,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x95aB45875cFFdba1E5f451B950bC2E42c0053f39/logo.png"
+}

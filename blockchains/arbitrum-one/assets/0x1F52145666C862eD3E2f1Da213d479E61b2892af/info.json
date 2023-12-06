@@ -1,0 +1,11 @@
+{
+    "name": "Funny Coin",
+    "symbol": "FUC",
+    "id": "0x1F52145666C862eD3E2f1Da213d479E61b2892af",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/funny-coin",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 313.48,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x1F52145666C862eD3E2f1Da213d479E61b2892af/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "MZR",
+    "symbol": "MZR Token",
+    "id": "0xBBEa044f9e7c0520195e49Ad1e561572E7E1B948",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mizar",
+    "market_cap_usd": 3144725,
+    "market_cap_rank": 1653,
+    "24_hr_volume_usd": 4550.47,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xBBEa044f9e7c0520195e49Ad1e561572E7E1B948/logo.png"
+}

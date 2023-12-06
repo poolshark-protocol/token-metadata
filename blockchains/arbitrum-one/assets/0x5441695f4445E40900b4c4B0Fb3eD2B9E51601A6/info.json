@@ -1,0 +1,12 @@
+{
+    "name": "ARTH Valuecoin",
+    "symbol": "ARTH",
+    "id": "0x5441695f4445E40900b4c4B0Fb3eD2B9E51601A6",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arth",
+    "market_cap_usd": 847050,
+    "market_cap_rank": 2311,
+    "24_hr_volume_usd": 38.9,
+    "public_notice": "ARTH has recently migrated from their <a href=\"https://bscscan.com/token/0xa5c40f510dd2edb8d8f8cbb425dacc5180458d1a\">old contract</a> to a <a href=\"https://bscscan.com/token/0x85daB10c3BA20148cA60C2eb955e1F8ffE9eAa79\">new one</a>. For more information, please visit this <a href=\"https://t.me/MahadaoAnnouncements/792\">post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x5441695f4445E40900b4c4B0Fb3eD2B9E51601A6/logo.png"
+}

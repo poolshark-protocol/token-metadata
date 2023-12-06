@@ -1,0 +1,11 @@
+{
+    "name": "ApeX Token",
+    "symbol": "APEX",
+    "id": "0x61A1ff55C5216b636a294A07D77C6F4Df10d3B56",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/apex-token-2",
+    "market_cap_usd": 12204863,
+    "market_cap_rank": 1036,
+    "24_hr_volume_usd": 164704,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x61A1ff55C5216b636a294A07D77C6F4Df10d3B56/logo.png"
+}

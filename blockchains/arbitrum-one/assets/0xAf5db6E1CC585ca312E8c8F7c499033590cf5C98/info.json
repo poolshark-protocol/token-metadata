@@ -1,0 +1,11 @@
+{
+    "name": "Arken Token",
+    "symbol": "ARKEN",
+    "id": "0xAf5db6E1CC585ca312E8c8F7c499033590cf5C98",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arken-finance",
+    "market_cap_usd": 910549,
+    "market_cap_rank": 2272,
+    "24_hr_volume_usd": 1486.09,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xAf5db6E1CC585ca312E8c8F7c499033590cf5C98/logo.png"
+}

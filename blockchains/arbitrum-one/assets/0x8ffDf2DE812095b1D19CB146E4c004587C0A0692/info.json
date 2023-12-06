@@ -1,0 +1,11 @@
+{
+    "name": "Aave Arbitrum LUSD",
+    "symbol": "aArbLUSD",
+    "id": "0x8ffDf2DE812095b1D19CB146E4c004587C0A0692",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/aave-v3-lusd",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 0.0,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8ffDf2DE812095b1D19CB146E4c004587C0A0692/logo.png"
+}

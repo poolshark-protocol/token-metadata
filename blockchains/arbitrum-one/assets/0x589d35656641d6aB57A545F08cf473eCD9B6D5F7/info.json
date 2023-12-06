@@ -1,0 +1,11 @@
+{
+    "name": "GMO JPY",
+    "symbol": "GYEN",
+    "id": "0x589d35656641d6aB57A545F08cf473eCD9B6D5F7",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gyen",
+    "market_cap_usd": 14018795,
+    "market_cap_rank": 975,
+    "24_hr_volume_usd": 42975,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x589d35656641d6aB57A545F08cf473eCD9B6D5F7/logo.png"
+}

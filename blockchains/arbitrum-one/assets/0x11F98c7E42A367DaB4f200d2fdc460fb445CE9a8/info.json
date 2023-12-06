@@ -1,0 +1,11 @@
+{
+    "name": "SPARTA",
+    "symbol": "SPARTA",
+    "id": "0x11F98c7E42A367DaB4f200d2fdc460fb445CE9a8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/spartadex",
+    "market_cap_usd": 9644320,
+    "market_cap_rank": 1132,
+    "24_hr_volume_usd": 252909,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x11F98c7E42A367DaB4f200d2fdc460fb445CE9a8/logo.png"
+}

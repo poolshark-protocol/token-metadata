@@ -1,0 +1,10 @@
+{
+    "name": "Coinbase Global, Inc. Class A Common Stock - Dinari",
+    "symbol": "COIN.d",
+    "id": "0x46b979440AC257151EE5a5bC9597B76386907FA1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dinari-coin",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x46b979440AC257151EE5a5bC9597B76386907FA1/logo.png"
+}

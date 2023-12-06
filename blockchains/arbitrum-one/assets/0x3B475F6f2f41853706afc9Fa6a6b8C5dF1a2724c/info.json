@@ -1,0 +1,11 @@
+{
+    "name": "Zyber Token",
+    "symbol": "ZYB",
+    "id": "0x3B475F6f2f41853706afc9Fa6a6b8C5dF1a2724c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/zyberswap",
+    "market_cap_usd": 1204317,
+    "market_cap_rank": 2137,
+    "24_hr_volume_usd": 64373,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3B475F6f2f41853706afc9Fa6a6b8C5dF1a2724c/logo.png"
+}

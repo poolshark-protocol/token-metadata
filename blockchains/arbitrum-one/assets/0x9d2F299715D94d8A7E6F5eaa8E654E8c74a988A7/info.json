@@ -1,0 +1,11 @@
+{
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "id": "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/frax-share",
+    "market_cap_usd": 642363087,
+    "market_cap_rank": 88,
+    "24_hr_volume_usd": 82221240,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7/logo.png"
+}

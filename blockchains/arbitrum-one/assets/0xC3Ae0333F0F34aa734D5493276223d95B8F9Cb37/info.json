@@ -1,0 +1,11 @@
+{
+    "name": "DXdao",
+    "symbol": "DXD",
+    "id": "0xC3Ae0333F0F34aa734D5493276223d95B8F9Cb37",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dxdao",
+    "market_cap_usd": 20361319,
+    "market_cap_rank": 809,
+    "24_hr_volume_usd": 12721.57,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xC3Ae0333F0F34aa734D5493276223d95B8F9Cb37/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ankr Staked ETH",
+    "symbol": "ankrETH",
+    "id": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ankreth",
+    "market_cap_usd": 56672667,
+    "market_cap_rank": 485,
+    "24_hr_volume_usd": 17618.04,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3/logo.png"
+}

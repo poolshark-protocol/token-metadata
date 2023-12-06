@@ -1,0 +1,11 @@
+{
+    "name": "mWOM",
+    "symbol": "mWOM",
+    "id": "0x509FD25EE2AC7833a017f17Ee8A6Fb4aAf947876",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/magpie-wom",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 258.01,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x509FD25EE2AC7833a017f17Ee8A6Fb4aAf947876/logo.png"
+}

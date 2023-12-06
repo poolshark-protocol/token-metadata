@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Arena Arbitrum",
+    "symbol": "DRA",
+    "id": "0x93c157932E5649E794Df8999714af8690226A1c9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dragon-arena",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 13.47,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x93c157932E5649E794Df8999714af8690226A1c9/logo.png"
+}

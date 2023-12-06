@@ -1,0 +1,11 @@
+{
+    "name": "GOVI",
+    "symbol": "GOVI",
+    "id": "0x07E49d5dE43DDA6162Fa28D24d5935C151875283",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/govi",
+    "market_cap_usd": 4560398,
+    "market_cap_rank": 1466,
+    "24_hr_volume_usd": 70930,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x07E49d5dE43DDA6162Fa28D24d5935C151875283/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ArbiTen",
+    "symbol": "ArbiTen",
+    "id": "0x3e6b3021Dab44dEbf93091030DbFCBdf52464Afe",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbiten",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.3,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3e6b3021Dab44dEbf93091030DbFCBdf52464Afe/logo.png"
+}

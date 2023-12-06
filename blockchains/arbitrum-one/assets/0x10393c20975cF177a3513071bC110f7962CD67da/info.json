@@ -1,0 +1,11 @@
+{
+    "name": "Jones DAO",
+    "symbol": "JONES",
+    "id": "0x10393c20975cF177a3513071bC110f7962CD67da",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jones-dao",
+    "market_cap_usd": 6680800,
+    "market_cap_rank": 1298,
+    "24_hr_volume_usd": 84972,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x10393c20975cF177a3513071bC110f7962CD67da/logo.png"
+}

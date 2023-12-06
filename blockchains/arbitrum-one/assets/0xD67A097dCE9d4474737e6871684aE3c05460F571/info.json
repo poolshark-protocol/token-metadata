@@ -1,0 +1,12 @@
+{
+    "name": "GND",
+    "symbol": "GND",
+    "id": "0xD67A097dCE9d4474737e6871684aE3c05460F571",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gnd-protocol",
+    "market_cap_usd": 446297,
+    "market_cap_rank": 2637,
+    "24_hr_volume_usd": 3082.4,
+    "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0xd67a097dce9d4474737e6871684ae3c05460f571>GoPlus</a>, the contract creator can make changes to the token contract such as disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xD67A097dCE9d4474737e6871684aE3c05460F571/logo.png"
+}

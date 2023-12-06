@@ -1,0 +1,11 @@
+{
+    "name": "Cradles Coin",
+    "symbol": "CRDS",
+    "id": "0x13461c85887e85fDc942ac94c4d2699995aD1960",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crds",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 283672,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x13461c85887e85fDc942ac94c4d2699995aD1960/logo.png"
+}

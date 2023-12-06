@@ -1,0 +1,11 @@
+{
+    "name": "LoopringCoin V2",
+    "symbol": "LRC",
+    "id": "0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/loopring",
+    "market_cap_usd": 295858987,
+    "market_cap_rank": 167,
+    "24_hr_volume_usd": 40637676,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x46d0cE7de6247b0A95f67b43B589b4041BaE7fbE/logo.png"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Flashstake",
+    "symbol": "FLASH",
+    "id": "0xc628534100180582E43271448098cb2c185795BD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/flash-stake",
+    "market_cap_usd": 123907,
+    "market_cap_rank": 3164,
+    "24_hr_volume_usd": 1235.02,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xc628534100180582E43271448098cb2c185795BD/logo.png"
+}

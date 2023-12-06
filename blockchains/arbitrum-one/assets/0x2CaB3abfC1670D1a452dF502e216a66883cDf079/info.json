@@ -1,0 +1,11 @@
+{
+    "name": "Layer2DAO",
+    "symbol": "L2DAO",
+    "id": "0x2CaB3abfC1670D1a452dF502e216a66883cDf079",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/layer2dao",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 348.86,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x2CaB3abfC1670D1a452dF502e216a66883cDf079/logo.png"
+}

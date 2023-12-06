@@ -1,0 +1,12 @@
+{
+    "name": "XNF",
+    "symbol": "XNF",
+    "id": "0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xnf",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 31975,
+    "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F>GoPlus</a>, the contract creator can make changes to the token contract such as disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xC84FaE1141B92Fa5Bf847276828f69cAF651Cb7F/logo.png"
+}

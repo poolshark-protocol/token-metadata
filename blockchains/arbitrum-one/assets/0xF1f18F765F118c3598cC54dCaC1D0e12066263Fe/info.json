@@ -1,0 +1,11 @@
+{
+    "name": "Pfizer, Inc. - Dinari",
+    "symbol": "PFE.d",
+    "id": "0xF1f18F765F118c3598cC54dCaC1D0e12066263Fe",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dinari-pfe-dshares",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "public_notice": "Dinari has migrated their tokens to v2 <a href=\"https://docs.dinari.com/architecture/contracts\">contract</a>. For more information, view this Twitter <a href=\"https://twitter.com/DinariGlobal/status/1723946460591648966\">post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xF1f18F765F118c3598cC54dCaC1D0e12066263Fe/logo.png"
+}

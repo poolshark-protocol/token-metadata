@@ -1,0 +1,11 @@
+{
+    "name": "DMT",
+    "symbol": "DMT",
+    "id": "0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dream-machine-token",
+    "market_cap_usd": 9343996,
+    "market_cap_rank": 1144,
+    "24_hr_volume_usd": 330045,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8B0E6f19Ee57089F7649A455D89D7bC6314D04e8/logo.png"
+}

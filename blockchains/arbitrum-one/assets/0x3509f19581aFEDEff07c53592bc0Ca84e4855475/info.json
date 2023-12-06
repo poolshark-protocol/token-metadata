@@ -1,0 +1,11 @@
+{
+    "name": "xDollar Stablecoin",
+    "symbol": "xUSD",
+    "id": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/xdollar-stablecoin",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 110.99,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3509f19581aFEDEff07c53592bc0Ca84e4855475/logo.png"
+}

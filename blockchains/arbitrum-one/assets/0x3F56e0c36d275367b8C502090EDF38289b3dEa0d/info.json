@@ -1,0 +1,11 @@
+{
+    "name": "Mai Stablecoin",
+    "symbol": "MAI",
+    "id": "0x3F56e0c36d275367b8C502090EDF38289b3dEa0d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/mimatic",
+    "market_cap_usd": 23485302,
+    "market_cap_rank": 753,
+    "24_hr_volume_usd": 74222,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3F56e0c36d275367b8C502090EDF38289b3dEa0d/logo.png"
+}

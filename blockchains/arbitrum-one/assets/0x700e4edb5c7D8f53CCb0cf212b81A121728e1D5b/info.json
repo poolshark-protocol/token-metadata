@@ -1,0 +1,10 @@
+{
+    "name": "LOPO",
+    "symbol": "LOPO",
+    "id": "0x700e4edb5c7D8f53CCb0cf212b81A121728e1D5b",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lopo",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x700e4edb5c7D8f53CCb0cf212b81A121728e1D5b/logo.png"
+}

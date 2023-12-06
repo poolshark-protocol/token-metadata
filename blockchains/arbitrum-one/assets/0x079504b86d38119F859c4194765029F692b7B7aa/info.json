@@ -1,0 +1,11 @@
+{
+    "name": "Lyra Token",
+    "symbol": "LYRA",
+    "id": "0x079504b86d38119F859c4194765029F692b7B7aa",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lyra-finance",
+    "market_cap_usd": 78281126,
+    "market_cap_rank": 401,
+    "24_hr_volume_usd": 103796,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x079504b86d38119F859c4194765029F692b7B7aa/logo.png"
+}

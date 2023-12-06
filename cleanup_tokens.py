@@ -8,10 +8,10 @@ abandoned = 0
 spam = 0
 rmdirs = 0
 
-blockchain = "ethereum"
+blockchain = "arbitrum-one"
 
 
-supported_chains = ['ethereum']
+supported_chains = ['arbitrum-one']
 ids_to_wipe = []
 new_search_tokens = []
 # TODO: use to cleanup tokens we don't want
@@ -40,10 +40,14 @@ for path in Path('blockchains/' + blockchain + '/assets/').rglob('info.json'):
    elif '"status": "spam"' in info.read():
      spam += 1
 
-for path in os.listdir('blockchains/ethereum/assets'):
-    if os.listdir('blockchains/ethereum/assets/' + path) == []:
-      os.rmdir('blockchains/ethereum/assets/' + path)
-      rmdirs+=1
+for path in os.listdir('blockchains/' + blockchain + '/assets/'):
+  if "logo.png" not in os.listdir('blockchains/' + blockchain + '/assets/' + path):
+    os.remove('blockchains/' + blockchain + '/assets/' + path + '/info.json')
+    os.rmdir('blockchains/' + blockchain + '/assets/' + path)
+    rmdirs+=1
+  elif os.listdir('blockchains/' + blockchain + '/assets/' + path) == []:
+    os.rmdir('blockchains/' + blockchain + '/assets/' + path + '/info.json')
+    rmdirs+=1
 print('--------------------------')
 print(blockchain.upper() + ":     " + str(total))
 print('--------------------------')

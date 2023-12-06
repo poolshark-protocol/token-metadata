@@ -1,0 +1,11 @@
+{
+    "name": "gFLY",
+    "symbol": "GFLY",
+    "id": "0x872bAD41CFc8BA731f811fEa8B2d0b9fd6369585",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/battlefly",
+    "market_cap_usd": 1041164,
+    "market_cap_rank": 2204,
+    "24_hr_volume_usd": 62660,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x872bAD41CFc8BA731f811fEa8B2d0b9fd6369585/logo.png"
+}

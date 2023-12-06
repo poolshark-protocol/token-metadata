@@ -1,0 +1,11 @@
+{
+    "name": "NVIDIA Corporation - Dinari",
+    "symbol": "NVDA.d",
+    "id": "0x4DaFFfDDEa93DdF1e0e7B61E844331455053Ce5c",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dinari-nvda-dshares",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "public_notice": "Dinari has migrated their tokens to v2 <a href=\"https://docs.dinari.com/architecture/contracts\">contract</a>. For more information, view this Twitter <a href=\"https://twitter.com/DinariGlobal/status/1723946460591648966\">post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x4DaFFfDDEa93DdF1e0e7B61E844331455053Ce5c/logo.png"
+}

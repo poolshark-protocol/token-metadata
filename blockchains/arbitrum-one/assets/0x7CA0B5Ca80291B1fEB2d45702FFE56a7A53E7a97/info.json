@@ -1,0 +1,11 @@
+{
+    "name": "Radiate Token",
+    "symbol": "RADT",
+    "id": "0x7CA0B5Ca80291B1fEB2d45702FFE56a7A53E7a97",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/radiate-protocol",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1965.15,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x7CA0B5Ca80291B1fEB2d45702FFE56a7A53E7a97/logo.png"
+}

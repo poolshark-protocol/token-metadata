@@ -1,0 +1,10 @@
+{
+    "name": "SolidLizard synthetic USDC",
+    "symbol": "slzUSDC",
+    "id": "0x54355cc6913B26A15ccA1F820cf17D362FA65DB5",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/solidlizard-synthetic-usd",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x54355cc6913B26A15ccA1F820cf17D362FA65DB5/logo.png"
+}

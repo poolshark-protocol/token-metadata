@@ -1,0 +1,11 @@
+{
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "id": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbitrum",
+    "market_cap_usd": 1380850751,
+    "market_cap_rank": 50,
+    "24_hr_volume_usd": 508228926,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "BetSwirl v2",
+    "symbol": "BETS",
+    "id": "0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/betswirl",
+    "market_cap_usd": 3030990,
+    "market_cap_rank": 1668,
+    "24_hr_volume_usd": 33119,
+    "public_notice": "BetSwirl (BETS) has recently migrated from their <a href=\"https://polygonscan.com/token/0x9246a5f10a79a5a939b0c2a75a3ad196aafdb43b\">old contract</a> to a <a href=\"https://etherscan.io/token/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5\">new one</a>. For more information, please visit this Twitter<a href=\"https://twitter.com/BetSwirl/status/1681592871055421440?s=20\"> post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x94025780a1aB58868D9B2dBBB775f44b32e8E6e5/logo.png"
+}

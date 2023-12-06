@@ -1,0 +1,11 @@
+{
+    "name": "GMBL COMPUTER CHiP",
+    "symbol": "GMBL",
+    "id": "0xE9A5aF50874c0ef2748b5DB70104B5ccb5557f6d",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/gmbl-computer-chip",
+    "market_cap_usd": 5196841,
+    "market_cap_rank": 1393,
+    "24_hr_volume_usd": 61990,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xE9A5aF50874c0ef2748b5DB70104B5ccb5557f6d/logo.png"
+}

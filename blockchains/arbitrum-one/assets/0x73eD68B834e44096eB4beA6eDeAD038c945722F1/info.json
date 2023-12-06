@@ -1,0 +1,11 @@
+{
+    "name": "SharkySwap",
+    "symbol": "SHARKY",
+    "id": "0x73eD68B834e44096eB4beA6eDeAD038c945722F1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sharky-swap",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 15.81,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x73eD68B834e44096eB4beA6eDeAD038c945722F1/logo.png"
+}

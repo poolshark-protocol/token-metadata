@@ -1,0 +1,11 @@
+{
+    "name": "GenomesDAO",
+    "symbol": "GENE",
+    "id": "0x59A729658e9245B0cF1f8Cb9fb37945D2B06ea27",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/genomesdao",
+    "market_cap_usd": 7667977,
+    "market_cap_rank": 1233,
+    "24_hr_volume_usd": 701263,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x59A729658e9245B0cF1f8Cb9fb37945D2B06ea27/logo.png"
+}

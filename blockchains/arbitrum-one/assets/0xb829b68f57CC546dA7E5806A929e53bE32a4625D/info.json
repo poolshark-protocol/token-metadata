@@ -1,0 +1,11 @@
+{
+    "name": "Axelar Wrapped ETH",
+    "symbol": "axlETH",
+    "id": "0xb829b68f57CC546dA7E5806A929e53bE32a4625D",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/axlweth",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 106841,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xb829b68f57CC546dA7E5806A929e53bE32a4625D/logo.png"
+}

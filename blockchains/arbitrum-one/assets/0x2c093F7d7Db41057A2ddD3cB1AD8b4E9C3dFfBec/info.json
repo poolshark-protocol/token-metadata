@@ -1,0 +1,10 @@
+{
+    "name": "USDEX+",
+    "symbol": "USDEX+",
+    "id": "0x2c093F7d7Db41057A2ddD3cB1AD8b4E9C3dFfBec",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/usdex-8136b88a-eceb-4eaf-b910-9578cbc70136",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x2c093F7d7Db41057A2ddD3cB1AD8b4E9C3dFfBec/logo.png"
+}

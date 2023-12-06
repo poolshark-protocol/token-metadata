@@ -1,0 +1,11 @@
+{
+    "name": "HMX",
+    "symbol": "HMX",
+    "id": "0x83d6c8C06ac276465e4C92E7aC8C23740F435140",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hmx",
+    "market_cap_usd": 7487415,
+    "market_cap_rank": 1245,
+    "24_hr_volume_usd": 216654,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x83d6c8C06ac276465e4C92E7aC8C23740F435140/logo.png"
+}

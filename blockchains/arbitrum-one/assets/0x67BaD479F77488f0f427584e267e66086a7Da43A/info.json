@@ -1,0 +1,10 @@
+{
+    "name": "Arm Holdings plc American Depositary Shares - Dinari",
+    "symbol": "ARM.d",
+    "id": "0x67BaD479F77488f0f427584e267e66086a7Da43A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dinari-arm",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x67BaD479F77488f0f427584e267e66086a7Da43A/logo.png"
+}

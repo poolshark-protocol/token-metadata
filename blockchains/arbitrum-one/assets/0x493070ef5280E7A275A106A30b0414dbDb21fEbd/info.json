@@ -1,0 +1,10 @@
+{
+    "name": "Aisupreme.io Token",
+    "symbol": "AISP",
+    "id": "0x493070ef5280E7A275A106A30b0414dbDb21fEbd",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ai-supreme",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x493070ef5280E7A275A106A30b0414dbDb21fEbd/logo.png"
+}

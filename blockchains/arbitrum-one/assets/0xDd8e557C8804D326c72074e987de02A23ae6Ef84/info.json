@@ -1,0 +1,11 @@
+{
+    "name": "ArbInu",
+    "symbol": "ARBINU",
+    "id": "0xDd8e557C8804D326c72074e987de02A23ae6Ef84",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbinu",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 372.51,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xDd8e557C8804D326c72074e987de02A23ae6Ef84/logo.png"
+}

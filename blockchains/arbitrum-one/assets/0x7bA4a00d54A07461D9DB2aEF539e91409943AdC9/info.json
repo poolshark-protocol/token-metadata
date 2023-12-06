@@ -1,0 +1,11 @@
+{
+    "name": "Stake DAO Token",
+    "symbol": "SDT",
+    "id": "0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/stake-dao",
+    "market_cap_usd": 19569998,
+    "market_cap_rank": 826,
+    "24_hr_volume_usd": 20464,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x7bA4a00d54A07461D9DB2aEF539e91409943AdC9/logo.png"
+}

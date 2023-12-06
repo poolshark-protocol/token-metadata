@@ -1,0 +1,11 @@
+{
+    "name": "Crypto Index Pool",
+    "symbol": "CIP",
+    "id": "0xd7a892f28dEdC74E6b7b33F93BE08abfC394a360",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/crypto-index-pool",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3163.61,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xd7a892f28dEdC74E6b7b33F93BE08abfC394a360/logo.png"
+}

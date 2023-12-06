@@ -1,0 +1,11 @@
+{
+    "name": "GarbiProtocol",
+    "symbol": "GRB",
+    "id": "0x5Fd71280b6385157b291b9962f22153FC9E79000",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/garbi-protocol",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 33.79,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x5Fd71280b6385157b291b9962f22153FC9E79000/logo.png"
+}

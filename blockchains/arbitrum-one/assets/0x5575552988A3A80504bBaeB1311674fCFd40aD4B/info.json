@@ -1,0 +1,11 @@
+{
+    "name": "Sperax",
+    "symbol": "SPA",
+    "id": "0x5575552988A3A80504bBaeB1311674fCFd40aD4B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/sperax",
+    "market_cap_usd": 12211040,
+    "market_cap_rank": 1036,
+    "24_hr_volume_usd": 2077902,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x5575552988A3A80504bBaeB1311674fCFd40aD4B/logo.png"
+}

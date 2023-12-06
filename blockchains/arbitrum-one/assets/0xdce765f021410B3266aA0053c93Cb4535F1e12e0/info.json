@@ -1,0 +1,11 @@
+{
+    "name": "peg-eUSD",
+    "symbol": "peUSD",
+    "id": "0xdce765f021410B3266aA0053c93Cb4535F1e12e0",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/peg-eusd",
+    "market_cap_usd": 35774533,
+    "market_cap_rank": 623,
+    "24_hr_volume_usd": 687.81,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xdce765f021410B3266aA0053c93Cb4535F1e12e0/logo.png"
+}

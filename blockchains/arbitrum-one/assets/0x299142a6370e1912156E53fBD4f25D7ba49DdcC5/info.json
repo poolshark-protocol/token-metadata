@@ -1,0 +1,11 @@
+{
+    "name": "AI Meta Coin",
+    "symbol": "AMC",
+    "id": "0x299142a6370e1912156E53fBD4f25D7ba49DdcC5",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ai-meta-club",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 399897,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x299142a6370e1912156E53fBD4f25D7ba49DdcC5/logo.png"
+}

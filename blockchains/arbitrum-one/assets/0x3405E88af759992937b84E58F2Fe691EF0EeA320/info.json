@@ -1,0 +1,11 @@
+{
+    "name": "Frax Price Index Share",
+    "symbol": "FPIS",
+    "id": "0x3405E88af759992937b84E58F2Fe691EF0EeA320",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/frax-price-index-share",
+    "market_cap_usd": 35095611,
+    "market_cap_rank": 627,
+    "24_hr_volume_usd": 510504,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3405E88af759992937b84E58F2Fe691EF0EeA320/logo.png"
+}

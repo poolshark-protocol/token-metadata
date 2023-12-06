@@ -1,0 +1,11 @@
+{
+    "name": "Marlin POND",
+    "symbol": "POND",
+    "id": "0xdA0a57B710768ae17941a9Fa33f8B720c8bD9ddD",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/marlin",
+    "market_cap_usd": 99539826,
+    "market_cap_rank": 343,
+    "24_hr_volume_usd": 3698076,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xdA0a57B710768ae17941a9Fa33f8B720c8bD9ddD/logo.png"
+}

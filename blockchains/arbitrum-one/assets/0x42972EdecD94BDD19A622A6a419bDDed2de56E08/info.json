@@ -1,0 +1,11 @@
+{
+    "name": "Wonderful Protocol AFX Token",
+    "symbol": "AFX",
+    "id": "0x42972EdecD94BDD19A622A6a419bDDed2de56E08",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/wonderly-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 9290.37,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x42972EdecD94BDD19A622A6a419bDDed2de56E08/logo.png"
+}

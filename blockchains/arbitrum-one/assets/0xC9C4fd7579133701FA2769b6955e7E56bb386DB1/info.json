@@ -1,0 +1,11 @@
+{
+    "name": "Bridge",
+    "symbol": "BRG",
+    "id": "0xC9C4fd7579133701FA2769b6955e7E56bb386DB1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bridge-oracle",
+    "market_cap_usd": 3080184,
+    "market_cap_rank": 1662,
+    "24_hr_volume_usd": 385403,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xC9C4fd7579133701FA2769b6955e7E56bb386DB1/logo.png"
+}

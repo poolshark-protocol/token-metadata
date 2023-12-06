@@ -1,0 +1,11 @@
+{
+    "name": "pETH",
+    "symbol": "pETH",
+    "id": "0xA0dF47432d9d88bcc040E9ee66dDC7E17A882715",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/ripae-peth",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1.067,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xA0dF47432d9d88bcc040E9ee66dDC7E17A882715/logo.png"
+}

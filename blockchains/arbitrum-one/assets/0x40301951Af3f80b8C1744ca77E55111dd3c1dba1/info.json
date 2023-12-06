@@ -1,0 +1,11 @@
+{
+    "name": "neadRAM: Tokenized veRAM",
+    "symbol": "neadRAM",
+    "id": "0x40301951Af3f80b8C1744ca77E55111dd3c1dba1",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-ennead",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 27611,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x40301951Af3f80b8C1744ca77E55111dd3c1dba1/logo.png"
+}

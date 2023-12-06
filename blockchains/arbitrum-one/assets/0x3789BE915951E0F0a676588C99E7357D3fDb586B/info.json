@@ -1,0 +1,11 @@
+{
+    "name": "Party Dice",
+    "symbol": "DICE",
+    "id": "0x3789BE915951E0F0a676588C99E7357D3fDb586B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/party-dice",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 5.09,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x3789BE915951E0F0a676588C99E7357D3fDb586B/logo.png"
+}

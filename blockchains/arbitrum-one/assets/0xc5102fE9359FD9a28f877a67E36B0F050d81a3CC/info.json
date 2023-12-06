@@ -1,0 +1,11 @@
+{
+    "name": "Hop",
+    "symbol": "HOP",
+    "id": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/hop-protocol",
+    "market_cap_usd": 4204364,
+    "market_cap_rank": 1503,
+    "24_hr_volume_usd": 223031,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC/logo.png"
+}

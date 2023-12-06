@@ -1,0 +1,11 @@
+{
+    "name": "Paribus",
+    "symbol": "PBX",
+    "id": "0xbAD58ed9b5f26A002ea250D7A60dC6729a4a2403",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/paribus",
+    "market_cap_usd": 9739093,
+    "market_cap_rank": 1125,
+    "24_hr_volume_usd": 199375,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xbAD58ed9b5f26A002ea250D7A60dC6729a4a2403/logo.png"
+}

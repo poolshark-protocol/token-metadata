@@ -1,0 +1,11 @@
+{
+    "name": "BLOK",
+    "symbol": "BLOK",
+    "id": "0x9DCE8e754913d928eB39Bc4fC3CF047e364f7f2C",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bloktopia",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1055875,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9DCE8e754913d928eB39Bc4fC3CF047e364f7f2C/logo.png"
+}

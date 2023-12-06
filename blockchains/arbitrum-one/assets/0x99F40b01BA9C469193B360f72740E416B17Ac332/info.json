@@ -1,0 +1,11 @@
+{
+    "name": "MATH Token",
+    "symbol": "MATH",
+    "id": "0x99F40b01BA9C469193B360f72740E416B17Ac332",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/math",
+    "market_cap_usd": 18548108,
+    "market_cap_rank": 858,
+    "24_hr_volume_usd": 320970,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x99F40b01BA9C469193B360f72740E416B17Ac332/logo.png"
+}

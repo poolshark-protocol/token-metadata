@@ -1,0 +1,11 @@
+{
+    "name": "DSquared Governance Token",
+    "symbol": "DSQ",
+    "id": "0xdb0C6fC9E01cD95eb1d3bbAe6689962De489cD7B",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dsquared-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 3539.55,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xdb0C6fC9E01cD95eb1d3bbAe6689962De489cD7B/logo.png"
+}

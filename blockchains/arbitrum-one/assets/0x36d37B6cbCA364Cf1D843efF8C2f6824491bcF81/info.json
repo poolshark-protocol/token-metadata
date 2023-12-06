@@ -1,0 +1,11 @@
+{
+    "name": "Tesla, Inc. - Dinari",
+    "symbol": "TSLA.d",
+    "id": "0x36d37B6cbCA364Cf1D843efF8C2f6824491bcF81",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/dinari-tsla-dshares",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "public_notice": "Dinari has migrated their tokens to v2 <a href=\"https://docs.dinari.com/architecture/contracts\">contract</a>. For more information, view this Twitter <a href=\"https://twitter.com/DinariGlobal/status/1723946460591648966\">post</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x36d37B6cbCA364Cf1D843efF8C2f6824491bcF81/logo.png"
+}

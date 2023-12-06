@@ -1,0 +1,11 @@
+{
+    "name": "LSDOGE",
+    "symbol": "LSDOGE",
+    "id": "0x4C70D32295de15Fdf302d3BcBb7FC2631acE1c91",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lsdoge",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.14,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x4C70D32295de15Fdf302d3BcBb7FC2631acE1c91/logo.png"
+}

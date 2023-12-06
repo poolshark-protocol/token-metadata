@@ -1,0 +1,11 @@
+{
+    "name": "JPG NFT Index",
+    "symbol": "JPG",
+    "id": "0xaFDEFD913286a1CeC75acA503938c6bbA01A5445",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/jpg-nft-index",
+    "market_cap_usd": 45536,
+    "market_cap_rank": 3458,
+    "24_hr_volume_usd": 13.23,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xaFDEFD913286a1CeC75acA503938c6bbA01A5445/logo.png"
+}

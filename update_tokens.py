@@ -9,13 +9,19 @@ from io import BytesIO
 from pathlib import Path
 
 cg = CoinGeckoAPI()
-w3 = Web3(Web3.HTTPProvider('https://polygon-mainnet.g.alchemy.com/v2/Q0kaVFDZYtPDdMzGcGCQ6lrFNqJrLCVi'))
-print(w3.isConnected())
+rpc_urls = {
+    'arbitrum-one': ''
+}
+w3 = Web3(Web3.HTTPProvider('https://patient-distinguished-pallet.arbitrum-mainnet.quiknode.pro/4cbe7cbdb55ec4b33fdc1a4239e1169b167ae351/'))
+print(w3.is_connected())
 erc20_file = open('abis/ERC20.json')
 erc20_abi = json.load(erc20_file)
-supported_chains = ['polygon-pos']
+supported_chains = ['arbitrum-one']
+branch_name_for_images = 'master'
 new_tokens_only = False
-search_tokens_blacklist = ['RealT Token', 
+search_tokens_blacklist = [
+                           '1minBET',
+                           'RealT Token', 
                            'RealToken', 
                            'All.me', 
                            'AltEstate Token',
@@ -67,7 +73,7 @@ for chain in supported_chains:
                     #print('skipped token')
 
             if skip_token == False:
-                contract = w3.eth.contract(Web3.toChecksumAddress(coin['platforms'][chain]), abi=erc20_abi)
+                contract = w3.eth.contract(address=Web3.to_checksum_address(coin['platforms'][chain]), abi=erc20_abi)
                 path = 'blockchains/' + chain + '/assets/' + contract.address
                 token = {}
                 if not os.path.exists(path):
@@ -82,17 +88,18 @@ for chain in supported_chains:
                 
                     try:  
                         token['name'] = contract.functions.name().call()
+                        print('name:', token['name'])
                     except:
-                        print('name() failed for' + json.dumps(coin) + '..using coingecko name value..')
+                        print('name() failed for ' + json.dumps(coin) + '..using coingecko name value..')
                         token['name'] = coin['name']
-                    if name == '':
-                        print('name() failed for' + json.dumps(coin) + '..using coingecko name value..')
+                    if token['name'] == '':
+                        print('name() failed for ' + json.dumps(coin) + '..using coingecko name value..')
                         token['name'] = coin['name']
 
                     try:    
                         token['symbol'] = contract.functions.symbol().call()
                     except:
-                        print('symbol() failed for' + json.dumps(coin) + '..using coingecko symbol value..')
+                        print('symbol() failed for ' + json.dumps(coin) + '..using coingecko symbol value..')
                         token['symbol'] = coin['symbol'].upper()
                         
                     token['id'] = contract.address
@@ -153,7 +160,7 @@ for chain in supported_chains:
                 if coin_info['public_notice'] != None:
                     token['public_notice'] = coin_info['public_notice']
 
-                token['logoURI'] = 'https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/' + path + '/logo.png'
+                token['logoURI'] = 'https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/' + branch_name_for_images + '/' + path + '/logo.png'
                 
                 with open(path + '/info.json','w+') as token_info:
                     token_info.write(json.dumps(token, indent=4))

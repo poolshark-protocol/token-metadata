@@ -1,0 +1,12 @@
+{
+    "name": "Graph Token",
+    "symbol": "GRT",
+    "id": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/the-graph",
+    "market_cap_usd": 1392042675,
+    "market_cap_rank": 50,
+    "24_hr_volume_usd": 81288397,
+    "public_notice": "The Graph token contract on Arbitrum has migrated from <a href=\"https://arbiscan.io/address/0x23a941036ae778ac51ab04cea08ed6e2fe103614\"> old contract </a> to <a href=\"https://arbiscan.io/address/0x9623063377ad1b27544c965ccd7342f7ea7e88c7\"> new contract</a>. Please read the announcement <a href=\"https://arbiscan.io/address/0x23a941036ae778ac51ab04cea08ed6e2fe103614\"> here </a> and <a href=\"https://thegraph.com/docs/en/network-transition-faq/\"> here</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9623063377AD1B27544C965cCd7342f7EA7e88C7/logo.png"
+}

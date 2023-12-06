@@ -1,0 +1,11 @@
+{
+    "name": "ALP",
+    "symbol": "ALP",
+    "id": "0xb49B6A3Fd1F4bB510Ef776de7A88A9e65904478A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbitrove-alp",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 21271,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xb49B6A3Fd1F4bB510Ef776de7A88A9e65904478A/logo.png"
+}

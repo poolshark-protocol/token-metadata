@@ -1,0 +1,12 @@
+{
+    "name": "Oath Token",
+    "symbol": "OATH",
+    "id": "0x00e1724885473B63bCE08a9f0a52F35b0979e35A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/oath",
+    "market_cap_usd": 5052366,
+    "market_cap_rank": 1421,
+    "24_hr_volume_usd": 31560,
+    "public_notice": "OATH (OATH) has recently migrated from their old contracts to a new ones and only retained V1 Fantom contract. For more information, please view this announcement <a href=\"https://www.oath.eco/oath-v2-token-migration-guide/\">link</a>.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x00e1724885473B63bCE08a9f0a52F35b0979e35A/logo.png"
+}

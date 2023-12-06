@@ -1,0 +1,11 @@
+{
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "id": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/chainlink",
+    "market_cap_usd": 8677413288,
+    "market_cap_rank": 12,
+    "24_hr_volume_usd": 1067585611,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4/logo.png"
+}

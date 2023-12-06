@@ -1,0 +1,11 @@
+{
+    "name": "Beluga Token",
+    "symbol": "BELA",
+    "id": "0x09090e22118b375f2c7b95420c04414E4bf68e1A",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/beluga-protocol",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 2.04,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x09090e22118b375f2c7b95420c04414E4bf68e1A/logo.png"
+}

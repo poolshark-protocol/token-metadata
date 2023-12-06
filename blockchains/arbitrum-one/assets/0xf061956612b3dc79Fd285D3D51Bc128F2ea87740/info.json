@@ -1,0 +1,11 @@
+{
+    "name": "YfDAI.finance",
+    "symbol": "Yf-DAI",
+    "id": "0xf061956612b3dc79Fd285D3D51Bc128F2ea87740",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/yfdai-finance",
+    "market_cap_usd": 2293012,
+    "market_cap_rank": 1798,
+    "24_hr_volume_usd": 132229,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xf061956612b3dc79Fd285D3D51Bc128F2ea87740/logo.png"
+}

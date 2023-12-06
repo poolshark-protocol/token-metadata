@@ -1,0 +1,11 @@
+{
+    "name": "White Lotus",
+    "symbol": "LOTUS",
+    "id": "0xef261714F7E5ba6b86F4780eb6e3bf26B10729CF",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/white-lotus",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1148.21,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xef261714F7E5ba6b86F4780eb6e3bf26B10729CF/logo.png"
+}

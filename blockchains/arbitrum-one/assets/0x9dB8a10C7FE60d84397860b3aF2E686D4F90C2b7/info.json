@@ -1,0 +1,12 @@
+{
+    "name": "Arbiswap Token",
+    "symbol": "ARBI",
+    "id": "0x9dB8a10C7FE60d84397860b3aF2E686D4F90C2b7",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/arbiswap-42983059-37e1-4a8f-b46e-0d908c0d4cc0",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 659.86,
+    "public_notice": "According to reports we've received, the team has allegedly committed a rugpull by minting 1 billion fake tokens. We recommend that you conduct your own research (DYOR) and exercise caution before proceeding.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x9dB8a10C7FE60d84397860b3aF2E686D4F90C2b7/logo.png"
+}
