@@ -2,6 +2,78 @@
     "name": "Arbitrum One",
     "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-one/logo.png",
     "timestamp": "2023-12-04 17:29:51.936783",
+    "listed_tokens": [
+        {
+            "name": "Ether",
+            "symbol": "ETH",
+            "id": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "decimals": 18,
+            "native": true,
+            "coingecko_url": "https://www.coingecko.com/en/coins/weth",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1675455518,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
+        },
+        {
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "id": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/weth",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1675455518,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1/logo.png"
+        },
+        {
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "id": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/usd-coin",
+            "market_cap_usd": 24400386546,
+            "market_cap_rank": 7,
+            "24_hr_volume_usd": 16364388390,
+            "public_notice": "USD Coin (USDC) has rebranded to USDC (USDC). For more information, please refer to this <a href=\"https://www.circle.com/blog/usd-coin-and-euro-coin-are-now-exclusively-usdc-and-eurc\">announcement</a> from the Circle Blog.",
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xaf88d065e77c8cC2239327C5EDb3A432268e5831/logo.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "id": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/dai",
+            "market_cap_usd": 5354643917,
+            "market_cap_rank": 17,
+            "24_hr_volume_usd": 437806737,
+            "public_notice": "7 Nov 2023: The Circulating Supply and Total Supply for DAI is updated to reflect the Total DAI Supply. For more information on Total DAI Supply and ERC-20 DAI Supply, please read <a href=\"https://github.com/makerdao/developerguides/blob/master/dai/dai-supply/dai-supply.md#tracking-dai-supply\" target=\"_blank\">here</a>.",
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "id": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/tether",
+            "market_cap_usd": 89652433731,
+            "market_cap_rank": 3,
+            "24_hr_volume_usd": 70491240066,
+            "public_notice": "Tether announced the ending of the support of 3 blockchains : OmniLayer, BCH-SLP and Kusama. For more details, please visit this <a href=https://tether.to/en/tether-makes-strategic-transition-to-meet-community-demands-and-foster-innovation/>page</a>.",
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9/logo.png"
+        },
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "id": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+            "decimals": 8,
+            "coingecko_url": "https://www.coingecko.com/en/coins/wrapped-bitcoin",
+            "market_cap_usd": 6717652878,
+            "market_cap_rank": 16,
+            "24_hr_volume_usd": 229572852,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f/logo.png"
+        }
+    ],
     "search_tokens": [
         {
             "name": "Tether USD",
