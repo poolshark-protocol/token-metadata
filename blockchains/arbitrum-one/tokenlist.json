@@ -72,6 +72,17 @@
             "market_cap_rank": 16,
             "24_hr_volume_usd": 229572852,
             "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f/logo.png"
+        },
+        {
+            "name": "Poolshark",
+            "symbol": "FIN",
+            "id": "0x903ca00944d0b51e50d9f4fc96167c89f211542a",
+            "decimals": 18,
+            "coingecko_url": "",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 0.0,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x903ca00944d0b51e50d9f4fc96167c89f211542a/logo.png"
         }
     ],
     "search_tokens": [
