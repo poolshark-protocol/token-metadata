@@ -1,0 +1,100 @@
+{
+    "name": "Arbitrum Sepolia",
+    "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/arbitrum-goerli/logo.png",
+    "timestamp": "2023-01-08 07:52:09.408963",
+    "listed_tokens": [
+        {
+            "name": "Ether",
+            "symbol": "ETH",
+            "id": "0x414b73f989e7ca0653b5c98186749a348405e6d5",
+            "decimals": 18,
+            "native": true,
+            "coingecko_url": "https://www.coingecko.com/en/coins/eth",
+            "market_cap_usd": 9610528460,
+            "market_cap_rank": 22,
+            "24_hr_volume_usd": 654062882,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/logo.png"
+        },
+        {
+            "name": "Wrapper Ether",
+            "symbol": "WETH",
+            "id": "0x414b73f989e7ca0653b5c98186749a348405e6d5",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/weth",
+            "market_cap_usd": 9610528460,
+            "market_cap_rank": 22,
+            "24_hr_volume_usd": 654062882,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "id": "0x9f479560cd8a531e6c0fe04521cb246264fe6b71",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/dai",
+            "market_cap_usd": 8996817126,
+            "market_cap_rank": 24,
+            "24_hr_volume_usd": 284154686,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "name": "Poolshark",
+            "symbol": "FIN",
+            "id": "0xcd453b942f35adf0364d89c05a892518825c1c3b",
+            "decimals": 18,
+            "coingecko_url": "",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 0.0,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x903ca00944d0b51e50d9f4fc96167c89f211542a/logo.png"
+        }
+    ],
+    "search_tokens": [
+        {
+            "name": "Ether",
+            "symbol": "ETH",
+            "id": "0x414b73f989e7ca0653b5c98186749a348405e6d5",
+            "decimals": 18,
+            "native": true,
+            "coingecko_url": "https://www.coingecko.com/en/coins/eth",
+            "market_cap_usd": 9610528460,
+            "market_cap_rank": 22,
+            "24_hr_volume_usd": 654062882,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/logo.png"
+        },
+        {
+            "name": "Wrapper Ether",
+            "symbol": "WETH",
+            "id": "0x414b73f989e7ca0653b5c98186749a348405e6d5",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/weth",
+            "market_cap_usd": 9610528460,
+            "market_cap_rank": 22,
+            "24_hr_volume_usd": 654062882,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "id": "0x9f479560cd8a531e6c0fe04521cb246264fe6b71",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/dai",
+            "market_cap_usd": 8996817126,
+            "market_cap_rank": 24,
+            "24_hr_volume_usd": 284154686,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "name": "Poolshark",
+            "symbol": "FIN",
+            "id": "0xcd453b942f35adf0364d89c05a892518825c1c3b",
+            "decimals": 18,
+            "coingecko_url": "",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 0.0,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x903ca00944d0b51e50d9f4fc96167c89f211542a/logo.png"
+        }
+    ]
+  }
+  
