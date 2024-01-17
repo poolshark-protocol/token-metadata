@@ -105,6 +105,13 @@
             "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
         },
         {
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "id": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
+            "decimals": 18,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/DAI/logo.svg"
+        },
+        {
             "name": "Wrapped liquid staked Ether 2.0",
             "symbol": "wstETH",
             "id": "0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32",
@@ -116,6 +123,20 @@
             "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32/logo.png"
         },
         {
+            "name": "Liquity USD",
+            "symbol": "LUSD",
+            "id": "0xeDEAbc3A1e7D21fE835FFA6f83a710c70BB1a051",
+            "decimals": 18,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/LUSD/logo.svg"
+        },
+        {
+            "name": "Rocket Pool ETH",
+            "symbol": "rETH",
+            "id": "0x53878B874283351D26d206FA512aEcE1Bef6C0dD",
+            "decimals": 18,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/rETH/logo.svg"
+        },
+        {
             "name": "Axelar Wrapped USDC",
             "symbol": "axlUSDC",
             "id": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
@@ -125,6 +146,48 @@
             "market_cap_rank": null,
             "24_hr_volume_usd": 632.13,
             "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png"
+        },
+        {
+            "name": "Aave",
+            "symbol": "AAVE",
+            "id": "0x79379C0E09a41d7978f883a56246290eE9a8c4d3",
+            "decimals": 18,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/AAVE/logo.svg"
+        },
+        {
+            "name": "Balancer",
+            "symbol": "BAL",
+            "id": "0x6a28e90582c583fcd3347931c544819C31e9D0e0",
+            "decimals": 18,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/BAL/logo.png"
+        },
+        {
+            "name": "Curve DAO",
+            "symbol": "CRV",
+            "id": "0xB755039eDc7910C1F1BD985D48322E55A31AC0bF",
+            "decimals": 18,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/CRV/logo.png"
+        },
+        {
+            "name": "DODO bird",
+            "symbol": "DODO",
+            "id": "0x912aB742e1ab30ffa87038C425F9Bc8ED12B3EF4",
+            "decimals": 18,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/DODO/logo.svg"
+        },
+        {
+            "name": "Kyber Network Crystal",
+            "symbol": "KNC",
+            "id": "0x608ef9A3BffE206B86c3108218003b3cfBf99c84",
+            "decimals": 18,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/KNC/logo.svg"
+        },
+        {
+            "name": "Uniswap",
+            "symbol": "UNI",
+            "id": "0x434cdA25E8a2CA5D9c1C449a8Cb6bCbF719233E8",
+            "decimals": 18,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/UNI/logo.png"
         },
         {
             "name": "Interport Token",
