@@ -1,0 +1,272 @@
+{
+    "name": "Scroll",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-goerli/logo.png",
+    "timestamp": "2023-01-08 07:52:09.408963",
+    "listed_tokens": [        
+        {
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "id": "0x5300000000000000000000000000000000000004",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-ether-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1363164,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x5300000000000000000000000000000000000004/logo.png"
+        },
+        {
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "id": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-usd-coin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1722923,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "id": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-tether-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 586051,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+        },
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "id": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+            "decimals": 8,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-bitcoin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 37160,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+        },
+        {
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "id": "0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-lido-staked-ether-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 27568,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32/logo.png"
+        }
+    ],
+    "search_tokens": [
+        {
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "id": "0x5300000000000000000000000000000000000004",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-ether-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1363164,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x5300000000000000000000000000000000000004/logo.png"
+        },
+        {
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "id": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-usd-coin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1722923,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "id": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-tether-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 586051,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+        },
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "id": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+            "decimals": 8,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-bitcoin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 37160,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+        },
+        {
+            "name": "Wrapped liquid staked Ether 2.0",
+            "symbol": "wstETH",
+            "id": "0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-lido-staked-ether-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 27568,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32/logo.png"
+        },
+        {
+            "name": "Axelar Wrapped USDC",
+            "symbol": "axlUSDC",
+            "id": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-axelar-wrapped-usd-coin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 632.13,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xEB466342C4d449BC9f53A865D5Cb90586f405215/logo.png"
+        },
+        {
+            "name": "Interport Token",
+            "symbol": "ITP",
+            "id": "0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/interport-token",
+            "market_cap_usd": 2420575,
+            "market_cap_rank": 1945,
+            "24_hr_volume_usd": 14784.14,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x2b1D36f5B61AdDAf7DA7ebbd11B35FD8cfb0DE31/logo.png"
+        },
+        {
+            "name": "ISSUAA Protocol Token",
+            "symbol": "ISS",
+            "id": "0x46EAd9Ad6BFA9986C53Dde09ABf929ac2A7d82c7",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/issuaa",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "public_notice": "According to <a href=https://gopluslabs.io/token-security/534352/0x46ead9ad6bfa9986c53dde09abf929ac2a7d82c7>GoPlus</a>, the contract creator can make changes to the token contract such as disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x46EAd9Ad6BFA9986C53Dde09ABf929ac2A7d82c7/logo.png"
+        },
+        {
+            "name": "iZUMi Bond USD",
+            "symbol": "iUSD",
+            "id": "0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/izumi-bond-usd",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 450.06,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x0A3BB08b3a15A19b4De82F8AcFc862606FB69A2D/logo.png"
+        },
+        {
+            "name": "izumi Token",
+            "symbol": "iZi",
+            "id": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/izumi-finance",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 594549,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747/logo.png"
+        },
+        {
+            "name": "Lendora Protocol",
+            "symbol": "LORA",
+            "id": "0x3e6c99915803631D200441CdF6D84786912b0871",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/lendora-protocol",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 23628,
+            "public_notice": "We have received reports that the Lendora Protocol team have abandoned their project, with the project's Twitter account and website recently deactivated. Please exercise caution and DYOR.",
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3e6c99915803631D200441CdF6D84786912b0871/logo.png"
+        },
+        {
+            "name": "VolatileV1 AMM - WETH/OMKG",
+            "symbol": "vAMM-WETH/OMKG",
+            "id": "0x63E3C9C06120Af5DCa2788Ecbb30b923E52D0180",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/omnikingdoms-gold",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "public_notice": "According to <a href=https://gopluslabs.io/token-security/534352/0x6B7d1c9d519DFc3A5D8D1B7c15d4E5bbe8DdE1cF>GoPlus</a>, this is a proxy contract. The contract owner can make code changes to the token contract including but not limited to disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x63E3C9C06120Af5DCa2788Ecbb30b923E52D0180/logo.png"
+        },
+        {
+            "name": "PAPYRUS",
+            "symbol": "PAPYRUS",
+            "id": "0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/papyrus-swap",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc/logo.png"
+        },
+        {
+            "name": "Perseid Token",
+            "symbol": "PED",
+            "id": "0xfeC65bFB6e5BbCC9ab8aE98f62A8AaB2EA51c495",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/perseid-finance",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xfeC65bFB6e5BbCC9ab8aE98f62A8AaB2EA51c495/logo.png"
+        },
+        {
+            "name": "PunkSwap Token",
+            "symbol": "PUNK",
+            "id": "0xDdEB23905F6987d5f786A93C00bBED3d97Af1ccc",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/punkswap",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 312.22,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xDdEB23905F6987d5f786A93C00bBED3d97Af1ccc/logo.png"
+        },
+        {
+            "name": "Scroll Doge",
+            "symbol": "zKDoge",
+            "id": "0x36F983124B027781216adc94C4d81EF4026FFcDd",
+            "decimals": 9,
+            "coingecko_url": "https://www.coingecko.com/en/coins/scroll-doge",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 32.17,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x36F983124B027781216adc94C4d81EF4026FFcDd/logo.png"
+        },
+        {
+            "name": "Scrollswap Finance Token",
+            "symbol": "SF",
+            "id": "0x9DaeA97fd467d704c583BEdA2454e3DA27097b60",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/scrollswap-finance",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 199.44,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x9DaeA97fd467d704c583BEdA2454e3DA27097b60/logo.png"
+        },
+        {
+            "name": "Skydrome",
+            "symbol": "SKY",
+            "id": "0x95a52EC1d60e74CD3Eb002fE54A2c74b185A4C16",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/skydrome",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 4996.39,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x95a52EC1d60e74CD3Eb002fE54A2c74b185A4C16/logo.png"
+        },
+        {
+            "name": "Symbiosis",
+            "symbol": "SIS",
+            "id": "0x1467b62A6AE5CdcB10A6a8173cfe187DD2C5a136",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/symbiosis-finance",
+            "market_cap_usd": 20239841,
+            "market_cap_rank": 923,
+            "24_hr_volume_usd": 15047293,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x1467b62A6AE5CdcB10A6a8173cfe187DD2C5a136/logo.png"
+        }
+    ]
+}

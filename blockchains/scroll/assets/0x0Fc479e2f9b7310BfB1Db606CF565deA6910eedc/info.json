@@ -1,0 +1,10 @@
+{
+    "name": "PAPYRUS",
+    "symbol": "PAPYRUS",
+    "id": "0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/papyrus-swap",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x0Fc479e2f9b7310BfB1Db606CF565deA6910eedc/logo.png"
+}

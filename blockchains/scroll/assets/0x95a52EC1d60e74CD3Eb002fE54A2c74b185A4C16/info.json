@@ -1,0 +1,11 @@
+{
+    "name": "Skydrome",
+    "symbol": "SKY",
+    "id": "0x95a52EC1d60e74CD3Eb002fE54A2c74b185A4C16",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/skydrome",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 4996.39,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x95a52EC1d60e74CD3Eb002fE54A2c74b185A4C16/logo.png"
+}

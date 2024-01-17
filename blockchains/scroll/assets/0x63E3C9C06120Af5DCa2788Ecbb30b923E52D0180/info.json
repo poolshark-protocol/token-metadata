@@ -1,0 +1,11 @@
+{
+    "name": "VolatileV1 AMM - WETH/OMKG",
+    "symbol": "vAMM-WETH/OMKG",
+    "id": "0x63E3C9C06120Af5DCa2788Ecbb30b923E52D0180",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/omnikingdoms-gold",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "public_notice": "According to <a href=https://gopluslabs.io/token-security/534352/0x6B7d1c9d519DFc3A5D8D1B7c15d4E5bbe8DdE1cF>GoPlus</a>, this is a proxy contract. The contract owner can make code changes to the token contract including but not limited to disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x63E3C9C06120Af5DCa2788Ecbb30b923E52D0180/logo.png"
+}

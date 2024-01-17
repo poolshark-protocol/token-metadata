@@ -8,10 +8,10 @@ abandoned = 0
 spam = 0
 rmdirs = 0
 
-blockchain = "arbitrum-one"
+blockchain = "scroll"
 
 
-supported_chains = ['arbitrum-one']
+supported_chains = ['scroll']
 ids_to_wipe = []
 new_search_tokens = []
 # TODO: use to cleanup tokens we don't want

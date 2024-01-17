@@ -1,0 +1,12 @@
+{
+    "name": "Lendora Protocol",
+    "symbol": "LORA",
+    "id": "0x3e6c99915803631D200441CdF6D84786912b0871",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/lendora-protocol",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 23628,
+    "public_notice": "We have received reports that the Lendora Protocol team have abandoned their project, with the project's Twitter account and website recently deactivated. Please exercise caution and DYOR.",
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3e6c99915803631D200441CdF6D84786912b0871/logo.png"
+}

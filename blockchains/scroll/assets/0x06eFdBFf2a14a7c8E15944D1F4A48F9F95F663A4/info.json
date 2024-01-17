@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "id": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+    "decimals": 6,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bridged-usd-coin-scroll",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 1722923,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
+}

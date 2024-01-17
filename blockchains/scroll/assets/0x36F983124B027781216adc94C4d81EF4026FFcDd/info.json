@@ -1,0 +1,11 @@
+{
+    "name": "Scroll Doge",
+    "symbol": "zKDoge",
+    "id": "0x36F983124B027781216adc94C4d81EF4026FFcDd",
+    "decimals": 9,
+    "coingecko_url": "https://www.coingecko.com/en/coins/scroll-doge",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 32.17,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x36F983124B027781216adc94C4d81EF4026FFcDd/logo.png"
+}

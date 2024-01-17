@@ -10,13 +10,14 @@ from pathlib import Path
 
 cg = CoinGeckoAPI()
 rpc_urls = {
-    'arbitrum-one': ''
+    'arbitrum-one': 'https://patient-distinguished-pallet.arbitrum-mainnet.quiknode.pro/4cbe7cbdb55ec4b33fdc1a4239e1169b167ae351/',
+    'scroll': 'https://scroll-mainnet.chainstacklabs.com'
 }
-w3 = Web3(Web3.HTTPProvider('https://patient-distinguished-pallet.arbitrum-mainnet.quiknode.pro/4cbe7cbdb55ec4b33fdc1a4239e1169b167ae351/'))
+w3 = Web3(Web3.HTTPProvider(rpc_urls['scroll']))
 print(w3.is_connected())
 erc20_file = open('abis/ERC20.json')
 erc20_abi = json.load(erc20_file)
-supported_chains = ['arbitrum-one']
+supported_chains = ['scroll']
 branch_name_for_images = 'master'
 new_tokens_only = False
 search_tokens_blacklist = [

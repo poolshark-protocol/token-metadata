@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "id": "0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1",
+    "decimals": 8,
+    "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-bitcoin-scroll",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "24_hr_volume_usd": 37160,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+}

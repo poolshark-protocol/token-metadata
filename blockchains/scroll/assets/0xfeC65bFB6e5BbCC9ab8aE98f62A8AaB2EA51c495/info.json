@@ -1,0 +1,10 @@
+{
+    "name": "Perseid Token",
+    "symbol": "PED",
+    "id": "0xfeC65bFB6e5BbCC9ab8aE98f62A8AaB2EA51c495",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/perseid-finance",
+    "market_cap_usd": 0.0,
+    "market_cap_rank": null,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xfeC65bFB6e5BbCC9ab8aE98f62A8AaB2EA51c495/logo.png"
+}

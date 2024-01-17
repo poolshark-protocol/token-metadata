@@ -1,0 +1,11 @@
+{
+    "name": "Symbiosis",
+    "symbol": "SIS",
+    "id": "0x1467b62A6AE5CdcB10A6a8173cfe187DD2C5a136",
+    "decimals": 18,
+    "coingecko_url": "https://www.coingecko.com/en/coins/symbiosis-finance",
+    "market_cap_usd": 20239841,
+    "market_cap_rank": 923,
+    "24_hr_volume_usd": 15047293,
+    "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x1467b62A6AE5CdcB10A6a8173cfe187DD2C5a136/logo.png"
+}
