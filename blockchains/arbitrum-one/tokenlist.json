@@ -5030,18 +5030,6 @@
             "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x8933fEDD98Cbb482e27C41e1bD7216a4e42eBd39/logo.png"
         },
         {
-            "name": "Firepot Token",
-            "symbol": "HOTT",
-            "id": "0x14E8687Af6C94C7C68590bAcf0F1D1e338f2862B",
-            "decimals": 18,
-            "coingecko_url": "https://www.coingecko.com/en/coins/firepot-finance",
-            "market_cap_usd": 0.0,
-            "market_cap_rank": null,
-            "24_hr_volume_usd": 60.96,
-            "public_notice": "According to <a href=https://gopluslabs.io/token-security/42161/0x14E8687Af6C94C7C68590bAcf0F1D1e338f2862B>GoPlus</a>, the contract creator can make changes to the token contract such as disabling sells, changing fees, minting, transferring tokens etc. Exercise caution.",
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-one/assets/0x14E8687Af6C94C7C68590bAcf0F1D1e338f2862B/logo.png"
-        },
-        {
             "name": "ZENF Token",
             "symbol": "ZENF",
             "id": "0xa6099B214E8D069911702BC92Ef274f63C476c5a",
