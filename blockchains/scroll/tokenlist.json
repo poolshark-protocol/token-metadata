@@ -2,7 +2,16 @@
     "name": "Scroll",
     "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/arbitrum-goerli/logo.png",
     "timestamp": "2023-01-08 07:52:09.408963",
-    "listed_tokens": [        
+    "listed_tokens": [
+        {
+            "name": "Ether",
+            "symbol": "ETH",
+            "id": "0x5300000000000000000000000000000000000004",
+            "decimals": 18,
+            "native": true,
+            "coingecko_url": "https://www.coingecko.com/en/coins/ethereum",
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/logo.png"
+        },    
         {
             "name": "Wrapped Ether",
             "symbol": "WETH",
@@ -12,7 +21,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 1363164,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x5300000000000000000000000000000000000004/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
             "name": "USD Coin",
@@ -61,6 +70,15 @@
     ],
     "search_tokens": [
         {
+            "name": "Ether",
+            "symbol": "ETH",
+            "id": "0x5300000000000000000000000000000000000004",
+            "decimals": 18,
+            "native": true,
+            "coingecko_url": "https://www.coingecko.com/en/coins/ethereum",
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/logo.png"
+        },    
+        {
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "id": "0x5300000000000000000000000000000000000004",
@@ -69,7 +87,7 @@
             "market_cap_usd": 0.0,
             "market_cap_rank": null,
             "24_hr_volume_usd": 1363164,
-            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x5300000000000000000000000000000000000004/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
             "name": "USD Coin",
