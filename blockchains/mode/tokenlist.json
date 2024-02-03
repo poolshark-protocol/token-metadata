@@ -1,0 +1,143 @@
+{
+    "name": "Mode",
+    "logoURI": "https://raw.githubusercontent.com/mode-network/brandkit/main/Assets/Round/Mode%20round%20white.svg",
+    "timestamp": "2023-01-08 07:52:09.408963",
+    "listed_tokens": [
+        {
+            "name": "Ether",
+            "symbol": "ETH",
+            "id": "0x4200000000000000000000000000000000000006",
+            "decimals": 18,
+            "native": true,
+            "coingecko_url": "https://www.coingecko.com/en/coins/eth",
+            "market_cap_usd": 9610528460,
+            "market_cap_rank": 22,
+            "24_hr_volume_usd": 654062882,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/logo.png"
+        },
+        {
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "id": "0x4200000000000000000000000000000000000006",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-ether-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1363164,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "id": "0xd988097fb8612cc24eeC14542bC03424c656005f",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/usdc",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1722923,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "id": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-tether-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 586051,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "id": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/dai",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1722923,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/DAI/logo.svg"
+        },
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "id": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
+            "decimals": 8,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-bitcoin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 37160,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+        }
+    ],
+    "search_tokens": [
+        {
+            "name": "Ether",
+            "symbol": "ETH",
+            "id": "0x4200000000000000000000000000000000000006",
+            "decimals": 18,
+            "native": true,
+            "coingecko_url": "https://www.coingecko.com/en/coins/eth",
+            "market_cap_usd": 9610528460,
+            "market_cap_rank": 22,
+            "24_hr_volume_usd": 654062882,
+            "logoURI": "https://raw.githubusercontent.com/poolsharks-protocol/token-metadata/master/blockchains/ethereum/logo.png"
+        },
+        {
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "id": "0x4200000000000000000000000000000000000006",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-ether-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1363164,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "id": "0xd988097fb8612cc24eeC14542bC03424c656005f",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/usdc",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1722923,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4/logo.png"
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "id": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+            "decimals": 6,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-tether-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 586051,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df/logo.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "id": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+            "decimals": 18,
+            "coingecko_url": "https://www.coingecko.com/en/coins/dai",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 1722923,
+            "logoURI": "https://scroll-tech.github.io/token-list/data/DAI/logo.svg"
+        },
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "id": "0xcDd475325D6F564d27247D1DddBb0DAc6fA0a5CF",
+            "decimals": 8,
+            "coingecko_url": "https://www.coingecko.com/en/coins/bridged-wrapped-bitcoin-scroll",
+            "market_cap_usd": 0.0,
+            "market_cap_rank": null,
+            "24_hr_volume_usd": 37160,
+            "logoURI": "https://raw.githubusercontent.com/poolshark-protocol/token-metadata/master/blockchains/scroll/assets/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1/logo.png"
+        }
+    ]
+}
